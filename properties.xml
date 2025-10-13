@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Feed>
+  <Property>
+    <PropertyID>DEMO-1</PropertyID>
+    <Address1>Example Road</Address1>
+    <Town>Canterbury</Town>
+    <Postcode>CT1 1AA</Postcode>
+    <Price>450000</Price>
+    <PriceQualifier>Guide Price</PriceQualifier>
+    <Bedrooms>3</Bedrooms>
+    <Bathrooms>1</Bathrooms>
+    <ReceptionRooms>2</ReceptionRooms>
+    <Status>For Sale</Status>
+    <ImageURL>https://via.placeholder.com/1200x900</ImageURL>
+  </Property>
+</Feed>
