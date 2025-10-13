@@ -3,7 +3,7 @@ name: Fetch Expert Agent XML (debug)
 on:
   schedule:
     - cron: "0 * * * *"   # every hour (UTC)
-  workflow_dispatch: {}
+  workflow_dispatch: {}    # allow manual run
 
 jobs:
   fetch:
@@ -17,6 +17,7 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y lftp unzip
 
+      # Optional: quick listing so we know what the FTP shows (kept for sanity)
       - name: FTP recursive listing (non-fatal)
         env:
           FTP_HOST: ${{ secrets.FTP_HOST }}
@@ -25,48 +26,31 @@ jobs:
         run: |
           set +e
           mkdir -p tmp
-          # Use lftp's 'find' instead of 'cls -R' to avoid option issues
           lftp -u "$FTP_USER","$FTP_PASS" "$FTP_HOST" -e "set ftp:passive-mode true; set ssl:verify-certificate no; find -l /; bye" | tee tmp/tree.txt
           echo "===== FTP RECURSIVE LISTING (first 200 lines) ====="
           head -n 200 tmp/tree.txt || true
           echo "===================================================="
 
-      - name: Mirror newest XML or ZIP from FTP (recursive)
+      # >>> This is the step you asked about. It STARTS here and ENDS before "Commit and push if changed".
+      - name: Download properties.xml (fallback to properties2.xml)
         env:
           FTP_HOST: ${{ secrets.FTP_HOST }}
           FTP_USER: ${{ secrets.FTP_USER }}
           FTP_PASS: ${{ secrets.FTP_PASS }}
         run: |
           set -euo pipefail
-          mkdir -p tmp/xml tmp/zip
-          # Mirror any XMLs from anywhere to tmp/xml
-          lftp -u "$FTP_USER","$FTP_PASS" "$FTP_HOST" -e "set ftp:passive-mode true; set ssl:verify-certificate no; mirror --verbose --only-newer --parallel=2 --include-glob *.xml / tmp/xml; bye"
-          # If none, try ZIPs
-          if [ -z "$(ls -1 tmp/xml 2>/dev/null | head -n1)" ]; then
-            echo 'No XML found, trying ZIPs...'
-            lftp -u "$FTP_USER","$FTP_PASS" "$FTP_HOST" -e "set ftp:passive-mode true; set ssl:verify-certificate no; mirror --verbose --only-newer --parallel=2 --include-glob *.zip / tmp/zip; bye"
-          fi
+          mkdir -p tmp
 
-          pick_latest() { (ls -1t "$1" 2>/dev/null || true) | head -n1; }
-
-          LATEST_XML_FILE=$(pick_latest tmp/xml)
-          LATEST_ZIP_FILE=$(pick_latest tmp/zip)
-
-          if [ -n "$LATEST_XML_FILE" ]; then
-            echo "Using XML: $LATEST_XML_FILE"
-            cp "tmp/xml/$LATEST_XML_FILE" tmp/new.xml
-          elif [ -n "$LATEST_ZIP_FILE" ]; then
-            echo "Using ZIP: $LATEST_ZIP_FILE"
-            unzip -o "tmp/zip/$LATEST_ZIP_FILE" -d tmp/unz >> /dev/null
-            FOUND_XML=$(ls -1 tmp/unz/*.xml 2>/dev/null | head -n1 || true)
-            if [ -z "$FOUND_XML" ]; then
-              echo "ZIP did not contain an XML file"; exit 1
-            fi
-            cp "$FOUND_XML" tmp/new.xml
+          # Try /properties.xml first
+          if lftp -u "$FTP_USER","$FTP_PASS" "$FTP_HOST" -e "set ftp:passive-mode true; set ssl:verify-certificate no; get /properties.xml -o tmp/new.xml; bye"; then
+            echo "Downloaded /properties.xml"
           else
-            echo "No XML or ZIP found anywhere on FTP"; exit 1
+            echo "properties.xml not found or download failed, trying /properties2.xml"
+            lftp -u "$FTP_USER","$FTP_PASS" "$FTP_HOST" -e "set ftp:passive-mode true; set ssl:verify-certificate no; get /properties2.xml -o tmp/new.xml; bye"
+            echo "Downloaded /properties2.xml"
           fi
 
+          # Replace repo file only if content changed
           if [ ! -f properties.xml ] || ! cmp -s tmp/new.xml properties.xml; then
             mv tmp/new.xml properties.xml
             echo "UPDATED=1" >> $GITHUB_ENV
@@ -74,34 +58,7 @@ jobs:
           else
             echo "No change in properties.xml"
           fi
-
-          pick_latest() { (ls -1t "$1" 2>/dev/null || true) | head -n1; }
-
-          LATEST_XML_FILE=$(pick_latest tmp/xml)
-          LATEST_ZIP_FILE=$(pick_latest tmp/zip)
-
-          if [ -n "$LATEST_XML_FILE" ]; then
-            echo "Using XML: $LATEST_XML_FILE"
-            cp "tmp/xml/$LATEST_XML_FILE" tmp/new.xml
-          elif [ -n "$LATEST_ZIP_FILE" ]; then
-            echo "Using ZIP: $LATEST_ZIP_FILE"
-            unzip -o "tmp/zip/$LATEST_ZIP_FILE" -d tmp/unz >> /dev/null
-            FOUND_XML=$(ls -1 tmp/unz/*.xml 2>/dev/null | head -n1 || true)
-            if [ -z "$FOUND_XML" ]; then
-              echo "ZIP did not contain an XML file"; exit 1
-            fi
-            cp "$FOUND_XML" tmp/new.xml
-          else
-            echo "No XML or ZIP found anywhere on FTP"; exit 1
-          fi
-
-          if [ ! -f properties.xml ] || ! cmp -s tmp/new.xml properties.xml; then
-            mv tmp/new.xml properties.xml
-            echo "UPDATED=1" >> $GITHUB_ENV
-            echo "properties.xml updated"
-          else
-            echo "No change in properties.xml"
-          fi
+      # <<< The download step ENDS here.
 
       - name: Commit and push if changed
         if: env.UPDATED == '1'
@@ -109,5 +66,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add properties.xml
-          git commit -m "Update properties.xml from FTP (debug)"
+          git commit -m "Update properties.xml from FTP"
           git push
