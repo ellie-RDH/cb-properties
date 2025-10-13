@@ -1,9 +1,9 @@
-name: Fetch Expert Agent XML (debug)
+name: Fetch Expert Agent XML (direct download + debug)
 
 on:
   schedule:
-    - cron: "0 * * * *"   # every hour (UTC)
-  workflow_dispatch: {}    # allow manual run
+    - cron: "0 * * * *"   # hourly (UTC)
+  workflow_dispatch: {}
 
 jobs:
   fetch:
@@ -12,27 +12,25 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Install lftp and unzip
+      - name: Install lftp
         run: |
           sudo apt-get update
-          sudo apt-get install -y lftp unzip
+          sudo apt-get install -y lftp
 
-      # Optional: quick listing so we know what the FTP shows (kept for sanity)
-      - name: FTP recursive listing (non-fatal)
+      # Debug: show where we are and what the server lists at root
+      - name: FTP root listing (debug)
         env:
           FTP_HOST: ${{ secrets.FTP_HOST }}
           FTP_USER: ${{ secrets.FTP_USER }}
           FTP_PASS: ${{ secrets.FTP_PASS }}
         run: |
-          set +e
-          mkdir -p tmp
-          lftp -u "$FTP_USER","$FTP_PASS" "$FTP_HOST" -e "set ftp:passive-mode true; set ssl:verify-certificate no; find -l /; bye" | tee tmp/tree.txt
-          echo "===== FTP RECURSIVE LISTING (first 200 lines) ====="
-          head -n 200 tmp/tree.txt || true
-          echo "===================================================="
+          set -e
+          echo "Connecting and listing root..."
+          lftp -u "$FTP_USER","$FTP_PASS" "$FTP_HOST" -e \
+            "set ftp:passive-mode true; set ftp:ssl-force true; set ftp:ssl-protect-data true; set ssl:verify-certificate no; pwd; ls -la; bye"
 
-      # >>> This is the step you asked about. It STARTS here and ENDS before "Commit and push if changed".
-      - name: Download properties.xml (fallback to properties2.xml)
+      # Direct download with multiple path attempts
+      - name: Download properties.xml (fallback to properties2.xml) with verbose attempts
         env:
           FTP_HOST: ${{ secrets.FTP_HOST }}
           FTP_USER: ${{ secrets.FTP_USER }}
@@ -41,16 +39,27 @@ jobs:
           set -euo pipefail
           mkdir -p tmp
 
-          # Try /properties.xml first
-          if lftp -u "$FTP_USER","$FTP_PASS" "$FTP_HOST" -e "set ftp:passive-mode true; set ssl:verify-certificate no; get /properties.xml -o tmp/new.xml; bye"; then
-            echo "Downloaded /properties.xml"
-          else
-            echo "properties.xml not found or download failed, trying /properties2.xml"
-            lftp -u "$FTP_USER","$FTP_PASS" "$FTP_HOST" -e "set ftp:passive-mode true; set ssl:verify-certificate no; get /properties2.xml -o tmp/new.xml; bye"
-            echo "Downloaded /properties2.xml"
+          try_get () {
+            PATH_TRY="$1"
+            echo "Attempting: get \"$PATH_TRY\" -> tmp/new.xml"
+            lftp -u "$FTP_USER","$FTP_PASS" "$FTP_HOST" -e \
+              "set ftp:passive-mode true; set ftp:ssl-force true; set ftp:ssl-protect-data true; set ssl:verify-certificate no; debug 3; get \"$PATH_TRY\" -o tmp/new.xml; bye"
+          }
+
+          SUCCESS=0
+          # Try common variants for both files
+          for F in "properties.xml" "/properties.xml" "./properties.xml" \
+                   "properties2.xml" "/properties2.xml" "./properties2.xml"; do
+            if try_get "$F"; then SUCCESS=1; echo "Downloaded using path: $F"; break; fi
+            echo "Failed: $F"
+          done
+
+          if [ "$SUCCESS" -ne 1 ]; then
+            echo "Could not download properties.xml or properties2.xml with any path variant"
+            exit 1
           fi
 
-          # Replace repo file only if content changed
+          # Replace repo file only if changed
           if [ ! -f properties.xml ] || ! cmp -s tmp/new.xml properties.xml; then
             mv tmp/new.xml properties.xml
             echo "UPDATED=1" >> $GITHUB_ENV
@@ -58,7 +67,6 @@ jobs:
           else
             echo "No change in properties.xml"
           fi
-      # <<< The download step ENDS here.
 
       - name: Commit and push if changed
         if: env.UPDATED == '1'
@@ -66,5 +74,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add properties.xml
-          git commit -m "Update properties.xml from FTP"
+          git commit -m "Update properties.xml from FTP (direct download)"
           git push
