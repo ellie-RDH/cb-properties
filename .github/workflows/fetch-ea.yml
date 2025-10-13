@@ -25,13 +25,8 @@ jobs:
         run: |
           set +e
           mkdir -p tmp
-          # Recursively list everything we can see, write to tmp/tree.txt
-          lftp -u "$FTP_USER","$FTP_PASS" "$FTP_HOST" <<EOF > tmp/tree.txt 2>&1
-          set ftp:passive-mode true
-          set ssl:verify-certificate no
-          cls -lR /
-          bye
-          EOF
+          # Use lftp's 'find' instead of 'cls -R' to avoid option issues
+          lftp -u "$FTP_USER","$FTP_PASS" "$FTP_HOST" -e "set ftp:passive-mode true; set ssl:verify-certificate no; find -l /; bye" | tee tmp/tree.txt
           echo "===== FTP RECURSIVE LISTING (first 200 lines) ====="
           head -n 200 tmp/tree.txt || true
           echo "===================================================="
@@ -44,24 +39,40 @@ jobs:
         run: |
           set -euo pipefail
           mkdir -p tmp/xml tmp/zip
-
-          # 1) Try mirroring XMLs anywhere
-          lftp -u "$FTP_USER","$FTP_PASS" "$FTP_HOST" <<EOF
-          set ftp:passive-mode true
-          set ssl:verify-certificate no
-          mirror --verbose --only-newer --parallel=2 --include-glob *.xml / tmp/xml
-          bye
-          EOF
-
-          # 2) If none, try ZIPs
+          # Mirror any XMLs from anywhere to tmp/xml
+          lftp -u "$FTP_USER","$FTP_PASS" "$FTP_HOST" -e "set ftp:passive-mode true; set ssl:verify-certificate no; mirror --verbose --only-newer --parallel=2 --include-glob *.xml / tmp/xml; bye"
+          # If none, try ZIPs
           if [ -z "$(ls -1 tmp/xml 2>/dev/null | head -n1)" ]; then
-            echo "No XML found, trying ZIPs..."
-            lftp -u "$FTP_USER","$FTP_PASS" "$FTP_HOST" <<EOF
-            set ftp:passive-mode true
-            set ssl:verify-certificate no
-            mirror --verbose --only-newer --parallel=2 --include-glob *.zip / tmp/zip
-            bye
-            EOF
+            echo 'No XML found, trying ZIPs...'
+            lftp -u "$FTP_USER","$FTP_PASS" "$FTP_HOST" -e "set ftp:passive-mode true; set ssl:verify-certificate no; mirror --verbose --only-newer --parallel=2 --include-glob *.zip / tmp/zip; bye"
+          fi
+
+          pick_latest() { (ls -1t "$1" 2>/dev/null || true) | head -n1; }
+
+          LATEST_XML_FILE=$(pick_latest tmp/xml)
+          LATEST_ZIP_FILE=$(pick_latest tmp/zip)
+
+          if [ -n "$LATEST_XML_FILE" ]; then
+            echo "Using XML: $LATEST_XML_FILE"
+            cp "tmp/xml/$LATEST_XML_FILE" tmp/new.xml
+          elif [ -n "$LATEST_ZIP_FILE" ]; then
+            echo "Using ZIP: $LATEST_ZIP_FILE"
+            unzip -o "tmp/zip/$LATEST_ZIP_FILE" -d tmp/unz >> /dev/null
+            FOUND_XML=$(ls -1 tmp/unz/*.xml 2>/dev/null | head -n1 || true)
+            if [ -z "$FOUND_XML" ]; then
+              echo "ZIP did not contain an XML file"; exit 1
+            fi
+            cp "$FOUND_XML" tmp/new.xml
+          else
+            echo "No XML or ZIP found anywhere on FTP"; exit 1
+          fi
+
+          if [ ! -f properties.xml ] || ! cmp -s tmp/new.xml properties.xml; then
+            mv tmp/new.xml properties.xml
+            echo "UPDATED=1" >> $GITHUB_ENV
+            echo "properties.xml updated"
+          else
+            echo "No change in properties.xml"
           fi
 
           pick_latest() { (ls -1t "$1" 2>/dev/null || true) | head -n1; }
