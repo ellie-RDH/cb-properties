@@ -37,4 +37,63 @@ jobs:
         run: |
           set -e
           echo "Connecting and listing root..."
-          lftp -u "$FT
+          lftp -u "$FTP_USER","$FTP_PASS" "$FTP_HOST" -e \
+            "set ftp:passive-mode true; set ftp:ssl-force true; set ftp:ssl-protect-data true; set ssl:verify-certificate no; pwd; ls -la; bye"
+
+      - name: Download properties.xml (fallback to properties2.xml) with verbose attempts
+        env:
+          FTP_HOST: ${{ secrets.FTP_HOST }}
+          FTP_USER: ${{ secrets.FTP_USER }}
+          FTP_PASS: ${{ secrets.FTP_PASS }}
+        run: |
+          set -euo pipefail
+          mkdir -p tmp
+
+          try_get () {
+            PATH_TRY="$1"
+            echo "Attempting: get \"$PATH_TRY\" -> tmp/new.xml"
+            lftp -u "$FTP_USER","$FTP_PASS" "$FTP_HOST" -e \
+              "set ftp:passive-mode true; set ftp:ssl-force true; set ftp:ssl-protect-data true; set ssl:verify-certificate no; debug 3; get \"$PATH_TRY\" -o tmp/new.xml; bye"
+          }
+
+          SUCCESS=0
+          for F in "properties.xml" "/properties.xml" "./properties.xml" \
+                   "properties2.xml" "/properties2.xml" "./properties2.xml"; do
+            if try_get "$F"; then SUCCESS=1; echo "Downloaded using path: $F"; break; fi
+            echo "Failed: $F"
+          done
+
+          if [ "$SUCCESS" -ne 1 ]; then
+            echo "Could not download properties.xml or properties2.xml with any path variant"
+            exit 1
+          fi
+
+          # Replace repo file only if content changed
+          if [ ! -f properties.xml ] || ! cmp -s tmp/new.xml properties.xml; then
+            mv tmp/new.xml properties.xml
+            echo "UPDATED=1" >> $GITHUB_ENV
+            echo "properties.xml updated"
+          else
+            echo "No change in properties.xml"
+          fi
+
+      - name: Commit and push if changed
+        if: env.UPDATED == '1'
+        env:
+          GIT_AUTHOR_NAME: github-actions[bot]
+          GIT_AUTHOR_EMAIL: github-actions[bot]@users.noreply.github.com
+          GIT_COMMITTER_NAME: github-actions[bot]
+          GIT_COMMITTER_EMAIL: github-actions[bot]@users.noreply.github.com
+        run: |
+          set -e
+          git add properties.xml
+          git commit -m "Update properties.xml from FTP (direct download)" || exit 0
+
+          # Make sure we're up to date, then push (fast-forward or rebase if needed)
+          git fetch origin main
+          git merge --ff-only origin/main || {
+            echo "Remote changed; rebasing local commit onto origin/main..."
+            git rebase origin/main
+          }
+
+          git push origin HEAD:main
