@@ -42,11 +42,11 @@ jobs:
           echo "Latest XML: $LATEST"
 
           # Download it to tmp/new.xml
-          lftp -u "$FTP_USER","$FTP_PASS" "$FTP_HOST" <<EOF
+          lftp -u "$FTP_USER","$FTP_PASS" "$FTP_HOST" <<EOF > tmp/list.txt
           set ftp:passive-mode true
           set ssl:verify-certificate no
           cd $FTP_PATH
-          get "$LATEST" -o tmp/new.xml
+          cls -1 --sort=name
           bye
           EOF
 
