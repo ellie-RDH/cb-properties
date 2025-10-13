@@ -1,0 +1,68 @@
+name: Fetch Expert Agent XML
+
+on:
+  schedule:
+    - cron: "0 * * * *" # every hour, on the hour (UTC)
+  workflow_dispatch: {}   # lets you run it manually
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install lftp
+        run: sudo apt-get update && sudo apt-get install -y lftp
+
+      - name: List and download latest .xml from FTP
+        env:
+          FTP_HOST: ${{ secrets.FTP_HOST }}
+          FTP_USER: ${{ secrets.FTP_USER }}
+          FTP_PASS: ${{ secrets.FTP_PASS }}
+          FTP_PATH: ${{ secrets.FTP_PATH }}
+        run: |
+          set -e
+          mkdir -p tmp
+          # List files in the directory, newest last; adjust FTP_PATH if EA gave you a subfolder
+          lftp -u "$FTP_USER","$FTP_PASS" "$FTP_HOST" <<'EOF' > tmp/list.txt
+          set ftp:passive-mode true
+          set ssl:verify-certificate no
+          cd $FTP_PATH
+          cls -1 --sort=name
+          bye
+          EOF
+
+          # Pick the latest XML file (by name order, many EA feeds have a single file)
+          LATEST=$(grep -E '\.xml$' tmp/list.txt | tail -n 1 || true)
+          if [ -z "$LATEST" ]; then
+            echo "No .xml found in $FTP_PATH"; exit 1
+          fi
+
+          echo "Latest XML: $LATEST"
+
+          # Download it to tmp/new.xml
+          lftp -u "$FTP_USER","$FTP_PASS" "$FTP_HOST" <<EOF
+          set ftp:passive-mode true
+          set ssl:verify-certificate no
+          cd $FTP_PATH
+          get "$LATEST" -o tmp/new.xml
+          bye
+          EOF
+
+          # Replace repo file if changed
+          if [ ! -f properties.xml ] || ! cmp -s tmp/new.xml properties.xml; then
+            mv tmp/new.xml properties.xml
+            echo "UPDATED=1" >> $GITHUB_ENV
+          else
+            echo "No change."
+          fi
+
+      - name: Commit & push if changed
+        if: env.UPDATED == '1'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add properties.xml
+          git commit -m "Update properties.xml from FTP"
+          git push
