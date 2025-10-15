@@ -5104,222 +5104,6 @@ To the front, a further paved courtyard provides additional outdoor space, with 
             </floorplan>
           </floorplans>
         </property>
-        <property reference="CB003701" hash="E0C7C4EC3F3357F0C7EA2472DBC6D41D">
-          <availableFrom />
-          <instructedDate>13/03/2025 09:23:19</instructedDate>
-          <department>Residential Sales</department>
-          <propertyofweek>NO</propertyofweek>
-          <price_text>£350,000</price_text>
-          <numeric_price>350000.0000</numeric_price>
-          <bedrooms>2</bedrooms>
-          <receptions>1</receptions>
-          <bathrooms>1</bathrooms>
-          <priority>Sold STC</priority>
-          <tenure>Freehold</tenure>
-          <advert_heading>Station Road West, Canterbury</advert_heading>
-          <main_advert>A charming semi-detached house situated close to Canterbury West Station and within easy access of the City centre.
-&lt;br /&gt;
-&lt;br /&gt;
-2 Double bedrooms
-&lt;br /&gt;
-Spacious sitting room
-&lt;br /&gt;
-Attractive kitchen/dining room
-&lt;br /&gt;
-Modern family bathroom
-&lt;br /&gt;
-Pretty courtyard garden&lt;br /&gt;
-Garage
-&lt;br /&gt;
-Close to Canterbury West &amp; the City centre&lt;br /&gt;
-EPC Rating: 65D</main_advert>
-          <advert2>&lt;p style="text-align: justify;"&gt;&lt;span style="font-family: 'HelveticaNeueLT Com 45 Lt', sans-serif;"&gt;A charming semi-detached house situated close to Canterbury West Station and within easy access of the City centre. This delightful property offers a wonderful opportunity for those seeking a comfortable and convenient home in a vibrant city setting. The accommodation on the ground floor comprises a spacious, light and airy sitting room, with plenty of natural light streaming through dual-aspect windows &amp; double doors onto the courtyard garden. The attractive kitchen/dining room has a range of wall, drawer and floor units and is an inviting space which provides a practical and welcoming heart to the home. From the hallway is a staircase rising up to the first floor. On the first floor are two double bedrooms and the modern family bathroom is well-appointed, offering both comfort and style. The property benefits from gas fired central heating and double glazed modern sash windows.&lt;br /&gt;
-&lt;br /&gt;
-&lt;/span&gt;&lt;span style="font-family: 'HelveticaNeueLT Com 45 Lt', sans-serif;"&gt;Externally the property boasts a pretty courtyard garden providing an ideal outdoor space to unwind. The property also benefits from a garage just a few doors away which offers valuable off-street parking or additional storage.&lt;/span&gt;&lt;/p&gt;
-&lt;p style="text-align: justify;"&gt;&lt;span style="font-family: 'HelveticaNeueLT Com 45 Lt', sans-serif;"&gt;The property enjoys a lovely setting close to Canterbury West station which provides regular High-Speed rail services to London St Pancras. The nearby Goods Shed incorporates farmers market style shopping with high quality butcher, greengrocer and fishmonger amongst many others, plus a highly regarded restaurant. Sainsbury's local is also nearby together with the other facilities in St Dunstan&amp;rsquo;s. The City centre is a short walk and offers a comprehensive range of shops restaurants and leisure facilities. There is an impressive range of schools, colleges and Universities in the City and the highly regarded Marlow Theatre.&lt;br /&gt;
-&lt;br /&gt;
-Council tax band: D&lt;br /&gt;
-&lt;br /&gt;
-Tenure: House - Freehold&lt;br /&gt;
-  &amp;nbsp; &amp;nbsp; &amp;nbsp;Garage - Leasehold with a lease term of 125 years from 1998.&amp;nbsp;&lt;br /&gt;
-&lt;br /&gt;
-Management fee:&lt;br /&gt;
-House cost: &amp;pound;316.32 per annum&lt;br /&gt;
-Garage cost: &amp;pound;143.88 per annum &lt;/span&gt;&lt;/p&gt;
-EPC Rating: 65D  &lt;br /&gt;
-&lt;br /&gt;
-What3Words:///breath.shin.basis&lt;br /&gt;</advert2>
-          <advert3>&lt;p style="text-align: justify;"&gt;&lt;span style="font-family: 'HelveticaNeueLT Com 45 Lt', sans-serif;"&gt;A charming semi-detached house situated close to Canterbury West Station and within easy access of the City centre. This delightful property offers a wonderful opportunity for those seeking a comfortable and convenient home in a vibrant city setting. The accommodation on the ground floor comprises a spacious, light and airy sitting room, with plenty of natural light streaming through dual-aspect windows &amp; double doors onto the courtyard garden. The attractive kitchen/dining room has a range of wall, drawer and floor units and is an inviting space which provides a practical and welcoming heart to the home. From the hallway is a staircase rising up to the first floor. On the first floor are two double bedrooms and the modern family bathroom is well-appointed, offering both comfort and style. The property benefits from gas fired central heating and double glazed modern sash windows.&lt;br /&gt;
-&lt;br /&gt;
-&lt;/span&gt;&lt;span style="font-family: 'HelveticaNeueLT Com 45 Lt', sans-serif;"&gt;Externally the property boasts a pretty courtyard garden providing an ideal outdoor space to unwind. The property also benefits from a garage just a few doors away which offers valuable off-street parking or additional storage.&lt;/span&gt;&lt;/p&gt;</advert3>
-          <advert4>&lt;p style="text-align: justify;"&gt;&lt;span style="font-family: 'HelveticaNeueLT Com 45 Lt', sans-serif; text-align: justify;"&gt;The property enjoys a lovely setting close to Canterbury West station which provides regular High-Speed rail services to London St Pancras. The nearby Goods Shed incorporates farmers market style shopping with high quality butcher, greengrocer and fishmonger amongst many others, plus a highly regarded restaurant. Sainsbury's local is also nearby together with the other facilities in St Dunstan&amp;rsquo;s. The City centre is a short walk and offers a comprehensive range of shops restaurants and leisure facilities. There is an impressive range of schools, colleges and Universities in the City and the highly regarded Marlow Theatre.&lt;/span&gt;&lt;/p&gt;
-&lt;div&gt;&lt;span style="font-family: 'HelveticaNeueLT Com 45 Lt', sans-serif; text-align: justify;"&gt;&lt;br /&gt;
-&lt;/span&gt;&lt;/div&gt;</advert4>
-          <advert5>All mains services are understood to be connected to the property. </advert5>
-          <advert6>Tenure: House - Freehold
-             Garage - Leasehold with a lease term of 125 years from 1998. 
-
-Management fee:
-House cost: &amp;pound;316.32 per annum
-Garage cost: &amp;pound;143.88 per annum 
-</advert6>
-          <house_number>112</house_number>
-          <street>Station Road West</street>
-          <district />
-          <town>Canterbury</town>
-          <county>Kent</county>
-          <postcode>CT2 8DE</postcode>
-          <country>UK</country>
-          <area>Canterbury Centre</area>
-          <bullet1>2 Double bedrooms</bullet1>
-          <bullet2>Spacious sitting room</bullet2>
-          <bullet3>Attractive kitchen/dining room</bullet3>
-          <bullet4>Modern family bathroom</bullet4>
-          <bullet5>Pretty courtyard garden</bullet5>
-          <bullet6>Separate garage</bullet6>
-          <bullet7>Close to Canterbury West &amp; the City centre</bullet7>
-          <bullet8>EPC Rating: 65D</bullet8>
-          <bullet9 />
-          <bullet10 />
-          <bullet11 />
-          <bullet12 />
-          <bullet13 />
-          <bullet14 />
-          <bullet15 />
-          <bullet16 />
-          <bullet17 />
-          <bullet18 />
-          <bullet19 />
-          <bullet20 />
-          <brochure>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{E82CA1E2-0521-488E-9DB4-82D1648C22D9}/external.pdf</brochure>
-          <agency_region>KENT</agency_region>
-          <agency_district>CANTERBURY</agency_district>
-          <agency_location>Canterbury Centre</agency_location>
-          <web_link>https://www.charlesbainbridge.com/index.php?option=com_eapow&amp;format=html&amp;task=property.getProp&amp;?pid=E82CA1E2-0521-488E-9DB4-82D1648C22D9&amp;aid=C46B2F24-B9CD-417A-9879-F8C0E2A6C226</web_link>
-          <latitude>51.2849044799805</latitude>
-          <longitude>1.07835793495178</longitude>
-          <qrcode>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{E82CA1E2-0521-488E-9DB4-82D1648C22D9}/qr.png</qrcode>
-          <epc />
-          <hips>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{E82CA1E2-0521-488E-9DB4-82D1648C22D9}/HIPS/EPC - 112 Station Road West.pdf</hips>
-          <filename3 />
-          <filename4 />
-          <filename5 />
-          <filename6 />
-          <virtual_tour_url />
-          <property_type>House</property_type>
-          <commercial_type />
-          <property_style>Semi Detached</property_style>
-          <property_reference>12610206</property_reference>
-          <newHome>NO</newHome>
-          <noChain>NO</noChain>
-          <furnished>Unknown</furnished>
-          <portalFee />
-          <currency />
-          <featuredProperty>NO</featuredProperty>
-          <text1 name="" value="Provided by seller &amp; copy on events - Property docs. AD" />
-          <text3 name="" value="Copy on events - Property doc. AD" />
-          <date1 name="Title Register" value="06/03/2025 00:00:00" />
-          <date3 name="Data Protection - Seller" value="10/03/2025 00:00:00" />
-          <number1 name="" value="0" />
-          <number2 name="" value="0" />
-          <number3 name="" value="0" />
-          <number4 name="" value="0" />
-          <number5 name="" value="0" />
-          <number6 name="" value="0" />
-          <number7 name="" value="0" />
-          <number8 name="" value="0" />
-          <number9 name="" value="0" />
-          <number10 name="" value="0" />
-          <rooms>
-            <room name="Entrance Hall">
-              <measurement_text />
-              <description />
-            </room>
-            <room name="Sitting Room">
-              <measurement_text>14' 7'' x 10' 0'' (4.44m x 3.05m)</measurement_text>
-              <description />
-            </room>
-            <room name="Kitchen/Dining Room">
-              <measurement_text>14' 7'' x 8' 11'' (4.44m x 2.72m)</measurement_text>
-              <description />
-            </room>
-            <room name="First Floor">
-              <measurement_text />
-              <description />
-            </room>
-            <room name="Landing">
-              <measurement_text />
-              <description />
-            </room>
-            <room name="Bedroom One">
-              <measurement_text>14' 7'' x 9' 1'' (4.44m x 2.77m)</measurement_text>
-              <description />
-            </room>
-            <room name="Bedroom Two">
-              <measurement_text>9' 7'' x 7' 0'' (2.92m x 2.13m)</measurement_text>
-              <description />
-            </room>
-            <room name="Bathroom">
-              <measurement_text>10' 6'' x 5' 0'' (3.20m x 1.52m)</measurement_text>
-              <description />
-            </room>
-          </rooms>
-          <pictures>
-            <picture name="Photo 17" lastchanged="2025-03-10T09:14:46.8767805Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{e82ca1e2-0521-488e-9db4-82d1648c22d9}/main/DSC03702.jpg</filename>
-            </picture>
-            <picture name="Photo 4" lastchanged="2025-03-10T09:14:20.2291681Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{e82ca1e2-0521-488e-9db4-82d1648c22d9}/main/DSC03633.jpg</filename>
-            </picture>
-            <picture name="Photo 5" lastchanged="2025-03-10T09:14:22.6085297Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{e82ca1e2-0521-488e-9db4-82d1648c22d9}/main/DSC03639.jpg</filename>
-            </picture>
-            <picture name="Photo 9" lastchanged="2025-03-10T09:14:29.8839908Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{e82ca1e2-0521-488e-9db4-82d1648c22d9}/main/DSC03663.jpg</filename>
-            </picture>
-            <picture name="Photo 8" lastchanged="2025-03-10T09:14:27.40956Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{e82ca1e2-0521-488e-9db4-82d1648c22d9}/main/DSC03657.jpg</filename>
-            </picture>
-            <picture name="Photo 6" lastchanged="2025-03-10T09:14:24.6869314Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{e82ca1e2-0521-488e-9db4-82d1648c22d9}/main/DSC03645.jpg</filename>
-            </picture>
-            <picture name="Photo 14" lastchanged="2025-03-10T09:14:40.1569036Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{e82ca1e2-0521-488e-9db4-82d1648c22d9}/main/DSC03690.jpg</filename>
-            </picture>
-            <picture name="Photo 16" lastchanged="2025-03-10T09:14:44.7046107Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{e82ca1e2-0521-488e-9db4-82d1648c22d9}/main/DSC03696.jpg</filename>
-            </picture>
-            <picture name="Photo 11" lastchanged="2025-03-10T09:14:34.5449786Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{e82ca1e2-0521-488e-9db4-82d1648c22d9}/main/DSC03672.jpg</filename>
-            </picture>
-            <picture name="Photo 12" lastchanged="2025-03-10T09:14:36.6404368Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{e82ca1e2-0521-488e-9db4-82d1648c22d9}/main/DSC03681.jpg</filename>
-            </picture>
-            <picture name="Photo 13" lastchanged="2025-03-10T09:14:38.5316824Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{e82ca1e2-0521-488e-9db4-82d1648c22d9}/main/DSC03687.jpg</filename>
-            </picture>
-            <picture name="Photo 2" lastchanged="2025-03-10T09:14:15.5801618Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{e82ca1e2-0521-488e-9db4-82d1648c22d9}/main/DSC03621.jpg</filename>
-            </picture>
-            <picture name="Photo 1" lastchanged="2025-03-10T09:14:13.5781059Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{e82ca1e2-0521-488e-9db4-82d1648c22d9}/main/DSC03618.jpg</filename>
-            </picture>
-            <picture name="Photo 19" lastchanged="2025-03-10T09:14:50.7746129Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{e82ca1e2-0521-488e-9db4-82d1648c22d9}/main/DSC03707.jpg</filename>
-            </picture>
-            <picture name="Photo 18" lastchanged="2025-03-10T09:14:48.6921673Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{e82ca1e2-0521-488e-9db4-82d1648c22d9}/main/DSC03706.jpg</filename>
-            </picture>
-            <picture name="Photo 16" lastchanged="2025-10-14T11:35:44.5043529Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{e82ca1e2-0521-488e-9db4-82d1648c22d9}/main/112-Station-Road-West-Floorplan.jpg</filename>
-            </picture>
-          </pictures>
-          <floorplans>
-            <floorplan name="">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{e82ca1e2-0521-488e-9db4-82d1648c22d9}/Floorplan_Floorplan1.jpg</filename>
-            </floorplan>
-          </floorplans>
-        </property>
         <property reference="CB003706" hash="6E34A2A1CA4D780F7700E485DDEBCAF0">
           <availableFrom />
           <instructedDate>23/09/2025 17:10:46</instructedDate>
@@ -11355,6 +11139,222 @@ The location is truly special, tucked away in the quintessential village of Ickh
           <floorplans>
             <floorplan name="">
               <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{5380149d-4db8-42ad-a973-96b41251a9d4}/Floorplan_Floorplan1.jpg</filename>
+            </floorplan>
+          </floorplans>
+        </property>
+        <property reference="CB003701" hash="E0C7C4EC3F3357F0C7EA2472DBC6D41D">
+          <availableFrom />
+          <instructedDate>13/03/2025 09:23:19</instructedDate>
+          <department>Residential Sales</department>
+          <propertyofweek>NO</propertyofweek>
+          <price_text>£350,000</price_text>
+          <numeric_price>350000.0000</numeric_price>
+          <bedrooms>2</bedrooms>
+          <receptions>1</receptions>
+          <bathrooms>1</bathrooms>
+          <priority>Sold STC</priority>
+          <tenure>Freehold</tenure>
+          <advert_heading>Station Road West, Canterbury</advert_heading>
+          <main_advert>A charming semi-detached house situated close to Canterbury West Station and within easy access of the City centre.
+&lt;br /&gt;
+&lt;br /&gt;
+2 Double bedrooms
+&lt;br /&gt;
+Spacious sitting room
+&lt;br /&gt;
+Attractive kitchen/dining room
+&lt;br /&gt;
+Modern family bathroom
+&lt;br /&gt;
+Pretty courtyard garden&lt;br /&gt;
+Garage
+&lt;br /&gt;
+Close to Canterbury West &amp; the City centre&lt;br /&gt;
+EPC Rating: 65D</main_advert>
+          <advert2>&lt;p style="text-align: justify;"&gt;&lt;span style="font-family: 'HelveticaNeueLT Com 45 Lt', sans-serif;"&gt;A charming semi-detached house situated close to Canterbury West Station and within easy access of the City centre. This delightful property offers a wonderful opportunity for those seeking a comfortable and convenient home in a vibrant city setting. The accommodation on the ground floor comprises a spacious, light and airy sitting room, with plenty of natural light streaming through dual-aspect windows &amp; double doors onto the courtyard garden. The attractive kitchen/dining room has a range of wall, drawer and floor units and is an inviting space which provides a practical and welcoming heart to the home. From the hallway is a staircase rising up to the first floor. On the first floor are two double bedrooms and the modern family bathroom is well-appointed, offering both comfort and style. The property benefits from gas fired central heating and double glazed modern sash windows.&lt;br /&gt;
+&lt;br /&gt;
+&lt;/span&gt;&lt;span style="font-family: 'HelveticaNeueLT Com 45 Lt', sans-serif;"&gt;Externally the property boasts a pretty courtyard garden providing an ideal outdoor space to unwind. The property also benefits from a garage just a few doors away which offers valuable off-street parking or additional storage.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="font-family: 'HelveticaNeueLT Com 45 Lt', sans-serif;"&gt;The property enjoys a lovely setting close to Canterbury West station which provides regular High-Speed rail services to London St Pancras. The nearby Goods Shed incorporates farmers market style shopping with high quality butcher, greengrocer and fishmonger amongst many others, plus a highly regarded restaurant. Sainsbury's local is also nearby together with the other facilities in St Dunstan&amp;rsquo;s. The City centre is a short walk and offers a comprehensive range of shops restaurants and leisure facilities. There is an impressive range of schools, colleges and Universities in the City and the highly regarded Marlow Theatre.&lt;br /&gt;
+&lt;br /&gt;
+Council tax band: D&lt;br /&gt;
+&lt;br /&gt;
+Tenure: House - Freehold&lt;br /&gt;
+  &amp;nbsp; &amp;nbsp; &amp;nbsp;Garage - Leasehold with a lease term of 125 years from 1998.&amp;nbsp;&lt;br /&gt;
+&lt;br /&gt;
+Management fee:&lt;br /&gt;
+House cost: &amp;pound;316.32 per annum&lt;br /&gt;
+Garage cost: &amp;pound;143.88 per annum &lt;/span&gt;&lt;/p&gt;
+EPC Rating: 65D  &lt;br /&gt;
+&lt;br /&gt;
+What3Words:///breath.shin.basis&lt;br /&gt;</advert2>
+          <advert3>&lt;p style="text-align: justify;"&gt;&lt;span style="font-family: 'HelveticaNeueLT Com 45 Lt', sans-serif;"&gt;A charming semi-detached house situated close to Canterbury West Station and within easy access of the City centre. This delightful property offers a wonderful opportunity for those seeking a comfortable and convenient home in a vibrant city setting. The accommodation on the ground floor comprises a spacious, light and airy sitting room, with plenty of natural light streaming through dual-aspect windows &amp; double doors onto the courtyard garden. The attractive kitchen/dining room has a range of wall, drawer and floor units and is an inviting space which provides a practical and welcoming heart to the home. From the hallway is a staircase rising up to the first floor. On the first floor are two double bedrooms and the modern family bathroom is well-appointed, offering both comfort and style. The property benefits from gas fired central heating and double glazed modern sash windows.&lt;br /&gt;
+&lt;br /&gt;
+&lt;/span&gt;&lt;span style="font-family: 'HelveticaNeueLT Com 45 Lt', sans-serif;"&gt;Externally the property boasts a pretty courtyard garden providing an ideal outdoor space to unwind. The property also benefits from a garage just a few doors away which offers valuable off-street parking or additional storage.&lt;/span&gt;&lt;/p&gt;</advert3>
+          <advert4>&lt;p style="text-align: justify;"&gt;&lt;span style="font-family: 'HelveticaNeueLT Com 45 Lt', sans-serif; text-align: justify;"&gt;The property enjoys a lovely setting close to Canterbury West station which provides regular High-Speed rail services to London St Pancras. The nearby Goods Shed incorporates farmers market style shopping with high quality butcher, greengrocer and fishmonger amongst many others, plus a highly regarded restaurant. Sainsbury's local is also nearby together with the other facilities in St Dunstan&amp;rsquo;s. The City centre is a short walk and offers a comprehensive range of shops restaurants and leisure facilities. There is an impressive range of schools, colleges and Universities in the City and the highly regarded Marlow Theatre.&lt;/span&gt;&lt;/p&gt;
+&lt;div&gt;&lt;span style="font-family: 'HelveticaNeueLT Com 45 Lt', sans-serif; text-align: justify;"&gt;&lt;br /&gt;
+&lt;/span&gt;&lt;/div&gt;</advert4>
+          <advert5>All mains services are understood to be connected to the property. </advert5>
+          <advert6>Tenure: House - Freehold
+             Garage - Leasehold with a lease term of 125 years from 1998. 
+
+Management fee:
+House cost: &amp;pound;316.32 per annum
+Garage cost: &amp;pound;143.88 per annum 
+</advert6>
+          <house_number>112</house_number>
+          <street>Station Road West</street>
+          <district />
+          <town>Canterbury</town>
+          <county>Kent</county>
+          <postcode>CT2 8DE</postcode>
+          <country>UK</country>
+          <area>Canterbury Centre</area>
+          <bullet1>2 Double bedrooms</bullet1>
+          <bullet2>Spacious sitting room</bullet2>
+          <bullet3>Attractive kitchen/dining room</bullet3>
+          <bullet4>Modern family bathroom</bullet4>
+          <bullet5>Pretty courtyard garden</bullet5>
+          <bullet6>Separate garage</bullet6>
+          <bullet7>Close to Canterbury West &amp; the City centre</bullet7>
+          <bullet8>EPC Rating: 65D</bullet8>
+          <bullet9 />
+          <bullet10 />
+          <bullet11 />
+          <bullet12 />
+          <bullet13 />
+          <bullet14 />
+          <bullet15 />
+          <bullet16 />
+          <bullet17 />
+          <bullet18 />
+          <bullet19 />
+          <bullet20 />
+          <brochure>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{E82CA1E2-0521-488E-9DB4-82D1648C22D9}/external.pdf</brochure>
+          <agency_region>KENT</agency_region>
+          <agency_district>CANTERBURY</agency_district>
+          <agency_location>Canterbury Centre</agency_location>
+          <web_link>https://www.charlesbainbridge.com/index.php?option=com_eapow&amp;format=html&amp;task=property.getProp&amp;?pid=E82CA1E2-0521-488E-9DB4-82D1648C22D9&amp;aid=C46B2F24-B9CD-417A-9879-F8C0E2A6C226</web_link>
+          <latitude>51.2849044799805</latitude>
+          <longitude>1.07835793495178</longitude>
+          <qrcode>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{E82CA1E2-0521-488E-9DB4-82D1648C22D9}/qr.png</qrcode>
+          <epc />
+          <hips>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{E82CA1E2-0521-488E-9DB4-82D1648C22D9}/HIPS/EPC - 112 Station Road West.pdf</hips>
+          <filename3 />
+          <filename4 />
+          <filename5 />
+          <filename6 />
+          <virtual_tour_url />
+          <property_type>House</property_type>
+          <commercial_type />
+          <property_style>Semi Detached</property_style>
+          <property_reference>12610206</property_reference>
+          <newHome>NO</newHome>
+          <noChain>NO</noChain>
+          <furnished>Unknown</furnished>
+          <portalFee />
+          <currency />
+          <featuredProperty>NO</featuredProperty>
+          <text1 name="" value="Provided by seller &amp; copy on events - Property docs. AD" />
+          <text3 name="" value="Copy on events - Property doc. AD" />
+          <date1 name="Title Register" value="06/03/2025 00:00:00" />
+          <date3 name="Data Protection - Seller" value="10/03/2025 00:00:00" />
+          <number1 name="" value="0" />
+          <number2 name="" value="0" />
+          <number3 name="" value="0" />
+          <number4 name="" value="0" />
+          <number5 name="" value="0" />
+          <number6 name="" value="0" />
+          <number7 name="" value="0" />
+          <number8 name="" value="0" />
+          <number9 name="" value="0" />
+          <number10 name="" value="0" />
+          <rooms>
+            <room name="Entrance Hall">
+              <measurement_text />
+              <description />
+            </room>
+            <room name="Sitting Room">
+              <measurement_text>14' 7'' x 10' 0'' (4.44m x 3.05m)</measurement_text>
+              <description />
+            </room>
+            <room name="Kitchen/Dining Room">
+              <measurement_text>14' 7'' x 8' 11'' (4.44m x 2.72m)</measurement_text>
+              <description />
+            </room>
+            <room name="First Floor">
+              <measurement_text />
+              <description />
+            </room>
+            <room name="Landing">
+              <measurement_text />
+              <description />
+            </room>
+            <room name="Bedroom One">
+              <measurement_text>14' 7'' x 9' 1'' (4.44m x 2.77m)</measurement_text>
+              <description />
+            </room>
+            <room name="Bedroom Two">
+              <measurement_text>9' 7'' x 7' 0'' (2.92m x 2.13m)</measurement_text>
+              <description />
+            </room>
+            <room name="Bathroom">
+              <measurement_text>10' 6'' x 5' 0'' (3.20m x 1.52m)</measurement_text>
+              <description />
+            </room>
+          </rooms>
+          <pictures>
+            <picture name="Photo 17" lastchanged="2025-03-10T09:14:46.8767805Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{e82ca1e2-0521-488e-9db4-82d1648c22d9}/main/DSC03702.jpg</filename>
+            </picture>
+            <picture name="Photo 4" lastchanged="2025-03-10T09:14:20.2291681Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{e82ca1e2-0521-488e-9db4-82d1648c22d9}/main/DSC03633.jpg</filename>
+            </picture>
+            <picture name="Photo 5" lastchanged="2025-03-10T09:14:22.6085297Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{e82ca1e2-0521-488e-9db4-82d1648c22d9}/main/DSC03639.jpg</filename>
+            </picture>
+            <picture name="Photo 9" lastchanged="2025-03-10T09:14:29.8839908Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{e82ca1e2-0521-488e-9db4-82d1648c22d9}/main/DSC03663.jpg</filename>
+            </picture>
+            <picture name="Photo 8" lastchanged="2025-03-10T09:14:27.40956Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{e82ca1e2-0521-488e-9db4-82d1648c22d9}/main/DSC03657.jpg</filename>
+            </picture>
+            <picture name="Photo 6" lastchanged="2025-03-10T09:14:24.6869314Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{e82ca1e2-0521-488e-9db4-82d1648c22d9}/main/DSC03645.jpg</filename>
+            </picture>
+            <picture name="Photo 14" lastchanged="2025-03-10T09:14:40.1569036Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{e82ca1e2-0521-488e-9db4-82d1648c22d9}/main/DSC03690.jpg</filename>
+            </picture>
+            <picture name="Photo 16" lastchanged="2025-03-10T09:14:44.7046107Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{e82ca1e2-0521-488e-9db4-82d1648c22d9}/main/DSC03696.jpg</filename>
+            </picture>
+            <picture name="Photo 11" lastchanged="2025-03-10T09:14:34.5449786Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{e82ca1e2-0521-488e-9db4-82d1648c22d9}/main/DSC03672.jpg</filename>
+            </picture>
+            <picture name="Photo 12" lastchanged="2025-03-10T09:14:36.6404368Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{e82ca1e2-0521-488e-9db4-82d1648c22d9}/main/DSC03681.jpg</filename>
+            </picture>
+            <picture name="Photo 13" lastchanged="2025-03-10T09:14:38.5316824Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{e82ca1e2-0521-488e-9db4-82d1648c22d9}/main/DSC03687.jpg</filename>
+            </picture>
+            <picture name="Photo 2" lastchanged="2025-03-10T09:14:15.5801618Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{e82ca1e2-0521-488e-9db4-82d1648c22d9}/main/DSC03621.jpg</filename>
+            </picture>
+            <picture name="Photo 1" lastchanged="2025-03-10T09:14:13.5781059Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{e82ca1e2-0521-488e-9db4-82d1648c22d9}/main/DSC03618.jpg</filename>
+            </picture>
+            <picture name="Photo 19" lastchanged="2025-03-10T09:14:50.7746129Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{e82ca1e2-0521-488e-9db4-82d1648c22d9}/main/DSC03707.jpg</filename>
+            </picture>
+            <picture name="Photo 18" lastchanged="2025-03-10T09:14:48.6921673Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{e82ca1e2-0521-488e-9db4-82d1648c22d9}/main/DSC03706.jpg</filename>
+            </picture>
+            <picture name="Photo 16" lastchanged="2025-10-14T11:35:44.5043529Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{e82ca1e2-0521-488e-9db4-82d1648c22d9}/main/112-Station-Road-West-Floorplan.jpg</filename>
+            </picture>
+          </pictures>
+          <floorplans>
+            <floorplan name="">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{e82ca1e2-0521-488e-9db4-82d1648c22d9}/Floorplan_Floorplan1.jpg</filename>
             </floorplan>
           </floorplans>
         </property>
