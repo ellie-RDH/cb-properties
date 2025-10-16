@@ -7686,199 +7686,6 @@ To the rear of the property is a generous garden, mainly laid to lawn. A right o
             </floorplan>
           </floorplans>
         </property>
-        <property reference="CB003814" hash="98BCCF52A064B714626AF45DBB66C756">
-          <availableFrom />
-          <instructedDate>23/09/2025 16:29:23</instructedDate>
-          <department>Residential Sales</department>
-          <propertyofweek>NO</propertyofweek>
-          <price_text>£260,000</price_text>
-          <numeric_price>260000.0000</numeric_price>
-          <bedrooms>2</bedrooms>
-          <receptions>1</receptions>
-          <bathrooms>2</bathrooms>
-          <priority>On Market</priority>
-          <tenure>Leasehold</tenure>
-          <advert_heading>Stonebridge Road, Canterbury</advert_heading>
-          <main_advert>&lt;br&gt;A beautifully presented first floor apartment forming part of the highly sought-after Kingsbrook Park riverside development.
-
-2 Bedrooms, 2 bath/shower rooms
-Dual aspect open-plan living/dining room
-Well-appointed kitchen with range of integral appliances
-Stylish &amp; versatile accommodation
-Allocated parking space &amp; communal gardens
-Close to the City centre &amp; Canterbury West station
-No onward chain
-EPC Rating: 82B</main_advert>
-          <advert2>&lt;p style="text-align: justify;"&gt;A beautifully presented two bedroom first floor apartment forming part of the highly sought-after Kingsbrook Park riverside development. The property offers stylish and versatile accommodation with a particularly spacious entrance hall, a generous dual aspect open plan living/dining room with Juliet balcony, and a well-appointed kitchen with a range of integrated appliances. There are two double bedrooms, the principal benefitting from fitted wardrobes and an ensuite shower room, along with a modern family bathroom. The property will also be sold with all of the furniture, offering a ready-made home or investment.
-&lt;br /&gt;
-&lt;br /&gt;
-Outside, the property enjoys an allocated parking space together with visitors parking in the adjacent area, as well as access to a secure bicycle store. Residents of Stonebridge Road also benefit from beautifully landscaped communal grounds, including a two-acre park, and a well-lit pathway leading directly to the city centre.
-&lt;br /&gt;
-&lt;br /&gt;
-Stonebridge Road is ideally located within easy reach of excellent schools, a cinema and restaurant complex, two gyms, a swimming pool, and numerous children&amp;rsquo;s play areas and parks. Everyday amenities including a Sainsbury&amp;rsquo;s supermarket, doctors&amp;rsquo; surgery, and dental practice are just a short walk away, while Canterbury West station and the historic city centre can be reached with ease. Owner finance or private mortgage agreement considered.
-&lt;br /&gt;
-&lt;br /&gt;
-Council tax band: D&lt;br /&gt;
-&lt;br /&gt;
-Tenure: Leasehold&lt;br /&gt;
-&lt;br /&gt;
-Lease term: TBC&lt;br /&gt;
-&lt;br /&gt;
-Service charge: TBC&lt;br /&gt;
-&lt;br /&gt;
-Ground rent: TBC&lt;br /&gt;
-&lt;br /&gt;
-EPC Rating: 82B&lt;br /&gt;
-&lt;br /&gt;
-What3Words:///ports.jacket.shops&lt;/p&gt;</advert2>
-          <advert3>&lt;p style="text-align: justify;"&gt;A beautifully presented two bedroom first floor apartment forming part of the highly sought-after Kingsbrook Park riverside development. The property offers stylish and versatile accommodation with a particularly spacious entrance hall, a generous dual aspect open plan living/dining room with Juliet balcony, and a well-appointed kitchen with a range of integrated appliances. There are two double bedrooms, the principal benefitting from fitted wardrobes and an ensuite shower room, along with a modern family bathroom. The property will also be sold with all of the furniture, offering a ready-made home or investment.&lt;br /&gt;
-&lt;br /&gt;
-&lt;span style="text-align: justify;"&gt;Outside, the property enjoys an allocated parking space together with visitors parking in the adjacent area, as well as access to a secure bicycle store. Residents of Stonebridge Road also benefit from beautifully landscaped communal grounds, including a two-acre park, and a well-lit pathway leading directly to the city centre.&lt;/span&gt;
-&lt;/p&gt;</advert3>
-          <advert4>&lt;p style="text-align: justify;"&gt;Stonebridge Road is ideally located within easy reach of excellent schools, a cinema and restaurant complex, two gyms, a swimming pool, and numerous children&amp;rsquo;s play areas and parks. Everyday amenities including a Sainsbury&amp;rsquo;s supermarket, doctors&amp;rsquo; surgery, and dental practice are just a short walk away, while Canterbury West station and the historic city centre can be reached with ease.&lt;/p&gt;</advert4>
-          <advert5>All mains services are understood to be connected. </advert5>
-          <advert6>&lt;span style="text-align: justify;"&gt;Tenure: Leasehold&lt;/span&gt;&lt;br style="text-align: justify;" /&gt;
-&lt;br style="text-align: justify;" /&gt;
-&lt;span style="text-align: justify;"&gt;Lease term: TBC&lt;/span&gt;&lt;br style="text-align: justify;" /&gt;
-&lt;br style="text-align: justify;" /&gt;
-&lt;span style="text-align: justify;"&gt;Service charge: TBC&lt;/span&gt;&lt;br style="text-align: justify;" /&gt;
-&lt;br style="text-align: justify;" /&gt;
-&lt;span style="text-align: justify;"&gt;Ground rent: TBC&lt;/span&gt;&lt;br style="text-align: justify;" /&gt;</advert6>
-          <house_number>10</house_number>
-          <street>Stonebridge Road</street>
-          <district />
-          <town>Canterbury</town>
-          <county>Kent</county>
-          <postcode>CT2 7LN</postcode>
-          <country>UK</country>
-          <area>Canterbury Centre</area>
-          <bullet1>Upper Floor Flat</bullet1>
-          <bullet2>2 Bedrooms</bullet2>
-          <bullet3>2 Bath/Shower rooms</bullet3>
-          <bullet4>Close to the City centre &amp; Canterbury West station</bullet4>
-          <bullet5>Open plan living</bullet5>
-          <bullet6>No onward chain</bullet6>
-          <bullet7 />
-          <bullet8 />
-          <bullet9 />
-          <bullet10 />
-          <bullet11 />
-          <bullet12 />
-          <bullet13 />
-          <bullet14 />
-          <bullet15 />
-          <bullet16 />
-          <bullet17 />
-          <bullet18 />
-          <bullet19 />
-          <bullet20 />
-          <brochure>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{C63BB8E2-5D39-4E89-A8AE-90E6FCA1B243}/external.pdf</brochure>
-          <agency_region>KENT</agency_region>
-          <agency_district>CANTERBURY</agency_district>
-          <agency_location>Canterbury Centre</agency_location>
-          <web_link>https://www.charlesbainbridge.com/index.php?option=com_eapow&amp;format=html&amp;task=property.getProp&amp;?pid=C63BB8E2-5D39-4E89-A8AE-90E6FCA1B243&amp;aid=C46B2F24-B9CD-417A-9879-F8C0E2A6C226</web_link>
-          <latitude>51.2874412536621</latitude>
-          <longitude>1.08700501918793</longitude>
-          <qrcode>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{C63BB8E2-5D39-4E89-A8AE-90E6FCA1B243}/qr.png</qrcode>
-          <epc />
-          <hips>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{C63BB8E2-5D39-4E89-A8AE-90E6FCA1B243}/HIPS/10 Stonebridge EPC.pdf</hips>
-          <filename3 />
-          <filename4 />
-          <filename5 />
-          <filename6 />
-          <virtual_tour_url />
-          <property_type>Flat</property_type>
-          <commercial_type />
-          <property_style>Upper Floor Flat</property_style>
-          <property_reference>12716028</property_reference>
-          <newHome>NO</newHome>
-          <noChain>YES</noChain>
-          <furnished>Unknown</furnished>
-          <portalFee />
-          <currency />
-          <featuredProperty>NO</featuredProperty>
-          <text1 name="" value="requested " />
-          <text2 name="" value="requested" />
-          <number1 name="" value="0" />
-          <number2 name="" value="0" />
-          <number3 name="" value="0" />
-          <number4 name="" value="0" />
-          <number5 name="" value="0" />
-          <number6 name="" value="0" />
-          <number7 name="" value="0" />
-          <number8 name="" value="0" />
-          <number9 name="" value="0" />
-          <number10 name="" value="0" />
-          <rooms>
-            <room name="Hall">
-              <measurement_text />
-              <description />
-            </room>
-            <room name="Kitchen/Dining room/Lounge">
-              <measurement_text>18' 9'' x 15' 7'' (5.71m x 4.75m)</measurement_text>
-              <description />
-            </room>
-            <room name="Bedroom One">
-              <measurement_text>14' 11'' x 9' 11'' (4.54m x 3.02m)</measurement_text>
-              <description />
-            </room>
-            <room name="Ensuite ">
-              <measurement_text>7' 5'' x 5' 8'' (2.26m x 1.73m)</measurement_text>
-              <description />
-            </room>
-            <room name="Bedroom Two">
-              <measurement_text>12' 4'' x 8' 6'' (3.76m x 2.59m)</measurement_text>
-              <description />
-            </room>
-            <room name="Bathroom">
-              <measurement_text>6' 8'' x 5' 0'' (2.03m x 1.52m)</measurement_text>
-              <description />
-            </room>
-          </rooms>
-          <pictures>
-            <picture name="Photo 20" lastchanged="2025-09-18T15:18:51.0125733Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{c63bb8e2-5d39-4e89-a8ae-90e6fca1b243}/main/DSC_4699.jpg</filename>
-            </picture>
-            <picture name="Photo 7" lastchanged="2025-09-18T15:18:33.4316609Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{c63bb8e2-5d39-4e89-a8ae-90e6fca1b243}/main/DSC_4621.jpg</filename>
-            </picture>
-            <picture name="Photo 12" lastchanged="2025-09-22T14:28:29.4330039Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{c63bb8e2-5d39-4e89-a8ae-90e6fca1b243}/main/DSC_4616.jpg</filename>
-            </picture>
-            <picture name="Photo 2" lastchanged="2025-09-18T15:18:26.2356631Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{c63bb8e2-5d39-4e89-a8ae-90e6fca1b243}/main/DSC_4595.jpg</filename>
-            </picture>
-            <picture name="Photo 1" lastchanged="2025-09-18T15:18:24.5792468Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{c63bb8e2-5d39-4e89-a8ae-90e6fca1b243}/main/DSC_4592.jpg</filename>
-            </picture>
-            <picture name="Photo 4" lastchanged="2025-09-18T15:18:29.0520255Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{c63bb8e2-5d39-4e89-a8ae-90e6fca1b243}/main/DSC_4606.jpg</filename>
-            </picture>
-            <picture name="Photo 11" lastchanged="2025-09-18T15:18:38.8900508Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{c63bb8e2-5d39-4e89-a8ae-90e6fca1b243}/main/DSC_4652.jpg</filename>
-            </picture>
-            <picture name="Photo 9" lastchanged="2025-09-18T15:18:36.090141Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{c63bb8e2-5d39-4e89-a8ae-90e6fca1b243}/main/DSC_4636.jpg</filename>
-            </picture>
-            <picture name="Photo 14" lastchanged="2025-09-18T15:18:42.5319456Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{c63bb8e2-5d39-4e89-a8ae-90e6fca1b243}/main/DSC_4671.jpg</filename>
-            </picture>
-            <picture name="Photo 16" lastchanged="2025-09-18T15:18:44.9087149Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{c63bb8e2-5d39-4e89-a8ae-90e6fca1b243}/main/DSC_4681.jpg</filename>
-            </picture>
-            <picture name="Photo 18" lastchanged="2025-09-18T15:18:47.7289649Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{c63bb8e2-5d39-4e89-a8ae-90e6fca1b243}/main/DSC_4694.jpg</filename>
-            </picture>
-            <picture name="Photo 12" lastchanged="2025-10-01T20:14:28.8328615Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{c63bb8e2-5d39-4e89-a8ae-90e6fca1b243}/main/10StonebridgeRdCanterburyCT27LN-High-(1).jpg</filename>
-            </picture>
-          </pictures>
-          <floorplans>
-            <floorplan name="">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{c63bb8e2-5d39-4e89-a8ae-90e6fca1b243}/Floorplan_Floorplan1.jpg</filename>
-            </floorplan>
-          </floorplans>
-        </property>
         <property reference="CB003815" hash="15776D6B67BC3054DC7CA2B8A067E622">
           <availableFrom />
           <instructedDate>16/07/2025 16:40:02</instructedDate>
@@ -11362,6 +11169,207 @@ What3Words:///rummage.less.amending&lt;/p&gt;</advert2>
           <floorplans>
             <floorplan name="">
               <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{9deae78a-9318-406b-82d9-fed0c0f06c4a}/Floorplan_Floorplan1.jpg</filename>
+            </floorplan>
+          </floorplans>
+        </property>
+        <property reference="CB003814" hash="6E502E1B897576E29B86ECDC1735DE7E">
+          <availableFrom />
+          <instructedDate>23/09/2025 16:29:23</instructedDate>
+          <department>Residential Sales</department>
+          <propertyofweek>NO</propertyofweek>
+          <price_text>£260,000</price_text>
+          <numeric_price>260000.0000</numeric_price>
+          <bedrooms>2</bedrooms>
+          <receptions>1</receptions>
+          <bathrooms>2</bathrooms>
+          <priority>On Market</priority>
+          <tenure>Leasehold</tenure>
+          <advert_heading>Stonebridge Road, Canterbury</advert_heading>
+          <main_advert>&lt;br /&gt;
+A beautifully presented first floor apartment forming part of the highly sought-after Kingsbrook Park riverside development.
+&lt;br /&gt;
+&lt;br /&gt;
+2 Bedrooms, 2 bath/shower rooms&lt;br /&gt;
+Dual aspect open-plan living/dining room
+&lt;br /&gt;
+Well-appointed kitchen with range of integral appliances
+&lt;br /&gt;
+Stylish &amp; versatile accommodation
+&lt;br /&gt;
+Allocated parking space &amp;amp; communal gardens
+&lt;br /&gt;
+Close to the City centre &amp;amp; Canterbury West station
+&lt;br /&gt;
+No onward chain
+&lt;br /&gt;
+EPC Rating: 82B</main_advert>
+          <advert2>&lt;p style="text-align: justify;"&gt;A beautifully presented two bedroom first floor apartment forming part of the highly sought-after Kingsbrook Park riverside development. The property offers stylish and versatile accommodation with a particularly spacious entrance hall, a generous dual aspect open plan living/dining room with Juliet balcony, and a well-appointed kitchen with a range of integrated appliances. There are two double bedrooms, the principal benefitting from fitted wardrobes and an ensuite shower room, along with a modern family bathroom. The property will also be sold with all of the furniture, offering a ready-made home or investment.
+&lt;br /&gt;
+&lt;br /&gt;
+Outside, the property enjoys an allocated parking space together with visitors parking in the adjacent area, as well as access to a secure bicycle store. Residents of Stonebridge Road also benefit from beautifully landscaped communal grounds, including a two-acre park, and a well-lit pathway leading directly to the city centre.
+&lt;br /&gt;
+&lt;br /&gt;
+Stonebridge Road is ideally located within easy reach of excellent schools, a cinema and restaurant complex, two gyms, a swimming pool, and numerous children&amp;rsquo;s play areas and parks. Everyday amenities including a Sainsbury&amp;rsquo;s supermarket, doctors&amp;rsquo; surgery, and dental practice are just a short walk away, while Canterbury West station and the historic city centre can be reached with ease. Owner finance or private mortgage agreement considered.
+&lt;br /&gt;
+&lt;br /&gt;
+Council tax band: D&lt;br /&gt;
+&lt;br /&gt;
+Tenure: Leasehold&lt;br /&gt;
+&lt;br /&gt;
+Lease term: TBC&lt;br /&gt;
+&lt;br /&gt;
+Service charge: TBC&lt;br /&gt;
+&lt;br /&gt;
+Ground rent: TBC&lt;br /&gt;
+&lt;br /&gt;
+EPC Rating: 82B&lt;br /&gt;
+&lt;br /&gt;
+What3Words:///ports.jacket.shops&lt;/p&gt;</advert2>
+          <advert3>&lt;p style="text-align: justify;"&gt;A beautifully presented two bedroom first floor apartment forming part of the highly sought-after Kingsbrook Park riverside development. The property offers stylish and versatile accommodation with a particularly spacious entrance hall, a generous dual aspect open plan living/dining room with Juliet balcony, and a well-appointed kitchen with a range of integrated appliances. There are two double bedrooms, the principal benefitting from fitted wardrobes and an ensuite shower room, along with a modern family bathroom. The property will also be sold with all of the furniture, offering a ready-made home or investment.&lt;br /&gt;
+&lt;br /&gt;
+&lt;span style="text-align: justify;"&gt;Outside, the property enjoys an allocated parking space together with visitors parking in the adjacent area, as well as access to a secure bicycle store. Residents of Stonebridge Road also benefit from beautifully landscaped communal grounds, including a two-acre park, and a well-lit pathway leading directly to the city centre.&lt;/span&gt;
+&lt;/p&gt;</advert3>
+          <advert4>&lt;p style="text-align: justify;"&gt;Stonebridge Road is ideally located within easy reach of excellent schools, a cinema and restaurant complex, two gyms, a swimming pool, and numerous children&amp;rsquo;s play areas and parks. Everyday amenities including a Sainsbury&amp;rsquo;s supermarket, doctors&amp;rsquo; surgery, and dental practice are just a short walk away, while Canterbury West station and the historic city centre can be reached with ease.&lt;/p&gt;</advert4>
+          <advert5>All mains services are understood to be connected. </advert5>
+          <advert6>&lt;span style="text-align: justify;"&gt;Tenure: Leasehold&lt;/span&gt;&lt;br style="text-align: justify;" /&gt;
+&lt;br style="text-align: justify;" /&gt;
+&lt;span style="text-align: justify;"&gt;Lease term: TBC&lt;/span&gt;&lt;br style="text-align: justify;" /&gt;
+&lt;br style="text-align: justify;" /&gt;
+&lt;span style="text-align: justify;"&gt;Service charge: TBC&lt;/span&gt;&lt;br style="text-align: justify;" /&gt;
+&lt;br style="text-align: justify;" /&gt;
+&lt;span style="text-align: justify;"&gt;Ground rent: TBC&lt;/span&gt;&lt;br style="text-align: justify;" /&gt;</advert6>
+          <house_number>10</house_number>
+          <street>Stonebridge Road</street>
+          <district />
+          <town>Canterbury</town>
+          <county>Kent</county>
+          <postcode>CT2 7LN</postcode>
+          <country>UK</country>
+          <area>Canterbury Centre</area>
+          <bullet1>2 Bedrooms, 2 bath/shower rooms</bullet1>
+          <bullet2> Dual aspect open-plan living/dining room</bullet2>
+          <bullet3>Well-appointed kitchen with range of integral appliances</bullet3>
+          <bullet4>Stylish &amp; versatile accommodation</bullet4>
+          <bullet5>Allocated parking space &amp; communal gardens</bullet5>
+          <bullet6>Close to the City centre &amp; Canterbury West station. No onward chain</bullet6>
+          <bullet7>Sold with all of the furniture</bullet7>
+          <bullet8>EPC Rating: 82B</bullet8>
+          <bullet9 />
+          <bullet10 />
+          <bullet11 />
+          <bullet12 />
+          <bullet13 />
+          <bullet14 />
+          <bullet15 />
+          <bullet16 />
+          <bullet17 />
+          <bullet18 />
+          <bullet19 />
+          <bullet20 />
+          <brochure>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{C63BB8E2-5D39-4E89-A8AE-90E6FCA1B243}/external.pdf</brochure>
+          <agency_region>KENT</agency_region>
+          <agency_district>CANTERBURY</agency_district>
+          <agency_location>Canterbury Centre</agency_location>
+          <web_link>https://www.charlesbainbridge.com/index.php?option=com_eapow&amp;format=html&amp;task=property.getProp&amp;?pid=C63BB8E2-5D39-4E89-A8AE-90E6FCA1B243&amp;aid=C46B2F24-B9CD-417A-9879-F8C0E2A6C226</web_link>
+          <latitude>51.2874412536621</latitude>
+          <longitude>1.08700501918793</longitude>
+          <qrcode>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{C63BB8E2-5D39-4E89-A8AE-90E6FCA1B243}/qr.png</qrcode>
+          <epc />
+          <hips>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{C63BB8E2-5D39-4E89-A8AE-90E6FCA1B243}/HIPS/10 Stonebridge EPC.pdf</hips>
+          <filename3 />
+          <filename4 />
+          <filename5 />
+          <filename6 />
+          <virtual_tour_url />
+          <property_type>Flat</property_type>
+          <commercial_type />
+          <property_style>Upper Floor Flat</property_style>
+          <property_reference>12716028</property_reference>
+          <newHome>NO</newHome>
+          <noChain>YES</noChain>
+          <furnished>Unknown</furnished>
+          <portalFee />
+          <currency />
+          <featuredProperty>NO</featuredProperty>
+          <text1 name="" value="requested " />
+          <text2 name="" value="requested" />
+          <number1 name="" value="0" />
+          <number2 name="" value="0" />
+          <number3 name="" value="0" />
+          <number4 name="" value="0" />
+          <number5 name="" value="0" />
+          <number6 name="" value="0" />
+          <number7 name="" value="0" />
+          <number8 name="" value="0" />
+          <number9 name="" value="0" />
+          <number10 name="" value="0" />
+          <rooms>
+            <room name="Hall">
+              <measurement_text />
+              <description />
+            </room>
+            <room name="Kitchen/Dining room/Lounge">
+              <measurement_text>18' 9'' x 15' 7'' (5.71m x 4.75m)</measurement_text>
+              <description />
+            </room>
+            <room name="Bedroom One">
+              <measurement_text>14' 11'' x 9' 11'' (4.54m x 3.02m)</measurement_text>
+              <description />
+            </room>
+            <room name="Ensuite ">
+              <measurement_text>7' 5'' x 5' 8'' (2.26m x 1.73m)</measurement_text>
+              <description />
+            </room>
+            <room name="Bedroom Two">
+              <measurement_text>12' 4'' x 8' 6'' (3.76m x 2.59m)</measurement_text>
+              <description />
+            </room>
+            <room name="Bathroom">
+              <measurement_text>6' 8'' x 5' 0'' (2.03m x 1.52m)</measurement_text>
+              <description />
+            </room>
+          </rooms>
+          <pictures>
+            <picture name="Photo 20" lastchanged="2025-09-18T15:18:51.0125733Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{c63bb8e2-5d39-4e89-a8ae-90e6fca1b243}/main/DSC_4699.jpg</filename>
+            </picture>
+            <picture name="Photo 7" lastchanged="2025-09-18T15:18:33.4316609Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{c63bb8e2-5d39-4e89-a8ae-90e6fca1b243}/main/DSC_4621.jpg</filename>
+            </picture>
+            <picture name="Photo 12" lastchanged="2025-09-22T14:28:29.4330039Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{c63bb8e2-5d39-4e89-a8ae-90e6fca1b243}/main/DSC_4616.jpg</filename>
+            </picture>
+            <picture name="Photo 2" lastchanged="2025-09-18T15:18:26.2356631Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{c63bb8e2-5d39-4e89-a8ae-90e6fca1b243}/main/DSC_4595.jpg</filename>
+            </picture>
+            <picture name="Photo 1" lastchanged="2025-09-18T15:18:24.5792468Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{c63bb8e2-5d39-4e89-a8ae-90e6fca1b243}/main/DSC_4592.jpg</filename>
+            </picture>
+            <picture name="Photo 4" lastchanged="2025-09-18T15:18:29.0520255Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{c63bb8e2-5d39-4e89-a8ae-90e6fca1b243}/main/DSC_4606.jpg</filename>
+            </picture>
+            <picture name="Photo 11" lastchanged="2025-09-18T15:18:38.8900508Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{c63bb8e2-5d39-4e89-a8ae-90e6fca1b243}/main/DSC_4652.jpg</filename>
+            </picture>
+            <picture name="Photo 9" lastchanged="2025-09-18T15:18:36.090141Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{c63bb8e2-5d39-4e89-a8ae-90e6fca1b243}/main/DSC_4636.jpg</filename>
+            </picture>
+            <picture name="Photo 14" lastchanged="2025-09-18T15:18:42.5319456Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{c63bb8e2-5d39-4e89-a8ae-90e6fca1b243}/main/DSC_4671.jpg</filename>
+            </picture>
+            <picture name="Photo 16" lastchanged="2025-09-18T15:18:44.9087149Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{c63bb8e2-5d39-4e89-a8ae-90e6fca1b243}/main/DSC_4681.jpg</filename>
+            </picture>
+            <picture name="Photo 18" lastchanged="2025-09-18T15:18:47.7289649Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{c63bb8e2-5d39-4e89-a8ae-90e6fca1b243}/main/DSC_4694.jpg</filename>
+            </picture>
+            <picture name="Photo 12" lastchanged="2025-10-01T20:14:28.8328615Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{c63bb8e2-5d39-4e89-a8ae-90e6fca1b243}/main/10StonebridgeRdCanterburyCT27LN-High-(1).jpg</filename>
+            </picture>
+          </pictures>
+          <floorplans>
+            <floorplan name="">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{c63bb8e2-5d39-4e89-a8ae-90e6fca1b243}/Floorplan_Floorplan1.jpg</filename>
             </floorplan>
           </floorplans>
         </property>
