@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<agency xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:noNamespaceSchemaLocation="http://www.expertagent.co.uk/xmlexport/ExpertAgentXMLSchema.xsd" name="CharlesBainbridge">
+﻿<?xml version="1.0" encoding="utf-8"?>
+<agency xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:noNamespaceSchemaLocation="http://www.expertagent.co.uk/xmlexport/ExpertAgentXMLSchema.xsd" name="CharlesBainbridge" branchName="Charles Bainbridge">
   <branches>
     <branch name="Charles Bainbridge">
       <properties>
@@ -5372,217 +5372,6 @@ Garage cost: &amp;pound;143.88 per annum
             </floorplan>
           </floorplans>
         </property>
-        <property reference="CB003706" hash="1B89CCCC23524B0F2BE4B301A1150DC3">
-          <availableFrom />
-          <instructedDate>23/09/2025 17:10:46</instructedDate>
-          <department>Residential Sales</department>
-          <propertyofweek>NO</propertyofweek>
-          <price_text>£320,000</price_text>
-          <numeric_price>320000.0000</numeric_price>
-          <bedrooms>2</bedrooms>
-          <receptions>2</receptions>
-          <bathrooms>1</bathrooms>
-          <priority>On Market</priority>
-          <tenure>Freehold</tenure>
-          <advert_heading>The Street, Petham</advert_heading>
-          <main_advert>A charming period cottage offering a warm and inviting interior, blending character with practicality across two floors.&lt;br /&gt;
-&lt;br /&gt;
-2 Well-proportioned bedrooms&lt;br /&gt;
-Spacious lounge
-Kitchen/breakfast room
-Stylish bathroom
-Delightful rear garden
-Village location 
-EPC Rating: 22F
-</main_advert>
-          <advert2>&lt;p style="text-align: justify;"&gt;This charming period cottage offers a warm and inviting interior, blending character with practicality across two floors. On the ground floor, a spacious lounge with a front aspect provides the perfect setting for relaxing or entertaining, while the generous kitchen/breakfast room extends to the rear, offering ample space for dining and everyday family life. Upstairs, there are two well-proportioned bedrooms complemented by a stylish bathroom,
-creating a comfortable and versatile living environment.
-The property is part of a quaint pair of traditional flint cottages, full of charm and kerb appeal. A welcoming porch
-opens into the home, and there is a delightful garden space to the rear, ideal for outdoor dining, summer entertaining,
-or a tranquil retreat.
-&lt;br /&gt;
-&lt;br /&gt;
-Situated in the heart of the picturesque village of Petham, the cottage enjoys a peaceful rural setting whilst being
-only a short drive from the vibrant city of Canterbury. The village itself offers a friendly community atmosphere,
-surrounded by beautiful countryside with excellent walking and cycling routes. Canterbury&amp;rsquo;s extensive amenities,
-shopping, and highly regarded schools are within easy reach, along with high-speed rail links to London, making
-this an ideal home for both country living and city access.
-&lt;br /&gt;
-&lt;br /&gt;
-Services: Mains electric, water &amp; drainage are understood to be connected to the property. There is no gas.&lt;br /&gt;
-&lt;br /&gt;
-Council tax band: C&lt;br /&gt;
-&lt;br /&gt;
-Tenure: Freehold&lt;br /&gt;
-&lt;br /&gt;
-EPC Rating: 22F&lt;br /&gt;
-&lt;br /&gt;
-What3Words:///connected.grudges.thinkers&lt;/p&gt;</advert2>
-          <advert3>&lt;span style="text-align: justify;"&gt;This charming period cottage offers a warm and inviting interior, blending character with practicality across two floors. On the ground floor, a spacious lounge with a front aspect provides the perfect setting for relaxing or entertaining, while the generous kitchen/breakfast room extends to the rear, offering ample space for dining and everyday family life. Upstairs, there are two well-proportioned bedrooms complemented by a stylish bathroom, creating a comfortable and versatile living environment. The property is part of a quaint pair of traditional flint cottages, full of charm and kerb appeal. A welcoming porch opens into the home, and there is a delightful garden space to the rear, ideal for outdoor dining, summer entertaining, or a tranquil retreat.&lt;/span&gt;&lt;br style="text-align: justify;" /&gt;</advert3>
-          <advert4>&lt;p style="text-align: justify;"&gt;Situated in the heart of the picturesque village of Petham, the cottage enjoys a peaceful rural setting whilst being only a short drive from the vibrant city of Canterbury. The village itself offers a friendly community atmosphere, surrounded by beautiful countryside with excellent walking and cycling routes. Canterbury&amp;rsquo;s extensive amenities, shopping, and highly regarded schools are within easy reach, along with high-speed rail links to London, making this an ideal home for both country living and city access.&lt;/p&gt;</advert4>
-          <advert5>Mains electric, water &amp; drainage are understood to be connected to the property. There is no gas.</advert5>
-          <advert6 />
-          <house_number>1 Stone Cottages</house_number>
-          <street>The Street</street>
-          <district>Petham</district>
-          <town>Canterbury</town>
-          <county>Kent</county>
-          <postcode>CT4 5QY</postcode>
-          <country>UK</country>
-          <area>Canterbury Villages South &amp; West</area>
-          <bullet1>2 Well-proportioned bedrooms</bullet1>
-          <bullet2>Spacious lounge</bullet2>
-          <bullet3>Kitchen/breakfast room</bullet3>
-          <bullet4>Delightful rear garden</bullet4>
-          <bullet5>Great potential for Holiday Rental</bullet5>
-          <bullet6>Incredible Village location </bullet6>
-          <bullet7 />
-          <bullet8 />
-          <bullet9 />
-          <bullet10 />
-          <bullet11 />
-          <bullet12 />
-          <bullet13 />
-          <bullet14 />
-          <bullet15 />
-          <bullet16 />
-          <bullet17 />
-          <bullet18 />
-          <bullet19 />
-          <bullet20 />
-          <brochure>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{B2CCB4A7-098D-461F-BAC2-F5231A92C44A}/external.pdf</brochure>
-          <agency_region>KENT</agency_region>
-          <agency_district>CANTERBURY</agency_district>
-          <agency_location>Canterbury Villages South &amp; West</agency_location>
-          <web_link>https://www.properties.charlesbainbridge.com/index.php?option=com_eapow&amp;format=html&amp;task=property.getProp&amp;?pid=B2CCB4A7-098D-461F-BAC2-F5231A92C44A&amp;aid=C46B2F24-B9CD-417A-9879-F8C0E2A6C226</web_link>
-          <latitude>51.22273</latitude>
-          <longitude>1.045572</longitude>
-          <qrcode>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{B2CCB4A7-098D-461F-BAC2-F5231A92C44A}/qr.png</qrcode>
-          <epc />
-          <hips>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{B2CCB4A7-098D-461F-BAC2-F5231A92C44A}/HIPS/Screenshot 2025-09-22 at 09.25.37.png</hips>
-          <filename3 />
-          <filename4 />
-          <filename5 />
-          <filename6 />
-          <virtual_tour_url />
-          <property_type>House</property_type>
-          <commercial_type />
-          <property_style>Semi Detached</property_style>
-          <property_reference>12616133</property_reference>
-          <newHome>NO</newHome>
-          <noChain>YES</noChain>
-          <furnished>Unknown</furnished>
-          <portalFee />
-          <currency />
-          <featuredProperty>NO</featuredProperty>
-          <number1 name="" value="0" />
-          <number2 name="" value="0" />
-          <number3 name="" value="0" />
-          <number4 name="" value="0" />
-          <number5 name="" value="0" />
-          <number6 name="" value="0" />
-          <number7 name="" value="0" />
-          <number8 name="" value="0" />
-          <number9 name="" value="0" />
-          <number10 name="" value="0" />
-          <rooms>
-            <room name="Porch">
-              <measurement_text />
-              <description />
-            </room>
-            <room name="Hall">
-              <measurement_text />
-              <description />
-            </room>
-            <room name="Lounge">
-              <measurement_text>12' 2'' x 11' 2'' (3.71m x 3.40m)</measurement_text>
-              <description />
-            </room>
-            <room name="Kitchen/Breakfast Room">
-              <measurement_text>18' 2'' x 7' 4'' (5.53m x 2.23m)</measurement_text>
-              <description />
-            </room>
-            <room name="First Floor">
-              <measurement_text />
-              <description />
-            </room>
-            <room name="Landing">
-              <measurement_text />
-              <description />
-            </room>
-            <room name="Bedroom One">
-              <measurement_text>11' 2'' x 8' 10'' (3.40m x 2.69m)</measurement_text>
-              <description />
-            </room>
-            <room name="Bedroom Two">
-              <measurement_text>11' 0'' x 7' 7'' (3.35m x 2.31m)</measurement_text>
-              <description />
-            </room>
-            <room name="Bathroom">
-              <measurement_text>10' 7'' x 7' 4'' (3.22m x 2.23m)</measurement_text>
-              <description />
-            </room>
-            <room name="Exterior">
-              <measurement_text />
-              <description />
-            </room>
-          </rooms>
-          <pictures>
-            <picture name="Photo 21" lastchanged="2025-10-08T11:22:37.6933769Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{b2ccb4a7-098d-461f-bac2-f5231a92c44a}/main/DSC_6879.jpg</filename>
-            </picture>
-            <picture name="Photo 23" lastchanged="2025-10-08T11:22:38.7247245Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{b2ccb4a7-098d-461f-bac2-f5231a92c44a}/main/DSC_6929.jpg</filename>
-            </picture>
-            <picture name="Photo 22" lastchanged="2025-10-08T11:22:38.2559247Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{b2ccb4a7-098d-461f-bac2-f5231a92c44a}/main/DSC_6904.jpg</filename>
-            </picture>
-            <picture name="Photo 17" lastchanged="2025-10-08T11:25:37.3083069Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{b2ccb4a7-098d-461f-bac2-f5231a92c44a}/main/cleaned_room.jpg</filename>
-            </picture>
-            <picture name="Photo 18" lastchanged="2025-10-08T11:22:36.1763085Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{b2ccb4a7-098d-461f-bac2-f5231a92c44a}/main/DSC_6784.jpg</filename>
-            </picture>
-            <picture name="Photo 19" lastchanged="2025-10-08T11:22:36.6932668Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{b2ccb4a7-098d-461f-bac2-f5231a92c44a}/main/DSC_6804.jpg</filename>
-            </picture>
-            <picture name="Photo 20" lastchanged="2025-10-08T11:22:37.1933411Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{b2ccb4a7-098d-461f-bac2-f5231a92c44a}/main/DSC_6809.jpg</filename>
-            </picture>
-            <picture name="Photo 13" lastchanged="2025-09-19T15:13:10.7806131Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{b2ccb4a7-098d-461f-bac2-f5231a92c44a}/main/DSC_6834.jpg</filename>
-            </picture>
-            <picture name="Photo 15" lastchanged="2025-09-19T15:13:11.5931823Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{b2ccb4a7-098d-461f-bac2-f5231a92c44a}/main/DSC_6859.jpg</filename>
-            </picture>
-            <picture name="Photo 35" lastchanged="2025-09-19T15:13:20.5407864Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{b2ccb4a7-098d-461f-bac2-f5231a92c44a}/main/DSC_7018.jpg</filename>
-            </picture>
-            <picture name="Photo 31" lastchanged="2025-09-19T15:13:18.664865Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{b2ccb4a7-098d-461f-bac2-f5231a92c44a}/main/DSC_7002.jpg</filename>
-            </picture>
-            <picture name="Photo 28" lastchanged="2025-09-19T15:13:17.2284711Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{b2ccb4a7-098d-461f-bac2-f5231a92c44a}/main/DSC_6995.jpg</filename>
-            </picture>
-            <picture name="Photo 32" lastchanged="2025-09-19T15:13:19.126015Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{b2ccb4a7-098d-461f-bac2-f5231a92c44a}/main/DSC_7003.jpg</filename>
-            </picture>
-            <picture name="Photo 3" lastchanged="2025-09-19T15:13:07.2060823Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{b2ccb4a7-098d-461f-bac2-f5231a92c44a}/main/DJI_0127.jpg</filename>
-            </picture>
-            <picture name="Photo 5" lastchanged="2025-09-19T15:13:07.5655057Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{b2ccb4a7-098d-461f-bac2-f5231a92c44a}/main/DJI_0131.jpg</filename>
-            </picture>
-            <picture name="Photo 17" lastchanged="2025-10-08T08:01:37.9068709Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{b2ccb4a7-098d-461f-bac2-f5231a92c44a}/main/1-Stone-Cottagesw-Floorplan.jpg</filename>
-            </picture>
-          </pictures>
-          <floorplans>
-            <floorplan name="">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{b2ccb4a7-098d-461f-bac2-f5231a92c44a}/Floorplan_Floorplan1.jpg</filename>
-            </floorplan>
-          </floorplans>
-        </property>
         <property reference="CB003715" hash="0FC149890E9D2BBD8B5361E475C5AAFE">
           <availableFrom />
           <instructedDate>06/05/2025 00:00:00</instructedDate>
@@ -8424,8 +8213,7 @@ What3Words:///torches.parkland.grinders&lt;/p&gt;</advert2>
             <room name="Outside">
               <measurement_text />
               <description>
-
-</description>
+              </description>
             </room>
             <room name="Front Garden">
               <measurement_text />
@@ -8685,12 +8473,12 @@ Externally to the front of the property there is off street parking for 3-4 cars
             <room name="Bedroom Three">
               <measurement_text>9' 0'' x 11' 0'' (2.74m x 3.35m)</measurement_text>
               <description>
- </description>
+              </description>
             </room>
             <room name="Bedroom Four">
               <measurement_text>7' 0'' x 7' 0'' (2.13m x 2.13m)</measurement_text>
               <description>
-</description>
+              </description>
             </room>
             <room name="Bathroom">
               <measurement_text>6' 0'' x 6' 0'' (1.83m x 1.83m)</measurement_text>
@@ -8735,8 +8523,7 @@ Externally to the front of the property there is off street parking for 3-4 cars
             <room name="Rear Garden">
               <measurement_text />
               <description>
-
-</description>
+              </description>
             </room>
           </rooms>
           <pictures>
@@ -10980,6 +10767,217 @@ Outside to the rear is a lovely garden, there is a patio area and a lawned space
           <floorplans>
             <floorplan name="Floorplan">
               <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{40a1174d-1c12-4c55-b554-ab8fb3643eb2}/Floorplan_Floorplan1.jpg</filename>
+            </floorplan>
+          </floorplans>
+        </property>
+        <property reference="CB003706" hash="49B2284DDA036A11B893496D479A0987">
+          <availableFrom />
+          <instructedDate>23/09/2025 17:10:46</instructedDate>
+          <department>Residential Sales</department>
+          <propertyofweek>NO</propertyofweek>
+          <price_text>£320,000</price_text>
+          <numeric_price>320000.0000</numeric_price>
+          <bedrooms>2</bedrooms>
+          <receptions>2</receptions>
+          <bathrooms>1</bathrooms>
+          <priority>On Market</priority>
+          <tenure>Freehold</tenure>
+          <advert_heading>The Street, Petham</advert_heading>
+          <main_advert>A charming period cottage offering a warm and inviting interior, blending character with practicality across two floors.&lt;br /&gt;
+&lt;br /&gt;
+2 Well-proportioned bedrooms&lt;br /&gt;
+Spacious lounge
+Kitchen/breakfast room
+Stylish bathroom
+Delightful rear garden
+Village location 
+EPC Rating: 22F
+</main_advert>
+          <advert2>&lt;p style="text-align: justify;"&gt;This charming period cottage offers a warm and inviting interior, blending character with practicality across two floors. On the ground floor, a spacious lounge with a front aspect provides the perfect setting for relaxing or entertaining, while the generous kitchen/breakfast room extends to the rear, offering ample space for dining and everyday family life. Upstairs, there are two well-proportioned bedrooms complemented by a stylish bathroom,
+creating a comfortable and versatile living environment.
+The property is part of a quaint pair of traditional flint cottages, full of charm and kerb appeal. A welcoming porch
+opens into the home, and there is a delightful garden space to the rear, ideal for outdoor dining, summer entertaining,
+or a tranquil retreat.
+&lt;br /&gt;
+&lt;br /&gt;
+Situated in the heart of the picturesque village of Petham, the cottage enjoys a peaceful rural setting whilst being
+only a short drive from the vibrant city of Canterbury. The village itself offers a friendly community atmosphere,
+surrounded by beautiful countryside with excellent walking and cycling routes. Canterbury&amp;rsquo;s extensive amenities,
+shopping, and highly regarded schools are within easy reach, along with high-speed rail links to London, making
+this an ideal home for both country living and city access.
+&lt;br /&gt;
+&lt;br /&gt;
+Services: Mains electric, water &amp; drainage are understood to be connected to the property. There is no gas.&lt;br /&gt;
+&lt;br /&gt;
+Council tax band: C&lt;br /&gt;
+&lt;br /&gt;
+Tenure: Freehold&lt;br /&gt;
+&lt;br /&gt;
+EPC Rating: 22F&lt;br /&gt;
+&lt;br /&gt;
+What3Words:///connected.grudges.thinkers&lt;/p&gt;</advert2>
+          <advert3>&lt;span style="text-align: justify;"&gt;This charming period cottage offers a warm and inviting interior, blending character with practicality across two floors. On the ground floor, a spacious lounge with a front aspect provides the perfect setting for relaxing or entertaining, while the generous kitchen/breakfast room extends to the rear, offering ample space for dining and everyday family life. Upstairs, there are two well-proportioned bedrooms complemented by a stylish bathroom, creating a comfortable and versatile living environment. The property is part of a quaint pair of traditional flint cottages, full of charm and kerb appeal. A welcoming porch opens into the home, and there is a delightful garden space to the rear, ideal for outdoor dining, summer entertaining, or a tranquil retreat.&lt;/span&gt;&lt;br style="text-align: justify;" /&gt;</advert3>
+          <advert4>&lt;p style="text-align: justify;"&gt;Situated in the heart of the picturesque village of Petham, the cottage enjoys a peaceful rural setting whilst being only a short drive from the vibrant city of Canterbury. The village itself offers a friendly community atmosphere, surrounded by beautiful countryside with excellent walking and cycling routes. Canterbury&amp;rsquo;s extensive amenities, shopping, and highly regarded schools are within easy reach, along with high-speed rail links to London, making this an ideal home for both country living and city access.&lt;/p&gt;</advert4>
+          <advert5>Mains electric, water &amp; drainage are understood to be connected to the property. There is no gas.</advert5>
+          <advert6 />
+          <house_number>1 Stone Cottages</house_number>
+          <street>The Street</street>
+          <district>Petham</district>
+          <town>Canterbury</town>
+          <county>Kent</county>
+          <postcode>CT4 5QY</postcode>
+          <country>UK</country>
+          <area>Canterbury Villages South &amp; West</area>
+          <bullet1>2 Well-proportioned bedrooms</bullet1>
+          <bullet2>Spacious lounge</bullet2>
+          <bullet3>Kitchen/breakfast room</bullet3>
+          <bullet4>Delightful rear garden</bullet4>
+          <bullet5>Great potential for Holiday Rental</bullet5>
+          <bullet6>Incredible Village location </bullet6>
+          <bullet7 />
+          <bullet8 />
+          <bullet9 />
+          <bullet10 />
+          <bullet11 />
+          <bullet12 />
+          <bullet13 />
+          <bullet14 />
+          <bullet15 />
+          <bullet16 />
+          <bullet17 />
+          <bullet18 />
+          <bullet19 />
+          <bullet20 />
+          <brochure>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{B2CCB4A7-098D-461F-BAC2-F5231A92C44A}/external.pdf</brochure>
+          <agency_region>KENT</agency_region>
+          <agency_district>CANTERBURY</agency_district>
+          <agency_location>Canterbury Villages South &amp; West</agency_location>
+          <web_link>https://www.properties.charlesbainbridge.com/index.php?option=com_eapow&amp;format=html&amp;task=property.getProp&amp;?pid=B2CCB4A7-098D-461F-BAC2-F5231A92C44A&amp;aid=C46B2F24-B9CD-417A-9879-F8C0E2A6C226</web_link>
+          <latitude>51.22273</latitude>
+          <longitude>1.045572</longitude>
+          <qrcode>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{B2CCB4A7-098D-461F-BAC2-F5231A92C44A}/qr.png</qrcode>
+          <epc />
+          <hips>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{B2CCB4A7-098D-461F-BAC2-F5231A92C44A}/HIPS/Screenshot 2025-09-22 at 09.25.37.png</hips>
+          <filename3 />
+          <filename4 />
+          <filename5 />
+          <filename6 />
+          <virtual_tour_url />
+          <property_type>House</property_type>
+          <commercial_type />
+          <property_style>Semi Detached</property_style>
+          <property_reference>12616133</property_reference>
+          <newHome>NO</newHome>
+          <noChain>YES</noChain>
+          <furnished>Unknown</furnished>
+          <portalFee />
+          <currency />
+          <featuredProperty>NO</featuredProperty>
+          <number1 name="" value="0" />
+          <number2 name="" value="0" />
+          <number3 name="" value="0" />
+          <number4 name="" value="0" />
+          <number5 name="" value="0" />
+          <number6 name="" value="0" />
+          <number7 name="" value="0" />
+          <number8 name="" value="0" />
+          <number9 name="" value="0" />
+          <number10 name="" value="0" />
+          <rooms>
+            <room name="Porch">
+              <measurement_text />
+              <description />
+            </room>
+            <room name="Hall">
+              <measurement_text />
+              <description />
+            </room>
+            <room name="Lounge">
+              <measurement_text>12' 2'' x 11' 2'' (3.71m x 3.40m)</measurement_text>
+              <description />
+            </room>
+            <room name="Kitchen/Breakfast Room">
+              <measurement_text>18' 2'' x 7' 4'' (5.53m x 2.23m)</measurement_text>
+              <description />
+            </room>
+            <room name="First Floor">
+              <measurement_text />
+              <description />
+            </room>
+            <room name="Landing">
+              <measurement_text />
+              <description />
+            </room>
+            <room name="Bedroom One">
+              <measurement_text>11' 2'' x 8' 10'' (3.40m x 2.69m)</measurement_text>
+              <description />
+            </room>
+            <room name="Bedroom Two">
+              <measurement_text>11' 0'' x 7' 7'' (3.35m x 2.31m)</measurement_text>
+              <description />
+            </room>
+            <room name="Bathroom">
+              <measurement_text>10' 7'' x 7' 4'' (3.22m x 2.23m)</measurement_text>
+              <description />
+            </room>
+            <room name="Exterior">
+              <measurement_text />
+              <description />
+            </room>
+          </rooms>
+          <pictures>
+            <picture name="Photo 31" lastchanged="2025-09-19T15:13:18.664865Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{b2ccb4a7-098d-461f-bac2-f5231a92c44a}/main/DSC_7002.jpg</filename>
+            </picture>
+            <picture name="Photo 21" lastchanged="2025-10-08T11:22:37.6933769Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{b2ccb4a7-098d-461f-bac2-f5231a92c44a}/main/DSC_6879.jpg</filename>
+            </picture>
+            <picture name="Photo 23" lastchanged="2025-10-08T11:22:38.7247245Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{b2ccb4a7-098d-461f-bac2-f5231a92c44a}/main/DSC_6929.jpg</filename>
+            </picture>
+            <picture name="Photo 22" lastchanged="2025-10-08T11:22:38.2559247Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{b2ccb4a7-098d-461f-bac2-f5231a92c44a}/main/DSC_6904.jpg</filename>
+            </picture>
+            <picture name="Photo 17" lastchanged="2025-10-08T11:25:37.3083069Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{b2ccb4a7-098d-461f-bac2-f5231a92c44a}/main/cleaned_room.jpg</filename>
+            </picture>
+            <picture name="Photo 18" lastchanged="2025-10-08T11:22:36.1763085Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{b2ccb4a7-098d-461f-bac2-f5231a92c44a}/main/DSC_6784.jpg</filename>
+            </picture>
+            <picture name="Photo 19" lastchanged="2025-10-08T11:22:36.6932668Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{b2ccb4a7-098d-461f-bac2-f5231a92c44a}/main/DSC_6804.jpg</filename>
+            </picture>
+            <picture name="Photo 20" lastchanged="2025-10-08T11:22:37.1933411Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{b2ccb4a7-098d-461f-bac2-f5231a92c44a}/main/DSC_6809.jpg</filename>
+            </picture>
+            <picture name="Photo 13" lastchanged="2025-09-19T15:13:10.7806131Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{b2ccb4a7-098d-461f-bac2-f5231a92c44a}/main/DSC_6834.jpg</filename>
+            </picture>
+            <picture name="Photo 15" lastchanged="2025-09-19T15:13:11.5931823Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{b2ccb4a7-098d-461f-bac2-f5231a92c44a}/main/DSC_6859.jpg</filename>
+            </picture>
+            <picture name="Photo 35" lastchanged="2025-09-19T15:13:20.5407864Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{b2ccb4a7-098d-461f-bac2-f5231a92c44a}/main/DSC_7018.jpg</filename>
+            </picture>
+            <picture name="Photo 28" lastchanged="2025-09-19T15:13:17.2284711Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{b2ccb4a7-098d-461f-bac2-f5231a92c44a}/main/DSC_6995.jpg</filename>
+            </picture>
+            <picture name="Photo 32" lastchanged="2025-09-19T15:13:19.126015Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{b2ccb4a7-098d-461f-bac2-f5231a92c44a}/main/DSC_7003.jpg</filename>
+            </picture>
+            <picture name="Photo 3" lastchanged="2025-09-19T15:13:07.2060823Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{b2ccb4a7-098d-461f-bac2-f5231a92c44a}/main/DJI_0127.jpg</filename>
+            </picture>
+            <picture name="Photo 5" lastchanged="2025-09-19T15:13:07.5655057Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{b2ccb4a7-098d-461f-bac2-f5231a92c44a}/main/DJI_0131.jpg</filename>
+            </picture>
+            <picture name="Photo 17" lastchanged="2025-10-08T08:01:37.9068709Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{b2ccb4a7-098d-461f-bac2-f5231a92c44a}/main/1-Stone-Cottagesw-Floorplan.jpg</filename>
+            </picture>
+          </pictures>
+          <floorplans>
+            <floorplan name="">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{b2ccb4a7-098d-461f-bac2-f5231a92c44a}/Floorplan_Floorplan1.jpg</filename>
             </floorplan>
           </floorplans>
         </property>
