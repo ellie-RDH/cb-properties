@@ -10548,7 +10548,7 @@ Outside to the rear is a lovely garden, there is a patio area and a lawned space
             </floorplan>
           </floorplans>
         </property>
-        <property reference="CB003706" hash="A87FABB81AB2EF947482A4A99EC3DEFB">
+        <property reference="CB003706" hash="B4E74C2B8011119EFA6954D8F12708BE">
           <availableFrom />
           <instructedDate>23/09/2025 17:10:46</instructedDate>
           <department>Residential Sales</department>
@@ -10704,9 +10704,6 @@ What3Words:///connected.grudges.thinkers&lt;/p&gt;</advert2>
             </room>
           </rooms>
           <pictures>
-            <picture name="Photo 3" lastchanged="2025-09-19T15:13:07.2060823Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{b2ccb4a7-098d-461f-bac2-f5231a92c44a}/main/DJI_0127.jpg</filename>
-            </picture>
             <picture name="Photo 31" lastchanged="2025-09-19T15:13:18.664865Z">
               <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{b2ccb4a7-098d-461f-bac2-f5231a92c44a}/main/DSC_7002.jpg</filename>
             </picture>
@@ -10748,6 +10745,9 @@ What3Words:///connected.grudges.thinkers&lt;/p&gt;</advert2>
             </picture>
             <picture name="Photo 5" lastchanged="2025-09-19T15:13:07.5655057Z">
               <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{b2ccb4a7-098d-461f-bac2-f5231a92c44a}/main/DJI_0131.jpg</filename>
+            </picture>
+            <picture name="Photo 3" lastchanged="2025-09-19T15:13:07.2060823Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{b2ccb4a7-098d-461f-bac2-f5231a92c44a}/main/DJI_0127.jpg</filename>
             </picture>
             <picture name="Photo 17" lastchanged="2025-10-08T08:01:37.9068709Z">
               <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{b2ccb4a7-098d-461f-bac2-f5231a92c44a}/main/1-Stone-Cottagesw-Floorplan.jpg</filename>
