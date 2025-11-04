@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<agency xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:noNamespaceSchemaLocation="http://www.expertagent.co.uk/xmlexport/ExpertAgentXMLSchema.xsd" name="CharlesBainbridge">
+﻿<?xml version="1.0" encoding="utf-8"?>
+<agency xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:noNamespaceSchemaLocation="http://www.expertagent.co.uk/xmlexport/ExpertAgentXMLSchema.xsd" name="CharlesBainbridge" branchName="Charles Bainbridge">
   <branches>
     <branch name="Charles Bainbridge">
       <properties>
@@ -3132,219 +3132,6 @@ What3Words: ///palace.habit.once&lt;/p&gt;</advert2>
             </floorplan>
           </floorplans>
         </property>
-        <property reference="CB003544" hash="67F6166A70932BC9C4997055C7F30D94">
-          <availableFrom />
-          <instructedDate>27/01/2025 15:34:46</instructedDate>
-          <department>Residential Sales</department>
-          <propertyofweek>NO</propertyofweek>
-          <price_text>£399,995</price_text>
-          <numeric_price>399995.0000</numeric_price>
-          <bedrooms>2</bedrooms>
-          <receptions>1</receptions>
-          <bathrooms>2</bathrooms>
-          <priority>On Market</priority>
-          <tenure>Leasehold</tenure>
-          <advert_heading>Keepers Close, Canterbury</advert_heading>
-          <main_advert>An impressive apartment in the landmark purpose-built McCarthy &amp; Stone complex set directly on the edge of St. Lawrence Cricket Ground.&lt;br /&gt;
-&lt;br /&gt;
-2 Bedrooms, one with walk-in wardrobe&lt;br /&gt;
-2 Shower rooms&lt;br /&gt;
-Large sitting/dining room with balcony&lt;br /&gt;
-Attractive kitchen with integral appliance&lt;br /&gt;
-Communal lounge with spectacular views of the cricket ground&lt;br /&gt;
-Parking space &amp;amp; communal facilities&lt;br /&gt;
-No onward chain&lt;br /&gt;
-EPC Rating: 81B</main_advert>
-          <advert2>&lt;p style="text-align: justify;"&gt;A second floor apartment in a flagship purpose-built McCarthy &amp; Stone complex set directly on the edge of the St. Lawrence Cricket Ground. The property provides spacious and well appointed accommodation. There is a large sitting/dining room overlooking and opening onto a balcony and the adjoining kitchen is attractively fitted and includes a range of integral appliances. The main bedroom has a large window and a large ensuite shower room and a walk-in-wardrobe. There is a further double bedroom and separate shower room and useful walk-in utility cupboard which houses the hot water cylinder and electric boiler serving the underfloor heating system. The property also benefits from emergency pull cords, intercom to the main entrance gates and an unexpired NHBC cover, 10 years from 2017.&lt;br /&gt;
-&lt;br /&gt;
-There are extensive residents facilities including a striking and spacious first floor communal residents' lounge affording magnificent views of the cricket ground, guests suites are available for booking and there is provision for electric mobility scooters. A dedicated House Manager is available to help five days a week.
-Externally the property is approached via a secure gated entrance and benefits from its own parking space, in the residents' car park. There are also additional visitors spaces and communal gardens. &lt;br /&gt;
-&lt;br /&gt;
-The property offers the ultimate in retirement living in a unique location with the benefit of a nearby Sainsbury's local whilst still having easy access to Canterbury City centre either by bus or on foot. Kent &amp;amp; Canterbury and Chaucer Hospitals are also easily accessible. Canterbury west station provides High Speed rail services to London St. Pancras with a journey time of approx. 55 mins. Ashford International station is accessible to the west via the A28 and the Channel Ports of Dover and Folkestone to the south provide regular ferry and Channel Tunnel services to the Continent. The A2 gives easy access to the M2 motorway to the west and the M20 to the south.&lt;br /&gt;
-&lt;span style="text-align: justify;"&gt;&lt;br /&gt;
-Council tax band: D&lt;/span&gt;&lt;br /&gt;
-&lt;br /&gt;
-Tenure: Leasehold&lt;br /&gt;
-&lt;br /&gt;
-Lease term: 150 years (less than 6 days) from 17th December 2015 &lt;br /&gt;
-&lt;br /&gt;
-Service charge: Approx. &amp;pound;287.36 pcm &lt;br /&gt;
-&lt;br /&gt;
-Ground rent: Approx. &amp;pound;247.50 paid every 6 months.&lt;br /&gt;
-&lt;br /&gt;
-EPC Rating: 81B&lt;br /&gt;
-&lt;br /&gt;
-What3Words:///police.upgrading.corn&lt;/p&gt;</advert2>
-          <advert3>&lt;p style="text-align: justify;"&gt;A second floor apartment in a flagship purpose-built McCarthy &amp; Stone complex set directly on the edge of the St. Lawrence Cricket Ground. The property provides spacious and well appointed accommodation. There is a large sitting/dining room overlooking and opening onto a balcony and the adjoining kitchen is attractively fitted and includes a range of integral appliances. The main bedroom has a large window and a large ensuite shower room and a walk-in-wardrobe. There is a further double bedroom and separate shower room and useful walk-in utility cupboard which houses the hot water cylinder and electric boiler serving the underfloor heating system. The property also benefits from emergency pull cords, intercom to the main entrance gates and an unexpired NHBC cover, 10 years from 2017.
-&lt;br /&gt;
-&lt;br /&gt;
-There are extensive residents facilities including a striking and spacious first floor communal residents' lounge affording magnificent views of the cricket ground, guests suites are available for booking and there is provision for electric mobility scooters. A dedicated House Manager is available to help five days a week. Externally the property is approached via a secure gated entrance and benefits from its own parking space, in the residents' car park. There are also additional visitors spaces and communal gardens.
-&lt;/p&gt;</advert3>
-          <advert4>&lt;p style="text-align: justify;"&gt;The property offers the ultimate in retirement living in a unique location with the benefit of a nearby Sainsbury's local whilst still having easy access to Canterbury City centre either by bus or on foot. Kent &amp; Canterbury and Chaucer Hospitals are also easily accessible. Canterbury west station provides High Speed rail services to London St. Pancras with a journey time of approx. 55 mins. Ashford International station is accessible to the west via the A28 and the Channel Ports of Dover and Folkestone to the south provide regular ferry and Channel Tunnel services to the Continent. The A2 gives easy access to the M2 motorway to the west and the M20 to the south.&lt;/p&gt;</advert4>
-          <advert5>All mains services are understood to be connected to the property with the exception of gas.</advert5>
-          <advert6>Tenure: Leasehold
-Lease term: 150 years (less than 6 days) from 17th December 2015
-Service charge: Approx. &amp;pound;287.36 pcm
-Ground rent: Approx. &amp;pound;247.50 paid every 6 months.</advert6>
-          <house_number>Flat 44 Freeman House</house_number>
-          <street>Keepers Close</street>
-          <district />
-          <town>Canterbury</town>
-          <county>Kent</county>
-          <postcode>CT1 3YG</postcode>
-          <country>UK</country>
-          <area>Canterbury Centre</area>
-          <bullet1>2 Bedrooms, one with walk-in-wardrobe</bullet1>
-          <bullet2>2 Shower rooms</bullet2>
-          <bullet3>Large sitting/dining room with balcony</bullet3>
-          <bullet4>Attractive kitchen with integral appliances</bullet4>
-          <bullet5>Communal lounge with spectacular views of the cricket grounds</bullet5>
-          <bullet6>Parking space &amp; communal facilities</bullet6>
-          <bullet7>No onward chain</bullet7>
-          <bullet8>EPC Rating: 81B</bullet8>
-          <bullet9 />
-          <bullet10 />
-          <bullet11 />
-          <bullet12 />
-          <bullet13 />
-          <bullet14 />
-          <bullet15 />
-          <bullet16 />
-          <bullet17 />
-          <bullet18 />
-          <bullet19 />
-          <bullet20 />
-          <brochure>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{4378C324-DA56-4299-996F-135349249488}/external.pdf</brochure>
-          <agency_region>KENT</agency_region>
-          <agency_district>CANTERBURY</agency_district>
-          <agency_location>Canterbury Centre</agency_location>
-          <web_link>https://www.properties.charlesbainbridge.com/index.php?option=com_eapow&amp;format=html&amp;task=property.getProp&amp;?pid=4378C324-DA56-4299-996F-135349249488&amp;aid=C46B2F24-B9CD-417A-9879-F8C0E2A6C226</web_link>
-          <latitude>51.26877</latitude>
-          <longitude>1.091713</longitude>
-          <qrcode>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{4378C324-DA56-4299-996F-135349249488}/qr.png</qrcode>
-          <epc />
-          <hips>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{4378C324-DA56-4299-996F-135349249488}/HIPS/8181.png</hips>
-          <filename3 />
-          <filename4 />
-          <filename5 />
-          <filename6 />
-          <virtual_tour_url />
-          <property_type>Retirement</property_type>
-          <commercial_type />
-          <property_style>Upper Floor Flat</property_style>
-          <property_reference>12467049</property_reference>
-          <newHome>NO</newHome>
-          <noChain>YES</noChain>
-          <furnished>Unknown</furnished>
-          <portalFee />
-          <currency />
-          <featuredProperty>NO</featuredProperty>
-          <text3 name="" value="Copy on events - Property docs. AD" />
-          <date3 name="Data Protection - Seller" value="27/01/2025 00:00:00" />
-          <number1 name="" value="0" />
-          <number2 name="" value="0" />
-          <number3 name="" value="0" />
-          <number4 name="" value="0" />
-          <number5 name="" value="0" />
-          <number6 name="" value="0" />
-          <number7 name="" value="0" />
-          <number8 name="" value="0" />
-          <number9 name="" value="0" />
-          <number10 name="" value="0" />
-          <rooms>
-            <room name="Entrance Hall">
-              <measurement_text />
-              <description />
-            </room>
-            <room name="Sitting Room">
-              <measurement_text>19' 5'' x 12' 2'' (5.91m x 3.71m)</measurement_text>
-              <description />
-            </room>
-            <room name="Balcony">
-              <measurement_text />
-              <description />
-            </room>
-            <room name="Kitchen">
-              <measurement_text>8' 10'' x 7' 6'' (2.69m x 2.28m)</measurement_text>
-              <description />
-            </room>
-            <room name="Bedroom One">
-              <measurement_text>19' 10'' x 13' 1'' (6.04m x 3.98m)</measurement_text>
-              <description />
-            </room>
-            <room name="Ensuite">
-              <measurement_text>7' 1'' x 6' 11'' (2.16m x 2.11m)</measurement_text>
-              <description />
-            </room>
-            <room name="Walk-in Wardrobe">
-              <measurement_text />
-              <description />
-            </room>
-            <room name="Bedroom Two">
-              <measurement_text>15' 3'' x 9' 8'' (4.64m x 2.94m)</measurement_text>
-              <description />
-            </room>
-            <room name="Shower Room">
-              <measurement_text>7' 10'' x 4' 7'' (2.39m x 1.40m)</measurement_text>
-              <description />
-            </room>
-          </rooms>
-          <pictures>
-            <picture name="Photo 1" lastchanged="2025-01-21T12:28:45.0842069Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{4378c324-da56-4299-996f-135349249488}/main/DJI_0750.jpg</filename>
-            </picture>
-            <picture name="Photo 17" lastchanged="2025-01-21T12:29:20.9083283Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{4378c324-da56-4299-996f-135349249488}/main/DSC04655.jpg</filename>
-            </picture>
-            <picture name="Photo 22" lastchanged="2025-01-21T12:29:32.3400821Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{4378c324-da56-4299-996f-135349249488}/main/DSC04679.jpg</filename>
-            </picture>
-            <picture name="Photo 24" lastchanged="2025-09-08T14:22:01.6230131Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{4378c324-da56-4299-996f-135349249488}/main/image24.jpg</filename>
-            </picture>
-            <picture name="Photo 23" lastchanged="2025-01-21T12:29:34.5658254Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{4378c324-da56-4299-996f-135349249488}/main/DSC04688.jpg</filename>
-            </picture>
-            <picture name="Photo 29" lastchanged="2025-01-21T12:29:46.5185249Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{4378c324-da56-4299-996f-135349249488}/main/DSC04724.jpg</filename>
-            </picture>
-            <picture name="Photo 22" lastchanged="2025-09-08T14:22:01.1386052Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{4378c324-da56-4299-996f-135349249488}/main/cleaned_carpet-(1).jpg</filename>
-            </picture>
-            <picture name="Photo 24" lastchanged="2025-01-21T12:29:36.0064069Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{4378c324-da56-4299-996f-135349249488}/main/DSC04700.jpg</filename>
-            </picture>
-            <picture name="Photo 15" lastchanged="2025-01-21T12:29:16.304148Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{4378c324-da56-4299-996f-135349249488}/main/DSC04643.jpg</filename>
-            </picture>
-            <picture name="Photo 2" lastchanged="2025-01-21T12:28:47.4484464Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{4378c324-da56-4299-996f-135349249488}/main/DSC04593.jpg</filename>
-            </picture>
-            <picture name="Photo 20" lastchanged="2025-01-24T12:38:51.53586Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{4378c324-da56-4299-996f-135349249488}/main/DSC04631.jpg</filename>
-            </picture>
-            <picture name="Photo 21" lastchanged="2025-01-24T12:38:53.8486275Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{4378c324-da56-4299-996f-135349249488}/main/DSC04637.jpg</filename>
-            </picture>
-            <picture name="Photo 14" lastchanged="2025-01-21T12:29:14.0066717Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{4378c324-da56-4299-996f-135349249488}/main/DSC04640.jpg</filename>
-            </picture>
-            <picture name="Photo 3" lastchanged="2025-01-21T12:28:49.7342948Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{4378c324-da56-4299-996f-135349249488}/main/DSC04602.jpg</filename>
-            </picture>
-            <picture name="Photo 4" lastchanged="2025-01-21T12:28:51.9853043Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{4378c324-da56-4299-996f-135349249488}/main/DSC04605.jpg</filename>
-            </picture>
-            <picture name="Photo 17" lastchanged="2025-10-08T11:28:12.9877647Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{4378c324-da56-4299-996f-135349249488}/main/44-Freeman-House-Floorplan.jpg</filename>
-            </picture>
-          </pictures>
-          <floorplans>
-            <floorplan name="">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{4378c324-da56-4299-996f-135349249488}/Floorplan_Floorplan1.jpg</filename>
-            </floorplan>
-          </floorplans>
-        </property>
         <property reference="CB003575" hash="F22184F2A748F2AA73246093B7F0DCE3">
           <availableFrom />
           <instructedDate>11/10/2024 09:51:12</instructedDate>
@@ -4321,175 +4108,6 @@ What3Words:///taker.dice.update&lt;br /&gt;
           <floorplans>
             <floorplan name="">
               <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{c49b1e8b-812b-4c97-b64e-1f16ce3ff6f1}/Floorplan_Floorplan1.jpg</filename>
-            </floorplan>
-          </floorplans>
-        </property>
-        <property reference="CB003627" hash="C4BC9D8D9884DAAB79E85621AD2DF943">
-          <availableFrom />
-          <instructedDate>27/12/2024 09:16:02</instructedDate>
-          <department>Residential Sales</department>
-          <propertyofweek>NO</propertyofweek>
-          <price_text>£425,000</price_text>
-          <numeric_price>425000.0000</numeric_price>
-          <bedrooms>2</bedrooms>
-          <receptions>1</receptions>
-          <bathrooms>1</bathrooms>
-          <priority>On Market</priority>
-          <tenure>Freehold</tenure>
-          <advert_heading>Palace Street, Canterbury</advert_heading>
-          <main_advert>A most attractive Grade ll listed period building set in the colourful King's Mile area of the City in amongst a vibrant range of independent retailers, cafes and bistros and only a short walk the Cathedral precincts.&lt;br /&gt;
-&lt;br /&gt;
-Central location&lt;br /&gt;
-Retail shop&lt;br /&gt;
-Basement&lt;br /&gt;
-Rear courtyard&lt;br /&gt;
-Residential flat over two floors&lt;br /&gt;
-Decking at first floor level with roof top views&lt;br /&gt;
-Period building&lt;br /&gt;
-EPC - Commerical premises: 108E / Flat above: 64D</main_advert>
-          <advert2>&lt;p style="text-align: justify;"&gt;&lt;span style="font-family: 'HelveticaNeueLT Com 45 Lt', sans-serif; font-size: 13px; color: #1f497d;"&gt;A most attractive Grade ll listed period building set in the colourful King's Mile area of the City in amongst a vibrant range of independent retailers, cafes and bistros and only a short walk the Cathedral precincts. The property has accommodation set over four floors and is configured to provide retail premises on the ground floor and basement, and a residential split-level flat on the upper two floors. &lt;/span&gt;&lt;/p&gt;
-&lt;p style="text-align: justify;"&gt;&lt;span style="font-family: 'HelveticaNeueLT Com 45 Lt', sans-serif; font-size: 13px; color: #1f497d;"&gt;The retail premises is pleasantly presented providing a shop with window frontage to Palace Street and on the lower ground floor are two basement rooms providing stock storage.  From the rear access is gained to the courtyard garden which measures approx 20' 7'' x 11' 11'' (6.27m x 3.63m) enclosed by solid brick walls and w/c.  &lt;/span&gt;&lt;/p&gt;
-&lt;p style="text-align: justify;"&gt;&lt;span style="font-family: 'HelveticaNeueLT Com 45 Lt', sans-serif; font-size: 13px; color: #1f497d;"&gt;The residential split-level flat on the upper levels is attractively presented and includes a large sitting/dining room to the front with views of the Cathedral spire. To the rear is an attractively fitted kitchen/dining to the rear, storage cupboard and patio doors to a small decked area enjoying views over the roof tops of the City. On the second floor are two comfortable bedrooms, both with inbuilt storage cupboards and the bathroom. The apartment benefits from gas fired heating and a good-sized loft.&lt;/span&gt;&lt;/p&gt;
-&lt;p style="text-align: justify;"&gt;&lt;span style="font-family: 'HelveticaNeueLT Com 45 Lt', sans-serif; font-size: 13px; color: #1f497d;"&gt;The property is centrally located with all the main facilities and attractions are within walking distance including Canterbury Cathedral, the Marlowe Theatre and Whitefriars shopping comlex. The City also has a comprehensive range of Schools and Colleges plus two Universities. The High-Speed rail link provides services to London St. Pancras from Canterbury west station with a journey time of approx. 55 mins.&lt;/span&gt;&lt;/p&gt;
-&lt;p style="text-align: justify;"&gt;&lt;span style="color: #1f497d;"&gt;
-Current rateable value: Approx. &amp;pound;8,100&lt;br /&gt;
-&lt;br /&gt;
-Council tax band: Flat - B&lt;br /&gt;
-&lt;br /&gt;
-Tenure: Freehold&lt;br /&gt;
-&lt;br /&gt;
-EPC Rating: Commercial premises - 108E&lt;br /&gt;
-&lt;br /&gt;
-EPC Rating:  Flat - 64D&lt;br /&gt;
-&lt;br /&gt;
-What3words: ///bath.neon.skip&lt;/span&gt;&lt;/p&gt;</advert2>
-          <advert3>&lt;p style="text-align: justify;"&gt;&lt;span style="color: #003767; font-size: 13px; font-family: 'HelveticaNeueLT Com 45 Lt', sans-serif;"&gt;A most attractive Grade ll listed period building set in the colourful King's Mile area of the City in amongst a vibrant range of independent retailers, cafes and bistros and only a short walk the Cathedral precincts. The property has accommodation set over four floors and is configured to provide retail premises on the ground floor and basement, and a residential split-level flat on the upper two floors. &lt;/span&gt;&lt;/p&gt;
-&lt;p style="text-align: justify;"&gt;&lt;span style="color: #003767; font-family: 'HelveticaNeueLT Com 45 Lt', sans-serif; font-size: 13px;"&gt;The retail premises is pleasantly presented providing a shop with window frontage to Palace Street and on the lower ground floor are two basement rooms providing stock storage.  From the rear access is gained to the courtyard garden which measures approx 20' 7'' x 11' 11'' (6.27m x 3.63m) enclosed by solid brick walls and w/c.&amp;nbsp; &lt;/span&gt;&lt;/p&gt;
-&lt;p style="text-align: justify;"&gt;&lt;span style="color: #003767; font-family: 'HelveticaNeueLT Com 45 Lt', sans-serif; font-size: 13px;"&gt;The residential split-level flat on the upper levels is attractively presented and includes a large sitting/dining room to the front with views of the Cathedral spire. To the rear is an attractively fitted kitchen/dining to the rear, storage cupboard and patio doors to a small decked area enjoying views over the roof tops of the City. On the second floor are two comfortable bedrooms, both with inbuilt storage cupboards and the bathroom. The apartment benefits from gas fired heating and a good-sized loft.&lt;/span&gt;&lt;/p&gt;</advert3>
-          <advert4>The property is centrally located with all the main facilities and attractions are within walking distance including Canterbury Cathedral, the Marlowe Theatre and Whitefriars shopping comlex. The City also has a comprehensive range of Schools and Colleges plus two Universities. The High-Speed rail link provides services to London St. Pancras from Canterbury west station with a journey time of approx. 55 mins.</advert4>
-          <advert5>All main services are understood to be connected to the property. </advert5>
-          <advert6 />
-          <house_number>26</house_number>
-          <street>Palace Street</street>
-          <district />
-          <town>Canterbury</town>
-          <county>Kent</county>
-          <postcode>CT1 2DZ</postcode>
-          <country>UK</country>
-          <area>Canterbury Centre</area>
-          <bullet1>Central location</bullet1>
-          <bullet2>Retail shop</bullet2>
-          <bullet3>Basement</bullet3>
-          <bullet4>Rear courtyard</bullet4>
-          <bullet5>Residential flat over two floors</bullet5>
-          <bullet6>Decking at first floor level with roof top views</bullet6>
-          <bullet7>Period building</bullet7>
-          <bullet8>EPC Rating: Commerical premises: 108E / Flat above: 64D</bullet8>
-          <bullet9 />
-          <bullet10 />
-          <bullet11 />
-          <bullet12 />
-          <bullet13 />
-          <bullet14 />
-          <bullet15 />
-          <bullet16 />
-          <bullet17 />
-          <bullet18 />
-          <bullet19 />
-          <bullet20 />
-          <brochure>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{9C24C16D-164D-489C-B8ED-AA92BDA612C3}/external.pdf</brochure>
-          <agency_region>KENT</agency_region>
-          <agency_district>CANTERBURY</agency_district>
-          <agency_location>Canterbury Centre</agency_location>
-          <web_link>https://www.properties.charlesbainbridge.com/index.php?option=com_eapow&amp;format=html&amp;task=property.getProp&amp;?pid=9C24C16D-164D-489C-B8ED-AA92BDA612C3&amp;aid=C46B2F24-B9CD-417A-9879-F8C0E2A6C226</web_link>
-          <latitude>51.2813</latitude>
-          <longitude>1.081614</longitude>
-          <qrcode>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{9C24C16D-164D-489C-B8ED-AA92BDA612C3}/qr.png</qrcode>
-          <epc />
-          <hips>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{9C24C16D-164D-489C-B8ED-AA92BDA612C3}/HIPS/EPC's - 26 Palace Street.jpg</hips>
-          <filename3 />
-          <filename4 />
-          <filename5 />
-          <filename6 />
-          <virtual_tour_url />
-          <property_type>House</property_type>
-          <commercial_type />
-          <property_style>Terraced</property_style>
-          <property_reference>12542244</property_reference>
-          <newHome>NO</newHome>
-          <noChain>YES</noChain>
-          <furnished>Unknown</furnished>
-          <portalFee />
-          <currency />
-          <featuredProperty>NO</featuredProperty>
-          <text1 name="" value="Copy on events, Property Documents - IBP" />
-          <text2 name="" value="Copy on events, Property Documents - IBP" />
-          <text3 name="" value="opy on events, Property Documents - IBP" />
-          <text5 name="" value="Kelly - Passport. AD" />
-          <date1 name="Title Register" value="10/01/2025 00:00:00" />
-          <date2 name="Title Plan" value="10/01/2025 00:00:00" />
-          <date3 name="Data Protection - Seller" value="24/12/2024 00:00:00" />
-          <number1 name="" value="0" />
-          <number2 name="" value="0" />
-          <number3 name="" value="0" />
-          <number4 name="" value="0" />
-          <number5 name="" value="0" />
-          <number6 name="" value="0" />
-          <number7 name="" value="0" />
-          <number8 name="" value="0" />
-          <number9 name="" value="0" />
-          <number10 name="" value="0" />
-          <rooms />
-          <pictures>
-            <picture name="Photo 8" lastchanged="2024-12-09T12:23:50.8624868Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{9c24c16d-164d-489c-b8ed-aa92bda612c3}/main/IMG_8606.jpg</filename>
-            </picture>
-            <picture name="Photo 9" lastchanged="2024-12-09T12:23:51.3783118Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{9c24c16d-164d-489c-b8ed-aa92bda612c3}/main/IMG_8609.jpg</filename>
-            </picture>
-            <picture name="Photo 10" lastchanged="2024-12-09T12:23:51.909635Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{9c24c16d-164d-489c-b8ed-aa92bda612c3}/main/IMG_8610.jpg</filename>
-            </picture>
-            <picture name="Photo 7" lastchanged="2024-12-09T12:23:50.362441Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{9c24c16d-164d-489c-b8ed-aa92bda612c3}/main/IMG_8605.jpg</filename>
-            </picture>
-            <picture name="Photo 1" lastchanged="2024-12-09T12:23:47.2211717Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{9c24c16d-164d-489c-b8ed-aa92bda612c3}/main/IMG_8636-94979780.jpg</filename>
-            </picture>
-            <picture name="Photo 13" lastchanged="2024-12-09T12:23:53.3701206Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{9c24c16d-164d-489c-b8ed-aa92bda612c3}/main/IMG_8616.jpg</filename>
-            </picture>
-            <picture name="Photo 14" lastchanged="2024-12-09T12:23:53.8857774Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{9c24c16d-164d-489c-b8ed-aa92bda612c3}/main/IMG_8619.jpg</filename>
-            </picture>
-            <picture name="Photo 19" lastchanged="2024-12-20T09:58:29.4855924Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{9c24c16d-164d-489c-b8ed-aa92bda612c3}/main/IMG_8613-2.jpg</filename>
-            </picture>
-            <picture name="Photo 12" lastchanged="2024-12-09T12:23:52.915866Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{9c24c16d-164d-489c-b8ed-aa92bda612c3}/main/IMG_8615.jpg</filename>
-            </picture>
-            <picture name="Photo 15" lastchanged="2024-12-09T12:23:54.3858629Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{9c24c16d-164d-489c-b8ed-aa92bda612c3}/main/IMG_8620.jpg</filename>
-            </picture>
-            <picture name="Photo 18" lastchanged="2024-12-09T12:23:55.5741057Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{9c24c16d-164d-489c-b8ed-aa92bda612c3}/main/IMG_8626.jpg</filename>
-            </picture>
-            <picture name="Photo 19" lastchanged="2024-12-09T12:23:57.325551Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{9c24c16d-164d-489c-b8ed-aa92bda612c3}/main/IMG_8629-94979776.jpg</filename>
-            </picture>
-            <picture name="Photo 13" lastchanged="2025-10-14T10:31:36.7472643Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{9c24c16d-164d-489c-b8ed-aa92bda612c3}/main/FP-26-Palace-Street-Shop.jpg</filename>
-            </picture>
-            <picture name="Photo 14" lastchanged="2025-10-14T10:31:37.0910658Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{9c24c16d-164d-489c-b8ed-aa92bda612c3}/main/FP-26-Palace-Street-Flat.jpg</filename>
-            </picture>
-          </pictures>
-          <floorplans>
-            <floorplan name="">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{9c24c16d-164d-489c-b8ed-aa92bda612c3}/Floorplan_Floorplan1.jpg</filename>
-            </floorplan>
-            <floorplan name="">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{9c24c16d-164d-489c-b8ed-aa92bda612c3}/Floorplan_Floorplan2.jpg</filename>
             </floorplan>
           </floorplans>
         </property>
@@ -8548,8 +8166,7 @@ What3Words:///torches.parkland.grinders&lt;/p&gt;</advert2>
             <room name="Outside">
               <measurement_text />
               <description>
-
-</description>
+              </description>
             </room>
             <room name="Front Garden">
               <measurement_text />
@@ -8809,12 +8426,12 @@ Externally to the front of the property there is off street parking for 3-4 cars
             <room name="Bedroom Three">
               <measurement_text>9' 0'' x 11' 0'' (2.74m x 3.35m)</measurement_text>
               <description>
- </description>
+              </description>
             </room>
             <room name="Bedroom Four">
               <measurement_text>7' 0'' x 7' 0'' (2.13m x 2.13m)</measurement_text>
               <description>
-</description>
+              </description>
             </room>
             <room name="Bathroom">
               <measurement_text>6' 0'' x 6' 0'' (1.83m x 1.83m)</measurement_text>
@@ -8859,8 +8476,7 @@ Externally to the front of the property there is off street parking for 3-4 cars
             <room name="Rear Garden">
               <measurement_text />
               <description>
-
-</description>
+              </description>
             </room>
           </rooms>
           <pictures>
@@ -12386,6 +12002,388 @@ Council tax band C. EPC Rating 77C. Security deposit to be held is &amp;pound;16
           <floorplans>
             <floorplan name="">
               <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{e6f0e14f-c90a-4ed9-9ead-bdac08a8b21c}/Floorplan_Floorplan1.jpg</filename>
+            </floorplan>
+          </floorplans>
+        </property>
+        <property reference="CB003544" hash="98D8FCF968529C1D8CC21EA19B6DAB43">
+          <availableFrom />
+          <instructedDate>27/01/2025 15:34:46</instructedDate>
+          <department>Residential Sales</department>
+          <propertyofweek>NO</propertyofweek>
+          <price_text>£399,995</price_text>
+          <numeric_price>399995.0000</numeric_price>
+          <bedrooms>2</bedrooms>
+          <receptions>1</receptions>
+          <bathrooms>2</bathrooms>
+          <priority>On Market</priority>
+          <tenure>Leasehold</tenure>
+          <advert_heading>Keepers Close, Canterbury</advert_heading>
+          <main_advert>An impressive apartment in the landmark purpose-built McCarthy &amp; Stone complex set directly on the edge of St. Lawrence Cricket Ground.&lt;br /&gt;
+&lt;br /&gt;
+2 Bedrooms, one with walk-in wardrobe&lt;br /&gt;
+2 Shower rooms&lt;br /&gt;
+Large sitting/dining room with balcony&lt;br /&gt;
+Attractive kitchen with integral appliance&lt;br /&gt;
+Communal lounge with spectacular views of the cricket ground&lt;br /&gt;
+Parking space &amp;amp; communal facilities&lt;br /&gt;
+No onward chain&lt;br /&gt;
+EPC Rating: 81B</main_advert>
+          <advert2>&lt;p style="text-align: justify;"&gt;A second floor apartment in a flagship purpose-built McCarthy &amp; Stone complex set directly on the edge of the St. Lawrence Cricket Ground. The property provides spacious and well appointed accommodation. There is a large sitting/dining room overlooking and opening onto a balcony and the adjoining kitchen is attractively fitted and includes a range of integral appliances. The main bedroom has a large window and a large ensuite shower room and a walk-in-wardrobe. There is a further double bedroom and separate shower room and useful walk-in utility cupboard which houses the hot water cylinder and electric boiler serving the underfloor heating system. The property also benefits from emergency pull cords, intercom to the main entrance gates and an unexpired NHBC cover, 10 years from 2017.&lt;br /&gt;
+&lt;br /&gt;
+There are extensive residents facilities including a striking and spacious first floor communal residents' lounge affording magnificent views of the cricket ground, guests suites are available for booking and there is provision for electric mobility scooters. A dedicated House Manager is available to help five days a week.
+Externally the property is approached via a secure gated entrance and benefits from its own parking space, in the residents' car park. There are also additional visitors spaces and communal gardens. &lt;br /&gt;
+&lt;br /&gt;
+The property offers the ultimate in retirement living in a unique location with the benefit of a nearby Sainsbury's local whilst still having easy access to Canterbury City centre either by bus or on foot. Kent &amp;amp; Canterbury and Chaucer Hospitals are also easily accessible. Canterbury west station provides High Speed rail services to London St. Pancras with a journey time of approx. 55 mins. Ashford International station is accessible to the west via the A28 and the Channel Ports of Dover and Folkestone to the south provide regular ferry and Channel Tunnel services to the Continent. The A2 gives easy access to the M2 motorway to the west and the M20 to the south.&lt;br /&gt;
+&lt;span style="text-align: justify;"&gt;&lt;br /&gt;
+Council tax band: D&lt;/span&gt;&lt;br /&gt;
+&lt;br /&gt;
+Tenure: Leasehold&lt;br /&gt;
+&lt;br /&gt;
+Lease term: 150 years (less than 6 days) from 17th December 2015 &lt;br /&gt;
+&lt;br /&gt;
+Service charge: Approx. &amp;pound;287.36 pcm &lt;br /&gt;
+&lt;br /&gt;
+Ground rent: Approx. &amp;pound;247.50 paid every 6 months.&lt;br /&gt;
+&lt;br /&gt;
+EPC Rating: 81B&lt;br /&gt;
+&lt;br /&gt;
+What3Words:///police.upgrading.corn&lt;/p&gt;</advert2>
+          <advert3>&lt;p style="text-align: justify;"&gt;A second floor apartment in a flagship purpose-built McCarthy &amp; Stone complex set directly on the edge of the St. Lawrence Cricket Ground. The property provides spacious and well appointed accommodation. There is a large sitting/dining room overlooking and opening onto a balcony and the adjoining kitchen is attractively fitted and includes a range of integral appliances. The main bedroom has a large window and a large ensuite shower room and a walk-in-wardrobe. There is a further double bedroom and separate shower room and useful walk-in utility cupboard which houses the hot water cylinder and electric boiler serving the underfloor heating system. The property also benefits from emergency pull cords, intercom to the main entrance gates and an unexpired NHBC cover, 10 years from 2017.
+&lt;br /&gt;
+&lt;br /&gt;
+There are extensive residents facilities including a striking and spacious first floor communal residents' lounge affording magnificent views of the cricket ground, guests suites are available for booking and there is provision for electric mobility scooters. A dedicated House Manager is available to help five days a week. Externally the property is approached via a secure gated entrance and benefits from its own parking space, in the residents' car park. There are also additional visitors spaces and communal gardens.
+&lt;/p&gt;</advert3>
+          <advert4>&lt;p style="text-align: justify;"&gt;The property offers the ultimate in retirement living in a unique location with the benefit of a nearby Sainsbury's local whilst still having easy access to Canterbury City centre either by bus or on foot. Kent &amp; Canterbury and Chaucer Hospitals are also easily accessible. Canterbury west station provides High Speed rail services to London St. Pancras with a journey time of approx. 55 mins. Ashford International station is accessible to the west via the A28 and the Channel Ports of Dover and Folkestone to the south provide regular ferry and Channel Tunnel services to the Continent. The A2 gives easy access to the M2 motorway to the west and the M20 to the south.&lt;/p&gt;</advert4>
+          <advert5>All mains services are understood to be connected to the property with the exception of gas.</advert5>
+          <advert6>Tenure: Leasehold
+Lease term: 150 years (less than 6 days) from 17th December 2015
+Service charge: Approx. &amp;pound;287.36 pcm
+Ground rent: Approx. &amp;pound;247.50 paid every 6 months.</advert6>
+          <house_number>Flat 44 Freeman House</house_number>
+          <street>Keepers Close</street>
+          <district />
+          <town>Canterbury</town>
+          <county>Kent</county>
+          <postcode>CT1 3YG</postcode>
+          <country>UK</country>
+          <area>Canterbury Centre</area>
+          <bullet1>2 Bedrooms, one with walk-in-wardrobe</bullet1>
+          <bullet2>2 Shower rooms</bullet2>
+          <bullet3>Large sitting/dining room with balcony</bullet3>
+          <bullet4>Attractive kitchen with integral appliances</bullet4>
+          <bullet5>Communal lounge with spectacular views of the cricket grounds</bullet5>
+          <bullet6>Parking space &amp; communal facilities</bullet6>
+          <bullet7>No onward chain</bullet7>
+          <bullet8>EPC Rating: 81B</bullet8>
+          <bullet9 />
+          <bullet10 />
+          <bullet11 />
+          <bullet12 />
+          <bullet13 />
+          <bullet14 />
+          <bullet15 />
+          <bullet16 />
+          <bullet17 />
+          <bullet18 />
+          <bullet19 />
+          <bullet20 />
+          <brochure>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{4378C324-DA56-4299-996F-135349249488}/external.pdf</brochure>
+          <agency_region>KENT</agency_region>
+          <agency_district>CANTERBURY</agency_district>
+          <agency_location>Canterbury Centre</agency_location>
+          <web_link>https://www.properties.charlesbainbridge.com/index.php?option=com_eapow&amp;format=html&amp;task=property.getProp&amp;?pid=4378C324-DA56-4299-996F-135349249488&amp;aid=C46B2F24-B9CD-417A-9879-F8C0E2A6C226</web_link>
+          <latitude>51.26877</latitude>
+          <longitude>1.091713</longitude>
+          <qrcode>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{4378C324-DA56-4299-996F-135349249488}/qr.png</qrcode>
+          <epc />
+          <hips>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{4378C324-DA56-4299-996F-135349249488}/HIPS/8181.png</hips>
+          <filename3 />
+          <filename4 />
+          <filename5 />
+          <filename6 />
+          <virtual_tour_url />
+          <property_type>Retirement</property_type>
+          <commercial_type />
+          <property_style>Upper Floor Flat</property_style>
+          <property_reference>12467049</property_reference>
+          <newHome>NO</newHome>
+          <noChain>YES</noChain>
+          <furnished>Unknown</furnished>
+          <portalFee />
+          <currency />
+          <featuredProperty>NO</featuredProperty>
+          <text3 name="" value="Copy on events - Property docs. AD" />
+          <date3 name="Data Protection - Seller" value="27/01/2025 00:00:00" />
+          <number1 name="" value="0" />
+          <number2 name="" value="0" />
+          <number3 name="" value="0" />
+          <number4 name="" value="0" />
+          <number5 name="" value="0" />
+          <number6 name="" value="0" />
+          <number7 name="" value="0" />
+          <number8 name="" value="0" />
+          <number9 name="" value="0" />
+          <number10 name="" value="0" />
+          <rooms>
+            <room name="Entrance Hall">
+              <measurement_text />
+              <description />
+            </room>
+            <room name="Sitting Room">
+              <measurement_text>19' 5'' x 12' 2'' (5.91m x 3.71m)</measurement_text>
+              <description />
+            </room>
+            <room name="Balcony">
+              <measurement_text />
+              <description />
+            </room>
+            <room name="Kitchen">
+              <measurement_text>8' 10'' x 7' 6'' (2.69m x 2.28m)</measurement_text>
+              <description />
+            </room>
+            <room name="Bedroom One">
+              <measurement_text>19' 10'' x 13' 1'' (6.04m x 3.98m)</measurement_text>
+              <description />
+            </room>
+            <room name="Ensuite">
+              <measurement_text>7' 1'' x 6' 11'' (2.16m x 2.11m)</measurement_text>
+              <description />
+            </room>
+            <room name="Walk-in Wardrobe">
+              <measurement_text />
+              <description />
+            </room>
+            <room name="Bedroom Two">
+              <measurement_text>15' 3'' x 9' 8'' (4.64m x 2.94m)</measurement_text>
+              <description />
+            </room>
+            <room name="Shower Room">
+              <measurement_text>7' 10'' x 4' 7'' (2.39m x 1.40m)</measurement_text>
+              <description />
+            </room>
+          </rooms>
+          <pictures>
+            <picture name="Photo 1" lastchanged="2025-01-21T12:28:45.0842069Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{4378c324-da56-4299-996f-135349249488}/main/DJI_0750.jpg</filename>
+            </picture>
+            <picture name="Photo 17" lastchanged="2025-11-04T08:47:26.8002598Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{4378c324-da56-4299-996f-135349249488}/main/enhanced_carpet.jpg</filename>
+            </picture>
+            <picture name="Photo 22" lastchanged="2025-01-21T12:29:32.3400821Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{4378c324-da56-4299-996f-135349249488}/main/DSC04679.jpg</filename>
+            </picture>
+            <picture name="Photo 24" lastchanged="2025-09-08T14:22:01.6230131Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{4378c324-da56-4299-996f-135349249488}/main/image24.jpg</filename>
+            </picture>
+            <picture name="Photo 23" lastchanged="2025-01-21T12:29:34.5658254Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{4378c324-da56-4299-996f-135349249488}/main/DSC04688.jpg</filename>
+            </picture>
+            <picture name="Photo 29" lastchanged="2025-01-21T12:29:46.5185249Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{4378c324-da56-4299-996f-135349249488}/main/DSC04724.jpg</filename>
+            </picture>
+            <picture name="Photo 22" lastchanged="2025-09-08T14:22:01.1386052Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{4378c324-da56-4299-996f-135349249488}/main/cleaned_carpet-(1).jpg</filename>
+            </picture>
+            <picture name="Photo 24" lastchanged="2025-01-21T12:29:36.0064069Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{4378c324-da56-4299-996f-135349249488}/main/DSC04700.jpg</filename>
+            </picture>
+            <picture name="Photo 15" lastchanged="2025-01-21T12:29:16.304148Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{4378c324-da56-4299-996f-135349249488}/main/DSC04643.jpg</filename>
+            </picture>
+            <picture name="Photo 2" lastchanged="2025-01-21T12:28:47.4484464Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{4378c324-da56-4299-996f-135349249488}/main/DSC04593.jpg</filename>
+            </picture>
+            <picture name="Photo 20" lastchanged="2025-01-24T12:38:51.53586Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{4378c324-da56-4299-996f-135349249488}/main/DSC04631.jpg</filename>
+            </picture>
+            <picture name="Photo 21" lastchanged="2025-01-24T12:38:53.8486275Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{4378c324-da56-4299-996f-135349249488}/main/DSC04637.jpg</filename>
+            </picture>
+            <picture name="Photo 14" lastchanged="2025-01-21T12:29:14.0066717Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{4378c324-da56-4299-996f-135349249488}/main/DSC04640.jpg</filename>
+            </picture>
+            <picture name="Photo 3" lastchanged="2025-01-21T12:28:49.7342948Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{4378c324-da56-4299-996f-135349249488}/main/DSC04602.jpg</filename>
+            </picture>
+            <picture name="Photo 4" lastchanged="2025-01-21T12:28:51.9853043Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{4378c324-da56-4299-996f-135349249488}/main/DSC04605.jpg</filename>
+            </picture>
+            <picture name="Photo 17" lastchanged="2025-10-08T11:28:12.9877647Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{4378c324-da56-4299-996f-135349249488}/main/44-Freeman-House-Floorplan.jpg</filename>
+            </picture>
+          </pictures>
+          <floorplans>
+            <floorplan name="">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{4378c324-da56-4299-996f-135349249488}/Floorplan_Floorplan1.jpg</filename>
+            </floorplan>
+          </floorplans>
+        </property>
+        <property reference="CB003627" hash="C4BC9D8D9884DAAB79E85621AD2DF943">
+          <availableFrom />
+          <instructedDate>27/12/2024 09:16:02</instructedDate>
+          <department>Residential Sales</department>
+          <propertyofweek>NO</propertyofweek>
+          <price_text>£425,000</price_text>
+          <numeric_price>425000.0000</numeric_price>
+          <bedrooms>2</bedrooms>
+          <receptions>1</receptions>
+          <bathrooms>1</bathrooms>
+          <priority>On Market</priority>
+          <tenure>Freehold</tenure>
+          <advert_heading>Palace Street, Canterbury</advert_heading>
+          <main_advert>A most attractive Grade ll listed period building set in the colourful King's Mile area of the City in amongst a vibrant range of independent retailers, cafes and bistros and only a short walk the Cathedral precincts.&lt;br /&gt;
+&lt;br /&gt;
+Central location&lt;br /&gt;
+Retail shop&lt;br /&gt;
+Basement&lt;br /&gt;
+Rear courtyard&lt;br /&gt;
+Residential flat over two floors&lt;br /&gt;
+Decking at first floor level with roof top views&lt;br /&gt;
+Period building&lt;br /&gt;
+EPC - Commerical premises: 108E / Flat above: 64D</main_advert>
+          <advert2>&lt;p style="text-align: justify;"&gt;&lt;span style="font-family: 'HelveticaNeueLT Com 45 Lt', sans-serif; font-size: 13px; color: #1f497d;"&gt;A most attractive Grade ll listed period building set in the colourful King's Mile area of the City in amongst a vibrant range of independent retailers, cafes and bistros and only a short walk the Cathedral precincts. The property has accommodation set over four floors and is configured to provide retail premises on the ground floor and basement, and a residential split-level flat on the upper two floors. &lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="font-family: 'HelveticaNeueLT Com 45 Lt', sans-serif; font-size: 13px; color: #1f497d;"&gt;The retail premises is pleasantly presented providing a shop with window frontage to Palace Street and on the lower ground floor are two basement rooms providing stock storage.  From the rear access is gained to the courtyard garden which measures approx 20' 7'' x 11' 11'' (6.27m x 3.63m) enclosed by solid brick walls and w/c.  &lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="font-family: 'HelveticaNeueLT Com 45 Lt', sans-serif; font-size: 13px; color: #1f497d;"&gt;The residential split-level flat on the upper levels is attractively presented and includes a large sitting/dining room to the front with views of the Cathedral spire. To the rear is an attractively fitted kitchen/dining to the rear, storage cupboard and patio doors to a small decked area enjoying views over the roof tops of the City. On the second floor are two comfortable bedrooms, both with inbuilt storage cupboards and the bathroom. The apartment benefits from gas fired heating and a good-sized loft.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="font-family: 'HelveticaNeueLT Com 45 Lt', sans-serif; font-size: 13px; color: #1f497d;"&gt;The property is centrally located with all the main facilities and attractions are within walking distance including Canterbury Cathedral, the Marlowe Theatre and Whitefriars shopping comlex. The City also has a comprehensive range of Schools and Colleges plus two Universities. The High-Speed rail link provides services to London St. Pancras from Canterbury west station with a journey time of approx. 55 mins.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="color: #1f497d;"&gt;
+Current rateable value: Approx. &amp;pound;8,100&lt;br /&gt;
+&lt;br /&gt;
+Council tax band: Flat - B&lt;br /&gt;
+&lt;br /&gt;
+Tenure: Freehold&lt;br /&gt;
+&lt;br /&gt;
+EPC Rating: Commercial premises - 108E&lt;br /&gt;
+&lt;br /&gt;
+EPC Rating:  Flat - 64D&lt;br /&gt;
+&lt;br /&gt;
+What3words: ///bath.neon.skip&lt;/span&gt;&lt;/p&gt;</advert2>
+          <advert3>&lt;p style="text-align: justify;"&gt;&lt;span style="color: #003767; font-size: 13px; font-family: 'HelveticaNeueLT Com 45 Lt', sans-serif;"&gt;A most attractive Grade ll listed period building set in the colourful King's Mile area of the City in amongst a vibrant range of independent retailers, cafes and bistros and only a short walk the Cathedral precincts. The property has accommodation set over four floors and is configured to provide retail premises on the ground floor and basement, and a residential split-level flat on the upper two floors. &lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="color: #003767; font-family: 'HelveticaNeueLT Com 45 Lt', sans-serif; font-size: 13px;"&gt;The retail premises is pleasantly presented providing a shop with window frontage to Palace Street and on the lower ground floor are two basement rooms providing stock storage.  From the rear access is gained to the courtyard garden which measures approx 20' 7'' x 11' 11'' (6.27m x 3.63m) enclosed by solid brick walls and w/c.&amp;nbsp; &lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="color: #003767; font-family: 'HelveticaNeueLT Com 45 Lt', sans-serif; font-size: 13px;"&gt;The residential split-level flat on the upper levels is attractively presented and includes a large sitting/dining room to the front with views of the Cathedral spire. To the rear is an attractively fitted kitchen/dining to the rear, storage cupboard and patio doors to a small decked area enjoying views over the roof tops of the City. On the second floor are two comfortable bedrooms, both with inbuilt storage cupboards and the bathroom. The apartment benefits from gas fired heating and a good-sized loft.&lt;/span&gt;&lt;/p&gt;</advert3>
+          <advert4>The property is centrally located with all the main facilities and attractions are within walking distance including Canterbury Cathedral, the Marlowe Theatre and Whitefriars shopping comlex. The City also has a comprehensive range of Schools and Colleges plus two Universities. The High-Speed rail link provides services to London St. Pancras from Canterbury west station with a journey time of approx. 55 mins.</advert4>
+          <advert5>All main services are understood to be connected to the property. </advert5>
+          <advert6 />
+          <house_number>26</house_number>
+          <street>Palace Street</street>
+          <district />
+          <town>Canterbury</town>
+          <county>Kent</county>
+          <postcode>CT1 2DZ</postcode>
+          <country>UK</country>
+          <area>Canterbury Centre</area>
+          <bullet1>Central location</bullet1>
+          <bullet2>Retail shop</bullet2>
+          <bullet3>Basement</bullet3>
+          <bullet4>Rear courtyard</bullet4>
+          <bullet5>Residential flat over two floors</bullet5>
+          <bullet6>Decking at first floor level with roof top views</bullet6>
+          <bullet7>Period building</bullet7>
+          <bullet8>EPC Rating: Commerical premises: 108E / Flat above: 64D</bullet8>
+          <bullet9 />
+          <bullet10 />
+          <bullet11 />
+          <bullet12 />
+          <bullet13 />
+          <bullet14 />
+          <bullet15 />
+          <bullet16 />
+          <bullet17 />
+          <bullet18 />
+          <bullet19 />
+          <bullet20 />
+          <brochure>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{9C24C16D-164D-489C-B8ED-AA92BDA612C3}/external.pdf</brochure>
+          <agency_region>KENT</agency_region>
+          <agency_district>CANTERBURY</agency_district>
+          <agency_location>Canterbury Centre</agency_location>
+          <web_link>https://www.properties.charlesbainbridge.com/index.php?option=com_eapow&amp;format=html&amp;task=property.getProp&amp;?pid=9C24C16D-164D-489C-B8ED-AA92BDA612C3&amp;aid=C46B2F24-B9CD-417A-9879-F8C0E2A6C226</web_link>
+          <latitude>51.2813</latitude>
+          <longitude>1.081614</longitude>
+          <qrcode>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{9C24C16D-164D-489C-B8ED-AA92BDA612C3}/qr.png</qrcode>
+          <epc />
+          <hips>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{9C24C16D-164D-489C-B8ED-AA92BDA612C3}/HIPS/EPC's - 26 Palace Street.jpg</hips>
+          <filename3 />
+          <filename4 />
+          <filename5 />
+          <filename6 />
+          <virtual_tour_url />
+          <property_type>House</property_type>
+          <commercial_type />
+          <property_style>Terraced</property_style>
+          <property_reference>12542244</property_reference>
+          <newHome>NO</newHome>
+          <noChain>YES</noChain>
+          <furnished>Unknown</furnished>
+          <portalFee />
+          <currency />
+          <featuredProperty>NO</featuredProperty>
+          <text1 name="" value="Copy on events, Property Documents - IBP" />
+          <text2 name="" value="Copy on events, Property Documents - IBP" />
+          <text3 name="" value="opy on events, Property Documents - IBP" />
+          <text5 name="" value="Kelly - Passport. AD" />
+          <date1 name="Title Register" value="10/01/2025 00:00:00" />
+          <date2 name="Title Plan" value="10/01/2025 00:00:00" />
+          <date3 name="Data Protection - Seller" value="24/12/2024 00:00:00" />
+          <number1 name="" value="0" />
+          <number2 name="" value="0" />
+          <number3 name="" value="0" />
+          <number4 name="" value="0" />
+          <number5 name="" value="0" />
+          <number6 name="" value="0" />
+          <number7 name="" value="0" />
+          <number8 name="" value="0" />
+          <number9 name="" value="0" />
+          <number10 name="" value="0" />
+          <rooms />
+          <pictures>
+            <picture name="Photo 8" lastchanged="2024-12-09T12:23:50.8624868Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{9c24c16d-164d-489c-b8ed-aa92bda612c3}/main/IMG_8606.jpg</filename>
+            </picture>
+            <picture name="Photo 9" lastchanged="2024-12-09T12:23:51.3783118Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{9c24c16d-164d-489c-b8ed-aa92bda612c3}/main/IMG_8609.jpg</filename>
+            </picture>
+            <picture name="Photo 10" lastchanged="2024-12-09T12:23:51.909635Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{9c24c16d-164d-489c-b8ed-aa92bda612c3}/main/IMG_8610.jpg</filename>
+            </picture>
+            <picture name="Photo 7" lastchanged="2024-12-09T12:23:50.362441Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{9c24c16d-164d-489c-b8ed-aa92bda612c3}/main/IMG_8605.jpg</filename>
+            </picture>
+            <picture name="Photo 1" lastchanged="2024-12-09T12:23:47.2211717Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{9c24c16d-164d-489c-b8ed-aa92bda612c3}/main/IMG_8636-94979780.jpg</filename>
+            </picture>
+            <picture name="Photo 13" lastchanged="2024-12-09T12:23:53.3701206Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{9c24c16d-164d-489c-b8ed-aa92bda612c3}/main/IMG_8616.jpg</filename>
+            </picture>
+            <picture name="Photo 14" lastchanged="2024-12-09T12:23:53.8857774Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{9c24c16d-164d-489c-b8ed-aa92bda612c3}/main/IMG_8619.jpg</filename>
+            </picture>
+            <picture name="Photo 19" lastchanged="2024-12-20T09:58:29.4855924Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{9c24c16d-164d-489c-b8ed-aa92bda612c3}/main/IMG_8613-2.jpg</filename>
+            </picture>
+            <picture name="Photo 12" lastchanged="2024-12-09T12:23:52.915866Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{9c24c16d-164d-489c-b8ed-aa92bda612c3}/main/IMG_8615.jpg</filename>
+            </picture>
+            <picture name="Photo 15" lastchanged="2024-12-09T12:23:54.3858629Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{9c24c16d-164d-489c-b8ed-aa92bda612c3}/main/IMG_8620.jpg</filename>
+            </picture>
+            <picture name="Photo 18" lastchanged="2024-12-09T12:23:55.5741057Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{9c24c16d-164d-489c-b8ed-aa92bda612c3}/main/IMG_8626.jpg</filename>
+            </picture>
+            <picture name="Photo 19" lastchanged="2024-12-09T12:23:57.325551Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{9c24c16d-164d-489c-b8ed-aa92bda612c3}/main/IMG_8629-94979776.jpg</filename>
+            </picture>
+            <picture name="Photo 13" lastchanged="2025-10-14T10:31:36.7472643Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{9c24c16d-164d-489c-b8ed-aa92bda612c3}/main/FP-26-Palace-Street-Shop.jpg</filename>
+            </picture>
+            <picture name="Photo 14" lastchanged="2025-10-14T10:31:37.0910658Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{9c24c16d-164d-489c-b8ed-aa92bda612c3}/main/FP-26-Palace-Street-Flat.jpg</filename>
+            </picture>
+          </pictures>
+          <floorplans>
+            <floorplan name="">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{9c24c16d-164d-489c-b8ed-aa92bda612c3}/Floorplan_Floorplan1.jpg</filename>
+            </floorplan>
+            <floorplan name="">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{9c24c16d-164d-489c-b8ed-aa92bda612c3}/Floorplan_Floorplan2.jpg</filename>
             </floorplan>
           </floorplans>
         </property>
