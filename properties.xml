@@ -3832,250 +3832,6 @@ EPC Rating: 77C&lt;br /&gt;
             </floorplan>
           </floorplans>
         </property>
-        <property reference="CB003619" hash="BD1FF4D86D3C3CDEF7E89069FE13F600">
-          <availableFrom />
-          <instructedDate>03/03/2025 09:49:39</instructedDate>
-          <department>Residential Sales</department>
-          <propertyofweek>NO</propertyofweek>
-          <price_text>Offers in Excess of £475,000</price_text>
-          <numeric_price>475000.0000</numeric_price>
-          <bedrooms>4</bedrooms>
-          <receptions>2</receptions>
-          <bathrooms>2</bathrooms>
-          <priority>On Market</priority>
-          <tenure>Freehold</tenure>
-          <advert_heading>Union Road, Bridge, Canterbury</advert_heading>
-          <main_advert>A handsome semi-detached family home set in the heart of the popular village of Bridge.
-&lt;br /&gt;
-&lt;br /&gt;
-4 Bedrooms, 2 bath/shower rooms
-&lt;br /&gt;
-Sitting room with period fireplace
-&lt;br /&gt;
-Open-plan kitchen/dining room
-&lt;br /&gt;
-Utility &amp; downstairs w.c&lt;br /&gt;
-Attractively presented throughout &lt;br /&gt;
-Delightful rear garden&lt;br /&gt;
-No onward chain
-&lt;br /&gt;
-EPC Rating: 61D</main_advert>
-          <advert2>&lt;p style="text-align: justify;"&gt;A handsome semi-detached family home set in the heart of the popular village of Bridge. The property is well presented throughout with a sitting room to the front and to the rear an open-plan kitchen/dining room overlooking and opening onto the garden. There is also a useful utility and downstairs w/c. On the first floor is an impressive master bedroom with a vaulted ceiling and ensuite shower room as well as another double bedroom and the family bathroom. On the second floor are two further bedrooms. &lt;br /&gt;
-&lt;br /&gt;
-Externally there is an enclosed garden, walled to two sides and wood panelled fencing to the remaining side. The garden is mainly laid to lawn with a patio for seating and a shed to the rear.
-&lt;br /&gt;
-&lt;br /&gt;
-The property is set in the delightful village of Bridge. The village offers a comprehensive range of local amenities including a mini-supermarket, pharmacy, dentist, and hairdresser. There are two public houses in the village, a modern health centre, and a popular primary school. The highly regarded Pig Hotel at Bridge Place is a handsome 17th century manor house providing a wonderful boutique-style hotel and restaurant in a delightful setting. The surrounding countryside provides good walking, riding, and cycling. The Cathedral City of Canterbury is easily accessible providing a comprehensive range of shopping, leisure, and educational facilities, as well as a regular High-Speed rail service from Canterbury West station to London St. Pancras with a journey time of approximately 55 minutes.&lt;br /&gt;
-&lt;br /&gt;
-Council tax band: D&lt;br /&gt;
-&lt;br /&gt;
-Tenure: Freehold&lt;br /&gt;
-&lt;br /&gt;
-EPC Rating: 61D&lt;br /&gt;
-&lt;br /&gt;
-Photos Have been enhanced by AI&lt;br /&gt;
-&lt;br /&gt;
-What3Words:///rummage.less.amending&lt;/p&gt;</advert2>
-          <advert3>&lt;p style="text-align: justify;"&gt;&lt;span style="text-align: justify;"&gt;&lt;span style="text-align: justify;"&gt;A handsome semi-detached family home set in the heart of the popular village of Bridge. The property is well presented throughout with a sitting room to the front and to the rear an open-plan kitchen/dining room overlooking and opening onto the garden. There is also a useful utility and downstairs w/c. On the first floor is an impressive master bedroom with a vaulted ceiling and ensuite shower room as well as another double bedroom and the family bathroom. On the second floor are two further bedrooms.&lt;br /&gt;
-&lt;/span&gt;&lt;br style="text-align: justify;" /&gt;
-&lt;span style="text-align: justify;"&gt;Externally there is an enclosed garden, walled to two sides and wood panelled fencing to the remaining side. The garden is mainly laid to lawn with a patio for seating and a shed to the rear.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</advert3>
-          <advert4>&lt;p style="text-align: justify;"&gt;&lt;span style="text-align: justify;"&gt;&lt;span style="text-align: justify;"&gt;The property is set in the delightful village of Bridge. The village &lt;/span&gt;&lt;span style="text-align: justify;"&gt;offers a comprehensive range of local amenities including a mini-supermarket, pharmacy, dentist, and hairdresser. There are two public houses in the village, a modern health centre, and a popular primary school. The highly regarded Pig Hotel at Bridge Place is a handsome 17th century manor house providing a wonderful boutique-style hotel and restaurant in a delightful setting. The surrounding countryside provides good walking, riding, and cycling. The Cathedral City of Canterbury is easily accessible providing a comprehensive range of shopping, leisure, and educational facilities, as well as a regular High-Speed rail service from Canterbury West station to London St. Pancras with a journey time of approximately 55 minutes.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</advert4>
-          <advert5>All mains services are understood to be connected to the property. </advert5>
-          <advert6 />
-          <house_number>22</house_number>
-          <street>Union Road</street>
-          <district>Bridge</district>
-          <town>Canterbury</town>
-          <county>Kent</county>
-          <postcode>CT4 5LN</postcode>
-          <country>UK</country>
-          <area>Canterbury Villages South &amp; West</area>
-          <bullet1>4 Bedrooms, 2 bath/shower rooms</bullet1>
-          <bullet2>Sitting room with period fireplace</bullet2>
-          <bullet3>Open-plan kitchen/dining room</bullet3>
-          <bullet4>Utility &amp; downstairs w.c</bullet4>
-          <bullet5>Attractively presented throughout </bullet5>
-          <bullet6>Delightful rear garden</bullet6>
-          <bullet7>No onward chain</bullet7>
-          <bullet8>EPC Rating: 61D</bullet8>
-          <bullet9 />
-          <bullet10 />
-          <bullet11 />
-          <bullet12 />
-          <bullet13 />
-          <bullet14 />
-          <bullet15 />
-          <bullet16 />
-          <bullet17 />
-          <bullet18 />
-          <bullet19 />
-          <bullet20 />
-          <brochure>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{9DEAE78A-9318-406B-82D9-FED0C0F06C4A}/external.pdf</brochure>
-          <agency_region>KENT</agency_region>
-          <agency_district>CANTERBURY</agency_district>
-          <agency_location>Canterbury Villages South &amp; West</agency_location>
-          <web_link>https://www.properties.charlesbainbridge.com/index.php?option=com_eapow&amp;format=html&amp;task=property.getProp&amp;?pid=9DEAE78A-9318-406B-82D9-FED0C0F06C4A&amp;aid=C46B2F24-B9CD-417A-9879-F8C0E2A6C226</web_link>
-          <latitude>51.24674</latitude>
-          <longitude>1.122261</longitude>
-          <qrcode>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{9DEAE78A-9318-406B-82D9-FED0C0F06C4A}/qr.png</qrcode>
-          <epc />
-          <hips>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{9DEAE78A-9318-406B-82D9-FED0C0F06C4A}/HIPS/6181.png</hips>
-          <filename3 />
-          <filename4 />
-          <filename5 />
-          <filename6 />
-          <virtual_tour_url />
-          <property_type>House</property_type>
-          <commercial_type />
-          <property_style>Semi Detached</property_style>
-          <property_reference>12535427</property_reference>
-          <newHome>NO</newHome>
-          <noChain>YES</noChain>
-          <furnished>Unknown</furnished>
-          <portalFee />
-          <currency />
-          <featuredProperty>YES</featuredProperty>
-          <text3 name="" value="Copy on events - Property docs. AD" />
-          <date3 name="Data Protection - Seller" value="02/03/2025 00:00:00" />
-          <number1 name="" value="0" />
-          <number2 name="" value="0" />
-          <number3 name="" value="0" />
-          <number4 name="" value="0" />
-          <number5 name="" value="0" />
-          <number6 name="" value="0" />
-          <number7 name="" value="0" />
-          <number8 name="" value="0" />
-          <number9 name="" value="0" />
-          <number10 name="" value="0" />
-          <rooms>
-            <room name="Entrance">
-              <measurement_text />
-              <description />
-            </room>
-            <room name="Hall">
-              <measurement_text />
-              <description />
-            </room>
-            <room name="Sitting Room">
-              <measurement_text>12' 2'' x 12' 0'' (3.71m x 3.65m)</measurement_text>
-              <description />
-            </room>
-            <room name="Utility Room">
-              <measurement_text>8' 9'' x 6' 1'' (2.66m x 1.85m)</measurement_text>
-              <description />
-            </room>
-            <room name="Kitchen">
-              <measurement_text>12' 2'' x 5' 6'' (3.71m x 1.68m)</measurement_text>
-              <description />
-            </room>
-            <room name="Dining Room">
-              <measurement_text>16' 6'' x 12' 10'' (5.03m x 3.91m)</measurement_text>
-              <description />
-            </room>
-            <room name="W.C">
-              <measurement_text />
-              <description />
-            </room>
-            <room name="First Floor">
-              <measurement_text />
-              <description />
-            </room>
-            <room name="Master Bedroom">
-              <measurement_text>16' 6'' x 12' 10'' (5.03m x 3.91m)</measurement_text>
-              <description />
-            </room>
-            <room name="Ensuite">
-              <measurement_text>10' 1'' x 5' 4'' (3.07m x 1.62m)</measurement_text>
-              <description />
-            </room>
-            <room name="Bedroom Two">
-              <measurement_text>12' 2'' x 12' 2'' (3.71m x 3.71m)</measurement_text>
-              <description />
-            </room>
-            <room name="Bathroom">
-              <measurement_text>7' 9'' x 6' 11'' (2.36m x 2.11m)</measurement_text>
-              <description />
-            </room>
-            <room name="Second Floor">
-              <measurement_text>0' 0'' x 0' 0'' (0.00m x 0.00m)</measurement_text>
-              <description />
-            </room>
-            <room name="Bedroom Three">
-              <measurement_text>12' 1'' x 8' 9'' (3.68m x 2.66m)</measurement_text>
-              <description />
-            </room>
-            <room name="Bedroom Four">
-              <measurement_text>10' 2'' x 8' 9'' (3.10m x 2.66m)</measurement_text>
-              <description />
-            </room>
-            <room name="Exterior">
-              <measurement_text />
-              <description />
-            </room>
-            <room name="Rear Garden">
-              <measurement_text>57' 5'' x 18' 1'' (17.49m x 5.51m)</measurement_text>
-              <description />
-            </room>
-          </rooms>
-          <pictures>
-            <picture name="Photo 34" lastchanged="2025-02-18T09:37:41.4415764Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{9deae78a-9318-406b-82d9-fed0c0f06c4a}/main/DSC05736.jpg</filename>
-            </picture>
-            <picture name="Photo 8" lastchanged="2025-02-18T09:37:11.899102Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{9deae78a-9318-406b-82d9-fed0c0f06c4a}/main/DSC05614.jpg</filename>
-            </picture>
-            <picture name="Photo 23" lastchanged="2025-10-13T12:57:58.6307713Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{9deae78a-9318-406b-82d9-fed0c0f06c4a}/main/staged_kitchen_dining_room.jpg</filename>
-            </picture>
-            <picture name="Photo 22" lastchanged="2025-10-13T12:57:58.3807351Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{9deae78a-9318-406b-82d9-fed0c0f06c4a}/main/staged_dining_living_room.jpg</filename>
-            </picture>
-            <picture name="Photo 24" lastchanged="2025-10-13T12:57:58.8807963Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{9deae78a-9318-406b-82d9-fed0c0f06c4a}/main/staged_living_room_snug.jpg</filename>
-            </picture>
-            <picture name="Photo 30" lastchanged="2025-02-18T09:37:33.4182079Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{9deae78a-9318-406b-82d9-fed0c0f06c4a}/main/DSC05728.jpg</filename>
-            </picture>
-            <picture name="Photo 20" lastchanged="2025-10-13T12:57:57.8962977Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{9deae78a-9318-406b-82d9-fed0c0f06c4a}/main/staged_attic_bedroom_flipped.jpg</filename>
-            </picture>
-            <picture name="Photo 19" lastchanged="2025-10-13T12:57:57.6462669Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{9deae78a-9318-406b-82d9-fed0c0f06c4a}/main/realistic_staged_bedroom.jpg</filename>
-            </picture>
-            <picture name="Photo 27" lastchanged="2025-02-18T09:37:29.4165102Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{9deae78a-9318-406b-82d9-fed0c0f06c4a}/main/DSC05710.jpg</filename>
-            </picture>
-            <picture name="Photo 26" lastchanged="2025-02-18T09:37:28.583422Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{9deae78a-9318-406b-82d9-fed0c0f06c4a}/main/DSC05707.jpg</filename>
-            </picture>
-            <picture name="Photo 21" lastchanged="2025-10-13T12:57:58.1306993Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{9deae78a-9318-406b-82d9-fed0c0f06c4a}/main/staged_bedroom.jpg</filename>
-            </picture>
-            <picture name="Photo 18" lastchanged="2025-10-13T12:57:57.411873Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{9deae78a-9318-406b-82d9-fed0c0f06c4a}/main/enhanced_attic_room.jpg</filename>
-            </picture>
-            <picture name="Photo 17" lastchanged="2025-10-13T12:57:57.1930941Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{9deae78a-9318-406b-82d9-fed0c0f06c4a}/main/cleaned_attic_room.jpg</filename>
-            </picture>
-            <picture name="Photo 17" lastchanged="2025-02-18T09:37:20.2310718Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{9deae78a-9318-406b-82d9-fed0c0f06c4a}/main/DSC05662.jpg</filename>
-            </picture>
-            <picture name="Photo 19" lastchanged="2025-09-25T12:17:52.4093246Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{9deae78a-9318-406b-82d9-fed0c0f06c4a}/main/DSC05638.jpg</filename>
-            </picture>
-            <picture name="Photo 15" lastchanged="2025-02-18T09:37:18.5077995Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{9deae78a-9318-406b-82d9-fed0c0f06c4a}/main/DSC05650.jpg</filename>
-            </picture>
-            <picture name="Photo 18" lastchanged="2025-09-19T15:54:13.1231156Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{9deae78a-9318-406b-82d9-fed0c0f06c4a}/main/22UnionRoad-High.jpg</filename>
-            </picture>
-          </pictures>
-          <floorplans>
-            <floorplan name="">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{9deae78a-9318-406b-82d9-fed0c0f06c4a}/Floorplan_Floorplan1.jpg</filename>
-            </floorplan>
-          </floorplans>
-        </property>
         <property reference="CB003627" hash="C4BC9D8D9884DAAB79E85621AD2DF943">
           <availableFrom />
           <instructedDate>27/12/2024 09:16:02</instructedDate>
@@ -14279,6 +14035,250 @@ Ground rent: Approx. &amp;pound;100 per annum</advert6>
           <floorplans>
             <floorplan name="">
               <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{cf8f1543-388a-445c-ab30-f997bad7906b}/Floorplan_Floorplan1.jpg</filename>
+            </floorplan>
+          </floorplans>
+        </property>
+        <property reference="CB003619" hash="752D07E65E84C1104F41E89393AC8CF9">
+          <availableFrom />
+          <instructedDate>03/03/2025 09:49:39</instructedDate>
+          <department>Residential Sales</department>
+          <propertyofweek>NO</propertyofweek>
+          <price_text>Guide Price £450,000</price_text>
+          <numeric_price>450000.0000</numeric_price>
+          <bedrooms>4</bedrooms>
+          <receptions>2</receptions>
+          <bathrooms>2</bathrooms>
+          <priority>On Market</priority>
+          <tenure>Freehold</tenure>
+          <advert_heading>Union Road, Bridge, Canterbury</advert_heading>
+          <main_advert>A handsome semi-detached family home set in the heart of the popular village of Bridge.
+&lt;br /&gt;
+&lt;br /&gt;
+4 Bedrooms, 2 bath/shower rooms
+&lt;br /&gt;
+Sitting room with period fireplace
+&lt;br /&gt;
+Open-plan kitchen/dining room
+&lt;br /&gt;
+Utility &amp; downstairs w.c&lt;br /&gt;
+Attractively presented throughout &lt;br /&gt;
+Delightful rear garden&lt;br /&gt;
+No onward chain
+&lt;br /&gt;
+EPC Rating: 61D</main_advert>
+          <advert2>&lt;p style="text-align: justify;"&gt;GUIDE - &amp;pound;450,000- &amp;pound;475,000. A handsome semi-detached family home set in the heart of the popular village of Bridge. The property is well presented throughout with a sitting room to the front and to the rear an open-plan kitchen/dining room overlooking and opening onto the garden. There is also a useful utility and downstairs w/c. On the first floor is an impressive master bedroom with a vaulted ceiling and ensuite shower room as well as another double bedroom and the family bathroom. On the second floor are two further bedrooms. &lt;br /&gt;
+&lt;br /&gt;
+Externally there is an enclosed garden, walled to two sides and wood panelled fencing to the remaining side. The garden is mainly laid to lawn with a patio for seating and a shed to the rear.
+&lt;br /&gt;
+&lt;br /&gt;
+The property is set in the delightful village of Bridge. The village offers a comprehensive range of local amenities including a mini-supermarket, pharmacy, dentist, and hairdresser. There are two public houses in the village, a modern health centre, and a popular primary school. The highly regarded Pig Hotel at Bridge Place is a handsome 17th century manor house providing a wonderful boutique-style hotel and restaurant in a delightful setting. The surrounding countryside provides good walking, riding, and cycling. The Cathedral City of Canterbury is easily accessible providing a comprehensive range of shopping, leisure, and educational facilities, as well as a regular High-Speed rail service from Canterbury West station to London St. Pancras with a journey time of approximately 55 minutes.&lt;br /&gt;
+&lt;br /&gt;
+Council tax band: D&lt;br /&gt;
+&lt;br /&gt;
+Tenure: Freehold&lt;br /&gt;
+&lt;br /&gt;
+EPC Rating: 61D&lt;br /&gt;
+&lt;br /&gt;
+Photos Have been enhanced by AI&lt;br /&gt;
+&lt;br /&gt;
+What3Words:///rummage.less.amending&lt;/p&gt;</advert2>
+          <advert3>&lt;p style="text-align: justify;"&gt;&lt;span style="text-align: justify;"&gt;&lt;span style="text-align: justify;"&gt;A handsome semi-detached family home set in the heart of the popular village of Bridge. The property is well presented throughout with a sitting room to the front and to the rear an open-plan kitchen/dining room overlooking and opening onto the garden. There is also a useful utility and downstairs w/c. On the first floor is an impressive master bedroom with a vaulted ceiling and ensuite shower room as well as another double bedroom and the family bathroom. On the second floor are two further bedrooms.&lt;br /&gt;
+&lt;/span&gt;&lt;br style="text-align: justify;" /&gt;
+&lt;span style="text-align: justify;"&gt;Externally there is an enclosed garden, walled to two sides and wood panelled fencing to the remaining side. The garden is mainly laid to lawn with a patio for seating and a shed to the rear.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</advert3>
+          <advert4>&lt;p style="text-align: justify;"&gt;&lt;span style="text-align: justify;"&gt;&lt;span style="text-align: justify;"&gt;The property is set in the delightful village of Bridge. The village &lt;/span&gt;&lt;span style="text-align: justify;"&gt;offers a comprehensive range of local amenities including a mini-supermarket, pharmacy, dentist, and hairdresser. There are two public houses in the village, a modern health centre, and a popular primary school. The highly regarded Pig Hotel at Bridge Place is a handsome 17th century manor house providing a wonderful boutique-style hotel and restaurant in a delightful setting. The surrounding countryside provides good walking, riding, and cycling. The Cathedral City of Canterbury is easily accessible providing a comprehensive range of shopping, leisure, and educational facilities, as well as a regular High-Speed rail service from Canterbury West station to London St. Pancras with a journey time of approximately 55 minutes.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</advert4>
+          <advert5>All mains services are understood to be connected to the property. </advert5>
+          <advert6 />
+          <house_number>22</house_number>
+          <street>Union Road</street>
+          <district>Bridge</district>
+          <town>Canterbury</town>
+          <county>Kent</county>
+          <postcode>CT4 5LN</postcode>
+          <country>UK</country>
+          <area>Canterbury Villages South &amp; West</area>
+          <bullet1>4 Bedrooms, 2 bath/shower rooms</bullet1>
+          <bullet2>Sitting room with period fireplace</bullet2>
+          <bullet3>Open-plan kitchen/dining room</bullet3>
+          <bullet4>Utility &amp; downstairs w.c</bullet4>
+          <bullet5>Attractively presented throughout </bullet5>
+          <bullet6>Delightful rear garden</bullet6>
+          <bullet7>No onward chain</bullet7>
+          <bullet8>EPC Rating: 61D</bullet8>
+          <bullet9 />
+          <bullet10 />
+          <bullet11 />
+          <bullet12 />
+          <bullet13 />
+          <bullet14 />
+          <bullet15 />
+          <bullet16 />
+          <bullet17 />
+          <bullet18 />
+          <bullet19 />
+          <bullet20 />
+          <brochure>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{9DEAE78A-9318-406B-82D9-FED0C0F06C4A}/external.pdf</brochure>
+          <agency_region>KENT</agency_region>
+          <agency_district>CANTERBURY</agency_district>
+          <agency_location>Canterbury Villages South &amp; West</agency_location>
+          <web_link>https://www.properties.charlesbainbridge.com/index.php?option=com_eapow&amp;format=html&amp;task=property.getProp&amp;?pid=9DEAE78A-9318-406B-82D9-FED0C0F06C4A&amp;aid=C46B2F24-B9CD-417A-9879-F8C0E2A6C226</web_link>
+          <latitude>51.24674</latitude>
+          <longitude>1.122261</longitude>
+          <qrcode>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{9DEAE78A-9318-406B-82D9-FED0C0F06C4A}/qr.png</qrcode>
+          <epc />
+          <hips>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{9DEAE78A-9318-406B-82D9-FED0C0F06C4A}/HIPS/6181.png</hips>
+          <filename3 />
+          <filename4 />
+          <filename5 />
+          <filename6 />
+          <virtual_tour_url />
+          <property_type>House</property_type>
+          <commercial_type />
+          <property_style>Semi Detached</property_style>
+          <property_reference>12535427</property_reference>
+          <newHome>NO</newHome>
+          <noChain>YES</noChain>
+          <furnished>Unknown</furnished>
+          <portalFee />
+          <currency />
+          <featuredProperty>YES</featuredProperty>
+          <text3 name="" value="Copy on events - Property docs. AD" />
+          <date3 name="Data Protection - Seller" value="02/03/2025 00:00:00" />
+          <number1 name="" value="0" />
+          <number2 name="" value="0" />
+          <number3 name="" value="0" />
+          <number4 name="" value="0" />
+          <number5 name="" value="0" />
+          <number6 name="" value="0" />
+          <number7 name="" value="0" />
+          <number8 name="" value="0" />
+          <number9 name="" value="0" />
+          <number10 name="" value="0" />
+          <rooms>
+            <room name="Entrance">
+              <measurement_text />
+              <description />
+            </room>
+            <room name="Hall">
+              <measurement_text />
+              <description />
+            </room>
+            <room name="Sitting Room">
+              <measurement_text>12' 2'' x 12' 0'' (3.71m x 3.65m)</measurement_text>
+              <description />
+            </room>
+            <room name="Utility Room">
+              <measurement_text>8' 9'' x 6' 1'' (2.66m x 1.85m)</measurement_text>
+              <description />
+            </room>
+            <room name="Kitchen">
+              <measurement_text>12' 2'' x 5' 6'' (3.71m x 1.68m)</measurement_text>
+              <description />
+            </room>
+            <room name="Dining Room">
+              <measurement_text>16' 6'' x 12' 10'' (5.03m x 3.91m)</measurement_text>
+              <description />
+            </room>
+            <room name="W.C">
+              <measurement_text />
+              <description />
+            </room>
+            <room name="First Floor">
+              <measurement_text />
+              <description />
+            </room>
+            <room name="Master Bedroom">
+              <measurement_text>16' 6'' x 12' 10'' (5.03m x 3.91m)</measurement_text>
+              <description />
+            </room>
+            <room name="Ensuite">
+              <measurement_text>10' 1'' x 5' 4'' (3.07m x 1.62m)</measurement_text>
+              <description />
+            </room>
+            <room name="Bedroom Two">
+              <measurement_text>12' 2'' x 12' 2'' (3.71m x 3.71m)</measurement_text>
+              <description />
+            </room>
+            <room name="Bathroom">
+              <measurement_text>7' 9'' x 6' 11'' (2.36m x 2.11m)</measurement_text>
+              <description />
+            </room>
+            <room name="Second Floor">
+              <measurement_text>0' 0'' x 0' 0'' (0.00m x 0.00m)</measurement_text>
+              <description />
+            </room>
+            <room name="Bedroom Three">
+              <measurement_text>12' 1'' x 8' 9'' (3.68m x 2.66m)</measurement_text>
+              <description />
+            </room>
+            <room name="Bedroom Four">
+              <measurement_text>10' 2'' x 8' 9'' (3.10m x 2.66m)</measurement_text>
+              <description />
+            </room>
+            <room name="Exterior">
+              <measurement_text />
+              <description />
+            </room>
+            <room name="Rear Garden">
+              <measurement_text>57' 5'' x 18' 1'' (17.49m x 5.51m)</measurement_text>
+              <description />
+            </room>
+          </rooms>
+          <pictures>
+            <picture name="Photo 34" lastchanged="2025-02-18T09:37:41.4415764Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{9deae78a-9318-406b-82d9-fed0c0f06c4a}/main/DSC05736.jpg</filename>
+            </picture>
+            <picture name="Photo 8" lastchanged="2025-02-18T09:37:11.899102Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{9deae78a-9318-406b-82d9-fed0c0f06c4a}/main/DSC05614.jpg</filename>
+            </picture>
+            <picture name="Photo 23" lastchanged="2025-10-13T12:57:58.6307713Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{9deae78a-9318-406b-82d9-fed0c0f06c4a}/main/staged_kitchen_dining_room.jpg</filename>
+            </picture>
+            <picture name="Photo 22" lastchanged="2025-10-13T12:57:58.3807351Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{9deae78a-9318-406b-82d9-fed0c0f06c4a}/main/staged_dining_living_room.jpg</filename>
+            </picture>
+            <picture name="Photo 24" lastchanged="2025-10-13T12:57:58.8807963Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{9deae78a-9318-406b-82d9-fed0c0f06c4a}/main/staged_living_room_snug.jpg</filename>
+            </picture>
+            <picture name="Photo 30" lastchanged="2025-02-18T09:37:33.4182079Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{9deae78a-9318-406b-82d9-fed0c0f06c4a}/main/DSC05728.jpg</filename>
+            </picture>
+            <picture name="Photo 20" lastchanged="2025-10-13T12:57:57.8962977Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{9deae78a-9318-406b-82d9-fed0c0f06c4a}/main/staged_attic_bedroom_flipped.jpg</filename>
+            </picture>
+            <picture name="Photo 19" lastchanged="2025-10-13T12:57:57.6462669Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{9deae78a-9318-406b-82d9-fed0c0f06c4a}/main/realistic_staged_bedroom.jpg</filename>
+            </picture>
+            <picture name="Photo 27" lastchanged="2025-02-18T09:37:29.4165102Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{9deae78a-9318-406b-82d9-fed0c0f06c4a}/main/DSC05710.jpg</filename>
+            </picture>
+            <picture name="Photo 26" lastchanged="2025-02-18T09:37:28.583422Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{9deae78a-9318-406b-82d9-fed0c0f06c4a}/main/DSC05707.jpg</filename>
+            </picture>
+            <picture name="Photo 21" lastchanged="2025-10-13T12:57:58.1306993Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{9deae78a-9318-406b-82d9-fed0c0f06c4a}/main/staged_bedroom.jpg</filename>
+            </picture>
+            <picture name="Photo 18" lastchanged="2025-10-13T12:57:57.411873Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{9deae78a-9318-406b-82d9-fed0c0f06c4a}/main/enhanced_attic_room.jpg</filename>
+            </picture>
+            <picture name="Photo 17" lastchanged="2025-10-13T12:57:57.1930941Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{9deae78a-9318-406b-82d9-fed0c0f06c4a}/main/cleaned_attic_room.jpg</filename>
+            </picture>
+            <picture name="Photo 17" lastchanged="2025-02-18T09:37:20.2310718Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{9deae78a-9318-406b-82d9-fed0c0f06c4a}/main/DSC05662.jpg</filename>
+            </picture>
+            <picture name="Photo 19" lastchanged="2025-09-25T12:17:52.4093246Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{9deae78a-9318-406b-82d9-fed0c0f06c4a}/main/DSC05638.jpg</filename>
+            </picture>
+            <picture name="Photo 15" lastchanged="2025-02-18T09:37:18.5077995Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{9deae78a-9318-406b-82d9-fed0c0f06c4a}/main/DSC05650.jpg</filename>
+            </picture>
+            <picture name="Photo 18" lastchanged="2025-09-19T15:54:13.1231156Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{9deae78a-9318-406b-82d9-fed0c0f06c4a}/main/22UnionRoad-High.jpg</filename>
+            </picture>
+          </pictures>
+          <floorplans>
+            <floorplan name="">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{9deae78a-9318-406b-82d9-fed0c0f06c4a}/Floorplan_Floorplan1.jpg</filename>
             </floorplan>
           </floorplans>
         </property>
