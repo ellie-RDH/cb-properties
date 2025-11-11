@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<agency xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:noNamespaceSchemaLocation="http://www.expertagent.co.uk/xmlexport/ExpertAgentXMLSchema.xsd" name="CharlesBainbridge">
+﻿<?xml version="1.0" encoding="utf-8"?>
+<agency xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:noNamespaceSchemaLocation="http://www.expertagent.co.uk/xmlexport/ExpertAgentXMLSchema.xsd" name="CharlesBainbridge" branchName="Charles Bainbridge">
   <branches>
     <branch name="Charles Bainbridge">
       <properties>
@@ -7564,284 +7564,6 @@ EPC Rating: 67D&lt;/p&gt;</advert2>
             </floorplan>
           </floorplans>
         </property>
-        <property reference="CB003796" hash="AB78575075D92A8971648BFD78635615">
-          <availableFrom />
-          <instructedDate>24/07/2025 16:13:53</instructedDate>
-          <department>Residential Sales</department>
-          <propertyofweek>NO</propertyofweek>
-          <price_text>Offers in Excess of £995,000</price_text>
-          <numeric_price>995000.0000</numeric_price>
-          <bedrooms>7</bedrooms>
-          <receptions>1</receptions>
-          <bathrooms>7</bathrooms>
-          <priority>On Market</priority>
-          <tenure>Freehold</tenure>
-          <advert_heading>Watling Street, Canterbury</advert_heading>
-          <main_advert>A rare opportunity to acquire a charming and versatile property, currently operating as a successful boutique guesthouse.
-7 Guest Rooms
-Central Canterbury Location
-Courtyard Rear Garden
-Parking for Several Vehicles
-Period Property
-Total floor area approx. 2685 sq.ft (249.4 sq.m) Unique Proposition
-EPC Rating: 50B</main_advert>
-          <advert2>&lt;p style="text-align: justify;"&gt;Located in the very heart of Canterbury, The Coach House presents a rare opportunity to acquire a charming and versatile property, currently operating as a successful boutique guesthouse. Offering seven individually arranged guest rooms, a mix of comfortable doubles and family rooms, some with private ensuite facilities, the property blends period character with commercial potential in one of the city's most desirable locations.
-&lt;br /&gt;
-&lt;br /&gt;
-Guests are welcomed into a communal lounge and dining area, with a compact but functional shared kitchen serving the property. To the rear, a communal garden provides valuable outdoor space for relaxation, a sought-after feature in this central setting.
-&lt;br /&gt;
-&lt;br /&gt;
-Additional facilities include a useful basement cellar, providing staff accommodation alongside extensive storage and service areas, enhancing the property&amp;rsquo;s operational efficiency.
-Outside, four dedicated parking spaces to the front of the property offer significant convenience for guests, an uncommon asset in this prime urban location.
-&lt;br /&gt;
-&lt;br /&gt;
-Situated within easy walking distance of Canterbury&amp;rsquo;s historic cathedral precincts, pedestrianised shopping streets, and popular restaurants, The Coach House enjoys excellent connectivity for both tourists and business visitors. Canterbury West station, providing high-speed rail links to London, is within close proximity, while excellent road access opens up the surrounding Kent countryside and coastal towns.
-&lt;br /&gt;
-&lt;br /&gt;
-Importantly, the property offers considerable potential for alternative use or development. Subject to the necessary planning consents, The Coach House could be reconfigured back into a single residential dwelling or redeveloped into multiple apartments, capitalising on the generous plot and central setting. The property was originally two residential buildings, which could likely be reinstated with planning permissions.  The substantial basement and existing configuration provide flexibility for imaginative reworking, presenting the opportunity for significant uplift in value. Whether maintained as a profitable guesthouse or redeveloped for residential use, this is a property offering genuine scope for substantial returns. *Open to different financing options*
-A distinctive and rarely available proposition in the heart of Canterbury.
-&lt;br /&gt;
-&lt;br /&gt;
-Council tax band: A&lt;br /&gt;
-&lt;br /&gt;
-Tenure: Freehold&lt;br /&gt;
-&lt;br /&gt;
-EPC Rating: 50B&lt;br /&gt;
-&lt;br /&gt;
-What3Words:///punks.walks.radio&lt;/p&gt;</advert2>
-          <advert3>&lt;p style="text-align: justify;"&gt;&lt;span style="text-align: justify;"&gt;Located in the very heart of Canterbury, The Coach House presents a rare opportunity to acquire a charming and versatile property, currently operating as a successful boutique guesthouse. Offering seven individually arranged guest rooms, a mix of comfortable doubles and family rooms, some with private ensuite facilities, the property blends period character with commercial potential in one of the city's most desirable locations.&lt;/span&gt;&lt;br style="text-align: justify;" /&gt;
-&lt;br style="text-align: justify;" /&gt;
-&lt;span style="text-align: justify;"&gt;Guests are welcomed into a communal lounge and dining area, with a compact but functional shared kitchen serving the property. To the rear, a communal garden provides valuable outdoor space for relaxation, a sought-after feature in this central setting.&lt;/span&gt;&lt;br style="text-align: justify;" /&gt;
-&lt;br style="text-align: justify;" /&gt;
-&lt;span style="text-align: justify;"&gt;Additional facilities include a useful basement cellar, providing staff accommodation alongside extensive storage and service areas, enhancing the property&amp;rsquo;s operational efficiency. Outside, four dedicated parking spaces to the front of the property offer significant convenience for guests, an uncommon asset in this prime urban location.&lt;/span&gt;&lt;br style="text-align: justify;" /&gt;
-&lt;br style="text-align: justify;" /&gt;
-&lt;span style="text-align: justify;"&gt;Situated within easy walking distance of Canterbury&amp;rsquo;s historic cathedral precincts, pedestrianised shopping streets, and popular restaurants, The Coach House enjoys excellent connectivity for both tourists and business visitors. Canterbury West station, providing high-speed rail links to London, is within close proximity, while excellent road access opens up the surrounding Kent countryside and coastal towns.&lt;/span&gt;&lt;br style="text-align: justify;" /&gt;
-&lt;br style="text-align: justify;" /&gt;
-&lt;span style="text-align: justify;"&gt;Importantly, the property offers considerable potential for alternative use or development. Subject to the necessary planning consents, The Coach House could be reconfigured back into a single residential dwelling or redeveloped into multiple apartments, capitalising on the generous plot and central setting. The property was originally two residential buildings, which could likely be reinstated with planning permissions. The substantial basement and existing configuration provide flexibility for imaginative reworking, presenting the opportunity for significant uplift in value. Whether maintained as a profitable guesthouse or redeveloped for residential use, this is a property offering genuine scope for substantial returns. *Open to different financing options* A distinctive and rarely available proposition in the heart of Canterbury.&lt;/span&gt;&lt;br style="text-align: justify;" /&gt;
-&lt;/p&gt;</advert3>
-          <advert4>&lt;p style="text-align: justify;"&gt;Situated within easy walking distance of Canterbury&amp;rsquo;s historic cathedral precincts, pedestrianised shopping streets, and popular restaurants, The Coach House enjoys excellent connectivity for both tourists and business visitors. Canterbury West station, providing high-speed rail links to London, is within close proximity, while excellent road access opens up the surrounding Kent countryside and coastal towns.&lt;/p&gt;</advert4>
-          <advert5>All mains services are understood to be connected to the property. </advert5>
-          <advert6 />
-          <house_number>34</house_number>
-          <street>Watling Street</street>
-          <district />
-          <town>Canterbury</town>
-          <county>Kent</county>
-          <postcode>CT1 2UD</postcode>
-          <country>UK</country>
-          <area>Canterbury Centre</area>
-          <bullet1>Guest House in Central Canterbury</bullet1>
-          <bullet2>Seven Guest Rooms</bullet2>
-          <bullet3>Opportunity to Improve</bullet3>
-          <bullet4>Originally Two Residential Properties</bullet4>
-          <bullet5>Parking for Several Vehicles</bullet5>
-          <bullet6>Total floor area approx. 2685 sq.ft (249.4 sq.m)</bullet6>
-          <bullet7 />
-          <bullet8 />
-          <bullet9 />
-          <bullet10 />
-          <bullet11 />
-          <bullet12 />
-          <bullet13 />
-          <bullet14 />
-          <bullet15 />
-          <bullet16 />
-          <bullet17 />
-          <bullet18 />
-          <bullet19 />
-          <bullet20 />
-          <brochure>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{0F4C4DF4-8A60-4390-9E80-AD00778EEDDD}/external.pdf</brochure>
-          <agency_region>KENT</agency_region>
-          <agency_district>CANTERBURY</agency_district>
-          <agency_location>Canterbury Centre</agency_location>
-          <web_link>https://www.properties.charlesbainbridge.com/index.php?option=com_eapow&amp;format=html&amp;task=property.getProp&amp;?pid=0F4C4DF4-8A60-4390-9E80-AD00778EEDDD&amp;aid=C46B2F24-B9CD-417A-9879-F8C0E2A6C226</web_link>
-          <latitude>51.2770118713379</latitude>
-          <longitude>1.07854104042053</longitude>
-          <qrcode>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{0F4C4DF4-8A60-4390-9E80-AD00778EEDDD}/qr.png</qrcode>
-          <epc />
-          <hips>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{0F4C4DF4-8A60-4390-9E80-AD00778EEDDD}/HIPS/50.png</hips>
-          <filename3 />
-          <filename4 />
-          <filename5 />
-          <filename6 />
-          <virtual_tour_url />
-          <property_type>House</property_type>
-          <commercial_type />
-          <property_style>Terraced</property_style>
-          <property_reference>12702803</property_reference>
-          <newHome>NO</newHome>
-          <noChain>NO</noChain>
-          <furnished>Unknown</furnished>
-          <portalFee />
-          <currency />
-          <featuredProperty>NO</featuredProperty>
-          <text3 name="" value="Signed copy attached " />
-          <date3 name="Data Protection - Seller" value="27/06/2025 00:00:00" />
-          <number1 name="" value="0" />
-          <number2 name="" value="0" />
-          <number3 name="" value="0" />
-          <number4 name="" value="0" />
-          <number5 name="" value="0" />
-          <number6 name="" value="0" />
-          <number7 name="" value="0" />
-          <number8 name="" value="0" />
-          <number9 name="" value="0" />
-          <number10 name="" value="0" />
-          <rooms>
-            <room name="Entrance Hall">
-              <measurement_text />
-              <description />
-            </room>
-            <room name="Bedroom Six">
-              <measurement_text>11' 5'' x 11' 1'' (3.48m x 3.38m)</measurement_text>
-              <description />
-            </room>
-            <room name="Shower Room One">
-              <measurement_text>8' 4'' x 5' 5'' (2.54m x 1.65m)</measurement_text>
-              <description />
-            </room>
-            <room name="Bedroom Seven">
-              <measurement_text>14' 8'' x 10' 5'' (4.47m x 3.17m)</measurement_text>
-              <description />
-            </room>
-            <room name="Dining Room">
-              <measurement_text>24' 3'' x 12' 2'' (7.39m x 3.71m)</measurement_text>
-              <description />
-            </room>
-            <room name="Kitchen">
-              <measurement_text>10' 5'' x 6' 9'' (3.17m x 2.06m)</measurement_text>
-              <description />
-            </room>
-            <room name="Lower Ground Floor">
-              <measurement_text />
-              <description />
-            </room>
-            <room name="Staff Bedroom One">
-              <measurement_text>12' 9'' x 9' 9'' (3.88m x 2.97m)</measurement_text>
-              <description />
-            </room>
-            <room name="Staff Bedroom Two">
-              <measurement_text>12' 2'' x 8' 10'' (3.71m x 2.69m)</measurement_text>
-              <description />
-            </room>
-            <room name="Staff Bathroom">
-              <measurement_text>6' 4'' x 5' 8'' (1.93m x 1.73m)</measurement_text>
-              <description />
-            </room>
-            <room name="Staff W.C">
-              <measurement_text>6' 6'' x 3' 7'' (1.98m x 1.09m)</measurement_text>
-              <description />
-            </room>
-            <room name="Storage">
-              <measurement_text />
-              <description />
-            </room>
-            <room name="First Floor">
-              <measurement_text />
-              <description />
-            </room>
-            <room name="Bedroom One">
-              <measurement_text>16' 10'' x 13' 2'' (5.13m x 4.01m)</measurement_text>
-              <description />
-            </room>
-            <room name="Bedroom Five">
-              <measurement_text>14' 4'' x 10' 5'' (4.37m x 3.17m)</measurement_text>
-              <description />
-            </room>
-            <room name="Bathroom One">
-              <measurement_text>6' 5'' x 6' 1'' (1.95m x 1.85m)</measurement_text>
-              <description />
-            </room>
-            <room name="W.C">
-              <measurement_text>5' 5'' x 3' 8'' (1.65m x 1.12m)</measurement_text>
-              <description />
-            </room>
-            <room name="Bedroom Three">
-              <measurement_text>15' 0'' x 13' 2'' (4.57m x 4.01m)</measurement_text>
-              <description />
-            </room>
-            <room name="Bathroom Two">
-              <measurement_text>12' 7'' x 7' 3'' (3.83m x 2.21m)</measurement_text>
-              <description />
-            </room>
-            <room name="Second Floor">
-              <measurement_text />
-              <description />
-            </room>
-            <room name="Bedroom Two">
-              <measurement_text>16' 11'' x 12' 7'' (5.15m x 3.83m)</measurement_text>
-              <description />
-            </room>
-            <room name="Shower Room Two">
-              <measurement_text>10' 8'' x 9' 8'' (3.25m x 2.94m)</measurement_text>
-              <description />
-            </room>
-            <room name="Bedroom Four">
-              <measurement_text>13' 0'' x 12' 7'' (3.96m x 3.83m)</measurement_text>
-              <description />
-            </room>
-            <room name="Bathroom">
-              <measurement_text>9' 8'' x 7' 4'' (2.94m x 2.23m)</measurement_text>
-              <description />
-            </room>
-            <room name="Exterior">
-              <measurement_text />
-              <description />
-            </room>
-          </rooms>
-          <pictures>
-            <picture name="Photo 26" lastchanged="2025-07-16T12:54:30.7548232Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{0f4c4df4-8a60-4390-9e80-ad00778eeddd}/main/DSC_2057.jpg</filename>
-            </picture>
-            <picture name="Photo 1" lastchanged="2025-07-16T12:54:02.819548Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{0f4c4df4-8a60-4390-9e80-ad00778eeddd}/main/DSC_1745.jpg</filename>
-            </picture>
-            <picture name="Photo 7" lastchanged="2025-07-16T12:54:08.700854Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{0f4c4df4-8a60-4390-9e80-ad00778eeddd}/main/DSC_1791.jpg</filename>
-            </picture>
-            <picture name="Photo 9" lastchanged="2025-07-16T12:54:11.5039219Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{0f4c4df4-8a60-4390-9e80-ad00778eeddd}/main/DSC_1810.jpg</filename>
-            </picture>
-            <picture name="Photo 8" lastchanged="2025-07-16T12:54:10.3468965Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{0f4c4df4-8a60-4390-9e80-ad00778eeddd}/main/DSC_1800.jpg</filename>
-            </picture>
-            <picture name="Photo 12" lastchanged="2025-07-16T12:54:14.6460234Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{0f4c4df4-8a60-4390-9e80-ad00778eeddd}/main/DSC_1870.jpg</filename>
-            </picture>
-            <picture name="Photo 13" lastchanged="2025-07-16T12:54:15.8023934Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{0f4c4df4-8a60-4390-9e80-ad00778eeddd}/main/DSC_1896.jpg</filename>
-            </picture>
-            <picture name="Photo 14" lastchanged="2025-07-16T12:54:16.4118537Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{0f4c4df4-8a60-4390-9e80-ad00778eeddd}/main/DSC_1926.jpg</filename>
-            </picture>
-            <picture name="Photo 16" lastchanged="2025-07-16T12:54:18.3183216Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{0f4c4df4-8a60-4390-9e80-ad00778eeddd}/main/DSC_1936.jpg</filename>
-            </picture>
-            <picture name="Photo 17" lastchanged="2025-07-16T12:54:19.4316785Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{0f4c4df4-8a60-4390-9e80-ad00778eeddd}/main/DSC_1967.jpg</filename>
-            </picture>
-            <picture name="Photo 16" lastchanged="2025-08-14T14:33:30.8201058Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{0f4c4df4-8a60-4390-9e80-ad00778eeddd}/main/DSC_1845.jpg</filename>
-            </picture>
-            <picture name="Photo 21" lastchanged="2025-07-16T12:54:23.3245649Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{0f4c4df4-8a60-4390-9e80-ad00778eeddd}/main/DSC_2022.jpg</filename>
-            </picture>
-            <picture name="Photo 16" lastchanged="2025-08-14T14:37:54.1173056Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{0f4c4df4-8a60-4390-9e80-ad00778eeddd}/main/DSC_1995.jpg</filename>
-            </picture>
-            <picture name="Photo 22" lastchanged="2025-07-16T12:54:25.435936Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{0f4c4df4-8a60-4390-9e80-ad00778eeddd}/main/DSC_2038.jpg</filename>
-            </picture>
-            <picture name="Photo 23" lastchanged="2025-07-16T12:54:26.6392094Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{0f4c4df4-8a60-4390-9e80-ad00778eeddd}/main/DSC_2042.jpg</filename>
-            </picture>
-          </pictures>
-          <floorplans>
-            <floorplan name="">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{0f4c4df4-8a60-4390-9e80-ad00778eeddd}/Floorplan_Floorplan1.jpg</filename>
-            </floorplan>
-          </floorplans>
-        </property>
         <property reference="CB003813" hash="3EA15EBA2F3165D6341B72C744A0A3A5">
           <availableFrom />
           <instructedDate>07/08/2025 10:00:18</instructedDate>
@@ -8676,8 +8398,7 @@ What3Words:///torches.parkland.grinders&lt;/p&gt;</advert2>
             <room name="Outside">
               <measurement_text />
               <description>
-
-</description>
+              </description>
             </room>
             <room name="Front Garden">
               <measurement_text />
@@ -8937,12 +8658,12 @@ Externally to the front of the property there is off street parking for 3-4 cars
             <room name="Bedroom Three">
               <measurement_text>9' 0'' x 11' 0'' (2.74m x 3.35m)</measurement_text>
               <description>
- </description>
+              </description>
             </room>
             <room name="Bedroom Four">
               <measurement_text>7' 0'' x 7' 0'' (2.13m x 2.13m)</measurement_text>
               <description>
-</description>
+              </description>
             </room>
             <room name="Bathroom">
               <measurement_text>6' 0'' x 6' 0'' (1.83m x 1.83m)</measurement_text>
@@ -8987,8 +8708,7 @@ Externally to the front of the property there is off street parking for 3-4 cars
             <room name="Rear Garden">
               <measurement_text />
               <description>
-
-</description>
+              </description>
             </room>
           </rooms>
           <pictures>
@@ -9089,280 +8809,6 @@ Externally to the front of the property there is off street parking for 3-4 cars
           <floorplans>
             <floorplan name="">
               <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{f253d487-b161-47a5-a8e7-b09618e57302}/Floorplan_Floorplan1.jpg</filename>
-            </floorplan>
-          </floorplans>
-        </property>
-        <property reference="CB003820" hash="1EFD6FCE17B54F0F31543C83F27D050A">
-          <availableFrom />
-          <instructedDate>24/07/2025 16:20:51</instructedDate>
-          <department>Residential Sales</department>
-          <propertyofweek>NO</propertyofweek>
-          <price_text>Offers in Excess of £995,000</price_text>
-          <numeric_price>995000.0000</numeric_price>
-          <bedrooms>7</bedrooms>
-          <receptions>1</receptions>
-          <bathrooms>7</bathrooms>
-          <priority>On Market</priority>
-          <tenure>Freehold</tenure>
-          <advert_heading>Watling Street, Canterbury</advert_heading>
-          <main_advert>A rare opportunity to acquire a charming and versatile property, currently operating as a successful boutique guesthouse. &lt;br /&gt;
-&lt;br /&gt;
-7 Guest Rooms &lt;br /&gt;
-Central Canterbury Location &lt;br /&gt;
-Courtyard Rear Garden &lt;br /&gt;
-Parking for Several Vehicles &lt;br /&gt;
-Period Property&lt;br /&gt;
-Total floor area approx. 2685 sq.ft (249.4 sq.m) &lt;br /&gt;
-Unique Proposition &lt;br /&gt;
-EPC Rating: 50B</main_advert>
-          <advert2>&lt;p style="text-align: justify;"&gt;&lt;span style="text-align: justify;"&gt;Located in the very heart of Canterbury, The Coach House presents a rare opportunity to acquire a charming and versatile property, currently operating as a successful boutique guesthouse. Offering seven individually arranged guest rooms, a mix of comfortable doubles and family rooms, some with private ensuite facilities, the property blends period character with commercial potential in one of the city's most desirable locations.&lt;/span&gt;&lt;br style="text-align: justify;" /&gt;
-&lt;br style="text-align: justify;" /&gt;
-&lt;span style="text-align: justify;"&gt;Guests are welcomed into a communal lounge and dining area, with a compact but functional shared kitchen serving the property. To the rear, a communal garden provides valuable outdoor space for relaxation, a sought-after feature in this central setting.&lt;/span&gt;&lt;br style="text-align: justify;" /&gt;
-&lt;br style="text-align: justify;" /&gt;
-&lt;span style="text-align: justify;"&gt;Additional facilities include a useful basement cellar, providing staff accommodation alongside extensive storage and service areas, enhancing the property&amp;rsquo;s operational efficiency. Outside, four dedicated parking spaces to the front of the property offer significant convenience for guests, an uncommon asset in this prime urban location.&lt;/span&gt;&lt;br style="text-align: justify;" /&gt;
-&lt;br style="text-align: justify;" /&gt;
-&lt;span style="text-align: justify;"&gt;Situated within easy walking distance of Canterbury&amp;rsquo;s historic cathedral precincts, pedestrianised shopping streets, and popular restaurants, The Coach House enjoys excellent connectivity for both tourists and business visitors. Canterbury West station, providing high-speed rail links to London, is within close proximity, while excellent road access opens up the surrounding Kent countryside and coastal towns.&lt;/span&gt;&lt;br style="text-align: justify;" /&gt;
-&lt;br style="text-align: justify;" /&gt;
-&lt;span style="text-align: justify;"&gt;Importantly, the property offers considerable potential for alternative use or development. Subject to the necessary planning consents, The Coach House could be reconfigured back into a single residential dwelling or redeveloped into multiple apartments, capitalising on the generous plot and central setting. The property was originally two residential buildings, which could likely be reinstated with planning permissions. The substantial basement and existing configuration provide flexibility for imaginative reworking, presenting the opportunity for significant uplift in value. Whether maintained as a profitable guesthouse or redeveloped for residential use, this is a property offering genuine scope for substantial returns. *Open to different financing options* A distinctive and rarely available proposition in the heart of Canterbury.&lt;/span&gt;&lt;br style="text-align: justify;" /&gt;
-&lt;br style="text-align: justify;" /&gt;
-&lt;span style="text-align: justify;"&gt;Council tax band: A&lt;/span&gt;&lt;br style="text-align: justify;" /&gt;
-&lt;br style="text-align: justify;" /&gt;
-&lt;span style="text-align: justify;"&gt;Tenure: Freehold&lt;/span&gt;&lt;br style="text-align: justify;" /&gt;
-&lt;br style="text-align: justify;" /&gt;
-&lt;span style="text-align: justify;"&gt;EPC Rating: 50B&lt;/span&gt;&lt;br style="text-align: justify;" /&gt;
-&lt;br style="text-align: justify;" /&gt;
-&lt;span style="text-align: justify;"&gt;What3Words:///punks.walks.radio&lt;/span&gt;&lt;/p&gt;
-&lt;br /&gt;
-&lt;div&gt;&lt;span style="text-align: justify;"&gt;&lt;br /&gt;
-&lt;/span&gt;&lt;/div&gt;</advert2>
-          <advert3>&lt;span style="text-align: justify;"&gt;&lt;span style="text-align: justify;"&gt;Located in the very heart of Canterbury, The Coach House presents a rare opportunity to acquire a charming and versatile property, currently operating as a successful boutique guesthouse. Offering seven individually arranged guest rooms, a mix of comfortable doubles and family rooms, some with private ensuite facilities, the property blends period character with commercial potential in one of the city's most desirable locations.&lt;/span&gt;&lt;br style="text-align: justify;" /&gt;
-&lt;br style="text-align: justify;" /&gt;
-&lt;span style="text-align: justify;"&gt;Guests are welcomed into a communal lounge and dining area, with a compact but functional shared kitchen serving the property. To the rear, a communal garden provides valuable outdoor space for relaxation, a sought-after feature in this central setting.&lt;/span&gt;&lt;br style="text-align: justify;" /&gt;
-&lt;br style="text-align: justify;" /&gt;
-&lt;span style="text-align: justify;"&gt;Additional facilities include a useful basement cellar, providing staff accommodation alongside extensive storage and service areas, enhancing the property&amp;rsquo;s operational efficiency. Outside, four dedicated parking spaces to the front of the property offer significant convenience for guests, an uncommon asset in this prime urban location.&lt;/span&gt;&lt;br style="text-align: justify;" /&gt;
-&lt;br style="text-align: justify;" /&gt;
-&lt;span style="text-align: justify;"&gt;Importantly, the property offers considerable potential for alternative use or development. Subject to the necessary planning consents, The Coach House could be reconfigured back into a single residential dwelling or redeveloped into multiple apartments, capitalising on the generous plot and central setting. The property was originally two residential buildings, which could likely be reinstated with planning permissions. The substantial basement and existing configuration provide flexibility for imaginative reworking, presenting the opportunity for significant uplift in value. Whether maintained as a profitable guesthouse or redeveloped for residential use, this is a property offering genuine scope for substantial returns. *Open to different financing options* A distinctive and rarely available proposition in the heart of Canterbury.&lt;/span&gt;&lt;br style="text-align: justify;" /&gt;
-&lt;br /&gt;
-&lt;/span&gt;
-&lt;div&gt;&lt;span style="text-align: justify;"&gt;&lt;br /&gt;
-&lt;/span&gt;&lt;/div&gt;
-&lt;br /&gt;
-&lt;div&gt;&lt;span style="text-align: justify;"&gt;&lt;br /&gt;
-&lt;/span&gt;&lt;/div&gt;</advert3>
-          <advert4>&lt;p style="text-align: justify;"&gt;Situated within easy walking distance of Canterbury&amp;rsquo;s historic cathedral precincts, pedestrianised shopping streets, and popular restaurants, The Coach House enjoys excellent connectivity for both tourists and business visitors. Canterbury West station, providing high-speed rail links to London, is within close proximity, while excellent road access opens up the surrounding Kent countryside and coastal towns.&lt;/p&gt;</advert4>
-          <advert5>All mains services are understood to be connected to the property. </advert5>
-          <advert6 />
-          <house_number>34</house_number>
-          <street>Watling Street</street>
-          <district />
-          <town>Canterbury</town>
-          <county>Kent</county>
-          <postcode>CT1 2UD</postcode>
-          <country>UK</country>
-          <area>Canterbury Centre</area>
-          <bullet1>Seven Guest Rooms</bullet1>
-          <bullet2>Central Canterbury Location</bullet2>
-          <bullet3>Courtyard Rear Garden</bullet3>
-          <bullet4>Parking for Several Vehicles</bullet4>
-          <bullet5>Total floor area approx. 2685 sq.ft (249.4 sq.m)</bullet5>
-          <bullet6>Unique Proposition</bullet6>
-          <bullet7>Development opportunity</bullet7>
-          <bullet8>EPC Rating 50B</bullet8>
-          <bullet9 />
-          <bullet10 />
-          <bullet11 />
-          <bullet12 />
-          <bullet13 />
-          <bullet14 />
-          <bullet15 />
-          <bullet16 />
-          <bullet17 />
-          <bullet18 />
-          <bullet19 />
-          <bullet20 />
-          <brochure>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{5889BB7F-6398-484B-8C08-8EE4978F087D}/external.pdf</brochure>
-          <agency_region>KENT</agency_region>
-          <agency_district>CANTERBURY</agency_district>
-          <agency_location>Canterbury Centre</agency_location>
-          <web_link>https://www.properties.charlesbainbridge.com/index.php?option=com_eapow&amp;format=html&amp;task=property.getProp&amp;?pid=5889BB7F-6398-484B-8C08-8EE4978F087D&amp;aid=C46B2F24-B9CD-417A-9879-F8C0E2A6C226</web_link>
-          <latitude>51.2770118713379</latitude>
-          <longitude>1.07854104042053</longitude>
-          <qrcode>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{5889BB7F-6398-484B-8C08-8EE4978F087D}/qr.png</qrcode>
-          <epc />
-          <hips>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{5889BB7F-6398-484B-8C08-8EE4978F087D}/HIPS/50.png</hips>
-          <filename3 />
-          <filename4 />
-          <filename5 />
-          <filename6 />
-          <virtual_tour_url />
-          <property_type>House</property_type>
-          <commercial_type />
-          <property_style>Terraced</property_style>
-          <property_reference>12721456</property_reference>
-          <newHome>NO</newHome>
-          <noChain>NO</noChain>
-          <furnished>Unknown</furnished>
-          <portalFee />
-          <currency />
-          <featuredProperty>NO</featuredProperty>
-          <number1 name="" value="0" />
-          <number2 name="" value="0" />
-          <number3 name="" value="0" />
-          <number4 name="" value="0" />
-          <number5 name="" value="0" />
-          <number6 name="" value="0" />
-          <number7 name="" value="0" />
-          <number8 name="" value="0" />
-          <number9 name="" value="0" />
-          <number10 name="" value="0" />
-          <rooms>
-            <room name="Entrance Hall">
-              <measurement_text />
-              <description />
-            </room>
-            <room name="Bedroom Six">
-              <measurement_text>11' 5'' x 11' 1'' (3.48m x 3.38m)</measurement_text>
-              <description />
-            </room>
-            <room name="Shower Room One">
-              <measurement_text>8' 4'' x 5' 5'' (2.54m x 1.65m)</measurement_text>
-              <description />
-            </room>
-            <room name="Bedroom Seven">
-              <measurement_text>14' 8'' x 10' 5'' (4.47m x 3.17m)</measurement_text>
-              <description />
-            </room>
-            <room name="Dining Room">
-              <measurement_text>24' 3'' x 12' 2'' (7.39m x 3.71m)</measurement_text>
-              <description />
-            </room>
-            <room name="Kitchen">
-              <measurement_text>10' 5'' x 6' 9'' (3.17m x 2.06m)</measurement_text>
-              <description />
-            </room>
-            <room name="Lower Ground Floor">
-              <measurement_text />
-              <description />
-            </room>
-            <room name="Staff Bedroom One">
-              <measurement_text>12' 9'' x 9' 9'' (3.88m x 2.97m)</measurement_text>
-              <description />
-            </room>
-            <room name="Staff Bedroom Two">
-              <measurement_text>12' 2'' x 8' 10'' (3.71m x 2.69m)</measurement_text>
-              <description />
-            </room>
-            <room name="Staff Bathroom">
-              <measurement_text>6' 4'' x 5' 8'' (1.93m x 1.73m)</measurement_text>
-              <description />
-            </room>
-            <room name="Staff W.C">
-              <measurement_text>6' 6'' x 3' 7'' (1.98m x 1.09m)</measurement_text>
-              <description />
-            </room>
-            <room name="Storage">
-              <measurement_text />
-              <description />
-            </room>
-            <room name="First Floor">
-              <measurement_text />
-              <description />
-            </room>
-            <room name="Bedroom One">
-              <measurement_text>16' 10'' x 13' 2'' (5.13m x 4.01m)</measurement_text>
-              <description />
-            </room>
-            <room name="Bedroom Five">
-              <measurement_text />
-              <description />
-            </room>
-            <room name="Bathroom One">
-              <measurement_text>6' 5'' x 6' 1'' (1.95m x 1.85m)</measurement_text>
-              <description />
-            </room>
-            <room name="W.C ">
-              <measurement_text>5' 5'' x 3' 8'' (1.65m x 1.12m)</measurement_text>
-              <description />
-            </room>
-            <room name="Bedroom Three">
-              <measurement_text>15' 0'' x 13' 2'' (4.57m x 4.01m)</measurement_text>
-              <description />
-            </room>
-            <room name="Bathroom Two">
-              <measurement_text>12' 7'' x 7' 3'' (3.83m x 2.21m)</measurement_text>
-              <description />
-            </room>
-            <room name="Second Floor">
-              <measurement_text />
-              <description />
-            </room>
-            <room name="Bedroom Two">
-              <measurement_text>16' 11'' x 12' 7'' (5.15m x 3.83m)</measurement_text>
-              <description />
-            </room>
-            <room name="Shower Room Two">
-              <measurement_text>10' 8'' x 9' 8'' (3.25m x 2.94m)</measurement_text>
-              <description />
-            </room>
-            <room name="Bedroom Four">
-              <measurement_text>9' 8'' x 7' 4'' (2.94m x 2.23m)</measurement_text>
-              <description />
-            </room>
-            <room name="Exterior">
-              <measurement_text />
-              <description />
-            </room>
-          </rooms>
-          <pictures>
-            <picture name="Photo 18" lastchanged="2025-08-14T15:20:58.5149051Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{5889bb7f-6398-484b-8c08-8ee4978f087d}/main/DSC_1791.jpg</filename>
-            </picture>
-            <picture name="Photo 16" lastchanged="2025-09-25T07:54:41.7262708Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{5889bb7f-6398-484b-8c08-8ee4978f087d}/main/DSC_2052.jpg</filename>
-            </picture>
-            <picture name="Photo 1" lastchanged="2025-07-16T12:54:02.819548Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{5889BB7F-6398-484B-8C08-8EE4978F087D}/main/DSC_1745.jpg</filename>
-            </picture>
-            <picture name="Photo 5" lastchanged="2025-07-16T12:54:06.5283019Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{5889BB7F-6398-484B-8C08-8EE4978F087D}/main/DSC_1780.jpg</filename>
-            </picture>
-            <picture name="Photo 9" lastchanged="2025-07-16T12:54:11.5039219Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{5889BB7F-6398-484B-8C08-8EE4978F087D}/main/DSC_1810.jpg</filename>
-            </picture>
-            <picture name="Photo 19" lastchanged="2025-08-14T15:21:49.9010058Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{5889bb7f-6398-484b-8c08-8ee4978f087d}/main/DSC_1800.jpg</filename>
-            </picture>
-            <picture name="Photo 12" lastchanged="2025-07-16T12:54:14.6460234Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{5889BB7F-6398-484B-8C08-8EE4978F087D}/main/DSC_1870.jpg</filename>
-            </picture>
-            <picture name="Photo 14" lastchanged="2025-07-16T12:54:16.4118537Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{5889BB7F-6398-484B-8C08-8EE4978F087D}/main/DSC_1926.jpg</filename>
-            </picture>
-            <picture name="Photo 16" lastchanged="2025-07-16T12:54:18.3183216Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{5889BB7F-6398-484B-8C08-8EE4978F087D}/main/DSC_1936.jpg</filename>
-            </picture>
-            <picture name="Photo 17" lastchanged="2025-07-16T12:54:19.4316785Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{5889BB7F-6398-484B-8C08-8EE4978F087D}/main/DSC_1967.jpg</filename>
-            </picture>
-            <picture name="Photo 11" lastchanged="2025-07-16T12:54:13.6302767Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{5889BB7F-6398-484B-8C08-8EE4978F087D}/main/DSC_1845.jpg</filename>
-            </picture>
-            <picture name="Photo 18" lastchanged="2025-08-14T15:35:25.6685198Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{5889bb7f-6398-484b-8c08-8ee4978f087d}/main/DSC_1995.jpg</filename>
-            </picture>
-            <picture name="Photo 21" lastchanged="2025-07-16T12:54:23.3245649Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{5889BB7F-6398-484B-8C08-8EE4978F087D}/main/DSC_2022.jpg</filename>
-            </picture>
-            <picture name="Photo 23" lastchanged="2025-07-16T12:54:26.6392094Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{5889BB7F-6398-484B-8C08-8EE4978F087D}/main/DSC_2042.jpg</filename>
-            </picture>
-            <picture name="Photo 22" lastchanged="2025-07-16T12:54:25.435936Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{5889BB7F-6398-484B-8C08-8EE4978F087D}/main/DSC_2038.jpg</filename>
-            </picture>
-          </pictures>
-          <floorplans>
-            <floorplan name="">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{5889bb7f-6398-484b-8c08-8ee4978f087d}/Floorplan_Floorplan1.jpg</filename>
             </floorplan>
           </floorplans>
         </property>
@@ -14283,6 +13729,558 @@ Council Tax Band C. EPC Rating 63D. Security deposit to be held is &amp;pound;28
             </picture>
           </pictures>
           <floorplans />
+        </property>
+        <property reference="CB003796" hash="F08B68D3A83D9DEA2FED7F28A9612768">
+          <availableFrom />
+          <instructedDate>24/07/2025 16:13:53</instructedDate>
+          <department>Residential Sales</department>
+          <propertyofweek>NO</propertyofweek>
+          <price_text>Offers in Excess of £775,000</price_text>
+          <numeric_price>775000.0000</numeric_price>
+          <bedrooms>7</bedrooms>
+          <receptions>1</receptions>
+          <bathrooms>7</bathrooms>
+          <priority>On Market</priority>
+          <tenure>Freehold</tenure>
+          <advert_heading>Watling Street, Canterbury</advert_heading>
+          <main_advert>A rare opportunity to acquire a charming and versatile property, currently operating as a successful boutique guesthouse.
+7 Guest Rooms
+Central Canterbury Location
+Courtyard Rear Garden
+Parking for Several Vehicles
+Period Property
+Total floor area approx. 2685 sq.ft (249.4 sq.m) Unique Proposition
+EPC Rating: 50B</main_advert>
+          <advert2>&lt;p style="text-align: justify;"&gt;Located in the very heart of Canterbury, The Coach House presents a rare opportunity to acquire a charming and versatile property, currently operating as a successful boutique guesthouse. Offering seven individually arranged guest rooms, a mix of comfortable doubles and family rooms, some with private ensuite facilities, the property blends period character with commercial potential in one of the city's most desirable locations.
+&lt;br /&gt;
+&lt;br /&gt;
+Guests are welcomed into a communal lounge and dining area, with a compact but functional shared kitchen serving the property. To the rear, a communal garden provides valuable outdoor space for relaxation, a sought-after feature in this central setting.
+&lt;br /&gt;
+&lt;br /&gt;
+Additional facilities include a useful basement cellar, providing staff accommodation alongside extensive storage and service areas, enhancing the property&amp;rsquo;s operational efficiency.
+Outside, four dedicated parking spaces to the front of the property offer significant convenience for guests, an uncommon asset in this prime urban location.
+&lt;br /&gt;
+&lt;br /&gt;
+Situated within easy walking distance of Canterbury&amp;rsquo;s historic cathedral precincts, pedestrianised shopping streets, and popular restaurants, The Coach House enjoys excellent connectivity for both tourists and business visitors. Canterbury West station, providing high-speed rail links to London, is within close proximity, while excellent road access opens up the surrounding Kent countryside and coastal towns.
+&lt;br /&gt;
+&lt;br /&gt;
+Importantly, the property offers considerable potential for alternative use or development. Subject to the necessary planning consents, The Coach House could be reconfigured back into a single residential dwelling or redeveloped into multiple apartments, capitalising on the generous plot and central setting. The property was originally two residential buildings, which could likely be reinstated with planning permissions.  The substantial basement and existing configuration provide flexibility for imaginative reworking, presenting the opportunity for significant uplift in value. Whether maintained as a profitable guesthouse or redeveloped for residential use, this is a property offering genuine scope for substantial returns. *Open to different financing options*
+A distinctive and rarely available proposition in the heart of Canterbury.
+&lt;br /&gt;
+&lt;br /&gt;
+Council tax band: A&lt;br /&gt;
+&lt;br /&gt;
+Tenure: Freehold&lt;br /&gt;
+&lt;br /&gt;
+EPC Rating: 50B&lt;br /&gt;
+&lt;br /&gt;
+What3Words:///punks.walks.radio&lt;/p&gt;</advert2>
+          <advert3>&lt;p style="text-align: justify;"&gt;&lt;span style="text-align: justify;"&gt;Located in the very heart of Canterbury, The Coach House presents a rare opportunity to acquire a charming and versatile property, currently operating as a successful boutique guesthouse. Offering seven individually arranged guest rooms, a mix of comfortable doubles and family rooms, some with private ensuite facilities, the property blends period character with commercial potential in one of the city's most desirable locations.&lt;/span&gt;&lt;br style="text-align: justify;" /&gt;
+&lt;br style="text-align: justify;" /&gt;
+&lt;span style="text-align: justify;"&gt;Guests are welcomed into a communal lounge and dining area, with a compact but functional shared kitchen serving the property. To the rear, a communal garden provides valuable outdoor space for relaxation, a sought-after feature in this central setting.&lt;/span&gt;&lt;br style="text-align: justify;" /&gt;
+&lt;br style="text-align: justify;" /&gt;
+&lt;span style="text-align: justify;"&gt;Additional facilities include a useful basement cellar, providing staff accommodation alongside extensive storage and service areas, enhancing the property&amp;rsquo;s operational efficiency. Outside, four dedicated parking spaces to the front of the property offer significant convenience for guests, an uncommon asset in this prime urban location.&lt;/span&gt;&lt;br style="text-align: justify;" /&gt;
+&lt;br style="text-align: justify;" /&gt;
+&lt;span style="text-align: justify;"&gt;Situated within easy walking distance of Canterbury&amp;rsquo;s historic cathedral precincts, pedestrianised shopping streets, and popular restaurants, The Coach House enjoys excellent connectivity for both tourists and business visitors. Canterbury West station, providing high-speed rail links to London, is within close proximity, while excellent road access opens up the surrounding Kent countryside and coastal towns.&lt;/span&gt;&lt;br style="text-align: justify;" /&gt;
+&lt;br style="text-align: justify;" /&gt;
+&lt;span style="text-align: justify;"&gt;Importantly, the property offers considerable potential for alternative use or development. Subject to the necessary planning consents, The Coach House could be reconfigured back into a single residential dwelling or redeveloped into multiple apartments, capitalising on the generous plot and central setting. The property was originally two residential buildings, which could likely be reinstated with planning permissions. The substantial basement and existing configuration provide flexibility for imaginative reworking, presenting the opportunity for significant uplift in value. Whether maintained as a profitable guesthouse or redeveloped for residential use, this is a property offering genuine scope for substantial returns. *Open to different financing options* A distinctive and rarely available proposition in the heart of Canterbury.&lt;/span&gt;&lt;br style="text-align: justify;" /&gt;
+&lt;/p&gt;</advert3>
+          <advert4>&lt;p style="text-align: justify;"&gt;Situated within easy walking distance of Canterbury&amp;rsquo;s historic cathedral precincts, pedestrianised shopping streets, and popular restaurants, The Coach House enjoys excellent connectivity for both tourists and business visitors. Canterbury West station, providing high-speed rail links to London, is within close proximity, while excellent road access opens up the surrounding Kent countryside and coastal towns.&lt;/p&gt;</advert4>
+          <advert5>All mains services are understood to be connected to the property. </advert5>
+          <advert6 />
+          <house_number>34</house_number>
+          <street>Watling Street</street>
+          <district />
+          <town>Canterbury</town>
+          <county>Kent</county>
+          <postcode>CT1 2UD</postcode>
+          <country>UK</country>
+          <area>Canterbury Centre</area>
+          <bullet1>Guest House in Central Canterbury</bullet1>
+          <bullet2>Seven Guest Rooms</bullet2>
+          <bullet3>Opportunity to Improve</bullet3>
+          <bullet4>Originally Two Residential Properties</bullet4>
+          <bullet5>Parking for Several Vehicles</bullet5>
+          <bullet6>Total floor area approx. 2685 sq.ft (249.4 sq.m)</bullet6>
+          <bullet7 />
+          <bullet8 />
+          <bullet9 />
+          <bullet10 />
+          <bullet11 />
+          <bullet12 />
+          <bullet13 />
+          <bullet14 />
+          <bullet15 />
+          <bullet16 />
+          <bullet17 />
+          <bullet18 />
+          <bullet19 />
+          <bullet20 />
+          <brochure>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{0F4C4DF4-8A60-4390-9E80-AD00778EEDDD}/external.pdf</brochure>
+          <agency_region>KENT</agency_region>
+          <agency_district>CANTERBURY</agency_district>
+          <agency_location>Canterbury Centre</agency_location>
+          <web_link>https://www.properties.charlesbainbridge.com/index.php?option=com_eapow&amp;format=html&amp;task=property.getProp&amp;?pid=0F4C4DF4-8A60-4390-9E80-AD00778EEDDD&amp;aid=C46B2F24-B9CD-417A-9879-F8C0E2A6C226</web_link>
+          <latitude>51.2770118713379</latitude>
+          <longitude>1.07854104042053</longitude>
+          <qrcode>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{0F4C4DF4-8A60-4390-9E80-AD00778EEDDD}/qr.png</qrcode>
+          <epc />
+          <hips>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{0F4C4DF4-8A60-4390-9E80-AD00778EEDDD}/HIPS/50.png</hips>
+          <filename3 />
+          <filename4 />
+          <filename5 />
+          <filename6 />
+          <virtual_tour_url />
+          <property_type>House</property_type>
+          <commercial_type />
+          <property_style>Terraced</property_style>
+          <property_reference>12702803</property_reference>
+          <newHome>NO</newHome>
+          <noChain>NO</noChain>
+          <furnished>Unknown</furnished>
+          <portalFee />
+          <currency />
+          <featuredProperty>NO</featuredProperty>
+          <text3 name="" value="Signed copy attached " />
+          <date3 name="Data Protection - Seller" value="27/06/2025 00:00:00" />
+          <number1 name="" value="0" />
+          <number2 name="" value="0" />
+          <number3 name="" value="0" />
+          <number4 name="" value="0" />
+          <number5 name="" value="0" />
+          <number6 name="" value="0" />
+          <number7 name="" value="0" />
+          <number8 name="" value="0" />
+          <number9 name="" value="0" />
+          <number10 name="" value="0" />
+          <rooms>
+            <room name="Entrance Hall">
+              <measurement_text />
+              <description />
+            </room>
+            <room name="Bedroom Six">
+              <measurement_text>11' 5'' x 11' 1'' (3.48m x 3.38m)</measurement_text>
+              <description />
+            </room>
+            <room name="Shower Room One">
+              <measurement_text>8' 4'' x 5' 5'' (2.54m x 1.65m)</measurement_text>
+              <description />
+            </room>
+            <room name="Bedroom Seven">
+              <measurement_text>14' 8'' x 10' 5'' (4.47m x 3.17m)</measurement_text>
+              <description />
+            </room>
+            <room name="Dining Room">
+              <measurement_text>24' 3'' x 12' 2'' (7.39m x 3.71m)</measurement_text>
+              <description />
+            </room>
+            <room name="Kitchen">
+              <measurement_text>10' 5'' x 6' 9'' (3.17m x 2.06m)</measurement_text>
+              <description />
+            </room>
+            <room name="Lower Ground Floor">
+              <measurement_text />
+              <description />
+            </room>
+            <room name="Staff Bedroom One">
+              <measurement_text>12' 9'' x 9' 9'' (3.88m x 2.97m)</measurement_text>
+              <description />
+            </room>
+            <room name="Staff Bedroom Two">
+              <measurement_text>12' 2'' x 8' 10'' (3.71m x 2.69m)</measurement_text>
+              <description />
+            </room>
+            <room name="Staff Bathroom">
+              <measurement_text>6' 4'' x 5' 8'' (1.93m x 1.73m)</measurement_text>
+              <description />
+            </room>
+            <room name="Staff W.C">
+              <measurement_text>6' 6'' x 3' 7'' (1.98m x 1.09m)</measurement_text>
+              <description />
+            </room>
+            <room name="Storage">
+              <measurement_text />
+              <description />
+            </room>
+            <room name="First Floor">
+              <measurement_text />
+              <description />
+            </room>
+            <room name="Bedroom One">
+              <measurement_text>16' 10'' x 13' 2'' (5.13m x 4.01m)</measurement_text>
+              <description />
+            </room>
+            <room name="Bedroom Five">
+              <measurement_text>14' 4'' x 10' 5'' (4.37m x 3.17m)</measurement_text>
+              <description />
+            </room>
+            <room name="Bathroom One">
+              <measurement_text>6' 5'' x 6' 1'' (1.95m x 1.85m)</measurement_text>
+              <description />
+            </room>
+            <room name="W.C">
+              <measurement_text>5' 5'' x 3' 8'' (1.65m x 1.12m)</measurement_text>
+              <description />
+            </room>
+            <room name="Bedroom Three">
+              <measurement_text>15' 0'' x 13' 2'' (4.57m x 4.01m)</measurement_text>
+              <description />
+            </room>
+            <room name="Bathroom Two">
+              <measurement_text>12' 7'' x 7' 3'' (3.83m x 2.21m)</measurement_text>
+              <description />
+            </room>
+            <room name="Second Floor">
+              <measurement_text />
+              <description />
+            </room>
+            <room name="Bedroom Two">
+              <measurement_text>16' 11'' x 12' 7'' (5.15m x 3.83m)</measurement_text>
+              <description />
+            </room>
+            <room name="Shower Room Two">
+              <measurement_text>10' 8'' x 9' 8'' (3.25m x 2.94m)</measurement_text>
+              <description />
+            </room>
+            <room name="Bedroom Four">
+              <measurement_text>13' 0'' x 12' 7'' (3.96m x 3.83m)</measurement_text>
+              <description />
+            </room>
+            <room name="Bathroom">
+              <measurement_text>9' 8'' x 7' 4'' (2.94m x 2.23m)</measurement_text>
+              <description />
+            </room>
+            <room name="Exterior">
+              <measurement_text />
+              <description />
+            </room>
+          </rooms>
+          <pictures>
+            <picture name="Photo 26" lastchanged="2025-07-16T12:54:30.7548232Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{0f4c4df4-8a60-4390-9e80-ad00778eeddd}/main/DSC_2057.jpg</filename>
+            </picture>
+            <picture name="Photo 1" lastchanged="2025-07-16T12:54:02.819548Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{0f4c4df4-8a60-4390-9e80-ad00778eeddd}/main/DSC_1745.jpg</filename>
+            </picture>
+            <picture name="Photo 7" lastchanged="2025-07-16T12:54:08.700854Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{0f4c4df4-8a60-4390-9e80-ad00778eeddd}/main/DSC_1791.jpg</filename>
+            </picture>
+            <picture name="Photo 9" lastchanged="2025-07-16T12:54:11.5039219Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{0f4c4df4-8a60-4390-9e80-ad00778eeddd}/main/DSC_1810.jpg</filename>
+            </picture>
+            <picture name="Photo 8" lastchanged="2025-07-16T12:54:10.3468965Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{0f4c4df4-8a60-4390-9e80-ad00778eeddd}/main/DSC_1800.jpg</filename>
+            </picture>
+            <picture name="Photo 12" lastchanged="2025-07-16T12:54:14.6460234Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{0f4c4df4-8a60-4390-9e80-ad00778eeddd}/main/DSC_1870.jpg</filename>
+            </picture>
+            <picture name="Photo 13" lastchanged="2025-07-16T12:54:15.8023934Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{0f4c4df4-8a60-4390-9e80-ad00778eeddd}/main/DSC_1896.jpg</filename>
+            </picture>
+            <picture name="Photo 14" lastchanged="2025-07-16T12:54:16.4118537Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{0f4c4df4-8a60-4390-9e80-ad00778eeddd}/main/DSC_1926.jpg</filename>
+            </picture>
+            <picture name="Photo 16" lastchanged="2025-07-16T12:54:18.3183216Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{0f4c4df4-8a60-4390-9e80-ad00778eeddd}/main/DSC_1936.jpg</filename>
+            </picture>
+            <picture name="Photo 17" lastchanged="2025-07-16T12:54:19.4316785Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{0f4c4df4-8a60-4390-9e80-ad00778eeddd}/main/DSC_1967.jpg</filename>
+            </picture>
+            <picture name="Photo 16" lastchanged="2025-08-14T14:33:30.8201058Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{0f4c4df4-8a60-4390-9e80-ad00778eeddd}/main/DSC_1845.jpg</filename>
+            </picture>
+            <picture name="Photo 21" lastchanged="2025-07-16T12:54:23.3245649Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{0f4c4df4-8a60-4390-9e80-ad00778eeddd}/main/DSC_2022.jpg</filename>
+            </picture>
+            <picture name="Photo 16" lastchanged="2025-08-14T14:37:54.1173056Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{0f4c4df4-8a60-4390-9e80-ad00778eeddd}/main/DSC_1995.jpg</filename>
+            </picture>
+            <picture name="Photo 22" lastchanged="2025-07-16T12:54:25.435936Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{0f4c4df4-8a60-4390-9e80-ad00778eeddd}/main/DSC_2038.jpg</filename>
+            </picture>
+            <picture name="Photo 23" lastchanged="2025-07-16T12:54:26.6392094Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{0f4c4df4-8a60-4390-9e80-ad00778eeddd}/main/DSC_2042.jpg</filename>
+            </picture>
+          </pictures>
+          <floorplans>
+            <floorplan name="">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{0f4c4df4-8a60-4390-9e80-ad00778eeddd}/Floorplan_Floorplan1.jpg</filename>
+            </floorplan>
+          </floorplans>
+        </property>
+        <property reference="CB003820" hash="1532D98618C846E74EA69660EB955B2A">
+          <availableFrom />
+          <instructedDate>24/07/2025 16:20:51</instructedDate>
+          <department>Residential Sales</department>
+          <propertyofweek>NO</propertyofweek>
+          <price_text>Offers in Excess of £775,000</price_text>
+          <numeric_price>775000.0000</numeric_price>
+          <bedrooms>7</bedrooms>
+          <receptions>1</receptions>
+          <bathrooms>7</bathrooms>
+          <priority>On Market</priority>
+          <tenure>Freehold</tenure>
+          <advert_heading>Watling Street, Canterbury</advert_heading>
+          <main_advert>A rare opportunity to acquire a charming and versatile property, currently operating as a successful boutique guesthouse. &lt;br /&gt;
+&lt;br /&gt;
+7 Guest Rooms &lt;br /&gt;
+Central Canterbury Location &lt;br /&gt;
+Courtyard Rear Garden &lt;br /&gt;
+Parking for Several Vehicles &lt;br /&gt;
+Period Property&lt;br /&gt;
+Total floor area approx. 2685 sq.ft (249.4 sq.m) &lt;br /&gt;
+Unique Proposition &lt;br /&gt;
+EPC Rating: 50B</main_advert>
+          <advert2>&lt;p style="text-align: justify;"&gt;&lt;span style="text-align: justify;"&gt;Located in the very heart of Canterbury, The Coach House presents a rare opportunity to acquire a charming and versatile property, currently operating as a successful boutique guesthouse. Offering seven individually arranged guest rooms, a mix of comfortable doubles and family rooms, some with private ensuite facilities, the property blends period character with commercial potential in one of the city's most desirable locations.&lt;/span&gt;&lt;br style="text-align: justify;" /&gt;
+&lt;br style="text-align: justify;" /&gt;
+&lt;span style="text-align: justify;"&gt;Guests are welcomed into a communal lounge and dining area, with a compact but functional shared kitchen serving the property. To the rear, a communal garden provides valuable outdoor space for relaxation, a sought-after feature in this central setting.&lt;/span&gt;&lt;br style="text-align: justify;" /&gt;
+&lt;br style="text-align: justify;" /&gt;
+&lt;span style="text-align: justify;"&gt;Additional facilities include a useful basement cellar, providing staff accommodation alongside extensive storage and service areas, enhancing the property&amp;rsquo;s operational efficiency. Outside, four dedicated parking spaces to the front of the property offer significant convenience for guests, an uncommon asset in this prime urban location.&lt;/span&gt;&lt;br style="text-align: justify;" /&gt;
+&lt;br style="text-align: justify;" /&gt;
+&lt;span style="text-align: justify;"&gt;Situated within easy walking distance of Canterbury&amp;rsquo;s historic cathedral precincts, pedestrianised shopping streets, and popular restaurants, The Coach House enjoys excellent connectivity for both tourists and business visitors. Canterbury West station, providing high-speed rail links to London, is within close proximity, while excellent road access opens up the surrounding Kent countryside and coastal towns.&lt;/span&gt;&lt;br style="text-align: justify;" /&gt;
+&lt;br style="text-align: justify;" /&gt;
+&lt;span style="text-align: justify;"&gt;Importantly, the property offers considerable potential for alternative use or development. Subject to the necessary planning consents, The Coach House could be reconfigured back into a single residential dwelling or redeveloped into multiple apartments, capitalising on the generous plot and central setting. The property was originally two residential buildings, which could likely be reinstated with planning permissions. The substantial basement and existing configuration provide flexibility for imaginative reworking, presenting the opportunity for significant uplift in value. Whether maintained as a profitable guesthouse or redeveloped for residential use, this is a property offering genuine scope for substantial returns. *Open to different financing options* A distinctive and rarely available proposition in the heart of Canterbury.&lt;/span&gt;&lt;br style="text-align: justify;" /&gt;
+&lt;br style="text-align: justify;" /&gt;
+&lt;span style="text-align: justify;"&gt;Council tax band: A&lt;/span&gt;&lt;br style="text-align: justify;" /&gt;
+&lt;br style="text-align: justify;" /&gt;
+&lt;span style="text-align: justify;"&gt;Tenure: Freehold&lt;/span&gt;&lt;br style="text-align: justify;" /&gt;
+&lt;br style="text-align: justify;" /&gt;
+&lt;span style="text-align: justify;"&gt;EPC Rating: 50B&lt;/span&gt;&lt;br style="text-align: justify;" /&gt;
+&lt;br style="text-align: justify;" /&gt;
+&lt;span style="text-align: justify;"&gt;What3Words:///punks.walks.radio&lt;/span&gt;&lt;/p&gt;
+&lt;br /&gt;
+&lt;div&gt;&lt;span style="text-align: justify;"&gt;&lt;br /&gt;
+&lt;/span&gt;&lt;/div&gt;</advert2>
+          <advert3>&lt;span style="text-align: justify;"&gt;&lt;span style="text-align: justify;"&gt;Located in the very heart of Canterbury, The Coach House presents a rare opportunity to acquire a charming and versatile property, currently operating as a successful boutique guesthouse. Offering seven individually arranged guest rooms, a mix of comfortable doubles and family rooms, some with private ensuite facilities, the property blends period character with commercial potential in one of the city's most desirable locations.&lt;/span&gt;&lt;br style="text-align: justify;" /&gt;
+&lt;br style="text-align: justify;" /&gt;
+&lt;span style="text-align: justify;"&gt;Guests are welcomed into a communal lounge and dining area, with a compact but functional shared kitchen serving the property. To the rear, a communal garden provides valuable outdoor space for relaxation, a sought-after feature in this central setting.&lt;/span&gt;&lt;br style="text-align: justify;" /&gt;
+&lt;br style="text-align: justify;" /&gt;
+&lt;span style="text-align: justify;"&gt;Additional facilities include a useful basement cellar, providing staff accommodation alongside extensive storage and service areas, enhancing the property&amp;rsquo;s operational efficiency. Outside, four dedicated parking spaces to the front of the property offer significant convenience for guests, an uncommon asset in this prime urban location.&lt;/span&gt;&lt;br style="text-align: justify;" /&gt;
+&lt;br style="text-align: justify;" /&gt;
+&lt;span style="text-align: justify;"&gt;Importantly, the property offers considerable potential for alternative use or development. Subject to the necessary planning consents, The Coach House could be reconfigured back into a single residential dwelling or redeveloped into multiple apartments, capitalising on the generous plot and central setting. The property was originally two residential buildings, which could likely be reinstated with planning permissions. The substantial basement and existing configuration provide flexibility for imaginative reworking, presenting the opportunity for significant uplift in value. Whether maintained as a profitable guesthouse or redeveloped for residential use, this is a property offering genuine scope for substantial returns. *Open to different financing options* A distinctive and rarely available proposition in the heart of Canterbury.&lt;/span&gt;&lt;br style="text-align: justify;" /&gt;
+&lt;br /&gt;
+&lt;/span&gt;
+&lt;div&gt;&lt;span style="text-align: justify;"&gt;&lt;br /&gt;
+&lt;/span&gt;&lt;/div&gt;
+&lt;br /&gt;
+&lt;div&gt;&lt;span style="text-align: justify;"&gt;&lt;br /&gt;
+&lt;/span&gt;&lt;/div&gt;</advert3>
+          <advert4>&lt;p style="text-align: justify;"&gt;Situated within easy walking distance of Canterbury&amp;rsquo;s historic cathedral precincts, pedestrianised shopping streets, and popular restaurants, The Coach House enjoys excellent connectivity for both tourists and business visitors. Canterbury West station, providing high-speed rail links to London, is within close proximity, while excellent road access opens up the surrounding Kent countryside and coastal towns.&lt;/p&gt;</advert4>
+          <advert5>All mains services are understood to be connected to the property. </advert5>
+          <advert6 />
+          <house_number>34</house_number>
+          <street>Watling Street</street>
+          <district />
+          <town>Canterbury</town>
+          <county>Kent</county>
+          <postcode>CT1 2UD</postcode>
+          <country>UK</country>
+          <area>Canterbury Centre</area>
+          <bullet1>Seven Guest Rooms</bullet1>
+          <bullet2>Central Canterbury Location</bullet2>
+          <bullet3>Courtyard Rear Garden</bullet3>
+          <bullet4>Parking for Several Vehicles</bullet4>
+          <bullet5>Total floor area approx. 2685 sq.ft (249.4 sq.m)</bullet5>
+          <bullet6>Unique Proposition</bullet6>
+          <bullet7>Development opportunity</bullet7>
+          <bullet8>EPC Rating 50B</bullet8>
+          <bullet9 />
+          <bullet10 />
+          <bullet11 />
+          <bullet12 />
+          <bullet13 />
+          <bullet14 />
+          <bullet15 />
+          <bullet16 />
+          <bullet17 />
+          <bullet18 />
+          <bullet19 />
+          <bullet20 />
+          <brochure>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{5889BB7F-6398-484B-8C08-8EE4978F087D}/external.pdf</brochure>
+          <agency_region>KENT</agency_region>
+          <agency_district>CANTERBURY</agency_district>
+          <agency_location>Canterbury Centre</agency_location>
+          <web_link>https://www.properties.charlesbainbridge.com/index.php?option=com_eapow&amp;format=html&amp;task=property.getProp&amp;?pid=5889BB7F-6398-484B-8C08-8EE4978F087D&amp;aid=C46B2F24-B9CD-417A-9879-F8C0E2A6C226</web_link>
+          <latitude>51.2770118713379</latitude>
+          <longitude>1.07854104042053</longitude>
+          <qrcode>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{5889BB7F-6398-484B-8C08-8EE4978F087D}/qr.png</qrcode>
+          <epc />
+          <hips>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{5889BB7F-6398-484B-8C08-8EE4978F087D}/HIPS/50.png</hips>
+          <filename3 />
+          <filename4 />
+          <filename5 />
+          <filename6 />
+          <virtual_tour_url />
+          <property_type>House</property_type>
+          <commercial_type />
+          <property_style>Terraced</property_style>
+          <property_reference>12721456</property_reference>
+          <newHome>NO</newHome>
+          <noChain>NO</noChain>
+          <furnished>Unknown</furnished>
+          <portalFee />
+          <currency />
+          <featuredProperty>NO</featuredProperty>
+          <number1 name="" value="0" />
+          <number2 name="" value="0" />
+          <number3 name="" value="0" />
+          <number4 name="" value="0" />
+          <number5 name="" value="0" />
+          <number6 name="" value="0" />
+          <number7 name="" value="0" />
+          <number8 name="" value="0" />
+          <number9 name="" value="0" />
+          <number10 name="" value="0" />
+          <rooms>
+            <room name="Entrance Hall">
+              <measurement_text />
+              <description />
+            </room>
+            <room name="Bedroom Six">
+              <measurement_text>11' 5'' x 11' 1'' (3.48m x 3.38m)</measurement_text>
+              <description />
+            </room>
+            <room name="Shower Room One">
+              <measurement_text>8' 4'' x 5' 5'' (2.54m x 1.65m)</measurement_text>
+              <description />
+            </room>
+            <room name="Bedroom Seven">
+              <measurement_text>14' 8'' x 10' 5'' (4.47m x 3.17m)</measurement_text>
+              <description />
+            </room>
+            <room name="Dining Room">
+              <measurement_text>24' 3'' x 12' 2'' (7.39m x 3.71m)</measurement_text>
+              <description />
+            </room>
+            <room name="Kitchen">
+              <measurement_text>10' 5'' x 6' 9'' (3.17m x 2.06m)</measurement_text>
+              <description />
+            </room>
+            <room name="Lower Ground Floor">
+              <measurement_text />
+              <description />
+            </room>
+            <room name="Staff Bedroom One">
+              <measurement_text>12' 9'' x 9' 9'' (3.88m x 2.97m)</measurement_text>
+              <description />
+            </room>
+            <room name="Staff Bedroom Two">
+              <measurement_text>12' 2'' x 8' 10'' (3.71m x 2.69m)</measurement_text>
+              <description />
+            </room>
+            <room name="Staff Bathroom">
+              <measurement_text>6' 4'' x 5' 8'' (1.93m x 1.73m)</measurement_text>
+              <description />
+            </room>
+            <room name="Staff W.C">
+              <measurement_text>6' 6'' x 3' 7'' (1.98m x 1.09m)</measurement_text>
+              <description />
+            </room>
+            <room name="Storage">
+              <measurement_text />
+              <description />
+            </room>
+            <room name="First Floor">
+              <measurement_text />
+              <description />
+            </room>
+            <room name="Bedroom One">
+              <measurement_text>16' 10'' x 13' 2'' (5.13m x 4.01m)</measurement_text>
+              <description />
+            </room>
+            <room name="Bedroom Five">
+              <measurement_text />
+              <description />
+            </room>
+            <room name="Bathroom One">
+              <measurement_text>6' 5'' x 6' 1'' (1.95m x 1.85m)</measurement_text>
+              <description />
+            </room>
+            <room name="W.C ">
+              <measurement_text>5' 5'' x 3' 8'' (1.65m x 1.12m)</measurement_text>
+              <description />
+            </room>
+            <room name="Bedroom Three">
+              <measurement_text>15' 0'' x 13' 2'' (4.57m x 4.01m)</measurement_text>
+              <description />
+            </room>
+            <room name="Bathroom Two">
+              <measurement_text>12' 7'' x 7' 3'' (3.83m x 2.21m)</measurement_text>
+              <description />
+            </room>
+            <room name="Second Floor">
+              <measurement_text />
+              <description />
+            </room>
+            <room name="Bedroom Two">
+              <measurement_text>16' 11'' x 12' 7'' (5.15m x 3.83m)</measurement_text>
+              <description />
+            </room>
+            <room name="Shower Room Two">
+              <measurement_text>10' 8'' x 9' 8'' (3.25m x 2.94m)</measurement_text>
+              <description />
+            </room>
+            <room name="Bedroom Four">
+              <measurement_text>9' 8'' x 7' 4'' (2.94m x 2.23m)</measurement_text>
+              <description />
+            </room>
+            <room name="Exterior">
+              <measurement_text />
+              <description />
+            </room>
+          </rooms>
+          <pictures>
+            <picture name="Photo 18" lastchanged="2025-08-14T15:20:58.5149051Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{5889bb7f-6398-484b-8c08-8ee4978f087d}/main/DSC_1791.jpg</filename>
+            </picture>
+            <picture name="Photo 16" lastchanged="2025-09-25T07:54:41.7262708Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{5889bb7f-6398-484b-8c08-8ee4978f087d}/main/DSC_2052.jpg</filename>
+            </picture>
+            <picture name="Photo 1" lastchanged="2025-07-16T12:54:02.819548Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{5889BB7F-6398-484B-8C08-8EE4978F087D}/main/DSC_1745.jpg</filename>
+            </picture>
+            <picture name="Photo 5" lastchanged="2025-07-16T12:54:06.5283019Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{5889BB7F-6398-484B-8C08-8EE4978F087D}/main/DSC_1780.jpg</filename>
+            </picture>
+            <picture name="Photo 9" lastchanged="2025-07-16T12:54:11.5039219Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{5889BB7F-6398-484B-8C08-8EE4978F087D}/main/DSC_1810.jpg</filename>
+            </picture>
+            <picture name="Photo 19" lastchanged="2025-08-14T15:21:49.9010058Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{5889bb7f-6398-484b-8c08-8ee4978f087d}/main/DSC_1800.jpg</filename>
+            </picture>
+            <picture name="Photo 12" lastchanged="2025-07-16T12:54:14.6460234Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{5889BB7F-6398-484B-8C08-8EE4978F087D}/main/DSC_1870.jpg</filename>
+            </picture>
+            <picture name="Photo 14" lastchanged="2025-07-16T12:54:16.4118537Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{5889BB7F-6398-484B-8C08-8EE4978F087D}/main/DSC_1926.jpg</filename>
+            </picture>
+            <picture name="Photo 16" lastchanged="2025-07-16T12:54:18.3183216Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{5889BB7F-6398-484B-8C08-8EE4978F087D}/main/DSC_1936.jpg</filename>
+            </picture>
+            <picture name="Photo 17" lastchanged="2025-07-16T12:54:19.4316785Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{5889BB7F-6398-484B-8C08-8EE4978F087D}/main/DSC_1967.jpg</filename>
+            </picture>
+            <picture name="Photo 11" lastchanged="2025-07-16T12:54:13.6302767Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{5889BB7F-6398-484B-8C08-8EE4978F087D}/main/DSC_1845.jpg</filename>
+            </picture>
+            <picture name="Photo 18" lastchanged="2025-08-14T15:35:25.6685198Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{5889bb7f-6398-484b-8c08-8ee4978f087d}/main/DSC_1995.jpg</filename>
+            </picture>
+            <picture name="Photo 21" lastchanged="2025-07-16T12:54:23.3245649Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{5889BB7F-6398-484B-8C08-8EE4978F087D}/main/DSC_2022.jpg</filename>
+            </picture>
+            <picture name="Photo 23" lastchanged="2025-07-16T12:54:26.6392094Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{5889BB7F-6398-484B-8C08-8EE4978F087D}/main/DSC_2042.jpg</filename>
+            </picture>
+            <picture name="Photo 22" lastchanged="2025-07-16T12:54:25.435936Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{5889BB7F-6398-484B-8C08-8EE4978F087D}/main/DSC_2038.jpg</filename>
+            </picture>
+          </pictures>
+          <floorplans>
+            <floorplan name="">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{5889bb7f-6398-484b-8c08-8ee4978f087d}/Floorplan_Floorplan1.jpg</filename>
+            </floorplan>
+          </floorplans>
         </property>
       </properties>
     </branch>
