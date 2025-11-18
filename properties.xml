@@ -9739,180 +9739,6 @@ What3Words: &lt;br /&gt;
             </floorplan>
           </floorplans>
         </property>
-        <property reference="CB003841" hash="58375F6C49B180BED9C7369F2247CB57">
-          <availableFrom />
-          <instructedDate>13/08/2025 00:00:00</instructedDate>
-          <department>Residential Sales</department>
-          <propertyofweek>NO</propertyofweek>
-          <price_text>£325,000</price_text>
-          <numeric_price>325000.0000</numeric_price>
-          <bedrooms>2</bedrooms>
-          <receptions>1</receptions>
-          <bathrooms>2</bathrooms>
-          <priority>On Market</priority>
-          <tenure>Leasehold</tenure>
-          <advert_heading>The Rope Walk, Canterbury</advert_heading>
-          <main_advert>A beautifully presented first floor apartment offering exceptionally spacious and versatile accommodation. &lt;br /&gt;
-&lt;br /&gt;
-2 Bedrooms&lt;br /&gt;
-2 Bath/shower rooms &lt;br /&gt;
-Open plan living accommodation with balcony
-&lt;br /&gt;
-Kitchen area with a range of integrated appliances
-&lt;br /&gt;
-Private roof terrace
-&lt;br /&gt;
-Allocated Parking Space
-&lt;br /&gt;
-Delightful outlook towards the River Stour&lt;br /&gt;
-EPC Rating: 74C&lt;br /&gt;</main_advert>
-          <advert2>A beautifully presented first floor apartment offering exceptionally spacious and versatile accommodation, enhanced by a front-facing balcony with seating area and a delightful outlook towards the River Stour. The property features an impressive open plan living space, with a bright dual-aspect sitting/dining room opening to the balcony, while the comprehensively fitted kitchen includes a range of integral appliances. A useful nook off the sitting area provides the perfect spot for a desk or study space. The principal bedroom suite benefits from built-in wardrobes, an ensuite shower room, and French doors leading onto a private roof terrace. There is a second bedroom, a principal bathroom, and excellent storage throughout, including hallway cupboards. Additional advantages include double glazed windows, electric heating, lift access to all floors, and a secure allocated parking space within a gated undercroft.
-The apartment forms part of an attractive riverside development, with landscaped communal grounds that run alongside the River Stour. The building has been thoughtfully designed to combine modern convenience with an appealing outlook, creating a highly desirable setting within a sought-after residential area.
-&lt;br /&gt;
-&lt;br /&gt;
-Situated within easy walking distance of Canterbury&amp;rsquo;s historic city centre, the property is ideally placed to enjoy the city&amp;rsquo;s wide range of amenities, including an excellent selection of shops, restaurants, and recreational facilities. The Cathedral and Marlowe Theatre are both nearby, while Canterbury West station provides high-speed services to London St Pancras in around 55 minutes.
-&lt;br /&gt;
-&lt;br /&gt;
-Council tax band: D&lt;br /&gt;
-&lt;br /&gt;
-Tenure: Leasehold&lt;br /&gt;
-&lt;br /&gt;
-Lease term: 125 years from 1 September 2005&lt;br /&gt;
-&lt;br /&gt;
-Service charge: TBC&lt;br /&gt;
-&lt;br /&gt;
-Ground rent: TBC&lt;br /&gt;
-&lt;br /&gt;
-EPC Rating: 74C&lt;br /&gt;
-&lt;br /&gt;
-What3Words:///tracks.holds.pilots</advert2>
-          <advert3>&lt;br&gt;A beautifully presented first floor apartment offering exceptionally spacious and versatile accommodation, enhanced by a front-facing balcony with seating area and a delightful outlook towards the River Stour. The property features an impressive open plan living space, with a bright dual-aspect sitting/dining room opening to the balcony, while the comprehensively fitted kitchen includes a range of integral appliances. A useful nook off the sitting area provides the perfect spot for a desk or study space. The principal bedroom suite benefits from built-in wardrobes, an en suite shower room, and French doors leading onto a private roof terrace. There is a second bedroom, a principal bathroom, and excellent storage throughout, including hallway cupboards. Additional advantages include double glazed windows, electric heating, lift access to all floors, and a secure allocated parking space within a gated undercroft.
-
-The apartment forms part of an attractive riverside development, with landscaped communal grounds that run alongside the River Stour. The building has been thoughtfully designed to combine modern convenience with an appealing outlook, creating a highly desirable setting within a sought-after residential area.
-EPC: Awaiting EPC</advert3>
-          <advert4>Situated within easy walking distance of Canterbury’s historic city centre, the property is ideally placed to enjoy the city’s wide range of amenities, including an excellent selection of shops, restaurants, and recreational facilities. The Cathedral and Marlowe Theatre are both nearby, while Canterbury West station provides high-speed services to London St Pancras in around 55 minutes.</advert4>
-          <advert5>Mains electric, water and drainage are understood to be connected to the property. No gas.</advert5>
-          <advert6>Tenure: Leasehold
-&lt;br /&gt;
-&lt;br /&gt;
-Lease term: 125 years from 1 September 2005
-&lt;br /&gt;
-&lt;br /&gt;
-Service charge: Approx. &amp;pound;2,415.25 per annum&lt;br /&gt;
-&lt;br /&gt;
-Ground rent: TBC</advert6>
-          <house_number>23</house_number>
-          <street>The Rope Walk</street>
-          <district />
-          <town>Canterbury</town>
-          <county>Kent</county>
-          <postcode>CT1 2FY</postcode>
-          <country>UK</country>
-          <area>Canterbury Centre</area>
-          <bullet1>2 Bedrooms</bullet1>
-          <bullet2>2 Bath/shower rooms </bullet2>
-          <bullet3>Open plan living accommodation with balcony</bullet3>
-          <bullet4>Kitchen area with a range of integrated appliances</bullet4>
-          <bullet5>Private roof terrace</bullet5>
-          <bullet6>Allocated Parking Space</bullet6>
-          <bullet7>Delightful outlook towards the River Stour.</bullet7>
-          <bullet8>EPC Rating: 74C</bullet8>
-          <bullet9 />
-          <bullet10 />
-          <bullet11 />
-          <bullet12 />
-          <bullet13 />
-          <bullet14 />
-          <bullet15 />
-          <bullet16 />
-          <bullet17 />
-          <bullet18 />
-          <bullet19 />
-          <bullet20 />
-          <brochure>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{3432AB8B-65CB-4B11-AF31-17BE23D292D3}/external.pdf</brochure>
-          <agency_region>KENT</agency_region>
-          <agency_district>CANTERBURY</agency_district>
-          <agency_location>Canterbury Centre</agency_location>
-          <web_link>https://www.properties.charlesbainbridge.com/index.php?option=com_eapow&amp;format=html&amp;task=property.getProp&amp;?pid=3432AB8B-65CB-4B11-AF31-17BE23D292D3&amp;aid=C46B2F24-B9CD-417A-9879-F8C0E2A6C226</web_link>
-          <latitude>51.2772178649902</latitude>
-          <longitude>1.07372796535492</longitude>
-          <qrcode>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{3432AB8B-65CB-4B11-AF31-17BE23D292D3}/qr.png</qrcode>
-          <epc />
-          <hips>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{3432AB8B-65CB-4B11-AF31-17BE23D292D3}/HIPS/Screenshot 2025-09-08 at 08.31.57.png</hips>
-          <filename3 />
-          <filename4 />
-          <filename5 />
-          <filename6 />
-          <virtual_tour_url />
-          <property_type>Flat</property_type>
-          <commercial_type />
-          <property_style>Upper Floor Flat</property_style>
-          <property_reference>12731174</property_reference>
-          <newHome>NO</newHome>
-          <noChain>YES</noChain>
-          <furnished>Unknown</furnished>
-          <portalFee />
-          <currency />
-          <featuredProperty>YES</featuredProperty>
-          <text1 name="" value="Provided by seller. Copy on events - Property docs. AD" />
-          <text2 name="" value="Provided by seller. Copy on events - Property docs. AD" />
-          <date1 name="Title Register" value="13/08/2025 00:00:00" />
-          <date2 name="Title Plan" value="13/08/2025 00:00:00" />
-          <number1 name="" value="0" />
-          <number2 name="" value="0" />
-          <number3 name="" value="0" />
-          <number4 name="" value="0" />
-          <number5 name="" value="0" />
-          <number6 name="" value="0" />
-          <number7 name="" value="0" />
-          <number8 name="" value="0" />
-          <number9 name="" value="0" />
-          <number10 name="" value="0" />
-          <rooms />
-          <pictures>
-            <picture name="Photo 13" lastchanged="2025-11-07T16:34:55.8387465Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{3432ab8b-65cb-4b11-af31-17be23d292d3}/main/converted_image_2.jpg</filename>
-            </picture>
-            <picture name="Photo 16" lastchanged="2025-11-07T16:53:19.5167024Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{3432ab8b-65cb-4b11-af31-17be23d292d3}/main/converted_image_4.jpg</filename>
-            </picture>
-            <picture name="Photo 12" lastchanged="2025-11-07T16:35:20.1293432Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{3432ab8b-65cb-4b11-af31-17be23d292d3}/main/converted_image.jpg</filename>
-            </picture>
-            <picture name="Photo 15" lastchanged="2025-11-07T16:48:57.7444976Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{3432ab8b-65cb-4b11-af31-17be23d292d3}/main/converted_image_3.jpg</filename>
-            </picture>
-            <picture name="Photo 14" lastchanged="2025-08-27T16:27:13.8388812Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{3432ab8b-65cb-4b11-af31-17be23d292d3}/main/DSC_8092-2.jpg</filename>
-            </picture>
-            <picture name="Photo 15" lastchanged="2025-11-07T16:57:40.9689069Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{3432ab8b-65cb-4b11-af31-17be23d292d3}/main/CAM02660G0-PR0097-STILL005.jpg</filename>
-            </picture>
-            <picture name="Photo 13" lastchanged="2025-11-11T10:48:36.3047693Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{3432ab8b-65cb-4b11-af31-17be23d292d3}/main/fixed_carpet_room.jpg</filename>
-            </picture>
-            <picture name="Photo 21" lastchanged="2025-08-27T16:27:24.6875436Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{3432ab8b-65cb-4b11-af31-17be23d292d3}/main/DSC_8192.jpg</filename>
-            </picture>
-            <picture name="Photo 14" lastchanged="2025-10-08T12:03:34.3713256Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{3432ab8b-65cb-4b11-af31-17be23d292d3}/main/edited_bathroom_for_advertising.jpg</filename>
-            </picture>
-            <picture name="Photo 14" lastchanged="2025-11-07T17:05:05.0129531Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{3432ab8b-65cb-4b11-af31-17be23d292d3}/main/converted_image_5.jpg</filename>
-            </picture>
-            <picture name="Photo 25" lastchanged="2025-08-20T15:26:39.1883679Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{3432ab8b-65cb-4b11-af31-17be23d292d3}/main/DSC_8245.jpg</filename>
-            </picture>
-            <picture name="Photo 13" lastchanged="2025-09-26T11:00:33.3079628Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{3432ab8b-65cb-4b11-af31-17be23d292d3}/main/23-The-Rope-Walk-Floorplan-(1).jpg</filename>
-            </picture>
-          </pictures>
-          <floorplans>
-            <floorplan name="">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{3432ab8b-65cb-4b11-af31-17be23d292d3}/Floorplan_Floorplan1.jpg</filename>
-            </floorplan>
-          </floorplans>
-        </property>
         <property reference="CB003848" hash="E52191D3148E0CD4992B84F78768F683">
           <availableFrom />
           <instructedDate>28/08/2025 15:53:24</instructedDate>
@@ -14000,6 +13826,136 @@ Council tax band C. EPC Rating 77 C Security deposit to be held is &amp;pound;42
             </floorplan>
           </floorplans>
         </property>
+        <property reference="CB003962" hash="681B9E37C78AA7D61A739E84C7DD0CB2">
+          <availableFrom>17/08/2026 00:00:00</availableFrom>
+          <instructedDate>07/11/2025 14:33:20</instructedDate>
+          <department>Residential Lettings</department>
+          <propertyofweek>NO</propertyofweek>
+          <price_text>Monthly Rental Of £2,500</price_text>
+          <numeric_price>2500.0000</numeric_price>
+          <bedrooms>4</bedrooms>
+          <receptions>1</receptions>
+          <bathrooms>2</bathrooms>
+          <priority>Available to Let</priority>
+          <tenure>Unknown</tenure>
+          <advert_heading>Broad Street, Canterbury</advert_heading>
+          <main_advert>** FOUR DOUBLE BEDROOMS ** CENTRAL LOCATION ** Right in the city centre is this 4 double bedroom house, perfect for sharers professional), on Broad Street in Canterbury. The property comprises of living room, 4 huge double bedrooms, a good sized bathroom and one cloakroom. Situated very close to the city centre the property is in a great location for access to all the local transport links and all the entertainment including wonderful pubs, boutique shops and high street retail at Whitefriars, and some lovely restaurants. For more information and to book a viewing call the team today.
+
+Council Tax Band C. EPC Rating 63D. Security deposit to be held is &amp;pound;2884.61</main_advert>
+          <advert2>** FOUR DOUBLE BEDROOMS ** CENTRAL LOCATION ** Right in the city centre is this 4 double bedroom house, perfect for sharers professional), on Broad Street in Canterbury. The property comprises of living room, 4 huge double bedrooms, a good sized bathroom and one cloakroom. Situated very close to the city centre the property is in a great location for access to all the local transport links and all the entertainment including wonderful pubs, boutique shops and high street retail at Whitefriars, and some lovely restaurants. For more information and to book a viewing call the team today.
+
+Council Tax Band C. EPC Rating 63D. Security deposit to be held is &amp;pound;2884.61</advert2>
+          <advert3 />
+          <advert4 />
+          <advert5 />
+          <advert6 />
+          <house_number>37</house_number>
+          <street>Broad Street</street>
+          <district />
+          <town>Canterbury</town>
+          <county>Kent</county>
+          <postcode>CT1 2LR</postcode>
+          <country>UK</country>
+          <area>Canterbury Centre</area>
+          <bullet1>Four Double Bedroom House </bullet1>
+          <bullet2>Available August 2026</bullet2>
+          <bullet3>Amazing City Centre Location</bullet3>
+          <bullet4>Bills Included </bullet4>
+          <bullet5>Furnished </bullet5>
+          <bullet6>Must be Viewed </bullet6>
+          <bullet7 />
+          <bullet8 />
+          <bullet9 />
+          <bullet10 />
+          <bullet11 />
+          <bullet12 />
+          <bullet13 />
+          <bullet14 />
+          <bullet15 />
+          <bullet16 />
+          <bullet17 />
+          <bullet18 />
+          <bullet19 />
+          <bullet20 />
+          <brochure />
+          <agency_region>KENT</agency_region>
+          <agency_district>CANTERBURY</agency_district>
+          <agency_location>Canterbury Centre</agency_location>
+          <web_link>https://www.properties.charlesbainbridge.com/index.php?option=com_eapow&amp;format=html&amp;task=property.getProp&amp;?pid=DB401BE0-F6B7-43C5-860C-CD8958732B09&amp;aid=C46B2F24-B9CD-417A-9879-F8C0E2A6C226</web_link>
+          <latitude>51.2801666259766</latitude>
+          <longitude>1.08617269992828</longitude>
+          <qrcode>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{DB401BE0-F6B7-43C5-860C-CD8958732B09}/qr.png</qrcode>
+          <epc />
+          <hips />
+          <filename3 />
+          <filename4 />
+          <filename5 />
+          <filename6 />
+          <virtual_tour_url />
+          <property_type>House</property_type>
+          <commercial_type />
+          <property_style>Terraced</property_style>
+          <property_reference>12785809</property_reference>
+          <newHome>NO</newHome>
+          <noChain>NO</noChain>
+          <furnished>Furnished</furnished>
+          <portalFee />
+          <currency />
+          <featuredProperty>NO</featuredProperty>
+          <number1 name="" value="0" />
+          <number2 name="" value="0" />
+          <number3 name="" value="0" />
+          <number4 name="" value="0" />
+          <number5 name="" value="0" />
+          <number6 name="" value="0" />
+          <number7 name="" value="0" />
+          <number8 name="" value="0" />
+          <number9 name="" value="0" />
+          <number10 name="" value="0" />
+          <rooms />
+          <pictures>
+            <picture name="Photo 14" lastchanged="2025-11-06T14:51:39.2849961Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{db401be0-f6b7-43c5-860c-cd8958732b09}/main/37-Broad-Street-bed-3.jpg</filename>
+            </picture>
+            <picture name="Photo 10" lastchanged="2025-11-06T14:51:38.863077Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{db401be0-f6b7-43c5-860c-cd8958732b09}/main/37-Broad-Street-front.jpg</filename>
+            </picture>
+            <picture name="Photo 5" lastchanged="2025-11-06T14:51:38.1911388Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{db401be0-f6b7-43c5-860c-cd8958732b09}/main/bed-4-37.jpg</filename>
+            </picture>
+            <picture name="Photo 4" lastchanged="2025-11-06T14:51:38.0661383Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{db401be0-f6b7-43c5-860c-cd8958732b09}/main/bed-37.jpg</filename>
+            </picture>
+            <picture name="Photo 6" lastchanged="2025-11-06T14:51:38.3474028Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{db401be0-f6b7-43c5-860c-cd8958732b09}/main/bed-3-37-.jpg</filename>
+            </picture>
+            <picture name="Photo 7" lastchanged="2025-11-06T14:51:38.5192945Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{db401be0-f6b7-43c5-860c-cd8958732b09}/main/bed-2-37.jpg</filename>
+            </picture>
+            <picture name="Photo 13" lastchanged="2025-11-06T14:51:39.1756069Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{db401be0-f6b7-43c5-860c-cd8958732b09}/main/bed-5-37-x.jpg</filename>
+            </picture>
+            <picture name="Photo 11" lastchanged="2025-11-06T14:51:38.9724802Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{db401be0-f6b7-43c5-860c-cd8958732b09}/main/37-Broad-Street-living.jpg</filename>
+            </picture>
+            <picture name="Photo 9" lastchanged="2025-11-06T14:51:38.7537065Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{db401be0-f6b7-43c5-860c-cd8958732b09}/main/37-Broad-Street-Kitchen.jpg</filename>
+            </picture>
+            <picture name="Photo 1" lastchanged="2025-11-06T14:51:37.6596605Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{db401be0-f6b7-43c5-860c-cd8958732b09}/main/37-Broad-Street-bath.jpg</filename>
+            </picture>
+            <picture name="Photo 2" lastchanged="2025-11-06T14:51:37.8004792Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{db401be0-f6b7-43c5-860c-cd8958732b09}/main/bath-27.jpg</filename>
+            </picture>
+            <picture name="Photo 8" lastchanged="2025-11-06T14:51:38.6443365Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{db401be0-f6b7-43c5-860c-cd8958732b09}/main/bath-37-2.jpg</filename>
+            </picture>
+            <picture name="Photo 3" lastchanged="2025-11-06T14:51:37.9255169Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{db401be0-f6b7-43c5-860c-cd8958732b09}/main/courtyard-2.jpg</filename>
+            </picture>
+          </pictures>
+          <floorplans />
+        </property>
         <property reference="CB003626" hash="4058233EDCAEC53C9C6D4C9A78E58046">
           <availableFrom />
           <instructedDate>04/04/2025 14:53:44</instructedDate>
@@ -14196,45 +14152,84 @@ What3Words:///taker.dice.update&lt;br /&gt;
             </floorplan>
           </floorplans>
         </property>
-        <property reference="CB003962" hash="681B9E37C78AA7D61A739E84C7DD0CB2">
-          <availableFrom>17/08/2026 00:00:00</availableFrom>
-          <instructedDate>07/11/2025 14:33:20</instructedDate>
-          <department>Residential Lettings</department>
+        <property reference="CB003841" hash="58375F6C49B180BED9C7369F2247CB57">
+          <availableFrom />
+          <instructedDate>13/08/2025 00:00:00</instructedDate>
+          <department>Residential Sales</department>
           <propertyofweek>NO</propertyofweek>
-          <price_text>Monthly Rental Of £2,500</price_text>
-          <numeric_price>2500.0000</numeric_price>
-          <bedrooms>4</bedrooms>
+          <price_text>£325,000</price_text>
+          <numeric_price>325000.0000</numeric_price>
+          <bedrooms>2</bedrooms>
           <receptions>1</receptions>
           <bathrooms>2</bathrooms>
-          <priority>Available to Let</priority>
-          <tenure>Unknown</tenure>
-          <advert_heading>Broad Street, Canterbury</advert_heading>
-          <main_advert>** FOUR DOUBLE BEDROOMS ** CENTRAL LOCATION ** Right in the city centre is this 4 double bedroom house, perfect for sharers professional), on Broad Street in Canterbury. The property comprises of living room, 4 huge double bedrooms, a good sized bathroom and one cloakroom. Situated very close to the city centre the property is in a great location for access to all the local transport links and all the entertainment including wonderful pubs, boutique shops and high street retail at Whitefriars, and some lovely restaurants. For more information and to book a viewing call the team today.
+          <priority>On Market</priority>
+          <tenure>Leasehold</tenure>
+          <advert_heading>The Rope Walk, Canterbury</advert_heading>
+          <main_advert>A beautifully presented first floor apartment offering exceptionally spacious and versatile accommodation. &lt;br /&gt;
+&lt;br /&gt;
+2 Bedrooms&lt;br /&gt;
+2 Bath/shower rooms &lt;br /&gt;
+Open plan living accommodation with balcony
+&lt;br /&gt;
+Kitchen area with a range of integrated appliances
+&lt;br /&gt;
+Private roof terrace
+&lt;br /&gt;
+Allocated Parking Space
+&lt;br /&gt;
+Delightful outlook towards the River Stour&lt;br /&gt;
+EPC Rating: 74C&lt;br /&gt;</main_advert>
+          <advert2>A beautifully presented first floor apartment offering exceptionally spacious and versatile accommodation, enhanced by a front-facing balcony with seating area and a delightful outlook towards the River Stour. The property features an impressive open plan living space, with a bright dual-aspect sitting/dining room opening to the balcony, while the comprehensively fitted kitchen includes a range of integral appliances. A useful nook off the sitting area provides the perfect spot for a desk or study space. The principal bedroom suite benefits from built-in wardrobes, an ensuite shower room, and French doors leading onto a private roof terrace. There is a second bedroom, a principal bathroom, and excellent storage throughout, including hallway cupboards. Additional advantages include double glazed windows, electric heating, lift access to all floors, and a secure allocated parking space within a gated undercroft.
+The apartment forms part of an attractive riverside development, with landscaped communal grounds that run alongside the River Stour. The building has been thoughtfully designed to combine modern convenience with an appealing outlook, creating a highly desirable setting within a sought-after residential area.
+&lt;br /&gt;
+&lt;br /&gt;
+Situated within easy walking distance of Canterbury&amp;rsquo;s historic city centre, the property is ideally placed to enjoy the city&amp;rsquo;s wide range of amenities, including an excellent selection of shops, restaurants, and recreational facilities. The Cathedral and Marlowe Theatre are both nearby, while Canterbury West station provides high-speed services to London St Pancras in around 55 minutes.
+&lt;br /&gt;
+&lt;br /&gt;
+Council tax band: D&lt;br /&gt;
+&lt;br /&gt;
+Tenure: Leasehold&lt;br /&gt;
+&lt;br /&gt;
+Lease term: 125 years from 1 September 2005&lt;br /&gt;
+&lt;br /&gt;
+Service charge: TBC&lt;br /&gt;
+&lt;br /&gt;
+Ground rent: TBC&lt;br /&gt;
+&lt;br /&gt;
+EPC Rating: 74C&lt;br /&gt;
+&lt;br /&gt;
+What3Words:///tracks.holds.pilots</advert2>
+          <advert3>&lt;br&gt;A beautifully presented first floor apartment offering exceptionally spacious and versatile accommodation, enhanced by a front-facing balcony with seating area and a delightful outlook towards the River Stour. The property features an impressive open plan living space, with a bright dual-aspect sitting/dining room opening to the balcony, while the comprehensively fitted kitchen includes a range of integral appliances. A useful nook off the sitting area provides the perfect spot for a desk or study space. The principal bedroom suite benefits from built-in wardrobes, an en suite shower room, and French doors leading onto a private roof terrace. There is a second bedroom, a principal bathroom, and excellent storage throughout, including hallway cupboards. Additional advantages include double glazed windows, electric heating, lift access to all floors, and a secure allocated parking space within a gated undercroft.
 
-Council Tax Band C. EPC Rating 63D. Security deposit to be held is &amp;pound;2884.61</main_advert>
-          <advert2>** FOUR DOUBLE BEDROOMS ** CENTRAL LOCATION ** Right in the city centre is this 4 double bedroom house, perfect for sharers professional), on Broad Street in Canterbury. The property comprises of living room, 4 huge double bedrooms, a good sized bathroom and one cloakroom. Situated very close to the city centre the property is in a great location for access to all the local transport links and all the entertainment including wonderful pubs, boutique shops and high street retail at Whitefriars, and some lovely restaurants. For more information and to book a viewing call the team today.
-
-Council Tax Band C. EPC Rating 63D. Security deposit to be held is &amp;pound;2884.61</advert2>
-          <advert3 />
-          <advert4 />
-          <advert5 />
-          <advert6 />
-          <house_number>37</house_number>
-          <street>Broad Street</street>
+The apartment forms part of an attractive riverside development, with landscaped communal grounds that run alongside the River Stour. The building has been thoughtfully designed to combine modern convenience with an appealing outlook, creating a highly desirable setting within a sought-after residential area.
+EPC: Awaiting EPC</advert3>
+          <advert4>Situated within easy walking distance of Canterbury’s historic city centre, the property is ideally placed to enjoy the city’s wide range of amenities, including an excellent selection of shops, restaurants, and recreational facilities. The Cathedral and Marlowe Theatre are both nearby, while Canterbury West station provides high-speed services to London St Pancras in around 55 minutes.</advert4>
+          <advert5>Mains electric, water and drainage are understood to be connected to the property. No gas.</advert5>
+          <advert6>Tenure: Leasehold
+&lt;br /&gt;
+&lt;br /&gt;
+Lease term: 125 years from 1 September 2005
+&lt;br /&gt;
+&lt;br /&gt;
+Service charge: Approx. &amp;pound;2,415.25 per annum&lt;br /&gt;
+&lt;br /&gt;
+Ground rent: TBC</advert6>
+          <house_number>23</house_number>
+          <street>The Rope Walk</street>
           <district />
           <town>Canterbury</town>
           <county>Kent</county>
-          <postcode>CT1 2LR</postcode>
+          <postcode>CT1 2FY</postcode>
           <country>UK</country>
           <area>Canterbury Centre</area>
-          <bullet1>Four Double Bedroom House </bullet1>
-          <bullet2>Available August 2026</bullet2>
-          <bullet3>Amazing City Centre Location</bullet3>
-          <bullet4>Bills Included </bullet4>
-          <bullet5>Furnished </bullet5>
-          <bullet6>Must be Viewed </bullet6>
-          <bullet7 />
-          <bullet8 />
+          <bullet1>2 Bedrooms</bullet1>
+          <bullet2>2 Bath/shower rooms </bullet2>
+          <bullet3>Open plan living accommodation with balcony</bullet3>
+          <bullet4>Kitchen area with a range of integrated appliances</bullet4>
+          <bullet5>Private roof terrace</bullet5>
+          <bullet6>Allocated Parking Space</bullet6>
+          <bullet7>Delightful outlook towards the River Stour.</bullet7>
+          <bullet8>EPC Rating: 74C</bullet8>
           <bullet9 />
           <bullet10 />
           <bullet11 />
@@ -14247,31 +14242,35 @@ Council Tax Band C. EPC Rating 63D. Security deposit to be held is &amp;pound;28
           <bullet18 />
           <bullet19 />
           <bullet20 />
-          <brochure />
+          <brochure>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{3432AB8B-65CB-4B11-AF31-17BE23D292D3}/external.pdf</brochure>
           <agency_region>KENT</agency_region>
           <agency_district>CANTERBURY</agency_district>
           <agency_location>Canterbury Centre</agency_location>
-          <web_link>https://www.properties.charlesbainbridge.com/index.php?option=com_eapow&amp;format=html&amp;task=property.getProp&amp;?pid=DB401BE0-F6B7-43C5-860C-CD8958732B09&amp;aid=C46B2F24-B9CD-417A-9879-F8C0E2A6C226</web_link>
-          <latitude>51.2801666259766</latitude>
-          <longitude>1.08617269992828</longitude>
-          <qrcode>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{DB401BE0-F6B7-43C5-860C-CD8958732B09}/qr.png</qrcode>
+          <web_link>https://www.properties.charlesbainbridge.com/index.php?option=com_eapow&amp;format=html&amp;task=property.getProp&amp;?pid=3432AB8B-65CB-4B11-AF31-17BE23D292D3&amp;aid=C46B2F24-B9CD-417A-9879-F8C0E2A6C226</web_link>
+          <latitude>51.2772178649902</latitude>
+          <longitude>1.07372796535492</longitude>
+          <qrcode>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{3432AB8B-65CB-4B11-AF31-17BE23D292D3}/qr.png</qrcode>
           <epc />
-          <hips />
+          <hips>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{3432AB8B-65CB-4B11-AF31-17BE23D292D3}/HIPS/Screenshot 2025-09-08 at 08.31.57.png</hips>
           <filename3 />
           <filename4 />
           <filename5 />
           <filename6 />
           <virtual_tour_url />
-          <property_type>House</property_type>
+          <property_type>Flat</property_type>
           <commercial_type />
-          <property_style>Terraced</property_style>
-          <property_reference>12785809</property_reference>
+          <property_style>Upper Floor Flat</property_style>
+          <property_reference>12731174</property_reference>
           <newHome>NO</newHome>
-          <noChain>NO</noChain>
-          <furnished>Furnished</furnished>
+          <noChain>YES</noChain>
+          <furnished>Unknown</furnished>
           <portalFee />
           <currency />
-          <featuredProperty>NO</featuredProperty>
+          <featuredProperty>YES</featuredProperty>
+          <text1 name="" value="Provided by seller. Copy on events - Property docs. AD" />
+          <text2 name="" value="Provided by seller. Copy on events - Property docs. AD" />
+          <date1 name="Title Register" value="13/08/2025 00:00:00" />
+          <date2 name="Title Plan" value="13/08/2025 00:00:00" />
           <number1 name="" value="0" />
           <number2 name="" value="0" />
           <number3 name="" value="0" />
@@ -14284,47 +14283,48 @@ Council Tax Band C. EPC Rating 63D. Security deposit to be held is &amp;pound;28
           <number10 name="" value="0" />
           <rooms />
           <pictures>
-            <picture name="Photo 14" lastchanged="2025-11-06T14:51:39.2849961Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{db401be0-f6b7-43c5-860c-cd8958732b09}/main/37-Broad-Street-bed-3.jpg</filename>
+            <picture name="Photo 13" lastchanged="2025-11-07T16:34:55.8387465Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{3432ab8b-65cb-4b11-af31-17be23d292d3}/main/converted_image_2.jpg</filename>
             </picture>
-            <picture name="Photo 10" lastchanged="2025-11-06T14:51:38.863077Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{db401be0-f6b7-43c5-860c-cd8958732b09}/main/37-Broad-Street-front.jpg</filename>
+            <picture name="Photo 16" lastchanged="2025-11-07T16:53:19.5167024Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{3432ab8b-65cb-4b11-af31-17be23d292d3}/main/converted_image_4.jpg</filename>
             </picture>
-            <picture name="Photo 5" lastchanged="2025-11-06T14:51:38.1911388Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{db401be0-f6b7-43c5-860c-cd8958732b09}/main/bed-4-37.jpg</filename>
+            <picture name="Photo 12" lastchanged="2025-11-07T16:35:20.1293432Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{3432ab8b-65cb-4b11-af31-17be23d292d3}/main/converted_image.jpg</filename>
             </picture>
-            <picture name="Photo 4" lastchanged="2025-11-06T14:51:38.0661383Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{db401be0-f6b7-43c5-860c-cd8958732b09}/main/bed-37.jpg</filename>
+            <picture name="Photo 15" lastchanged="2025-11-07T16:48:57.7444976Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{3432ab8b-65cb-4b11-af31-17be23d292d3}/main/converted_image_3.jpg</filename>
             </picture>
-            <picture name="Photo 6" lastchanged="2025-11-06T14:51:38.3474028Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{db401be0-f6b7-43c5-860c-cd8958732b09}/main/bed-3-37-.jpg</filename>
+            <picture name="Photo 14" lastchanged="2025-08-27T16:27:13.8388812Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{3432ab8b-65cb-4b11-af31-17be23d292d3}/main/DSC_8092-2.jpg</filename>
             </picture>
-            <picture name="Photo 7" lastchanged="2025-11-06T14:51:38.5192945Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{db401be0-f6b7-43c5-860c-cd8958732b09}/main/bed-2-37.jpg</filename>
+            <picture name="Photo 15" lastchanged="2025-11-07T16:57:40.9689069Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{3432ab8b-65cb-4b11-af31-17be23d292d3}/main/CAM02660G0-PR0097-STILL005.jpg</filename>
             </picture>
-            <picture name="Photo 13" lastchanged="2025-11-06T14:51:39.1756069Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{db401be0-f6b7-43c5-860c-cd8958732b09}/main/bed-5-37-x.jpg</filename>
+            <picture name="Photo 13" lastchanged="2025-11-11T10:48:36.3047693Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{3432ab8b-65cb-4b11-af31-17be23d292d3}/main/fixed_carpet_room.jpg</filename>
             </picture>
-            <picture name="Photo 11" lastchanged="2025-11-06T14:51:38.9724802Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{db401be0-f6b7-43c5-860c-cd8958732b09}/main/37-Broad-Street-living.jpg</filename>
+            <picture name="Photo 21" lastchanged="2025-08-27T16:27:24.6875436Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{3432ab8b-65cb-4b11-af31-17be23d292d3}/main/DSC_8192.jpg</filename>
             </picture>
-            <picture name="Photo 9" lastchanged="2025-11-06T14:51:38.7537065Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{db401be0-f6b7-43c5-860c-cd8958732b09}/main/37-Broad-Street-Kitchen.jpg</filename>
+            <picture name="Photo 14" lastchanged="2025-10-08T12:03:34.3713256Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{3432ab8b-65cb-4b11-af31-17be23d292d3}/main/edited_bathroom_for_advertising.jpg</filename>
             </picture>
-            <picture name="Photo 1" lastchanged="2025-11-06T14:51:37.6596605Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{db401be0-f6b7-43c5-860c-cd8958732b09}/main/37-Broad-Street-bath.jpg</filename>
+            <picture name="Photo 14" lastchanged="2025-11-07T17:05:05.0129531Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{3432ab8b-65cb-4b11-af31-17be23d292d3}/main/converted_image_5.jpg</filename>
             </picture>
-            <picture name="Photo 2" lastchanged="2025-11-06T14:51:37.8004792Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{db401be0-f6b7-43c5-860c-cd8958732b09}/main/bath-27.jpg</filename>
+            <picture name="Photo 25" lastchanged="2025-08-20T15:26:39.1883679Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{3432ab8b-65cb-4b11-af31-17be23d292d3}/main/DSC_8245.jpg</filename>
             </picture>
-            <picture name="Photo 8" lastchanged="2025-11-06T14:51:38.6443365Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{db401be0-f6b7-43c5-860c-cd8958732b09}/main/bath-37-2.jpg</filename>
-            </picture>
-            <picture name="Photo 3" lastchanged="2025-11-06T14:51:37.9255169Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{db401be0-f6b7-43c5-860c-cd8958732b09}/main/courtyard-2.jpg</filename>
+            <picture name="Photo 13" lastchanged="2025-09-26T11:00:33.3079628Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{3432ab8b-65cb-4b11-af31-17be23d292d3}/main/23-The-Rope-Walk-Floorplan-(1).jpg</filename>
             </picture>
           </pictures>
-          <floorplans />
+          <floorplans>
+            <floorplan name="">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{3432ab8b-65cb-4b11-af31-17be23d292d3}/Floorplan_Floorplan1.jpg</filename>
+            </floorplan>
+          </floorplans>
         </property>
       </properties>
     </branch>
