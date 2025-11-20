@@ -1,5 +1,5 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<agency xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:noNamespaceSchemaLocation="http://www.expertagent.co.uk/xmlexport/ExpertAgentXMLSchema.xsd" name="CharlesBainbridge" branchName="Charles Bainbridge">
+<?xml version="1.0" encoding="utf-8"?>
+<agency xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:noNamespaceSchemaLocation="http://www.expertagent.co.uk/xmlexport/ExpertAgentXMLSchema.xsd" name="CharlesBainbridge">
   <branches>
     <branch name="Charles Bainbridge">
       <properties>
@@ -1241,6 +1241,180 @@ Ground rent: Approx. &amp;pound;391.07 per annum</advert6>
           <floorplans>
             <floorplan name="">
               <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{adc26ecd-f671-4ebf-8988-1bab917f076c}/Floorplan_Floorplan1.jpg</filename>
+            </floorplan>
+          </floorplans>
+        </property>
+        <property reference="CB003194" hash="577BB878A5B7346036513A06B94ED5DB">
+          <availableFrom />
+          <instructedDate>23/10/2025 14:25:46</instructedDate>
+          <department>Residential Sales</department>
+          <propertyofweek>NO</propertyofweek>
+          <price_text>£775,000</price_text>
+          <numeric_price>775000.0000</numeric_price>
+          <bedrooms>4</bedrooms>
+          <receptions>2</receptions>
+          <bathrooms>3</bathrooms>
+          <priority>On Market</priority>
+          <tenure>Freehold</tenure>
+          <advert_heading>Beech Hill, Bridge, Canterbury</advert_heading>
+          <main_advert>A wonderfully versatile detached bungalow, quietly positioned on Beech Hill, a peaceful and highly desirable road within the popular village of Bridge. 
+
+4 Bedrooms, 3 Bath/shower rooms
+2 Reception rooms
+Self-contained annexe 
+Opportunity for some general updating &amp; modernisation
+Self-contained annexe
+Drive &amp; double garage
+Delightful rear garden with summerhouse &amp; mature woodlands
+EPC Rating: 65D</main_advert>
+          <advert2>&lt;p data-start="455" data-end="873" style="text-align: justify;"&gt;Coppins is a wonderfully versatile detached bungalow, quietly positioned on Beech Hill, a peaceful and highly desirable road within the popular village of Bridge. The property offers versatile, well-balanced accommodation&lt;span style="text-align: justify;"&gt;, perfectly suited to family living, multi-generational requirements, or those seeking a home with scope for flexible use and &lt;/span&gt;offers an excellent opportunity for some general updating and modernisation.&lt;br /&gt;
+&lt;br /&gt;
+The accommodation includes a large open-plan sitting and dining room with a feature brick fireplace, a fitted kitchen, utility room, three comfortable bedrooms and two bath/shower rooms.&lt;/p&gt;
+&lt;p data-start="1057" data-end="1293" style="text-align: justify;"&gt;Adjoining the main house is a superb self-contained annexe, ideal for independent living, visiting family or guests, comprising a sitting room, kitchen, bedroom and bathroom, with its own entrance as well as access to the main home.&lt;/p&gt;
+&lt;p data-start="1295" data-end="1591" style="text-align: justify;"&gt;Outside, the property is approached by a private driveway providing ample parking and access to a double garage and summerhouse. The gardens are a particular feature, with wide lawns bordered by mature hedging, established trees and planting that provide a wonderful sense of privacy and space as well as mature woodland to the rear beyond the garden. &lt;br /&gt;
+&lt;br /&gt;
+&lt;span data-preserver-spaces="true"&gt;The property &lt;/span&gt;&lt;span data-preserver-spaces="true"&gt;is &lt;/span&gt;&lt;span data-preserver-spaces="true"&gt;located&lt;/span&gt;&lt;span data-preserver-spaces="true"&gt; in a highly regarded residential location in&lt;/span&gt;&lt;span data-preserver-spaces="true"&gt; the &lt;/span&gt;&lt;span data-preserver-spaces="true"&gt;popular&lt;/span&gt;&lt;span data-preserver-spaces="true"&gt; village of Bridge &lt;/span&gt;&lt;span data-preserver-spaces="true"&gt;with&lt;/span&gt;&lt;span data-preserver-spaces="true"&gt; easy access to the surrounding countryside. Bridge offers a comprehensive range of local amenities &lt;/span&gt;&lt;span data-preserver-spaces="true"&gt;including&lt;/span&gt;&lt;span data-preserver-spaces="true"&gt; a mini supermarket, pharmacy, dentist, hairdressers, and Tea Rooms. &lt;/span&gt;&lt;span data-preserver-spaces="true"&gt;There are three public houses in the village&lt;/span&gt;&lt;span data-preserver-spaces="true"&gt;, a modern health centre, and a &lt;/span&gt;&lt;span data-preserver-spaces="true"&gt;popular&lt;/span&gt;&lt;span data-preserver-spaces="true"&gt;&amp;nbsp;primary school.&lt;/span&gt;&lt;span data-preserver-spaces="true"&gt;&amp;nbsp;The highly regarded Pig Hotel at Bridge Place, is a handsome 17th century manor house providing&amp;nbsp;&lt;/span&gt;&lt;span data-preserver-spaces="true"&gt;a wonderful&lt;/span&gt;&lt;span data-preserver-spaces="true"&gt;&amp;nbsp;boutique style hotel and restaurant in a delightful setting. The surrounding countryside&amp;nbsp;&lt;/span&gt;&lt;span data-preserver-spaces="true"&gt;provides&lt;/span&gt;&lt;span data-preserver-spaces="true"&gt;&amp;nbsp;good walking, riding, and cycling. The Cathedral City of Canterbury is easily accessible&amp;nbsp;&lt;/span&gt;&lt;span data-preserver-spaces="true"&gt;providing&lt;/span&gt;&lt;span data-preserver-spaces="true"&gt;&amp;nbsp;a comprehensive range of shopping, leisure, and educational facilities, as well as a regular High-Speed rail service from Canterbury West station&amp;nbsp;&lt;/span&gt;&lt;span data-preserver-spaces="true"&gt;to London St. Pancras with a journey time of approximately&lt;/span&gt;&lt;span data-preserver-spaces="true"&gt;&amp;nbsp;55 minutes.&lt;br /&gt;
+&lt;br /&gt;
+Council tax band: F&lt;br /&gt;
+&lt;br /&gt;
+Tenure: Freehold&lt;br /&gt;
+&lt;br /&gt;
+EPC Rating: 65D&lt;br /&gt;
+&lt;br /&gt;
+What3Words:///chatters.chase.mush&lt;br /&gt;
+&lt;/span&gt;&lt;/p&gt;</advert2>
+          <advert3>&lt;p data-start="455" data-end="873" style="text-align: justify;"&gt;Coppins is a wonderfully versatile detached bungalow, quietly positioned on Beech Hill, a peaceful and highly desirable road within the popular village of Bridge. The property offers versatile, well-balanced accommodation, perfectly suited to family living, multi-generational requirements, or those seeking a home with scope for flexible use and offers an excellent opportunity for some general updating and modernisation.&lt;br /&gt;
+&lt;br /&gt;
+The accommodation includes a large open-plan sitting and dining room with a feature brick fireplace, a fitted kitchen, utility room, three comfortable bedrooms and two bath/shower rooms.&lt;/p&gt;
+&lt;p data-start="1057" data-end="1293" style="text-align: justify;"&gt;Adjoining the main house is a superb self-contained annexe, ideal for independent living, visiting family or guests, comprising a sitting room, kitchen, bedroom and bathroom, with its own entrance as well as access to the main home.&lt;/p&gt;
+&lt;p data-start="1295" data-end="1591" style="text-align: justify;"&gt;Outside, the property is approached by a private driveway providing ample parking and access to a double garage and summerhouse. The gardens are a particular feature, with wide lawns bordered by mature hedging, established trees and planting that provide a wonderful sense of privacy and space as well as mature woodland to the rear beyond the garden.&lt;/p&gt;</advert3>
+          <advert4>&lt;div style="text-align: justify;"&gt;&lt;span data-preserver-spaces="true" style="text-align: justify;"&gt;The property &lt;/span&gt;&lt;span data-preserver-spaces="true" style="text-align: justify;"&gt;is&amp;nbsp;&lt;/span&gt;&lt;span data-preserver-spaces="true" style="text-align: justify;"&gt;located&lt;/span&gt;&lt;span data-preserver-spaces="true" style="text-align: justify;"&gt;&amp;nbsp;in a highly regarded residential location in&lt;/span&gt;&lt;span data-preserver-spaces="true" style="text-align: justify;"&gt;&amp;nbsp;the&amp;nbsp;&lt;/span&gt;&lt;span data-preserver-spaces="true" style="text-align: justify;"&gt;popular&lt;/span&gt;&lt;span data-preserver-spaces="true" style="text-align: justify;"&gt;&amp;nbsp;village of Bridge&amp;nbsp;&lt;/span&gt;&lt;span data-preserver-spaces="true" style="text-align: justify;"&gt;with&lt;/span&gt;&lt;span data-preserver-spaces="true" style="text-align: justify;"&gt;&amp;nbsp;easy access to the surrounding countryside. Bridge offers a comprehensive range of local amenities&amp;nbsp;&lt;/span&gt;&lt;span data-preserver-spaces="true" style="text-align: justify;"&gt;including&lt;/span&gt;&lt;span data-preserver-spaces="true" style="text-align: justify;"&gt;&amp;nbsp;a mini supermarket, pharmacy,&amp;nbsp;dentist, hairdressers, and Tea Rooms.&amp;nbsp;&lt;/span&gt;&lt;span data-preserver-spaces="true" style="text-align: justify;"&gt;There are three public houses in the village&lt;/span&gt;&lt;span data-preserver-spaces="true" style="text-align: justify;"&gt;, a modern health centre, and a&amp;nbsp;&lt;/span&gt;&lt;span data-preserver-spaces="true" style="text-align: justify;"&gt;popular&lt;/span&gt;&lt;span data-preserver-spaces="true" style="text-align: justify;"&gt;&amp;nbsp;primary school.&lt;/span&gt;&lt;span data-preserver-spaces="true" style="text-align: justify;"&gt;&amp;nbsp;The highly regarded Pig Hotel at Bridge Place, is a handsome 17th century manor house providing&amp;nbsp;&lt;/span&gt;&lt;span data-preserver-spaces="true" style="text-align: justify;"&gt;a wonderful&lt;/span&gt;&lt;span data-preserver-spaces="true" style="text-align: justify;"&gt;&amp;nbsp;boutique style hotel and restaurant in a delightful setting. The surrounding countryside&amp;nbsp;&lt;/span&gt;&lt;span data-preserver-spaces="true" style="text-align: justify;"&gt;provides&lt;/span&gt;&lt;span data-preserver-spaces="true" style="text-align: justify;"&gt;&amp;nbsp;good walking, riding, and cycling. The Cathedral City of Canterbury is easily accessible&amp;nbsp;&lt;/span&gt;&lt;span data-preserver-spaces="true" style="text-align: justify;"&gt;providing&lt;/span&gt;&lt;span data-preserver-spaces="true" style="text-align: justify;"&gt;&amp;nbsp;a comprehensive range of shopping, leisure, and educational facilities, as well as a regular High-Speed rail service from Canterbury West station&amp;nbsp;&lt;/span&gt;&lt;span data-preserver-spaces="true" style="text-align: justify;"&gt;to London St. Pancras with a journey time of approximately&lt;/span&gt;&lt;span data-preserver-spaces="true" style="text-align: justify;"&gt;&amp;nbsp;55 minutes.&lt;/span&gt; &lt;/div&gt;</advert4>
+          <advert5>All mains services are understood to be connected to the property. </advert5>
+          <advert6 />
+          <house_number>Coppins</house_number>
+          <street>Beech Hill</street>
+          <district>Bridge</district>
+          <town>Canterbury</town>
+          <county>Kent</county>
+          <postcode>CT4 5AU</postcode>
+          <country>UK</country>
+          <area>Canterbury Villages South &amp; West</area>
+          <bullet1>4 Bedrooms, 3 Bath/shower rooms  </bullet1>
+          <bullet2>2 Reception rooms </bullet2>
+          <bullet3>Self-contained annexe </bullet3>
+          <bullet4>Opportunity for some general updating &amp; modernisation</bullet4>
+          <bullet5>Self-contained annexe</bullet5>
+          <bullet6>Drive &amp; double garage</bullet6>
+          <bullet7>Delightful rear garden with summerhouse &amp; mature woodlands</bullet7>
+          <bullet8>EPC Rating: 65D</bullet8>
+          <bullet9 />
+          <bullet10 />
+          <bullet11 />
+          <bullet12 />
+          <bullet13 />
+          <bullet14 />
+          <bullet15 />
+          <bullet16 />
+          <bullet17 />
+          <bullet18 />
+          <bullet19 />
+          <bullet20 />
+          <brochure>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{517FB3BC-DD6E-4E58-AEDC-7E7BEE510908}/external.pdf</brochure>
+          <agency_region>KENT</agency_region>
+          <agency_district>CANTERBURY</agency_district>
+          <agency_location>Canterbury Villages South &amp; West</agency_location>
+          <web_link>https://www.properties.charlesbainbridge.com/index.php?option=com_eapow&amp;format=html&amp;task=property.getProp&amp;?pid=517FB3BC-DD6E-4E58-AEDC-7E7BEE510908&amp;aid=C46B2F24-B9CD-417A-9879-F8C0E2A6C226</web_link>
+          <latitude>51.2428779602051</latitude>
+          <longitude>1.13044834136963</longitude>
+          <qrcode>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{517FB3BC-DD6E-4E58-AEDC-7E7BEE510908}/qr.png</qrcode>
+          <epc />
+          <hips>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{517FB3BC-DD6E-4E58-AEDC-7E7BEE510908}/HIPS/6574.png</hips>
+          <filename3 />
+          <filename4 />
+          <filename5 />
+          <filename6 />
+          <virtual_tour_url />
+          <property_type>Bungalow</property_type>
+          <commercial_type />
+          <property_style>Detached</property_style>
+          <property_reference>12075548</property_reference>
+          <newHome>NO</newHome>
+          <noChain>NO</noChain>
+          <furnished>Unknown</furnished>
+          <portalFee />
+          <currency />
+          <featuredProperty>NO</featuredProperty>
+          <text1 name="" value="Copy provided by seller. IBP put copy on events - Property docs. AD" />
+          <text2 name="" value="Copy provided by seller. IBP put copy on events - Property docs. AD" />
+          <date1 name="Title Register" value="17/10/2025 00:00:00" />
+          <date2 name="Title Plan" value="17/10/2025 00:00:00" />
+          <number1 name="" value="0" />
+          <number2 name="" value="0" />
+          <number3 name="" value="0" />
+          <number4 name="" value="0" />
+          <number5 name="" value="0" />
+          <number6 name="" value="0" />
+          <number7 name="" value="0" />
+          <number8 name="" value="0" />
+          <number9 name="" value="0" />
+          <number10 name="" value="0" />
+          <rooms />
+          <pictures>
+            <picture name="Photo 6" lastchanged="2025-10-20T08:19:12.8190194Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{517fb3bc-dd6e-4e58-aedc-7e7bee510908}/main/DSC_3626.jpg</filename>
+            </picture>
+            <picture name="Photo 14" lastchanged="2025-10-20T08:19:29.7706023Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{517fb3bc-dd6e-4e58-aedc-7e7bee510908}/main/DSC_3597.jpg</filename>
+            </picture>
+            <picture name="Photo 15" lastchanged="2025-10-20T08:19:31.2592079Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{517fb3bc-dd6e-4e58-aedc-7e7bee510908}/main/DSC_3602.jpg</filename>
+            </picture>
+            <picture name="Photo 26" lastchanged="2025-10-20T08:19:59.1158944Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{517fb3bc-dd6e-4e58-aedc-7e7bee510908}/main/DSC_3468.jpg</filename>
+            </picture>
+            <picture name="Photo 21" lastchanged="2025-10-24T20:40:47.8482754Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{517fb3bc-dd6e-4e58-aedc-7e7bee510908}/main/kitchen_converted.jpg</filename>
+            </picture>
+            <picture name="Photo 23" lastchanged="2025-10-20T08:19:50.3114814Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{517fb3bc-dd6e-4e58-aedc-7e7bee510908}/main/DSC_3436.jpg</filename>
+            </picture>
+            <picture name="Photo 20" lastchanged="2025-10-20T08:19:41.8891947Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{517fb3bc-dd6e-4e58-aedc-7e7bee510908}/main/DSC_3397.jpg</filename>
+            </picture>
+            <picture name="Photo 22" lastchanged="2025-10-20T08:19:46.3370009Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{517fb3bc-dd6e-4e58-aedc-7e7bee510908}/main/DSC_3417.jpg</filename>
+            </picture>
+            <picture name="Photo 5" lastchanged="2025-10-20T08:19:09.1237728Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{517fb3bc-dd6e-4e58-aedc-7e7bee510908}/main/DSC_3623.jpg</filename>
+            </picture>
+            <picture name="Photo 19" lastchanged="2025-10-20T08:19:39.0883426Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{517fb3bc-dd6e-4e58-aedc-7e7bee510908}/main/DSC_3376.jpg</filename>
+            </picture>
+            <picture name="Photo 31" lastchanged="2025-10-20T08:20:14.2109557Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{517fb3bc-dd6e-4e58-aedc-7e7bee510908}/main/DSC_3332.jpg</filename>
+            </picture>
+            <picture name="Photo 20" lastchanged="2025-10-24T20:40:47.5044878Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{517fb3bc-dd6e-4e58-aedc-7e7bee510908}/main/decluttered_bedroom.jpg</filename>
+            </picture>
+            <picture name="Photo 17" lastchanged="2025-10-20T08:19:35.0127651Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{517fb3bc-dd6e-4e58-aedc-7e7bee510908}/main/DSC_3350.jpg</filename>
+            </picture>
+            <picture name="Photo 16" lastchanged="2025-10-20T08:19:32.6987967Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{517fb3bc-dd6e-4e58-aedc-7e7bee510908}/main/DSC_3615.jpg</filename>
+            </picture>
+            <picture name="Photo 30" lastchanged="2025-10-20T08:20:11.646261Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{517fb3bc-dd6e-4e58-aedc-7e7bee510908}/main/DJI_0199.jpg</filename>
+            </picture>
+            <picture name="Photo 28" lastchanged="2025-10-20T08:20:06.2071247Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{517fb3bc-dd6e-4e58-aedc-7e7bee510908}/main/DJI_0190.jpg</filename>
+            </picture>
+            <picture name="Photo 30" lastchanged="2025-10-20T10:43:17.4584032Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{517fb3bc-dd6e-4e58-aedc-7e7bee510908}/main/Coppins-Floorplan.jpg</filename>
+            </picture>
+          </pictures>
+          <floorplans>
+            <floorplan name="">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{517fb3bc-dd6e-4e58-aedc-7e7bee510908}/Floorplan_Floorplan1.jpg</filename>
             </floorplan>
           </floorplans>
         </property>
@@ -6508,6 +6682,184 @@ What3Words:///recorders.nobody.opened&lt;/p&gt;</advert2>
             </floorplan>
           </floorplans>
         </property>
+        <property reference="CB003757" hash="D48DA2C43507DD07425210AC14D1C519">
+          <availableFrom />
+          <instructedDate>19/06/2025 13:37:12</instructedDate>
+          <department>Residential Sales</department>
+          <propertyofweek>NO</propertyofweek>
+          <price_text>Guide Price £195,000</price_text>
+          <numeric_price>195000.0000</numeric_price>
+          <bedrooms>2</bedrooms>
+          <receptions>1</receptions>
+          <bathrooms>1</bathrooms>
+          <priority>On Market</priority>
+          <tenure>Leasehold</tenure>
+          <advert_heading>Warren Court, Park View, Sturry, Canterbury</advert_heading>
+          <main_advert>&lt;p style="text-align: justify;"&gt;A well-presented ground floor apartment with private parking, situated within a sought-after residential development just outside Canterbury.&lt;br /&gt;
+&lt;br /&gt;
+2 Bedrooms&amp;nbsp;&lt;br /&gt;
+Generous lounge/diner&lt;br /&gt;
+Open-plan kitchen&lt;br /&gt;
+Stylish bathroom&lt;br /&gt;
+Allocated parking&lt;br /&gt;
+Communal gardens &amp; bike store&lt;br /&gt;
+Situated on the edge of Sturry village&lt;br /&gt;
+EPC Rating: 80C&lt;/p&gt;
+&lt;div class="control-group"&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;/div&gt;</main_advert>
+          <advert2>&lt;p data-start="105" data-end="315" style="text-align: justify;"&gt;&lt;span data-start="160" data-end="315"&gt;Guide: &amp;pound;195,000-&amp;pound;215,000. A well-presented two-bedroom ground floor apartment with private parking, situated within a sought-after residential development just outside Canterbury. &lt;/span&gt;Flat 2 occupies a convenient ground floor position within the Warren Court development, enjoying a well-considered internal layout. The property is ideal for owner occupation or investment. &lt;br /&gt;
+&lt;br /&gt;
+A central entrance hall provides access to all rooms and includes a useful built-in storage cupboard. The generous lounge/diner offers an excellent everyday environment, comfortably accommodating both seating and dining areas, with a wide aspect that draws in natural light. The lounge/diner opens onto the kitchen area, which is well-fitted with a range of wall, drawer and floor units, an integral oven, hob and extractor, and space and plumbing for a washing machine, dishwasher, and fridge freezer, combining practicality with a sociable layout. &lt;br /&gt;
+&lt;br /&gt;
+There are two bedrooms, the main bedroom is generously proportioned with built-in wardrobe. The bathroom is centrally located and fitted with a full-size bath with shower over, w.c, and wash basin, complemented a stylish finish. The property benefits from gas central heating and double glazed windows and doors. &lt;br /&gt;
+&lt;br /&gt;
+Externally there is an allocated parking space as well as designated visitor parking spaces. The property also benefits from access to the well-maintained communal gardens and the use of a bike store.&lt;/p&gt;
+&lt;p data-start="1504" data-end="1930" style="text-align: justify;"&gt;
+Warren Court is situated on the edge of Sturry village, benefitting from a semi-rural outlook yet offering excellent connectivity. Sturry railway station is nearby, with direct services to Canterbury West and High-Speed connections to London St. Pancras. Local amenities are close at hand, and the vibrant centre of Canterbury, with its wealth of cultural, educational and shopping opportunities is easily accessible.  &lt;span style="text-align: justify;"&gt;The surrounding countryside provides extensive walking and cycling opportunities.&lt;br /&gt;
+&lt;br /&gt;
+&lt;span data-start="1956" data-end="1972" style="text-align: justify;"&gt;Council Tax:&lt;/span&gt;&lt;span style="text-align: justify;"&gt; Band B&lt;br /&gt;
+&lt;br /&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span data-start="1932" data-end="1943"&gt;Tenure:&lt;/span&gt; Leasehold&lt;br /&gt;
+&lt;br /&gt;
+Lease term: 125 years from 2017&lt;br /&gt;
+&lt;br /&gt;
+Service charge: Approx. &amp;pound;1,684.33 per annum&lt;/p&gt;
+&lt;p data-start="1932" data-end="2009" style="text-align: justify;"&gt;
+&lt;br /&gt;
+Ground rent: Approx. &amp;pound;250.00 per annum&lt;br /&gt;
+&lt;br /&gt;
+EPC Rating: 80C&lt;br /&gt;
+&lt;br /&gt;
+What3Words:///speaking.mocked.habits&lt;/p&gt;</advert2>
+          <advert3>&lt;p data-start="105" data-end="315" style="text-align: justify;"&gt;&lt;span data-start="160" data-end="315"&gt;&lt;span data-start="160" data-end="315" style="text-align: justify;"&gt;A well-presented two-bedroom ground floor apartment with private parking, situated within a sought-after residential development just outside Canterbury. &lt;/span&gt;&lt;span style="text-align: justify;"&gt;Flat 2 occupies a convenient ground floor position within the Warren Court development, enjoying a well-considered internal layout. The property is ideal for owner occupation or investment.&lt;/span&gt;&lt;br style="text-align: justify;" /&gt;
+&lt;br style="text-align: justify;" /&gt;
+&lt;span style="text-align: justify;"&gt;A central entrance hall provides access to all rooms and includes a useful built-in storage cupboard. The generous lounge/diner offers an excellent everyday environment, comfortably accommodating both seating and dining areas, with a wide aspect that draws in natural light. The lounge/diner opens onto the kitchen area, which is well-fitted with a range of wall, drawer and floor units, an integral oven, hob and extractor, and space and plumbing for a washing machine, dishwasher, and fridge freezer, combining practicality with a sociable layout.&lt;/span&gt;&lt;br style="text-align: justify;" /&gt;
+&lt;br style="text-align: justify;" /&gt;
+&lt;span style="text-align: justify;"&gt;There are two bedrooms, the main bedroom is generously proportioned with built-in wardrobe. The bathroom is centrally located and fitted with a full-size bath with shower over, w.c, and wash basin, complemented a stylish finish. The property benefits from gas central heating and double glazed windows and doors.&lt;/span&gt;&lt;br style="text-align: justify;" /&gt;
+&lt;br style="text-align: justify;" /&gt;
+&lt;span style="text-align: justify;"&gt;Externally there is an allocated parking space as well as designated visitor parking spaces. The property also benefits from access to the well-maintained communal gardens and the use of a bike store.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</advert3>
+          <advert4>&lt;p data-start="1504" data-end="1930" style="text-align: justify;"&gt;Warren Court is situated on the edge of Sturry village, benefitting from a semi-rural outlook yet offering excellent connectivity. Sturry railway station is nearby, with direct services to Canterbury West and High-Speed connections to London St. Pancras. Local amenities are close at hand, and the vibrant centre of Canterbury, with its wealth of cultural, educational and shopping opportunities is easily accessible. The surrounding countryside provides extensive walking and cycling opportunities.&lt;/p&gt;</advert4>
+          <advert5>All mains services are understood to be connected to the property. </advert5>
+          <advert6>&lt;p data-start="1932" data-end="2009" style="text-align: justify;"&gt;&lt;span data-start="1932" data-end="1943"&gt;Tenure:&lt;/span&gt; Leasehold&lt;br /&gt;
+&lt;br /&gt;
+Lease term: 125 years from 2017&lt;br /&gt;
+&lt;br /&gt;
+Service charge: Approx. &amp;pound;1,684.33 per annum&lt;br /&gt;
+&lt;br /&gt;
+Ground rent: Approx. &amp;pound;250.00 per annum&lt;/p&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;</advert6>
+          <house_number>Flat 2, Warren Court</house_number>
+          <street>Park View</street>
+          <district>Sturry</district>
+          <town>Canterbury</town>
+          <county>Kent</county>
+          <postcode>CT2 0NW</postcode>
+          <country>UK</country>
+          <area>Canterbury Villages North</area>
+          <bullet1>2 Bedrooms </bullet1>
+          <bullet2>Generous lounge/diner</bullet2>
+          <bullet3>Open-plan kitchen</bullet3>
+          <bullet4>Stylish bathroom</bullet4>
+          <bullet5>Allocated parking</bullet5>
+          <bullet6>Communal gardens &amp; bike store</bullet6>
+          <bullet7>Ideal investment or first time buy</bullet7>
+          <bullet8>EPC Rating: 80C</bullet8>
+          <bullet9 />
+          <bullet10 />
+          <bullet11 />
+          <bullet12 />
+          <bullet13 />
+          <bullet14 />
+          <bullet15 />
+          <bullet16 />
+          <bullet17 />
+          <bullet18 />
+          <bullet19 />
+          <bullet20 />
+          <brochure>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{981A1FC8-506E-416F-9C73-9D309F7ED4FA}/external.pdf</brochure>
+          <agency_region>KENT</agency_region>
+          <agency_district>CANTERBURY</agency_district>
+          <agency_location>Canterbury Villages North</agency_location>
+          <web_link>https://www.properties.charlesbainbridge.com/index.php?option=com_eapow&amp;format=html&amp;task=property.getProp&amp;?pid=981A1FC8-506E-416F-9C73-9D309F7ED4FA&amp;aid=C46B2F24-B9CD-417A-9879-F8C0E2A6C226</web_link>
+          <latitude>51.3056640625</latitude>
+          <longitude>1.12156295776367</longitude>
+          <qrcode>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{981A1FC8-506E-416F-9C73-9D309F7ED4FA}/qr.png</qrcode>
+          <epc />
+          <hips>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{981A1FC8-506E-416F-9C73-9D309F7ED4FA}/HIPS/8080.png</hips>
+          <filename3 />
+          <filename4 />
+          <filename5 />
+          <filename6 />
+          <virtual_tour_url />
+          <property_type>Flat</property_type>
+          <commercial_type />
+          <property_style>Ground Floor Flat</property_style>
+          <property_reference>12666350</property_reference>
+          <newHome>NO</newHome>
+          <noChain>NO</noChain>
+          <furnished>Unknown</furnished>
+          <portalFee />
+          <currency />
+          <featuredProperty>NO</featuredProperty>
+          <text1 name="" value="Provide by sellers. Copy on events - property docs. AD" />
+          <text2 name="" value="Provide by sellers. Copy on events - property docs. AD" />
+          <text3 name="" value="Copy on events - property docs. AD" />
+          <date1 name="Title Register" value="27/06/2025 00:00:00" />
+          <date2 name="Title Plan" value="27/06/2025 00:00:00" />
+          <date3 name="Data Protection - Seller" value="16/06/2025 00:00:00" />
+          <number1 name="" value="0" />
+          <number2 name="" value="0" />
+          <number3 name="" value="0" />
+          <number4 name="" value="0" />
+          <number5 name="" value="0" />
+          <number6 name="" value="0" />
+          <number7 name="" value="0" />
+          <number8 name="" value="0" />
+          <number9 name="" value="0" />
+          <number10 name="" value="0" />
+          <rooms />
+          <pictures>
+            <picture name="Photo 12" lastchanged="2025-06-16T15:32:14.0510942Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{981a1fc8-506e-416f-9c73-9d309f7ed4fa}/main/DSC_9484.jpg</filename>
+            </picture>
+            <picture name="Photo 7" lastchanged="2025-06-16T15:32:11.5783221Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{981a1fc8-506e-416f-9c73-9d309f7ed4fa}/main/DSC_9416.jpg</filename>
+            </picture>
+            <picture name="Photo 8" lastchanged="2025-06-16T15:32:12.0315061Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{981a1fc8-506e-416f-9c73-9d309f7ed4fa}/main/DSC_9428.jpg</filename>
+            </picture>
+            <picture name="Photo 10" lastchanged="2025-06-16T15:32:13.0175759Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{981a1fc8-506e-416f-9c73-9d309f7ed4fa}/main/DSC_9466.jpg</filename>
+            </picture>
+            <picture name="Photo 3" lastchanged="2025-06-16T15:32:09.8259101Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{981a1fc8-506e-416f-9c73-9d309f7ed4fa}/main/DSC_9351.jpg</filename>
+            </picture>
+            <picture name="Photo 15" lastchanged="2025-10-01T19:45:49.9260774Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{981a1fc8-506e-416f-9c73-9d309f7ed4fa}/main/staged_room.jpg</filename>
+            </picture>
+            <picture name="Photo 14" lastchanged="2025-10-01T19:45:49.7072855Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{981a1fc8-506e-416f-9c73-9d309f7ed4fa}/main/staged_room_full_frame.jpg</filename>
+            </picture>
+            <picture name="Photo 6" lastchanged="2025-06-16T15:32:11.1556734Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{981a1fc8-506e-416f-9c73-9d309f7ed4fa}/main/DSC_9381.jpg</filename>
+            </picture>
+            <picture name="Photo 11" lastchanged="2025-06-16T15:32:13.534349Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{981a1fc8-506e-416f-9c73-9d309f7ed4fa}/main/DSC_9481.jpg</filename>
+            </picture>
+            <picture name="Photo 14" lastchanged="2025-09-26T16:06:57.2003034Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{981a1fc8-506e-416f-9c73-9d309f7ed4fa}/main/DSC_9496.jpg</filename>
+            </picture>
+            <picture name="Photo 12" lastchanged="2025-10-01T19:16:34.1294075Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{981a1fc8-506e-416f-9c73-9d309f7ed4fa}/main/Flat-2,-Warren-Court-Floorplan.jpg</filename>
+            </picture>
+          </pictures>
+          <floorplans>
+            <floorplan name="">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{981a1fc8-506e-416f-9c73-9d309f7ed4fa}/Floorplan_Floorplan1.jpg</filename>
+            </floorplan>
+          </floorplans>
+        </property>
         <property reference="CB003758" hash="843C49870CAFE1EB3D752046136C29E5">
           <availableFrom />
           <instructedDate>30/09/2025 16:53:56</instructedDate>
@@ -7941,7 +8293,8 @@ What3Words:///torches.parkland.grinders&lt;/p&gt;</advert2>
             <room name="Outside">
               <measurement_text />
               <description>
-              </description>
+
+</description>
             </room>
             <room name="Front Garden">
               <measurement_text />
@@ -8201,12 +8554,12 @@ Externally to the front of the property there is off street parking for 3-4 cars
             <room name="Bedroom Three">
               <measurement_text>9' 0'' x 11' 0'' (2.74m x 3.35m)</measurement_text>
               <description>
-              </description>
+ </description>
             </room>
             <room name="Bedroom Four">
               <measurement_text>7' 0'' x 7' 0'' (2.13m x 2.13m)</measurement_text>
               <description>
-              </description>
+</description>
             </room>
             <room name="Bathroom">
               <measurement_text>6' 0'' x 6' 0'' (1.83m x 1.83m)</measurement_text>
@@ -8251,7 +8604,8 @@ Externally to the front of the property there is off street parking for 3-4 cars
             <room name="Rear Garden">
               <measurement_text />
               <description>
-              </description>
+
+</description>
             </room>
           </rooms>
           <pictures>
@@ -12090,6 +12444,126 @@ Council tax band C. EPC Rating 40E. Security deposit to be held is &amp;pound;30
             </floorplan>
           </floorplans>
         </property>
+        <property reference="CB003908" hash="CA601A813DB5632C9E6B4195507EC41D">
+          <availableFrom>06/07/2026 00:00:00</availableFrom>
+          <instructedDate>19/11/2025 09:33:19</instructedDate>
+          <department>Residential Lettings</department>
+          <propertyofweek>NO</propertyofweek>
+          <price_text>Monthly Rental Of £1,150</price_text>
+          <numeric_price>1150.0000</numeric_price>
+          <bedrooms>1</bedrooms>
+          <receptions>1</receptions>
+          <bathrooms>1</bathrooms>
+          <priority>Available to Let</priority>
+          <tenure>Unknown</tenure>
+          <advert_heading>Orchard Street, Canterbury</advert_heading>
+          <main_advert>** AVAILABLE SUMMER 2026 **  ** FANTASTIC LOCATION ** ** SEPARATE BEDROOM ** A completely self-contained one-bedroom apartment close to the city centre is now on the market to rent. Tomlin House is on Orchard Street in central Canterbury, close to the Westgate and St. Dunstans area, and just a short walk to Canterbury West Train Station. Nearby is a Sainsbury’s Local, and the Unicorn Inn, plus the city centre is well within walking distance, and Christ Church University is only one mile away.
+
+Inside, the property is well maintained and fully furnished, with an open-plan lounge and kitchen area at one side, a shower room to the centre, and a double bedroom at the other end. The lounge includes a table and chairs, a desk, and a sofa, and the kitchen includes all appliances such as a fridge/freezer,  hob, oven, microwave, and washer/dryer. The bedroom includes a double bed, wardrobe, and a chest of drawers.
+
+For more information and to book a viewing call the team today.
+
+EPC Rating 62D. Council Tax Band A Security deposit to be held is &amp;pound;1326.92</main_advert>
+          <advert2>** AVAILABLE SUMMER 2025 **  ** FANTASTIC LOCATION ** ** SEPARATE BEDROOM ** A completely self-contained one-bedroom apartment close to the city centre is now on the market to rent. Tomlin House is on Orchard Street in central Canterbury, close to the Westgate and St. Dunstans area, and just a short walk to Canterbury West Train Station. Nearby is a Sainsbury’s Local, and the Unicorn Inn, plus the city centre is well within walking distance, and Christ Church University is only one mile away.
+
+Inside, the property is well maintained and fully furnished, with an open-plan lounge and kitchen area at one side, a shower room to the centre, and a double bedroom at the other end. The lounge includes a table and chairs, a desk, and a sofa, and the kitchen includes all appliances such as a fridge/freezer, domino hob, oven, microwave, and washer/dryer. The bedroom includes a double bed, wardrobe, and a chest of drawers.
+
+For more information and to book a viewing call the team today.
+
+Tenancy is for 12 months. EPC Rating 62D. Council Tax Band A Security deposit to be held is &amp;pound;1326.92</advert2>
+          <advert3 />
+          <advert4 />
+          <advert5 />
+          <advert6 />
+          <house_number>Flat 8, Tomlin House</house_number>
+          <street>Orchard Street</street>
+          <district />
+          <town>Canterbury</town>
+          <county>Kent</county>
+          <postcode>CT2 8BW</postcode>
+          <country>UK</country>
+          <area>Canterbury Centre</area>
+          <bullet1>Sought After Tomlin House</bullet1>
+          <bullet2>Good Sized Apartment With Separate Bedroom </bullet2>
+          <bullet3>Quiet Location - But In The Heart Of St Dunstan's </bullet3>
+          <bullet4>Fully Furnished</bullet4>
+          <bullet5>Secure Entry System</bullet5>
+          <bullet6>Couples Welcome </bullet6>
+          <bullet7 />
+          <bullet8 />
+          <bullet9 />
+          <bullet10 />
+          <bullet11 />
+          <bullet12 />
+          <bullet13 />
+          <bullet14 />
+          <bullet15 />
+          <bullet16 />
+          <bullet17 />
+          <bullet18 />
+          <bullet19 />
+          <bullet20 />
+          <brochure />
+          <agency_region>KENT</agency_region>
+          <agency_district>CANTERBURY</agency_district>
+          <agency_location>Canterbury Centre</agency_location>
+          <web_link>https://www.properties.charlesbainbridge.com/index.php?option=com_eapow&amp;format=html&amp;task=property.getProp&amp;?pid=EF6D9336-F143-447D-81F6-C896421D468B&amp;aid=C46B2F24-B9CD-417A-9879-F8C0E2A6C226</web_link>
+          <latitude>51.2827339172363</latitude>
+          <longitude>1.07197368144989</longitude>
+          <qrcode>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{EF6D9336-F143-447D-81F6-C896421D468B}/qr.png</qrcode>
+          <epc />
+          <hips />
+          <filename3 />
+          <filename4 />
+          <filename5 />
+          <filename6 />
+          <virtual_tour_url />
+          <property_type>Flat</property_type>
+          <commercial_type />
+          <property_style>Upper Floor Flat</property_style>
+          <property_reference>12781410</property_reference>
+          <newHome>NO</newHome>
+          <noChain>NO</noChain>
+          <furnished>Furnished</furnished>
+          <portalFee />
+          <currency />
+          <featuredProperty>NO</featuredProperty>
+          <number1 name="" value="0" />
+          <number2 name="" value="0" />
+          <number3 name="" value="0" />
+          <number4 name="" value="0" />
+          <number5 name="" value="0" />
+          <number6 name="" value="0" />
+          <number7 name="" value="0" />
+          <number8 name="" value="0" />
+          <number9 name="" value="0" />
+          <number10 name="" value="0" />
+          <rooms />
+          <pictures>
+            <picture name="Photo 1" lastchanged="2025-10-30T16:19:34.3171465Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{ef6d9336-f143-447d-81f6-c896421d468b}/main/8-Tomlin-Front.jpg</filename>
+            </picture>
+            <picture name="Photo 3" lastchanged="2025-11-19T09:31:47.8968931Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{ef6d9336-f143-447d-81f6-c896421d468b}/main/8-tomlin-bed.jpg</filename>
+            </picture>
+            <picture name="Photo 4" lastchanged="2025-11-19T09:31:49.0890213Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{ef6d9336-f143-447d-81f6-c896421d468b}/main/8-tomlin-liivng-3.jpg</filename>
+            </picture>
+            <picture name="Photo 5" lastchanged="2025-11-19T09:31:50.5422872Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{ef6d9336-f143-447d-81f6-c896421d468b}/main/8-tomlin-living-.jpg</filename>
+            </picture>
+            <picture name="Photo 6" lastchanged="2025-11-19T09:31:52.0897766Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{ef6d9336-f143-447d-81f6-c896421d468b}/main/8-tomlin-living-1.jpg</filename>
+            </picture>
+            <picture name="Photo 7" lastchanged="2025-11-19T09:31:53.652457Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{ef6d9336-f143-447d-81f6-c896421d468b}/main/8-tomlin-shower-.jpg</filename>
+            </picture>
+            <picture name="Photo 2" lastchanged="2025-11-19T09:31:46.7404912Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{ef6d9336-f143-447d-81f6-c896421d468b}/main/8-tomlin-bath.jpg</filename>
+            </picture>
+          </pictures>
+          <floorplans />
+        </property>
         <property reference="CB003909" hash="0699FD18D519B396E4614E3D25085DD8">
           <availableFrom>07/07/2026 00:00:00</availableFrom>
           <instructedDate>31/10/2025 10:29:38</instructedDate>
@@ -13973,478 +14447,6 @@ Council Tax Band C. EPC Rating 63D. Security deposit to be held is &amp;pound;28
             </picture>
           </pictures>
           <floorplans />
-        </property>
-        <property reference="CB003908" hash="CA601A813DB5632C9E6B4195507EC41D">
-          <availableFrom>06/07/2026 00:00:00</availableFrom>
-          <instructedDate>19/11/2025 09:33:19</instructedDate>
-          <department>Residential Lettings</department>
-          <propertyofweek>NO</propertyofweek>
-          <price_text>Monthly Rental Of £1,150</price_text>
-          <numeric_price>1150.0000</numeric_price>
-          <bedrooms>1</bedrooms>
-          <receptions>1</receptions>
-          <bathrooms>1</bathrooms>
-          <priority>Available to Let</priority>
-          <tenure>Unknown</tenure>
-          <advert_heading>Orchard Street, Canterbury</advert_heading>
-          <main_advert>** AVAILABLE SUMMER 2026 **  ** FANTASTIC LOCATION ** ** SEPARATE BEDROOM ** A completely self-contained one-bedroom apartment close to the city centre is now on the market to rent. Tomlin House is on Orchard Street in central Canterbury, close to the Westgate and St. Dunstans area, and just a short walk to Canterbury West Train Station. Nearby is a Sainsbury’s Local, and the Unicorn Inn, plus the city centre is well within walking distance, and Christ Church University is only one mile away.
-
-Inside, the property is well maintained and fully furnished, with an open-plan lounge and kitchen area at one side, a shower room to the centre, and a double bedroom at the other end. The lounge includes a table and chairs, a desk, and a sofa, and the kitchen includes all appliances such as a fridge/freezer,  hob, oven, microwave, and washer/dryer. The bedroom includes a double bed, wardrobe, and a chest of drawers.
-
-For more information and to book a viewing call the team today.
-
-EPC Rating 62D. Council Tax Band A Security deposit to be held is &amp;pound;1326.92</main_advert>
-          <advert2>** AVAILABLE SUMMER 2025 **  ** FANTASTIC LOCATION ** ** SEPARATE BEDROOM ** A completely self-contained one-bedroom apartment close to the city centre is now on the market to rent. Tomlin House is on Orchard Street in central Canterbury, close to the Westgate and St. Dunstans area, and just a short walk to Canterbury West Train Station. Nearby is a Sainsbury’s Local, and the Unicorn Inn, plus the city centre is well within walking distance, and Christ Church University is only one mile away.
-
-Inside, the property is well maintained and fully furnished, with an open-plan lounge and kitchen area at one side, a shower room to the centre, and a double bedroom at the other end. The lounge includes a table and chairs, a desk, and a sofa, and the kitchen includes all appliances such as a fridge/freezer, domino hob, oven, microwave, and washer/dryer. The bedroom includes a double bed, wardrobe, and a chest of drawers.
-
-For more information and to book a viewing call the team today.
-
-Tenancy is for 12 months. EPC Rating 62D. Council Tax Band A Security deposit to be held is &amp;pound;1326.92</advert2>
-          <advert3 />
-          <advert4 />
-          <advert5 />
-          <advert6 />
-          <house_number>Flat 8, Tomlin House</house_number>
-          <street>Orchard Street</street>
-          <district />
-          <town>Canterbury</town>
-          <county>Kent</county>
-          <postcode>CT2 8BW</postcode>
-          <country>UK</country>
-          <area>Canterbury Centre</area>
-          <bullet1>Sought After Tomlin House</bullet1>
-          <bullet2>Good Sized Apartment With Separate Bedroom </bullet2>
-          <bullet3>Quiet Location - But In The Heart Of St Dunstan's </bullet3>
-          <bullet4>Fully Furnished</bullet4>
-          <bullet5>Secure Entry System</bullet5>
-          <bullet6>Couples Welcome </bullet6>
-          <bullet7 />
-          <bullet8 />
-          <bullet9 />
-          <bullet10 />
-          <bullet11 />
-          <bullet12 />
-          <bullet13 />
-          <bullet14 />
-          <bullet15 />
-          <bullet16 />
-          <bullet17 />
-          <bullet18 />
-          <bullet19 />
-          <bullet20 />
-          <brochure />
-          <agency_region>KENT</agency_region>
-          <agency_district>CANTERBURY</agency_district>
-          <agency_location>Canterbury Centre</agency_location>
-          <web_link>https://www.properties.charlesbainbridge.com/index.php?option=com_eapow&amp;format=html&amp;task=property.getProp&amp;?pid=EF6D9336-F143-447D-81F6-C896421D468B&amp;aid=C46B2F24-B9CD-417A-9879-F8C0E2A6C226</web_link>
-          <latitude>51.2827339172363</latitude>
-          <longitude>1.07197368144989</longitude>
-          <qrcode>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{EF6D9336-F143-447D-81F6-C896421D468B}/qr.png</qrcode>
-          <epc />
-          <hips />
-          <filename3 />
-          <filename4 />
-          <filename5 />
-          <filename6 />
-          <virtual_tour_url />
-          <property_type>Flat</property_type>
-          <commercial_type />
-          <property_style>Upper Floor Flat</property_style>
-          <property_reference>12781410</property_reference>
-          <newHome>NO</newHome>
-          <noChain>NO</noChain>
-          <furnished>Furnished</furnished>
-          <portalFee />
-          <currency />
-          <featuredProperty>NO</featuredProperty>
-          <number1 name="" value="0" />
-          <number2 name="" value="0" />
-          <number3 name="" value="0" />
-          <number4 name="" value="0" />
-          <number5 name="" value="0" />
-          <number6 name="" value="0" />
-          <number7 name="" value="0" />
-          <number8 name="" value="0" />
-          <number9 name="" value="0" />
-          <number10 name="" value="0" />
-          <rooms />
-          <pictures>
-            <picture name="Photo 1" lastchanged="2025-10-30T16:19:34.3171465Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{ef6d9336-f143-447d-81f6-c896421d468b}/main/8-Tomlin-Front.jpg</filename>
-            </picture>
-            <picture name="Photo 3" lastchanged="2025-11-19T09:31:47.8968931Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{ef6d9336-f143-447d-81f6-c896421d468b}/main/8-tomlin-bed.jpg</filename>
-            </picture>
-            <picture name="Photo 4" lastchanged="2025-11-19T09:31:49.0890213Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{ef6d9336-f143-447d-81f6-c896421d468b}/main/8-tomlin-liivng-3.jpg</filename>
-            </picture>
-            <picture name="Photo 5" lastchanged="2025-11-19T09:31:50.5422872Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{ef6d9336-f143-447d-81f6-c896421d468b}/main/8-tomlin-living-.jpg</filename>
-            </picture>
-            <picture name="Photo 6" lastchanged="2025-11-19T09:31:52.0897766Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{ef6d9336-f143-447d-81f6-c896421d468b}/main/8-tomlin-living-1.jpg</filename>
-            </picture>
-            <picture name="Photo 7" lastchanged="2025-11-19T09:31:53.652457Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{ef6d9336-f143-447d-81f6-c896421d468b}/main/8-tomlin-shower-.jpg</filename>
-            </picture>
-            <picture name="Photo 2" lastchanged="2025-11-19T09:31:46.7404912Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{ef6d9336-f143-447d-81f6-c896421d468b}/main/8-tomlin-bath.jpg</filename>
-            </picture>
-          </pictures>
-          <floorplans />
-        </property>
-        <property reference="CB003757" hash="D48DA2C43507DD07425210AC14D1C519">
-          <availableFrom />
-          <instructedDate>19/06/2025 13:37:12</instructedDate>
-          <department>Residential Sales</department>
-          <propertyofweek>NO</propertyofweek>
-          <price_text>Guide Price £195,000</price_text>
-          <numeric_price>195000.0000</numeric_price>
-          <bedrooms>2</bedrooms>
-          <receptions>1</receptions>
-          <bathrooms>1</bathrooms>
-          <priority>On Market</priority>
-          <tenure>Leasehold</tenure>
-          <advert_heading>Warren Court, Park View, Sturry, Canterbury</advert_heading>
-          <main_advert>&lt;p style="text-align: justify;"&gt;A well-presented ground floor apartment with private parking, situated within a sought-after residential development just outside Canterbury.&lt;br /&gt;
-&lt;br /&gt;
-2 Bedrooms&amp;nbsp;&lt;br /&gt;
-Generous lounge/diner&lt;br /&gt;
-Open-plan kitchen&lt;br /&gt;
-Stylish bathroom&lt;br /&gt;
-Allocated parking&lt;br /&gt;
-Communal gardens &amp; bike store&lt;br /&gt;
-Situated on the edge of Sturry village&lt;br /&gt;
-EPC Rating: 80C&lt;/p&gt;
-&lt;div class="control-group"&gt;
-&lt;div&gt;&amp;nbsp;&lt;/div&gt;
-&lt;/div&gt;</main_advert>
-          <advert2>&lt;p data-start="105" data-end="315" style="text-align: justify;"&gt;&lt;span data-start="160" data-end="315"&gt;Guide: &amp;pound;195,000-&amp;pound;215,000. A well-presented two-bedroom ground floor apartment with private parking, situated within a sought-after residential development just outside Canterbury. &lt;/span&gt;Flat 2 occupies a convenient ground floor position within the Warren Court development, enjoying a well-considered internal layout. The property is ideal for owner occupation or investment. &lt;br /&gt;
-&lt;br /&gt;
-A central entrance hall provides access to all rooms and includes a useful built-in storage cupboard. The generous lounge/diner offers an excellent everyday environment, comfortably accommodating both seating and dining areas, with a wide aspect that draws in natural light. The lounge/diner opens onto the kitchen area, which is well-fitted with a range of wall, drawer and floor units, an integral oven, hob and extractor, and space and plumbing for a washing machine, dishwasher, and fridge freezer, combining practicality with a sociable layout. &lt;br /&gt;
-&lt;br /&gt;
-There are two bedrooms, the main bedroom is generously proportioned with built-in wardrobe. The bathroom is centrally located and fitted with a full-size bath with shower over, w.c, and wash basin, complemented a stylish finish. The property benefits from gas central heating and double glazed windows and doors. &lt;br /&gt;
-&lt;br /&gt;
-Externally there is an allocated parking space as well as designated visitor parking spaces. The property also benefits from access to the well-maintained communal gardens and the use of a bike store.&lt;/p&gt;
-&lt;p data-start="1504" data-end="1930" style="text-align: justify;"&gt;
-Warren Court is situated on the edge of Sturry village, benefitting from a semi-rural outlook yet offering excellent connectivity. Sturry railway station is nearby, with direct services to Canterbury West and High-Speed connections to London St. Pancras. Local amenities are close at hand, and the vibrant centre of Canterbury, with its wealth of cultural, educational and shopping opportunities is easily accessible.  &lt;span style="text-align: justify;"&gt;The surrounding countryside provides extensive walking and cycling opportunities.&lt;br /&gt;
-&lt;br /&gt;
-&lt;span data-start="1956" data-end="1972" style="text-align: justify;"&gt;Council Tax:&lt;/span&gt;&lt;span style="text-align: justify;"&gt; Band B&lt;br /&gt;
-&lt;br /&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span data-start="1932" data-end="1943"&gt;Tenure:&lt;/span&gt; Leasehold&lt;br /&gt;
-&lt;br /&gt;
-Lease term: 125 years from 2017&lt;br /&gt;
-&lt;br /&gt;
-Service charge: Approx. &amp;pound;1,684.33 per annum&lt;/p&gt;
-&lt;p data-start="1932" data-end="2009" style="text-align: justify;"&gt;
-&lt;br /&gt;
-Ground rent: Approx. &amp;pound;250.00 per annum&lt;br /&gt;
-&lt;br /&gt;
-EPC Rating: 80C&lt;br /&gt;
-&lt;br /&gt;
-What3Words:///speaking.mocked.habits&lt;/p&gt;</advert2>
-          <advert3>&lt;p data-start="105" data-end="315" style="text-align: justify;"&gt;&lt;span data-start="160" data-end="315"&gt;&lt;span data-start="160" data-end="315" style="text-align: justify;"&gt;A well-presented two-bedroom ground floor apartment with private parking, situated within a sought-after residential development just outside Canterbury. &lt;/span&gt;&lt;span style="text-align: justify;"&gt;Flat 2 occupies a convenient ground floor position within the Warren Court development, enjoying a well-considered internal layout. The property is ideal for owner occupation or investment.&lt;/span&gt;&lt;br style="text-align: justify;" /&gt;
-&lt;br style="text-align: justify;" /&gt;
-&lt;span style="text-align: justify;"&gt;A central entrance hall provides access to all rooms and includes a useful built-in storage cupboard. The generous lounge/diner offers an excellent everyday environment, comfortably accommodating both seating and dining areas, with a wide aspect that draws in natural light. The lounge/diner opens onto the kitchen area, which is well-fitted with a range of wall, drawer and floor units, an integral oven, hob and extractor, and space and plumbing for a washing machine, dishwasher, and fridge freezer, combining practicality with a sociable layout.&lt;/span&gt;&lt;br style="text-align: justify;" /&gt;
-&lt;br style="text-align: justify;" /&gt;
-&lt;span style="text-align: justify;"&gt;There are two bedrooms, the main bedroom is generously proportioned with built-in wardrobe. The bathroom is centrally located and fitted with a full-size bath with shower over, w.c, and wash basin, complemented a stylish finish. The property benefits from gas central heating and double glazed windows and doors.&lt;/span&gt;&lt;br style="text-align: justify;" /&gt;
-&lt;br style="text-align: justify;" /&gt;
-&lt;span style="text-align: justify;"&gt;Externally there is an allocated parking space as well as designated visitor parking spaces. The property also benefits from access to the well-maintained communal gardens and the use of a bike store.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</advert3>
-          <advert4>&lt;p data-start="1504" data-end="1930" style="text-align: justify;"&gt;Warren Court is situated on the edge of Sturry village, benefitting from a semi-rural outlook yet offering excellent connectivity. Sturry railway station is nearby, with direct services to Canterbury West and High-Speed connections to London St. Pancras. Local amenities are close at hand, and the vibrant centre of Canterbury, with its wealth of cultural, educational and shopping opportunities is easily accessible. The surrounding countryside provides extensive walking and cycling opportunities.&lt;/p&gt;</advert4>
-          <advert5>All mains services are understood to be connected to the property. </advert5>
-          <advert6>&lt;p data-start="1932" data-end="2009" style="text-align: justify;"&gt;&lt;span data-start="1932" data-end="1943"&gt;Tenure:&lt;/span&gt; Leasehold&lt;br /&gt;
-&lt;br /&gt;
-Lease term: 125 years from 2017&lt;br /&gt;
-&lt;br /&gt;
-Service charge: Approx. &amp;pound;1,684.33 per annum&lt;br /&gt;
-&lt;br /&gt;
-Ground rent: Approx. &amp;pound;250.00 per annum&lt;/p&gt;
-&lt;div&gt;&amp;nbsp;&lt;/div&gt;</advert6>
-          <house_number>Flat 2, Warren Court</house_number>
-          <street>Park View</street>
-          <district>Sturry</district>
-          <town>Canterbury</town>
-          <county>Kent</county>
-          <postcode>CT2 0NW</postcode>
-          <country>UK</country>
-          <area>Canterbury Villages North</area>
-          <bullet1>2 Bedrooms </bullet1>
-          <bullet2>Generous lounge/diner</bullet2>
-          <bullet3>Open-plan kitchen</bullet3>
-          <bullet4>Stylish bathroom</bullet4>
-          <bullet5>Allocated parking</bullet5>
-          <bullet6>Communal gardens &amp; bike store</bullet6>
-          <bullet7>Ideal investment or first time buy</bullet7>
-          <bullet8>EPC Rating: 80C</bullet8>
-          <bullet9 />
-          <bullet10 />
-          <bullet11 />
-          <bullet12 />
-          <bullet13 />
-          <bullet14 />
-          <bullet15 />
-          <bullet16 />
-          <bullet17 />
-          <bullet18 />
-          <bullet19 />
-          <bullet20 />
-          <brochure>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{981A1FC8-506E-416F-9C73-9D309F7ED4FA}/external.pdf</brochure>
-          <agency_region>KENT</agency_region>
-          <agency_district>CANTERBURY</agency_district>
-          <agency_location>Canterbury Villages North</agency_location>
-          <web_link>https://www.properties.charlesbainbridge.com/index.php?option=com_eapow&amp;format=html&amp;task=property.getProp&amp;?pid=981A1FC8-506E-416F-9C73-9D309F7ED4FA&amp;aid=C46B2F24-B9CD-417A-9879-F8C0E2A6C226</web_link>
-          <latitude>51.3056640625</latitude>
-          <longitude>1.12156295776367</longitude>
-          <qrcode>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{981A1FC8-506E-416F-9C73-9D309F7ED4FA}/qr.png</qrcode>
-          <epc />
-          <hips>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{981A1FC8-506E-416F-9C73-9D309F7ED4FA}/HIPS/8080.png</hips>
-          <filename3 />
-          <filename4 />
-          <filename5 />
-          <filename6 />
-          <virtual_tour_url />
-          <property_type>Flat</property_type>
-          <commercial_type />
-          <property_style>Ground Floor Flat</property_style>
-          <property_reference>12666350</property_reference>
-          <newHome>NO</newHome>
-          <noChain>NO</noChain>
-          <furnished>Unknown</furnished>
-          <portalFee />
-          <currency />
-          <featuredProperty>NO</featuredProperty>
-          <text1 name="" value="Provide by sellers. Copy on events - property docs. AD" />
-          <text2 name="" value="Provide by sellers. Copy on events - property docs. AD" />
-          <text3 name="" value="Copy on events - property docs. AD" />
-          <date1 name="Title Register" value="27/06/2025 00:00:00" />
-          <date2 name="Title Plan" value="27/06/2025 00:00:00" />
-          <date3 name="Data Protection - Seller" value="16/06/2025 00:00:00" />
-          <number1 name="" value="0" />
-          <number2 name="" value="0" />
-          <number3 name="" value="0" />
-          <number4 name="" value="0" />
-          <number5 name="" value="0" />
-          <number6 name="" value="0" />
-          <number7 name="" value="0" />
-          <number8 name="" value="0" />
-          <number9 name="" value="0" />
-          <number10 name="" value="0" />
-          <rooms />
-          <pictures>
-            <picture name="Photo 12" lastchanged="2025-06-16T15:32:14.0510942Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{981a1fc8-506e-416f-9c73-9d309f7ed4fa}/main/DSC_9484.jpg</filename>
-            </picture>
-            <picture name="Photo 7" lastchanged="2025-06-16T15:32:11.5783221Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{981a1fc8-506e-416f-9c73-9d309f7ed4fa}/main/DSC_9416.jpg</filename>
-            </picture>
-            <picture name="Photo 8" lastchanged="2025-06-16T15:32:12.0315061Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{981a1fc8-506e-416f-9c73-9d309f7ed4fa}/main/DSC_9428.jpg</filename>
-            </picture>
-            <picture name="Photo 10" lastchanged="2025-06-16T15:32:13.0175759Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{981a1fc8-506e-416f-9c73-9d309f7ed4fa}/main/DSC_9466.jpg</filename>
-            </picture>
-            <picture name="Photo 3" lastchanged="2025-06-16T15:32:09.8259101Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{981a1fc8-506e-416f-9c73-9d309f7ed4fa}/main/DSC_9351.jpg</filename>
-            </picture>
-            <picture name="Photo 15" lastchanged="2025-10-01T19:45:49.9260774Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{981a1fc8-506e-416f-9c73-9d309f7ed4fa}/main/staged_room.jpg</filename>
-            </picture>
-            <picture name="Photo 14" lastchanged="2025-10-01T19:45:49.7072855Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{981a1fc8-506e-416f-9c73-9d309f7ed4fa}/main/staged_room_full_frame.jpg</filename>
-            </picture>
-            <picture name="Photo 6" lastchanged="2025-06-16T15:32:11.1556734Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{981a1fc8-506e-416f-9c73-9d309f7ed4fa}/main/DSC_9381.jpg</filename>
-            </picture>
-            <picture name="Photo 11" lastchanged="2025-06-16T15:32:13.534349Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{981a1fc8-506e-416f-9c73-9d309f7ed4fa}/main/DSC_9481.jpg</filename>
-            </picture>
-            <picture name="Photo 14" lastchanged="2025-09-26T16:06:57.2003034Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{981a1fc8-506e-416f-9c73-9d309f7ed4fa}/main/DSC_9496.jpg</filename>
-            </picture>
-            <picture name="Photo 12" lastchanged="2025-10-01T19:16:34.1294075Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{981a1fc8-506e-416f-9c73-9d309f7ed4fa}/main/Flat-2,-Warren-Court-Floorplan.jpg</filename>
-            </picture>
-          </pictures>
-          <floorplans>
-            <floorplan name="">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{981a1fc8-506e-416f-9c73-9d309f7ed4fa}/Floorplan_Floorplan1.jpg</filename>
-            </floorplan>
-          </floorplans>
-        </property>
-        <property reference="CB003194" hash="577BB878A5B7346036513A06B94ED5DB">
-          <availableFrom />
-          <instructedDate>23/10/2025 14:25:46</instructedDate>
-          <department>Residential Sales</department>
-          <propertyofweek>NO</propertyofweek>
-          <price_text>£775,000</price_text>
-          <numeric_price>775000.0000</numeric_price>
-          <bedrooms>4</bedrooms>
-          <receptions>2</receptions>
-          <bathrooms>3</bathrooms>
-          <priority>On Market</priority>
-          <tenure>Freehold</tenure>
-          <advert_heading>Beech Hill, Bridge, Canterbury</advert_heading>
-          <main_advert>A wonderfully versatile detached bungalow, quietly positioned on Beech Hill, a peaceful and highly desirable road within the popular village of Bridge. 
-
-4 Bedrooms, 3 Bath/shower rooms
-2 Reception rooms
-Self-contained annexe 
-Opportunity for some general updating &amp; modernisation
-Self-contained annexe
-Drive &amp; double garage
-Delightful rear garden with summerhouse &amp; mature woodlands
-EPC Rating: 65D</main_advert>
-          <advert2>&lt;p data-start="455" data-end="873" style="text-align: justify;"&gt;Coppins is a wonderfully versatile detached bungalow, quietly positioned on Beech Hill, a peaceful and highly desirable road within the popular village of Bridge. The property offers versatile, well-balanced accommodation&lt;span style="text-align: justify;"&gt;, perfectly suited to family living, multi-generational requirements, or those seeking a home with scope for flexible use and &lt;/span&gt;offers an excellent opportunity for some general updating and modernisation.&lt;br /&gt;
-&lt;br /&gt;
-The accommodation includes a large open-plan sitting and dining room with a feature brick fireplace, a fitted kitchen, utility room, three comfortable bedrooms and two bath/shower rooms.&lt;/p&gt;
-&lt;p data-start="1057" data-end="1293" style="text-align: justify;"&gt;Adjoining the main house is a superb self-contained annexe, ideal for independent living, visiting family or guests, comprising a sitting room, kitchen, bedroom and bathroom, with its own entrance as well as access to the main home.&lt;/p&gt;
-&lt;p data-start="1295" data-end="1591" style="text-align: justify;"&gt;Outside, the property is approached by a private driveway providing ample parking and access to a double garage and summerhouse. The gardens are a particular feature, with wide lawns bordered by mature hedging, established trees and planting that provide a wonderful sense of privacy and space as well as mature woodland to the rear beyond the garden. &lt;br /&gt;
-&lt;br /&gt;
-&lt;span data-preserver-spaces="true"&gt;The property &lt;/span&gt;&lt;span data-preserver-spaces="true"&gt;is &lt;/span&gt;&lt;span data-preserver-spaces="true"&gt;located&lt;/span&gt;&lt;span data-preserver-spaces="true"&gt; in a highly regarded residential location in&lt;/span&gt;&lt;span data-preserver-spaces="true"&gt; the &lt;/span&gt;&lt;span data-preserver-spaces="true"&gt;popular&lt;/span&gt;&lt;span data-preserver-spaces="true"&gt; village of Bridge &lt;/span&gt;&lt;span data-preserver-spaces="true"&gt;with&lt;/span&gt;&lt;span data-preserver-spaces="true"&gt; easy access to the surrounding countryside. Bridge offers a comprehensive range of local amenities &lt;/span&gt;&lt;span data-preserver-spaces="true"&gt;including&lt;/span&gt;&lt;span data-preserver-spaces="true"&gt; a mini supermarket, pharmacy, dentist, hairdressers, and Tea Rooms. &lt;/span&gt;&lt;span data-preserver-spaces="true"&gt;There are three public houses in the village&lt;/span&gt;&lt;span data-preserver-spaces="true"&gt;, a modern health centre, and a &lt;/span&gt;&lt;span data-preserver-spaces="true"&gt;popular&lt;/span&gt;&lt;span data-preserver-spaces="true"&gt;&amp;nbsp;primary school.&lt;/span&gt;&lt;span data-preserver-spaces="true"&gt;&amp;nbsp;The highly regarded Pig Hotel at Bridge Place, is a handsome 17th century manor house providing&amp;nbsp;&lt;/span&gt;&lt;span data-preserver-spaces="true"&gt;a wonderful&lt;/span&gt;&lt;span data-preserver-spaces="true"&gt;&amp;nbsp;boutique style hotel and restaurant in a delightful setting. The surrounding countryside&amp;nbsp;&lt;/span&gt;&lt;span data-preserver-spaces="true"&gt;provides&lt;/span&gt;&lt;span data-preserver-spaces="true"&gt;&amp;nbsp;good walking, riding, and cycling. The Cathedral City of Canterbury is easily accessible&amp;nbsp;&lt;/span&gt;&lt;span data-preserver-spaces="true"&gt;providing&lt;/span&gt;&lt;span data-preserver-spaces="true"&gt;&amp;nbsp;a comprehensive range of shopping, leisure, and educational facilities, as well as a regular High-Speed rail service from Canterbury West station&amp;nbsp;&lt;/span&gt;&lt;span data-preserver-spaces="true"&gt;to London St. Pancras with a journey time of approximately&lt;/span&gt;&lt;span data-preserver-spaces="true"&gt;&amp;nbsp;55 minutes.&lt;br /&gt;
-&lt;br /&gt;
-Council tax band: F&lt;br /&gt;
-&lt;br /&gt;
-Tenure: Freehold&lt;br /&gt;
-&lt;br /&gt;
-EPC Rating: 65D&lt;br /&gt;
-&lt;br /&gt;
-What3Words:///chatters.chase.mush&lt;br /&gt;
-&lt;/span&gt;&lt;/p&gt;</advert2>
-          <advert3>&lt;p data-start="455" data-end="873" style="text-align: justify;"&gt;Coppins is a wonderfully versatile detached bungalow, quietly positioned on Beech Hill, a peaceful and highly desirable road within the popular village of Bridge. The property offers versatile, well-balanced accommodation, perfectly suited to family living, multi-generational requirements, or those seeking a home with scope for flexible use and offers an excellent opportunity for some general updating and modernisation.&lt;br /&gt;
-&lt;br /&gt;
-The accommodation includes a large open-plan sitting and dining room with a feature brick fireplace, a fitted kitchen, utility room, three comfortable bedrooms and two bath/shower rooms.&lt;/p&gt;
-&lt;p data-start="1057" data-end="1293" style="text-align: justify;"&gt;Adjoining the main house is a superb self-contained annexe, ideal for independent living, visiting family or guests, comprising a sitting room, kitchen, bedroom and bathroom, with its own entrance as well as access to the main home.&lt;/p&gt;
-&lt;p data-start="1295" data-end="1591" style="text-align: justify;"&gt;Outside, the property is approached by a private driveway providing ample parking and access to a double garage and summerhouse. The gardens are a particular feature, with wide lawns bordered by mature hedging, established trees and planting that provide a wonderful sense of privacy and space as well as mature woodland to the rear beyond the garden.&lt;/p&gt;</advert3>
-          <advert4>&lt;div style="text-align: justify;"&gt;&lt;span data-preserver-spaces="true" style="text-align: justify;"&gt;The property &lt;/span&gt;&lt;span data-preserver-spaces="true" style="text-align: justify;"&gt;is&amp;nbsp;&lt;/span&gt;&lt;span data-preserver-spaces="true" style="text-align: justify;"&gt;located&lt;/span&gt;&lt;span data-preserver-spaces="true" style="text-align: justify;"&gt;&amp;nbsp;in a highly regarded residential location in&lt;/span&gt;&lt;span data-preserver-spaces="true" style="text-align: justify;"&gt;&amp;nbsp;the&amp;nbsp;&lt;/span&gt;&lt;span data-preserver-spaces="true" style="text-align: justify;"&gt;popular&lt;/span&gt;&lt;span data-preserver-spaces="true" style="text-align: justify;"&gt;&amp;nbsp;village of Bridge&amp;nbsp;&lt;/span&gt;&lt;span data-preserver-spaces="true" style="text-align: justify;"&gt;with&lt;/span&gt;&lt;span data-preserver-spaces="true" style="text-align: justify;"&gt;&amp;nbsp;easy access to the surrounding countryside. Bridge offers a comprehensive range of local amenities&amp;nbsp;&lt;/span&gt;&lt;span data-preserver-spaces="true" style="text-align: justify;"&gt;including&lt;/span&gt;&lt;span data-preserver-spaces="true" style="text-align: justify;"&gt;&amp;nbsp;a mini supermarket, pharmacy,&amp;nbsp;dentist, hairdressers, and Tea Rooms.&amp;nbsp;&lt;/span&gt;&lt;span data-preserver-spaces="true" style="text-align: justify;"&gt;There are three public houses in the village&lt;/span&gt;&lt;span data-preserver-spaces="true" style="text-align: justify;"&gt;, a modern health centre, and a&amp;nbsp;&lt;/span&gt;&lt;span data-preserver-spaces="true" style="text-align: justify;"&gt;popular&lt;/span&gt;&lt;span data-preserver-spaces="true" style="text-align: justify;"&gt;&amp;nbsp;primary school.&lt;/span&gt;&lt;span data-preserver-spaces="true" style="text-align: justify;"&gt;&amp;nbsp;The highly regarded Pig Hotel at Bridge Place, is a handsome 17th century manor house providing&amp;nbsp;&lt;/span&gt;&lt;span data-preserver-spaces="true" style="text-align: justify;"&gt;a wonderful&lt;/span&gt;&lt;span data-preserver-spaces="true" style="text-align: justify;"&gt;&amp;nbsp;boutique style hotel and restaurant in a delightful setting. The surrounding countryside&amp;nbsp;&lt;/span&gt;&lt;span data-preserver-spaces="true" style="text-align: justify;"&gt;provides&lt;/span&gt;&lt;span data-preserver-spaces="true" style="text-align: justify;"&gt;&amp;nbsp;good walking, riding, and cycling. The Cathedral City of Canterbury is easily accessible&amp;nbsp;&lt;/span&gt;&lt;span data-preserver-spaces="true" style="text-align: justify;"&gt;providing&lt;/span&gt;&lt;span data-preserver-spaces="true" style="text-align: justify;"&gt;&amp;nbsp;a comprehensive range of shopping, leisure, and educational facilities, as well as a regular High-Speed rail service from Canterbury West station&amp;nbsp;&lt;/span&gt;&lt;span data-preserver-spaces="true" style="text-align: justify;"&gt;to London St. Pancras with a journey time of approximately&lt;/span&gt;&lt;span data-preserver-spaces="true" style="text-align: justify;"&gt;&amp;nbsp;55 minutes.&lt;/span&gt; &lt;/div&gt;</advert4>
-          <advert5>All mains services are understood to be connected to the property. </advert5>
-          <advert6 />
-          <house_number>Coppins</house_number>
-          <street>Beech Hill</street>
-          <district>Bridge</district>
-          <town>Canterbury</town>
-          <county>Kent</county>
-          <postcode>CT4 5AU</postcode>
-          <country>UK</country>
-          <area>Canterbury Villages South &amp; West</area>
-          <bullet1>4 Bedrooms, 3 Bath/shower rooms  </bullet1>
-          <bullet2>2 Reception rooms </bullet2>
-          <bullet3>Self-contained annexe </bullet3>
-          <bullet4>Opportunity for some general updating &amp; modernisation</bullet4>
-          <bullet5>Self-contained annexe</bullet5>
-          <bullet6>Drive &amp; double garage</bullet6>
-          <bullet7>Delightful rear garden with summerhouse &amp; mature woodlands</bullet7>
-          <bullet8>EPC Rating: 65D</bullet8>
-          <bullet9 />
-          <bullet10 />
-          <bullet11 />
-          <bullet12 />
-          <bullet13 />
-          <bullet14 />
-          <bullet15 />
-          <bullet16 />
-          <bullet17 />
-          <bullet18 />
-          <bullet19 />
-          <bullet20 />
-          <brochure>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{517FB3BC-DD6E-4E58-AEDC-7E7BEE510908}/external.pdf</brochure>
-          <agency_region>KENT</agency_region>
-          <agency_district>CANTERBURY</agency_district>
-          <agency_location>Canterbury Villages South &amp; West</agency_location>
-          <web_link>https://www.properties.charlesbainbridge.com/index.php?option=com_eapow&amp;format=html&amp;task=property.getProp&amp;?pid=517FB3BC-DD6E-4E58-AEDC-7E7BEE510908&amp;aid=C46B2F24-B9CD-417A-9879-F8C0E2A6C226</web_link>
-          <latitude>51.2428779602051</latitude>
-          <longitude>1.13044834136963</longitude>
-          <qrcode>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{517FB3BC-DD6E-4E58-AEDC-7E7BEE510908}/qr.png</qrcode>
-          <epc />
-          <hips>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{517FB3BC-DD6E-4E58-AEDC-7E7BEE510908}/HIPS/6574.png</hips>
-          <filename3 />
-          <filename4 />
-          <filename5 />
-          <filename6 />
-          <virtual_tour_url />
-          <property_type>Bungalow</property_type>
-          <commercial_type />
-          <property_style>Detached</property_style>
-          <property_reference>12075548</property_reference>
-          <newHome>NO</newHome>
-          <noChain>NO</noChain>
-          <furnished>Unknown</furnished>
-          <portalFee />
-          <currency />
-          <featuredProperty>NO</featuredProperty>
-          <text1 name="" value="Copy provided by seller. IBP put copy on events - Property docs. AD" />
-          <text2 name="" value="Copy provided by seller. IBP put copy on events - Property docs. AD" />
-          <date1 name="Title Register" value="17/10/2025 00:00:00" />
-          <date2 name="Title Plan" value="17/10/2025 00:00:00" />
-          <number1 name="" value="0" />
-          <number2 name="" value="0" />
-          <number3 name="" value="0" />
-          <number4 name="" value="0" />
-          <number5 name="" value="0" />
-          <number6 name="" value="0" />
-          <number7 name="" value="0" />
-          <number8 name="" value="0" />
-          <number9 name="" value="0" />
-          <number10 name="" value="0" />
-          <rooms />
-          <pictures>
-            <picture name="Photo 6" lastchanged="2025-10-20T08:19:12.8190194Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{517fb3bc-dd6e-4e58-aedc-7e7bee510908}/main/DSC_3626.jpg</filename>
-            </picture>
-            <picture name="Photo 14" lastchanged="2025-10-20T08:19:29.7706023Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{517fb3bc-dd6e-4e58-aedc-7e7bee510908}/main/DSC_3597.jpg</filename>
-            </picture>
-            <picture name="Photo 15" lastchanged="2025-10-20T08:19:31.2592079Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{517fb3bc-dd6e-4e58-aedc-7e7bee510908}/main/DSC_3602.jpg</filename>
-            </picture>
-            <picture name="Photo 26" lastchanged="2025-10-20T08:19:59.1158944Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{517fb3bc-dd6e-4e58-aedc-7e7bee510908}/main/DSC_3468.jpg</filename>
-            </picture>
-            <picture name="Photo 21" lastchanged="2025-10-24T20:40:47.8482754Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{517fb3bc-dd6e-4e58-aedc-7e7bee510908}/main/kitchen_converted.jpg</filename>
-            </picture>
-            <picture name="Photo 23" lastchanged="2025-10-20T08:19:50.3114814Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{517fb3bc-dd6e-4e58-aedc-7e7bee510908}/main/DSC_3436.jpg</filename>
-            </picture>
-            <picture name="Photo 20" lastchanged="2025-10-20T08:19:41.8891947Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{517fb3bc-dd6e-4e58-aedc-7e7bee510908}/main/DSC_3397.jpg</filename>
-            </picture>
-            <picture name="Photo 22" lastchanged="2025-10-20T08:19:46.3370009Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{517fb3bc-dd6e-4e58-aedc-7e7bee510908}/main/DSC_3417.jpg</filename>
-            </picture>
-            <picture name="Photo 5" lastchanged="2025-10-20T08:19:09.1237728Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{517fb3bc-dd6e-4e58-aedc-7e7bee510908}/main/DSC_3623.jpg</filename>
-            </picture>
-            <picture name="Photo 19" lastchanged="2025-10-20T08:19:39.0883426Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{517fb3bc-dd6e-4e58-aedc-7e7bee510908}/main/DSC_3376.jpg</filename>
-            </picture>
-            <picture name="Photo 31" lastchanged="2025-10-20T08:20:14.2109557Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{517fb3bc-dd6e-4e58-aedc-7e7bee510908}/main/DSC_3332.jpg</filename>
-            </picture>
-            <picture name="Photo 20" lastchanged="2025-10-24T20:40:47.5044878Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{517fb3bc-dd6e-4e58-aedc-7e7bee510908}/main/decluttered_bedroom.jpg</filename>
-            </picture>
-            <picture name="Photo 17" lastchanged="2025-10-20T08:19:35.0127651Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{517fb3bc-dd6e-4e58-aedc-7e7bee510908}/main/DSC_3350.jpg</filename>
-            </picture>
-            <picture name="Photo 16" lastchanged="2025-10-20T08:19:32.6987967Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{517fb3bc-dd6e-4e58-aedc-7e7bee510908}/main/DSC_3615.jpg</filename>
-            </picture>
-            <picture name="Photo 30" lastchanged="2025-10-20T08:20:11.646261Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{517fb3bc-dd6e-4e58-aedc-7e7bee510908}/main/DJI_0199.jpg</filename>
-            </picture>
-            <picture name="Photo 28" lastchanged="2025-10-20T08:20:06.2071247Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{517fb3bc-dd6e-4e58-aedc-7e7bee510908}/main/DJI_0190.jpg</filename>
-            </picture>
-            <picture name="Photo 30" lastchanged="2025-10-20T10:43:17.4584032Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{517fb3bc-dd6e-4e58-aedc-7e7bee510908}/main/Coppins-Floorplan.jpg</filename>
-            </picture>
-          </pictures>
-          <floorplans>
-            <floorplan name="">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{517fb3bc-dd6e-4e58-aedc-7e7bee510908}/Floorplan_Floorplan1.jpg</filename>
-            </floorplan>
-          </floorplans>
         </property>
       </properties>
     </branch>
