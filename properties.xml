@@ -362,249 +362,6 @@ The property is approached via a well-planted front garden with the added benefi
             </floorplan>
           </floorplans>
         </property>
-        <property reference="CB002947" hash="DAB577C4796C8E4E7D6233FD4AEBC5E9">
-          <availableFrom />
-          <instructedDate>23/05/2025 14:21:13</instructedDate>
-          <department>Residential Sales</department>
-          <propertyofweek>NO</propertyofweek>
-          <price_text>£510,000</price_text>
-          <numeric_price>510000.0000</numeric_price>
-          <bedrooms>4</bedrooms>
-          <receptions>2</receptions>
-          <bathrooms>2</bathrooms>
-          <priority>Sold STC</priority>
-          <tenure>Freehold</tenure>
-          <advert_heading>Rough Common Road, Canterbury</advert_heading>
-          <main_advert>An attractive semi-detached family house having undergone internal reconfiguration and refitting in recent years providing comprehensive accommodation over three floors.
-&lt;br /&gt;
-&lt;br /&gt;
-4 Bedrooms&lt;br /&gt;
-2 Bath/shower rooms
-&lt;br /&gt;
-Sitting room with pretty bay window
-&lt;br /&gt;
-Kitchen/breakfast room
-&lt;br /&gt;
-Large conservatory&lt;br /&gt;
-Rear garden with substantial shed/workshop
-&lt;br /&gt;
-Driveway providing parking&lt;br /&gt;
-&lt;span style="text-align: justify;"&gt;EPC Rating: 63D&lt;/span&gt;</main_advert>
-          <advert2>&lt;p style="text-align: justify;"&gt;An attractive semi-detached family house having undergone internal reconfiguration and refitting in recent years providing comprehensive accommodation over three floors. The property is well presented throughout with a sitting room to the front with pretty bay window. There is a well fitted kitchen/breakfast room opening into a large conservatory to the rear for dining and family space which opens onto and overlooks the garden. On the first floor are two double bedrooms, the family bathroom and a spacious landing with storage cupboard. There is a substantial loft conversion providing a further two bedrooms and shower room.
-&lt;br /&gt;
-&lt;br /&gt;
-Externally there is a shingle driveway to the front providing parking with side pedestrian gate to access the rear of the property. The garden measures approx. 45ft 5 x 25ft 5 (13.80m x 7.70m) and includes a paved patio and artificial lawn with mature shrubs in borders. To the rear is a substantial shed/workshop with a decked area for further
-seating. The garden is fully enclosed and has an outdoor tap and electric socket.
-&lt;br /&gt;
-&lt;br /&gt;
-The property is located in a highly regarded residential area in Rough Common and ideally situated for the nearby independent Schools of St. Edmunds and Kent College. It is also a short walk from the highly rated Blean Primary School. Rough Common benefits from a local general store and nearby Blean Woods provide extensive walking.
-The Crab and Winkle Way offers delightful walking and cycling through to Whitstable. Canterbury City centre is easily accessible and offers a comprehensive range of shops, restaurants and leisure facilities, also Canterbury West Station provides High-Speed rail services to London St. Pancras with a journey time of approx. 55 mins. &lt;br /&gt;
-&lt;br /&gt;
-Council tax band: D&lt;br /&gt;
-&lt;br /&gt;
-Tenure: Freehold&lt;br /&gt;
-&lt;br /&gt;
-EPC Rating: 63D&lt;br /&gt;
-&lt;br /&gt;
-What3Words:///pleasing.purifier.community&lt;/p&gt;</advert2>
-          <advert3>&lt;p style="text-align: justify;"&gt;&lt;span style="text-align: justify;"&gt;&lt;span style="text-align: justify;"&gt;An attractive semi-detached family house having undergone internal reconfiguration and refitting in recent years providing comprehensive accommodation over three floors. The property is well presented throughout with a sitting room to the front with pretty bay window. There is a well fitted kitchen/breakfast room opening into a large conservatory to the rear for dining and family space which opens onto and overlooks the garden. On the first floor are two double bedrooms, the family bathroom and a spacious landing with storage cupboard. There is a substantial loft conversion providing a further two bedrooms and shower room.&lt;/span&gt;&lt;br style="text-align: justify;" /&gt;
-&lt;br style="text-align: justify;" /&gt;
-&lt;span style="text-align: justify;"&gt;Externally there is a shingle driveway to the front providing parking with side pedestrian gate to access the rear of the property. The garden measures approx. 45ft 5 x 25ft 5 (13.80m x 7.70m) and includes a paved patio and artificial lawn with mature shrubs in borders. To the rear is a substantial shed/workshop with a decked area for further seating. The garden is fully enclosed and has an outdoor tap and electric socket.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</advert3>
-          <advert4>&lt;p style="text-align: justify;"&gt;&lt;span style="text-align: justify;"&gt;The property is located in a highly regarded residential area in Rough Common and ideally situated for the nearby independent Schools of St. Edmunds and Kent College. It is also a short walk from the highly rated Blean Primary School. Rough Common benefits from a local general store and nearby Blean Woods provide extensive walking. The Crab and Winkle Way offers delightful walking and cycling through to Whitstable. Canterbury City centre is easily accessible and offers a comprehensive range of shops, restaurants and leisure facilities, also Canterbury West Station provides High-Speed rail services to London St. Pancras with a journey time of approx. 55 mins&lt;/span&gt;&lt;/p&gt;</advert4>
-          <advert5>All mains services are understood to be connected to the property. </advert5>
-          <advert6 />
-          <house_number>21</house_number>
-          <street>Rough Common Road</street>
-          <district>Rough Common</district>
-          <town>Canterbury</town>
-          <county>Kent</county>
-          <postcode>CT2 9DL</postcode>
-          <country>UK</country>
-          <area>Canterbury Villages North</area>
-          <bullet1>4 Bedrooms</bullet1>
-          <bullet2>2 Bath/shower room</bullet2>
-          <bullet3>Sitting room with pretty bay window</bullet3>
-          <bullet4>Kitchen/breakfast room</bullet4>
-          <bullet5>Large conservatory</bullet5>
-          <bullet6>Rear garden with substantial shed/workshop </bullet6>
-          <bullet7>Driveway providing parking</bullet7>
-          <bullet8>EPC Rating: 63D</bullet8>
-          <bullet9 />
-          <bullet10 />
-          <bullet11 />
-          <bullet12 />
-          <bullet13 />
-          <bullet14 />
-          <bullet15 />
-          <bullet16 />
-          <bullet17 />
-          <bullet18 />
-          <bullet19 />
-          <bullet20 />
-          <brochure>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{8FD10FE3-E708-47FF-85C0-8561AD81492D}/external.pdf</brochure>
-          <agency_region>KENT</agency_region>
-          <agency_district>CANTERBURY</agency_district>
-          <agency_location>Canterbury Villages North</agency_location>
-          <web_link>https://www.properties.charlesbainbridge.com/index.php?option=com_eapow&amp;format=html&amp;task=property.getProp&amp;?pid=8FD10FE3-E708-47FF-85C0-8561AD81492D&amp;aid=C46B2F24-B9CD-417A-9879-F8C0E2A6C226</web_link>
-          <latitude>51.29459</latitude>
-          <longitude>1.052184</longitude>
-          <qrcode>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{8FD10FE3-E708-47FF-85C0-8561AD81492D}/qr.png</qrcode>
-          <epc />
-          <hips>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{8FD10FE3-E708-47FF-85C0-8561AD81492D}/HIPS/EPC - 21 Rough Common Road.pdf</hips>
-          <filename3 />
-          <filename4 />
-          <filename5 />
-          <filename6 />
-          <virtual_tour_url />
-          <property_type>House</property_type>
-          <commercial_type />
-          <property_style>Semi Detached</property_style>
-          <property_reference>11727430</property_reference>
-          <newHome>NO</newHome>
-          <noChain>NO</noChain>
-          <furnished>Unknown</furnished>
-          <portalFee />
-          <currency />
-          <featuredProperty>NO</featuredProperty>
-          <text1 name="" value="Copy on events - Property docs. AD" />
-          <text2 name="" value="Copy on events - Property docs. AD" />
-          <text3 name="" value="Copy on events - Property docs. AD" />
-          <date1 name="Title Register" value="04/08/2023 00:00:00" />
-          <date2 name="Title Plan" value="04/08/2023 00:00:00" />
-          <date3 name="Data Protection - Seller" value="11/08/2023 00:00:00" />
-          <number1 name="" value="0" />
-          <number2 name="" value="0" />
-          <number3 name="" value="0" />
-          <number4 name="" value="0" />
-          <number5 name="" value="0" />
-          <number6 name="" value="0" />
-          <number7 name="" value="0" />
-          <number8 name="" value="0" />
-          <number9 name="" value="0" />
-          <number10 name="" value="0" />
-          <rooms>
-            <room name="Hallway">
-              <measurement_text />
-              <description />
-            </room>
-            <room name="Sitting Room">
-              <measurement_text>17' 0'' max into bay x 12' 3'' max (5.18m max into bay x 3.73m max)</measurement_text>
-              <description />
-            </room>
-            <room name="Kitchen/Breakfast Room">
-              <measurement_text>18' 8'' x 9' 8'' (5.69m x 2.94m)</measurement_text>
-              <description />
-            </room>
-            <room name="Conservatory/Dining area">
-              <measurement_text>17' 9'' max x 13' 1'' max (5.41m max x 3.98m max)</measurement_text>
-              <description />
-            </room>
-            <room name="First Floor Landing">
-              <measurement_text />
-              <description />
-            </room>
-            <room name="Bedroom One">
-              <measurement_text>13' 7'' max into bay x 12' 4'' max (4.14m max into bay x 3.76m max)</measurement_text>
-              <description />
-            </room>
-            <room name="Bedroom Two">
-              <measurement_text>12' 8'' x 10' 3'' (3.86m x 3.12m)</measurement_text>
-              <description />
-            </room>
-            <room name="Bathroom">
-              <measurement_text />
-              <description />
-            </room>
-            <room name="Second Floor Landing">
-              <measurement_text />
-              <description />
-            </room>
-            <room name="Bedroom Three">
-              <measurement_text>10' 7'' x 8' 8'' (3.22m x 2.64m)</measurement_text>
-              <description />
-            </room>
-            <room name="Bedroom Four">
-              <measurement_text>13' 1'' max x 8' 8'' max (3.98m max x 2.64m max)</measurement_text>
-              <description />
-            </room>
-            <room name="Shower Room">
-              <measurement_text />
-              <description />
-            </room>
-            <room name="Exterior">
-              <measurement_text />
-              <description />
-            </room>
-            <room name="Rear Garden">
-              <measurement_text>45' 5'' x 25' 5'' (13.83m x 7.74m)</measurement_text>
-              <description />
-            </room>
-          </rooms>
-          <pictures>
-            <picture name="Photo 1" lastchanged="2023-08-04T10:40:22.5185672Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{8fd10fe3-e708-47ff-85c0-8561ad81492d}/main/IMG_4221-39058020.jpg</filename>
-            </picture>
-            <picture name="Photo 2" lastchanged="2023-08-04T10:40:23.4880588Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{8fd10fe3-e708-47ff-85c0-8561ad81492d}/main/IMG_4175.jpg</filename>
-            </picture>
-            <picture name="Photo 4" lastchanged="2023-08-04T10:40:24.598146Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{8fd10fe3-e708-47ff-85c0-8561ad81492d}/main/IMG_4177.jpg</filename>
-            </picture>
-            <picture name="Photo 5" lastchanged="2023-08-04T10:40:25.0988483Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{8fd10fe3-e708-47ff-85c0-8561ad81492d}/main/IMG_4178.jpg</filename>
-            </picture>
-            <picture name="Photo 6" lastchanged="2023-08-04T10:40:25.6149827Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{8fd10fe3-e708-47ff-85c0-8561ad81492d}/main/IMG_4183.jpg</filename>
-            </picture>
-            <picture name="Photo 7" lastchanged="2023-08-04T10:40:28.8401884Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{8fd10fe3-e708-47ff-85c0-8561ad81492d}/main/IMG_4206-39057959.jpg</filename>
-            </picture>
-            <picture name="Photo 8" lastchanged="2023-08-04T10:40:29.8807375Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{8fd10fe3-e708-47ff-85c0-8561ad81492d}/main/IMG_4208.jpg</filename>
-            </picture>
-            <picture name="Photo 9" lastchanged="2023-08-04T10:40:33.2852572Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{8fd10fe3-e708-47ff-85c0-8561ad81492d}/main/IMG_4209-39101753.jpg</filename>
-            </picture>
-            <picture name="Photo 10" lastchanged="2023-08-04T10:40:34.194898Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{8fd10fe3-e708-47ff-85c0-8561ad81492d}/main/IMG_4187.jpg</filename>
-            </picture>
-            <picture name="Photo 11" lastchanged="2023-08-04T10:40:34.7105865Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{8fd10fe3-e708-47ff-85c0-8561ad81492d}/main/IMG_4188.jpg</filename>
-            </picture>
-            <picture name="Photo 12" lastchanged="2023-08-04T10:40:35.2280912Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{8fd10fe3-e708-47ff-85c0-8561ad81492d}/main/IMG_4191.jpg</filename>
-            </picture>
-            <picture name="Photo 14" lastchanged="2023-08-04T10:40:36.3128806Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{8fd10fe3-e708-47ff-85c0-8561ad81492d}/main/IMG_4195.jpg</filename>
-            </picture>
-            <picture name="Photo 13" lastchanged="2023-08-04T10:40:35.7621125Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{8fd10fe3-e708-47ff-85c0-8561ad81492d}/main/IMG_4193.jpg</filename>
-            </picture>
-            <picture name="Photo 17" lastchanged="2023-08-04T10:41:13.8175449Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{8fd10fe3-e708-47ff-85c0-8561ad81492d}/main/IMG_4202.jpg</filename>
-            </picture>
-            <picture name="Photo 18" lastchanged="2023-08-04T10:41:14.2863632Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{8fd10fe3-e708-47ff-85c0-8561ad81492d}/main/IMG_4198.jpg</filename>
-            </picture>
-            <picture name="Photo 16" lastchanged="2023-08-04T10:41:13.3473956Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{8fd10fe3-e708-47ff-85c0-8561ad81492d}/main/IMG_4200.jpg</filename>
-            </picture>
-            <picture name="Photo 21" lastchanged="2023-08-04T10:41:17.3250812Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{8fd10fe3-e708-47ff-85c0-8561ad81492d}/main/IMG_4212-39058011.jpg</filename>
-            </picture>
-            <picture name="Photo 22" lastchanged="2023-08-04T10:41:19.8590204Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{8fd10fe3-e708-47ff-85c0-8561ad81492d}/main/IMG_4215-39058013.jpg</filename>
-            </picture>
-            <picture name="Photo 19" lastchanged="2025-10-13T13:45:12.291437Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{8fd10fe3-e708-47ff-85c0-8561ad81492d}/main/21-Rough-Common-Road-Floorplan.jpg</filename>
-            </picture>
-          </pictures>
-          <floorplans>
-            <floorplan name="">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{8fd10fe3-e708-47ff-85c0-8561ad81492d}/Floorplan_Floorplan1.jpg</filename>
-            </floorplan>
-          </floorplans>
-        </property>
         <property reference="CB003142" hash="009405282476835C0FF31FE328BF57B2">
           <availableFrom />
           <instructedDate>20/12/2024 00:00:00</instructedDate>
@@ -14993,6 +14750,249 @@ What3Words: ///rooms.exact.erase&lt;/span&gt;</advert2>
           <floorplans>
             <floorplan name="">
               <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{c59d2af6-758c-43c8-b4f7-2d8480375fe5}/Floorplan_1.jpg</filename>
+            </floorplan>
+          </floorplans>
+        </property>
+        <property reference="CB002947" hash="DAB577C4796C8E4E7D6233FD4AEBC5E9">
+          <availableFrom />
+          <instructedDate>23/05/2025 14:21:13</instructedDate>
+          <department>Residential Sales</department>
+          <propertyofweek>NO</propertyofweek>
+          <price_text>£510,000</price_text>
+          <numeric_price>510000.0000</numeric_price>
+          <bedrooms>4</bedrooms>
+          <receptions>2</receptions>
+          <bathrooms>2</bathrooms>
+          <priority>Sold STC</priority>
+          <tenure>Freehold</tenure>
+          <advert_heading>Rough Common Road, Canterbury</advert_heading>
+          <main_advert>An attractive semi-detached family house having undergone internal reconfiguration and refitting in recent years providing comprehensive accommodation over three floors.
+&lt;br /&gt;
+&lt;br /&gt;
+4 Bedrooms&lt;br /&gt;
+2 Bath/shower rooms
+&lt;br /&gt;
+Sitting room with pretty bay window
+&lt;br /&gt;
+Kitchen/breakfast room
+&lt;br /&gt;
+Large conservatory&lt;br /&gt;
+Rear garden with substantial shed/workshop
+&lt;br /&gt;
+Driveway providing parking&lt;br /&gt;
+&lt;span style="text-align: justify;"&gt;EPC Rating: 63D&lt;/span&gt;</main_advert>
+          <advert2>&lt;p style="text-align: justify;"&gt;An attractive semi-detached family house having undergone internal reconfiguration and refitting in recent years providing comprehensive accommodation over three floors. The property is well presented throughout with a sitting room to the front with pretty bay window. There is a well fitted kitchen/breakfast room opening into a large conservatory to the rear for dining and family space which opens onto and overlooks the garden. On the first floor are two double bedrooms, the family bathroom and a spacious landing with storage cupboard. There is a substantial loft conversion providing a further two bedrooms and shower room.
+&lt;br /&gt;
+&lt;br /&gt;
+Externally there is a shingle driveway to the front providing parking with side pedestrian gate to access the rear of the property. The garden measures approx. 45ft 5 x 25ft 5 (13.80m x 7.70m) and includes a paved patio and artificial lawn with mature shrubs in borders. To the rear is a substantial shed/workshop with a decked area for further
+seating. The garden is fully enclosed and has an outdoor tap and electric socket.
+&lt;br /&gt;
+&lt;br /&gt;
+The property is located in a highly regarded residential area in Rough Common and ideally situated for the nearby independent Schools of St. Edmunds and Kent College. It is also a short walk from the highly rated Blean Primary School. Rough Common benefits from a local general store and nearby Blean Woods provide extensive walking.
+The Crab and Winkle Way offers delightful walking and cycling through to Whitstable. Canterbury City centre is easily accessible and offers a comprehensive range of shops, restaurants and leisure facilities, also Canterbury West Station provides High-Speed rail services to London St. Pancras with a journey time of approx. 55 mins. &lt;br /&gt;
+&lt;br /&gt;
+Council tax band: D&lt;br /&gt;
+&lt;br /&gt;
+Tenure: Freehold&lt;br /&gt;
+&lt;br /&gt;
+EPC Rating: 63D&lt;br /&gt;
+&lt;br /&gt;
+What3Words:///pleasing.purifier.community&lt;/p&gt;</advert2>
+          <advert3>&lt;p style="text-align: justify;"&gt;&lt;span style="text-align: justify;"&gt;&lt;span style="text-align: justify;"&gt;An attractive semi-detached family house having undergone internal reconfiguration and refitting in recent years providing comprehensive accommodation over three floors. The property is well presented throughout with a sitting room to the front with pretty bay window. There is a well fitted kitchen/breakfast room opening into a large conservatory to the rear for dining and family space which opens onto and overlooks the garden. On the first floor are two double bedrooms, the family bathroom and a spacious landing with storage cupboard. There is a substantial loft conversion providing a further two bedrooms and shower room.&lt;/span&gt;&lt;br style="text-align: justify;" /&gt;
+&lt;br style="text-align: justify;" /&gt;
+&lt;span style="text-align: justify;"&gt;Externally there is a shingle driveway to the front providing parking with side pedestrian gate to access the rear of the property. The garden measures approx. 45ft 5 x 25ft 5 (13.80m x 7.70m) and includes a paved patio and artificial lawn with mature shrubs in borders. To the rear is a substantial shed/workshop with a decked area for further seating. The garden is fully enclosed and has an outdoor tap and electric socket.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</advert3>
+          <advert4>&lt;p style="text-align: justify;"&gt;&lt;span style="text-align: justify;"&gt;The property is located in a highly regarded residential area in Rough Common and ideally situated for the nearby independent Schools of St. Edmunds and Kent College. It is also a short walk from the highly rated Blean Primary School. Rough Common benefits from a local general store and nearby Blean Woods provide extensive walking. The Crab and Winkle Way offers delightful walking and cycling through to Whitstable. Canterbury City centre is easily accessible and offers a comprehensive range of shops, restaurants and leisure facilities, also Canterbury West Station provides High-Speed rail services to London St. Pancras with a journey time of approx. 55 mins&lt;/span&gt;&lt;/p&gt;</advert4>
+          <advert5>All mains services are understood to be connected to the property. </advert5>
+          <advert6 />
+          <house_number>21</house_number>
+          <street>Rough Common Road</street>
+          <district>Rough Common</district>
+          <town>Canterbury</town>
+          <county>Kent</county>
+          <postcode>CT2 9DL</postcode>
+          <country>UK</country>
+          <area>Canterbury Villages North</area>
+          <bullet1>4 Bedrooms</bullet1>
+          <bullet2>2 Bath/shower room</bullet2>
+          <bullet3>Sitting room with pretty bay window</bullet3>
+          <bullet4>Kitchen/breakfast room</bullet4>
+          <bullet5>Large conservatory</bullet5>
+          <bullet6>Rear garden with substantial shed/workshop </bullet6>
+          <bullet7>Driveway providing parking</bullet7>
+          <bullet8>EPC Rating: 63D</bullet8>
+          <bullet9 />
+          <bullet10 />
+          <bullet11 />
+          <bullet12 />
+          <bullet13 />
+          <bullet14 />
+          <bullet15 />
+          <bullet16 />
+          <bullet17 />
+          <bullet18 />
+          <bullet19 />
+          <bullet20 />
+          <brochure>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{8FD10FE3-E708-47FF-85C0-8561AD81492D}/external.pdf</brochure>
+          <agency_region>KENT</agency_region>
+          <agency_district>CANTERBURY</agency_district>
+          <agency_location>Canterbury Villages North</agency_location>
+          <web_link>https://www.properties.charlesbainbridge.com/index.php?option=com_eapow&amp;format=html&amp;task=property.getProp&amp;?pid=8FD10FE3-E708-47FF-85C0-8561AD81492D&amp;aid=C46B2F24-B9CD-417A-9879-F8C0E2A6C226</web_link>
+          <latitude>51.29459</latitude>
+          <longitude>1.052184</longitude>
+          <qrcode>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{8FD10FE3-E708-47FF-85C0-8561AD81492D}/qr.png</qrcode>
+          <epc />
+          <hips>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{8FD10FE3-E708-47FF-85C0-8561AD81492D}/HIPS/EPC - 21 Rough Common Road.pdf</hips>
+          <filename3 />
+          <filename4 />
+          <filename5 />
+          <filename6 />
+          <virtual_tour_url />
+          <property_type>House</property_type>
+          <commercial_type />
+          <property_style>Semi Detached</property_style>
+          <property_reference>11727430</property_reference>
+          <newHome>NO</newHome>
+          <noChain>NO</noChain>
+          <furnished>Unknown</furnished>
+          <portalFee />
+          <currency />
+          <featuredProperty>NO</featuredProperty>
+          <text1 name="" value="Copy on events - Property docs. AD" />
+          <text2 name="" value="Copy on events - Property docs. AD" />
+          <text3 name="" value="Copy on events - Property docs. AD" />
+          <date1 name="Title Register" value="04/08/2023 00:00:00" />
+          <date2 name="Title Plan" value="04/08/2023 00:00:00" />
+          <date3 name="Data Protection - Seller" value="11/08/2023 00:00:00" />
+          <number1 name="" value="0" />
+          <number2 name="" value="0" />
+          <number3 name="" value="0" />
+          <number4 name="" value="0" />
+          <number5 name="" value="0" />
+          <number6 name="" value="0" />
+          <number7 name="" value="0" />
+          <number8 name="" value="0" />
+          <number9 name="" value="0" />
+          <number10 name="" value="0" />
+          <rooms>
+            <room name="Hallway">
+              <measurement_text />
+              <description />
+            </room>
+            <room name="Sitting Room">
+              <measurement_text>17' 0'' max into bay x 12' 3'' max (5.18m max into bay x 3.73m max)</measurement_text>
+              <description />
+            </room>
+            <room name="Kitchen/Breakfast Room">
+              <measurement_text>18' 8'' x 9' 8'' (5.69m x 2.94m)</measurement_text>
+              <description />
+            </room>
+            <room name="Conservatory/Dining area">
+              <measurement_text>17' 9'' max x 13' 1'' max (5.41m max x 3.98m max)</measurement_text>
+              <description />
+            </room>
+            <room name="First Floor Landing">
+              <measurement_text />
+              <description />
+            </room>
+            <room name="Bedroom One">
+              <measurement_text>13' 7'' max into bay x 12' 4'' max (4.14m max into bay x 3.76m max)</measurement_text>
+              <description />
+            </room>
+            <room name="Bedroom Two">
+              <measurement_text>12' 8'' x 10' 3'' (3.86m x 3.12m)</measurement_text>
+              <description />
+            </room>
+            <room name="Bathroom">
+              <measurement_text />
+              <description />
+            </room>
+            <room name="Second Floor Landing">
+              <measurement_text />
+              <description />
+            </room>
+            <room name="Bedroom Three">
+              <measurement_text>10' 7'' x 8' 8'' (3.22m x 2.64m)</measurement_text>
+              <description />
+            </room>
+            <room name="Bedroom Four">
+              <measurement_text>13' 1'' max x 8' 8'' max (3.98m max x 2.64m max)</measurement_text>
+              <description />
+            </room>
+            <room name="Shower Room">
+              <measurement_text />
+              <description />
+            </room>
+            <room name="Exterior">
+              <measurement_text />
+              <description />
+            </room>
+            <room name="Rear Garden">
+              <measurement_text>45' 5'' x 25' 5'' (13.83m x 7.74m)</measurement_text>
+              <description />
+            </room>
+          </rooms>
+          <pictures>
+            <picture name="Photo 1" lastchanged="2023-08-04T10:40:22.5185672Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{8fd10fe3-e708-47ff-85c0-8561ad81492d}/main/IMG_4221-39058020.jpg</filename>
+            </picture>
+            <picture name="Photo 2" lastchanged="2023-08-04T10:40:23.4880588Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{8fd10fe3-e708-47ff-85c0-8561ad81492d}/main/IMG_4175.jpg</filename>
+            </picture>
+            <picture name="Photo 4" lastchanged="2023-08-04T10:40:24.598146Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{8fd10fe3-e708-47ff-85c0-8561ad81492d}/main/IMG_4177.jpg</filename>
+            </picture>
+            <picture name="Photo 5" lastchanged="2023-08-04T10:40:25.0988483Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{8fd10fe3-e708-47ff-85c0-8561ad81492d}/main/IMG_4178.jpg</filename>
+            </picture>
+            <picture name="Photo 6" lastchanged="2023-08-04T10:40:25.6149827Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{8fd10fe3-e708-47ff-85c0-8561ad81492d}/main/IMG_4183.jpg</filename>
+            </picture>
+            <picture name="Photo 7" lastchanged="2023-08-04T10:40:28.8401884Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{8fd10fe3-e708-47ff-85c0-8561ad81492d}/main/IMG_4206-39057959.jpg</filename>
+            </picture>
+            <picture name="Photo 8" lastchanged="2023-08-04T10:40:29.8807375Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{8fd10fe3-e708-47ff-85c0-8561ad81492d}/main/IMG_4208.jpg</filename>
+            </picture>
+            <picture name="Photo 9" lastchanged="2023-08-04T10:40:33.2852572Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{8fd10fe3-e708-47ff-85c0-8561ad81492d}/main/IMG_4209-39101753.jpg</filename>
+            </picture>
+            <picture name="Photo 10" lastchanged="2023-08-04T10:40:34.194898Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{8fd10fe3-e708-47ff-85c0-8561ad81492d}/main/IMG_4187.jpg</filename>
+            </picture>
+            <picture name="Photo 11" lastchanged="2023-08-04T10:40:34.7105865Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{8fd10fe3-e708-47ff-85c0-8561ad81492d}/main/IMG_4188.jpg</filename>
+            </picture>
+            <picture name="Photo 12" lastchanged="2023-08-04T10:40:35.2280912Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{8fd10fe3-e708-47ff-85c0-8561ad81492d}/main/IMG_4191.jpg</filename>
+            </picture>
+            <picture name="Photo 14" lastchanged="2023-08-04T10:40:36.3128806Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{8fd10fe3-e708-47ff-85c0-8561ad81492d}/main/IMG_4195.jpg</filename>
+            </picture>
+            <picture name="Photo 13" lastchanged="2023-08-04T10:40:35.7621125Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{8fd10fe3-e708-47ff-85c0-8561ad81492d}/main/IMG_4193.jpg</filename>
+            </picture>
+            <picture name="Photo 17" lastchanged="2023-08-04T10:41:13.8175449Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{8fd10fe3-e708-47ff-85c0-8561ad81492d}/main/IMG_4202.jpg</filename>
+            </picture>
+            <picture name="Photo 18" lastchanged="2023-08-04T10:41:14.2863632Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{8fd10fe3-e708-47ff-85c0-8561ad81492d}/main/IMG_4198.jpg</filename>
+            </picture>
+            <picture name="Photo 16" lastchanged="2023-08-04T10:41:13.3473956Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{8fd10fe3-e708-47ff-85c0-8561ad81492d}/main/IMG_4200.jpg</filename>
+            </picture>
+            <picture name="Photo 21" lastchanged="2023-08-04T10:41:17.3250812Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{8fd10fe3-e708-47ff-85c0-8561ad81492d}/main/IMG_4212-39058011.jpg</filename>
+            </picture>
+            <picture name="Photo 22" lastchanged="2023-08-04T10:41:19.8590204Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{8fd10fe3-e708-47ff-85c0-8561ad81492d}/main/IMG_4215-39058013.jpg</filename>
+            </picture>
+            <picture name="Photo 19" lastchanged="2025-10-13T13:45:12.291437Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{8fd10fe3-e708-47ff-85c0-8561ad81492d}/main/21-Rough-Common-Road-Floorplan.jpg</filename>
+            </picture>
+          </pictures>
+          <floorplans>
+            <floorplan name="">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{8fd10fe3-e708-47ff-85c0-8561ad81492d}/Floorplan_Floorplan1.jpg</filename>
             </floorplan>
           </floorplans>
         </property>
