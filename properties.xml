@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<agency xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:noNamespaceSchemaLocation="http://www.expertagent.co.uk/xmlexport/ExpertAgentXMLSchema.xsd" name="CharlesBainbridge">
+﻿<?xml version="1.0" encoding="utf-8"?>
+<agency xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:noNamespaceSchemaLocation="http://www.expertagent.co.uk/xmlexport/ExpertAgentXMLSchema.xsd" name="CharlesBainbridge" branchName="Charles Bainbridge">
   <branches>
     <branch name="Charles Bainbridge">
       <properties>
@@ -7676,8 +7676,7 @@ What3Words:///torches.parkland.grinders&lt;/p&gt;</advert2>
             <room name="Outside">
               <measurement_text />
               <description>
-
-</description>
+              </description>
             </room>
             <room name="Front Garden">
               <measurement_text />
@@ -7937,12 +7936,12 @@ Externally to the front of the property there is off street parking for 3-4 cars
             <room name="Bedroom Three">
               <measurement_text>9' 0'' x 11' 0'' (2.74m x 3.35m)</measurement_text>
               <description>
- </description>
+              </description>
             </room>
             <room name="Bedroom Four">
               <measurement_text>7' 0'' x 7' 0'' (2.13m x 2.13m)</measurement_text>
               <description>
-</description>
+              </description>
             </room>
             <room name="Bathroom">
               <measurement_text>6' 0'' x 6' 0'' (1.83m x 1.83m)</measurement_text>
@@ -7987,8 +7986,7 @@ Externally to the front of the property there is off street parking for 3-4 cars
             <room name="Rear Garden">
               <measurement_text />
               <description>
-
-</description>
+              </description>
             </room>
           </rooms>
           <pictures>
@@ -14531,6 +14529,154 @@ Council Tax Band D. EPC Rating 67D Security deposit to be held is &amp;pound;285
           <floorplans>
             <floorplan name="">
               <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{718ce1d7-4ff3-4570-89c7-4e42d6ded66e}/Floorplan_Floorplan1.jpg</filename>
+            </floorplan>
+          </floorplans>
+        </property>
+        <property reference="CB003407" hash="F6196B21376122800978748B0160E233">
+          <availableFrom />
+          <instructedDate>09/12/2025 09:08:52</instructedDate>
+          <department>Residential Sales</department>
+          <propertyofweek>NO</propertyofweek>
+          <price_text>£675,000</price_text>
+          <numeric_price>675000.0000</numeric_price>
+          <bedrooms>4</bedrooms>
+          <receptions>2</receptions>
+          <bathrooms>2</bathrooms>
+          <priority>On Market</priority>
+          <tenure>Freehold</tenure>
+          <advert_heading>Windmill Close, Canterbury</advert_heading>
+          <main_advert>&lt;br&gt;A charming Grade II listed building, Windmill Close offers a beautifully balanced blend of period character and comfortable modern living. </main_advert>
+          <advert2>St. Martins, built in 1817, is a remarkable Grade II listed building, a blend of historic charm and modern living. The mill has recently undergone complete renovation to provide spacious accommodation across four floors &amp;ndash; this property is indeed a rare find.
+Tucked away down a quiet private road, the windmill stands in a generous plot offering panoramic views of Canterbury, including its magnificent Cathedral, less than a mile away.
+The ground floor of the mill has a generously proportioned lounge with charming exposed brickwork and original beams. In contrast, the adjoining kitchen is brand new and beyond this a delightful garden room with vaulted ceiling, a convenient W.C., log burning stove and access to the remarkable garden.
+On the first floor is the largest of the four spacious bedrooms, as well as a bathroom and separate shower room. The second floor houses another double bedroom and a good size single room, ideal for use as a study or home office. At the top of the mill on the third floor, a further double bedroom with panoramic views.
+The outdoor space reflects the spaciousness to be found inside the windmill itself. The grounds have been carefully cultivated for decades and are laid out in a series of lawns, each with its own well-stocked borders. A patio area for outdoor dining and a grape-covered pergola provide a shady retreat during the summer months. Whether you&amp;rsquo;re hosting summer barbecues or enjoying a quiet morning coffee, this garden provides a private and tranquil setting.
+The windmill boasts driveway parking for three cars and a detached garage.</advert2>
+          <advert3>St. Martins, built in 1817, is a remarkable Grade II listed building, a blend of historic charm and modern living. The mill has recently undergone complete renovation to provide spacious accommodation across four floors – this property is indeed a rare find.
+
+Tucked away down a quiet private road, the windmill stands in a generous plot offering panoramic views of Canterbury, including its magnificent Cathedral, less than a mile away.
+
+The ground floor of the mill has a generously proportioned lounge/dining room with charming exposed brickwork and original beams. In contrast, the adjoining kitchen is brand new and beyond this a delightful garden room with vaulted ceiling, plus a convenient W.C., log burning stove and access to the remarkable garden.
+
+On the first floor is the largest of the four spacious bedrooms, as well as a bathroom and separate shower room. The second floor houses another double bedroom and a good size single room, ideal for use as a study or home office. At the top of the mill on the third floor, a further double bedroom with panoramic views.</advert3>
+          <advert4>The outdoor space reflects the spaciousness to be found inside the windmill itself. The grounds have been carefully cultivated for decades and are laid out in a series of lawns, each with its own well-stocked borders. A patio area for outdoor dining and a grape-covered pergola provide a shady retreat during the summer months. Whether you’re hosting summer barbecues or enjoying a quiet morning coffee, this garden provides a private and tranquil setting.
+
+The windmill boasts driveway parking for three cars and a detached garage.</advert4>
+          <advert5 />
+          <advert6 />
+          <house_number>6</house_number>
+          <street>Windmill Close</street>
+          <district />
+          <town>Canterbury</town>
+          <county>Kent</county>
+          <postcode>CT1 1PT</postcode>
+          <country>UK</country>
+          <area>Canterbury Centre</area>
+          <bullet1>Historic Grade II Listed Windmill</bullet1>
+          <bullet2>Four Bedrooms</bullet2>
+          <bullet3>Flexible Living Accomodation</bullet3>
+          <bullet4>Parking for Several Cars</bullet4>
+          <bullet5>Two Bath/Shower Rooms</bullet5>
+          <bullet6>Large Garden</bullet6>
+          <bullet7>Prime Canterbury Location </bullet7>
+          <bullet8 />
+          <bullet9 />
+          <bullet10 />
+          <bullet11 />
+          <bullet12 />
+          <bullet13 />
+          <bullet14 />
+          <bullet15 />
+          <bullet16 />
+          <bullet17 />
+          <bullet18 />
+          <bullet19 />
+          <bullet20 />
+          <brochure />
+          <agency_region>KENT</agency_region>
+          <agency_district>CANTERBURY</agency_district>
+          <agency_location>Canterbury Centre</agency_location>
+          <web_link>https://www.properties.charlesbainbridge.com/index.php?option=com_eapow&amp;format=html&amp;task=property.getProp&amp;?pid=A63B7264-D89E-4CD0-BE91-25F277B1E0EC&amp;aid=C46B2F24-B9CD-417A-9879-F8C0E2A6C226</web_link>
+          <latitude>51.2780838012695</latitude>
+          <longitude>1.0969465970993</longitude>
+          <qrcode>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{A63B7264-D89E-4CD0-BE91-25F277B1E0EC}/qr.png</qrcode>
+          <epc />
+          <hips />
+          <filename3 />
+          <filename4 />
+          <filename5 />
+          <filename6 />
+          <virtual_tour_url />
+          <property_type>House</property_type>
+          <commercial_type />
+          <property_style>Semi Detached</property_style>
+          <property_reference>12314247</property_reference>
+          <newHome>NO</newHome>
+          <noChain>NO</noChain>
+          <furnished>Unknown</furnished>
+          <portalFee />
+          <currency />
+          <featuredProperty>NO</featuredProperty>
+          <date1 name="Title Register" value="05/12/2025 00:00:00" />
+          <date2 name="Title Plan" value="05/12/2025 00:00:00" />
+          <number1 name="" value="0" />
+          <number2 name="" value="0" />
+          <number3 name="" value="0" />
+          <number4 name="" value="0" />
+          <number5 name="" value="0" />
+          <number6 name="" value="0" />
+          <number7 name="" value="0" />
+          <number8 name="" value="0" />
+          <number9 name="" value="0" />
+          <number10 name="" value="0" />
+          <rooms />
+          <pictures>
+            <picture name="Photo 15" lastchanged="2025-11-27T16:28:17.4085545Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{a63b7264-d89e-4cd0-be91-25f277b1e0ec}/main/image15.jpg</filename>
+            </picture>
+            <picture name="Photo 15" lastchanged="2025-11-28T11:47:15.981441Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{a63b7264-d89e-4cd0-be91-25f277b1e0ec}/main/DSC_3686.jpg</filename>
+            </picture>
+            <picture name="Photo 15" lastchanged="2025-12-05T14:47:27.4669281Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{a63b7264-d89e-4cd0-be91-25f277b1e0ec}/main/DSC_3632-(1).jpg</filename>
+            </picture>
+            <picture name="Photo 15" lastchanged="2025-11-28T08:38:21.5159599Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{a63b7264-d89e-4cd0-be91-25f277b1e0ec}/main/DSC_3669-(1).jpg</filename>
+            </picture>
+            <picture name="Photo 16" lastchanged="2025-11-28T08:38:21.9222466Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{a63b7264-d89e-4cd0-be91-25f277b1e0ec}/main/DSC_3596.jpg</filename>
+            </picture>
+            <picture name="Photo 9" lastchanged="2025-11-22T10:55:24.5425171Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{a63b7264-d89e-4cd0-be91-25f277b1e0ec}/main/DSC_3620.jpg</filename>
+            </picture>
+            <picture name="Photo 6" lastchanged="2025-11-22T10:51:47.5166177Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{a63b7264-d89e-4cd0-be91-25f277b1e0ec}/main/DSC_3560.jpg</filename>
+            </picture>
+            <picture name="Photo 12" lastchanged="2025-11-24T09:11:03.252737Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{a63b7264-d89e-4cd0-be91-25f277b1e0ec}/main/DSC_3545.jpg</filename>
+            </picture>
+            <picture name="Photo 15" lastchanged="2025-11-24T15:46:22.648062Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{a63b7264-d89e-4cd0-be91-25f277b1e0ec}/main/ChatGPT-Image-Nov-24,-2025,-03_45_24-PM.jpg</filename>
+            </picture>
+            <picture name="Photo 11" lastchanged="2025-11-22T11:00:14.9227017Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{a63b7264-d89e-4cd0-be91-25f277b1e0ec}/main/clean_bathroom.jpg</filename>
+            </picture>
+            <picture name="Photo 16" lastchanged="2025-11-27T16:28:17.6742321Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{a63b7264-d89e-4cd0-be91-25f277b1e0ec}/main/enhanced_property_image_2.jpg</filename>
+            </picture>
+            <picture name="Photo 11" lastchanged="2025-11-22T11:09:58.5846753Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{a63b7264-d89e-4cd0-be91-25f277b1e0ec}/main/output.jpg</filename>
+            </picture>
+            <picture name="Photo 5" lastchanged="2025-11-22T10:51:26.8477257Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{a63b7264-d89e-4cd0-be91-25f277b1e0ec}/main/DJI_0040.jpg</filename>
+            </picture>
+            <picture name="Photo 11" lastchanged="2025-11-24T09:09:38.5920365Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{a63b7264-d89e-4cd0-be91-25f277b1e0ec}/main/6WindmillCloseCT11PT-High-(4).jpg</filename>
+            </picture>
+          </pictures>
+          <floorplans>
+            <floorplan name="">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{a63b7264-d89e-4cd0-be91-25f277b1e0ec}/Floorplan_Floorplan1.jpg</filename>
             </floorplan>
           </floorplans>
         </property>
