@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<agency xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:noNamespaceSchemaLocation="http://www.expertagent.co.uk/xmlexport/ExpertAgentXMLSchema.xsd" name="CharlesBainbridge">
+﻿<?xml version="1.0" encoding="utf-8"?>
+<agency xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:noNamespaceSchemaLocation="http://www.expertagent.co.uk/xmlexport/ExpertAgentXMLSchema.xsd" name="CharlesBainbridge" branchName="Charles Bainbridge">
   <branches>
     <branch name="Charles Bainbridge">
       <properties>
@@ -7824,8 +7824,7 @@ What3Words:///torches.parkland.grinders&lt;/p&gt;</advert2>
             <room name="Outside">
               <measurement_text />
               <description>
-
-</description>
+              </description>
             </room>
             <room name="Front Garden">
               <measurement_text />
@@ -8085,12 +8084,12 @@ Externally to the front of the property there is off street parking for 3-4 cars
             <room name="Bedroom Three">
               <measurement_text>9' 0'' x 11' 0'' (2.74m x 3.35m)</measurement_text>
               <description>
- </description>
+              </description>
             </room>
             <room name="Bedroom Four">
               <measurement_text>7' 0'' x 7' 0'' (2.13m x 2.13m)</measurement_text>
               <description>
-</description>
+              </description>
             </room>
             <room name="Bathroom">
               <measurement_text>6' 0'' x 6' 0'' (1.83m x 1.83m)</measurement_text>
@@ -8135,8 +8134,7 @@ Externally to the front of the property there is off street parking for 3-4 cars
             <room name="Rear Garden">
               <measurement_text />
               <description>
-
-</description>
+              </description>
             </room>
           </rooms>
           <pictures>
@@ -10165,151 +10163,6 @@ What3Words:///foster.helps.copies&lt;/span&gt;&lt;/p&gt;
           <floorplans>
             <floorplan name="">
               <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{8744d1d7-f54a-4109-90e5-aee51496b0b2}/Floorplan_Floorplan1.jpg</filename>
-            </floorplan>
-          </floorplans>
-        </property>
-        <property reference="CB003875" hash="25859D261DC4CB4C7DB958207253CC7B">
-          <availableFrom />
-          <instructedDate>08/12/2025 15:26:53</instructedDate>
-          <department>Residential Sales</department>
-          <propertyofweek>NO</propertyofweek>
-          <price_text>£350,000</price_text>
-          <numeric_price>350000.0000</numeric_price>
-          <bedrooms>3</bedrooms>
-          <receptions>2</receptions>
-          <bathrooms>3</bathrooms>
-          <priority>On Market</priority>
-          <tenure>Freehold</tenure>
-          <advert_heading>Smith Way, Canterbury</advert_heading>
-          <main_advert>&lt;br&gt;Located within a popular modern development on the outskirts of Canterbury, Smith Way is an immaculate three-bedroom semi-detached home arranged over three floors and finished to a superb standard throughout.
-
-Immaculate townhouse 
-3 Bedrooms, including an impressive master suite
-Beautiful presented living room
-Stylish kitchen/dining room
-Landscaped rear garden
-Garage 
-Parking for 2 cars &amp; EV charger. 
-Desirable location
-</main_advert>
-          <advert2>Located within a popular modern development on the outskirts of Canterbury, Smith Way is an immaculate three-bedroom semi-detached home arranged over three floors and finished to a superb standard throughout.
-A bright and welcoming entrance hall leads into a beautifully presented living room, positioned at the front of the house and filled with natural light. To the rear, the stylish kitchen and dining room features sleek cabinetry, generous worktop space and integrated appliances, with French doors opening directly onto the garden allowing for indoor and outdoor living. A downstairs W/C also serves the ground floor.
-On the first floor are two well-proportioned bedrooms along with a modern family bathroom finished with quality tiling and fittings. The layout offers great flexibility, with one bedroom equally suited as a guest room, nursery or home office. The entire top floor is dedicated to the impressive master suite, a spacious and tranquil room with built-in storage and a contemporary en-suite shower room, offering an excellent sense of privacy.
-The rear garden has been thoughtfully landscaped to provide an attractive yet low-maintenance outdoor space, featuring raised beds, a gravelled seating area, and a pergola creating a sheltered spot for entertaining or relaxing. The garage sits to the side of the home and has electric, infront of the garage is parking for two cars and EV charger.
-Smith Way is well placed for access to Canterbury&amp;rsquo;s historic city centre, a range of highly regarded schools, local amenities and excellent transport links, including high-speed rail services to London. With its modern layout, generous accommodation and immaculate finish, Smith Way represents a fantastic opportunity for families, professionals or anyone seeking a move-in-ready home in a convenient and desirable location.
-EPC: 85B Council Tax: D Tenure: Freehold</advert2>
-          <advert3>Located within a popular modern development on the outskirts of Canterbury, Smith Way is an immaculate three-bedroom semi-detached home arranged over three floors and finished to a superb standard throughout.
-A bright and welcoming entrance hall leads into a beautifully presented living room, positioned at the front of the house and filled with natural light. To the rear, the stylish kitchen and dining room features sleek cabinetry, generous worktop space and integrated appliances, with French doors opening directly onto the garden allowing for indoor and outdoor living. A downstairs W/C also serves the ground floor.
-On the first floor are two well-proportioned bedrooms along with a modern family bathroom finished with quality tiling and fittings. The layout offers great flexibility, with one bedroom equally suited as a guest room, nursery or home office. The entire top floor is dedicated to the impressive master suite, a spacious and tranquil room with built-in storage and a contemporary en-suite shower room, offering an excellent sense of privacy.
-The rear garden has been thoughtfully landscaped to provide an attractive yet low-maintenance outdoor space, featuring raised beds, a gravelled seating area, and a pergola creating a sheltered spot for entertaining or relaxing. The garage sits to the side of the home, alongside parking for two cars and EV charger.</advert3>
-          <advert4>Smith Way is well placed for access to Canterbury&amp;rsquo;s historic city centre, a range of highly regarded schools, local amenities and excellent transport links, including high-speed rail services to London. With its modern layout, generous accommodation and immaculate finish,  Smith Way represents a fantastic opportunity for families, professionals or anyone seeking a move-in-ready home in a convenient and desirable location.</advert4>
-          <advert5>Mains drainage, electricity, water and gas are connected to the property. </advert5>
-          <advert6 />
-          <house_number>34</house_number>
-          <street>Smith Way</street>
-          <district />
-          <town>Canterbury</town>
-          <county>Kent</county>
-          <postcode>CT1 1WD</postcode>
-          <country>UK</country>
-          <area>Canterbury Centre</area>
-          <bullet1>Immaculate townhouse</bullet1>
-          <bullet2>3 Bedrooms, including an impressive master suite</bullet2>
-          <bullet3>Beautiful presented living room</bullet3>
-          <bullet4>Stylish kitchen/dining room</bullet4>
-          <bullet5>Landscaped rear garden</bullet5>
-          <bullet6>Garage</bullet6>
-          <bullet7>Parking for 2 cars &amp; EV charger</bullet7>
-          <bullet8>Desirable location</bullet8>
-          <bullet9 />
-          <bullet10 />
-          <bullet11 />
-          <bullet12 />
-          <bullet13 />
-          <bullet14 />
-          <bullet15 />
-          <bullet16 />
-          <bullet17 />
-          <bullet18 />
-          <bullet19 />
-          <bullet20 />
-          <brochure>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{2F4AADA3-6457-471F-ACF5-E112E8F45E03}/external.pdf</brochure>
-          <agency_region>KENT</agency_region>
-          <agency_district>CANTERBURY</agency_district>
-          <agency_location>Canterbury Centre</agency_location>
-          <web_link>https://www.properties.charlesbainbridge.com/index.php?option=com_eapow&amp;format=html&amp;task=property.getProp&amp;?pid=2F4AADA3-6457-471F-ACF5-E112E8F45E03&amp;aid=C46B2F24-B9CD-417A-9879-F8C0E2A6C226</web_link>
-          <latitude>0</latitude>
-          <longitude>0</longitude>
-          <qrcode>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{2F4AADA3-6457-471F-ACF5-E112E8F45E03}/qr.png</qrcode>
-          <epc />
-          <hips>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{2F4AADA3-6457-471F-ACF5-E112E8F45E03}/HIPS/EPC 34 Smith Way.pdf</hips>
-          <filename3 />
-          <filename4 />
-          <filename5 />
-          <filename6 />
-          <virtual_tour_url />
-          <property_type>House</property_type>
-          <commercial_type />
-          <property_style>Semi Detached</property_style>
-          <property_reference>12766611</property_reference>
-          <newHome>NO</newHome>
-          <noChain>NO</noChain>
-          <furnished>Unknown</furnished>
-          <portalFee />
-          <currency />
-          <featuredProperty>NO</featuredProperty>
-          <number1 name="" value="0" />
-          <number2 name="" value="0" />
-          <number3 name="" value="0" />
-          <number4 name="" value="0" />
-          <number5 name="" value="0" />
-          <number6 name="" value="0" />
-          <number7 name="" value="0" />
-          <number8 name="" value="0" />
-          <number9 name="" value="0" />
-          <number10 name="" value="0" />
-          <rooms />
-          <pictures>
-            <picture name="Photo 1" lastchanged="2025-12-08T10:42:47.3093811Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{2f4aada3-6457-471f-acf5-e112e8f45e03}/main/DSC03578.jpg</filename>
-            </picture>
-            <picture name="Photo 2" lastchanged="2025-12-08T10:43:38.5125516Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{2f4aada3-6457-471f-acf5-e112e8f45e03}/main/DSC03594-Edit.jpg</filename>
-            </picture>
-            <picture name="Photo 4" lastchanged="2025-12-08T10:44:28.0656808Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{2f4aada3-6457-471f-acf5-e112e8f45e03}/main/DSC03619-Edit.jpg</filename>
-            </picture>
-            <picture name="Photo 3" lastchanged="2025-12-08T10:44:25.9848626Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{2f4aada3-6457-471f-acf5-e112e8f45e03}/main/DSC03605-Edit.jpg</filename>
-            </picture>
-            <picture name="Photo 6" lastchanged="2025-12-08T10:46:14.6825262Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{2f4aada3-6457-471f-acf5-e112e8f45e03}/main/DSC03634-Edit.jpg</filename>
-            </picture>
-            <picture name="Photo 7" lastchanged="2025-12-08T10:46:16.69887Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{2f4aada3-6457-471f-acf5-e112e8f45e03}/main/DSC03639-Edit.jpg</filename>
-            </picture>
-            <picture name="Photo 10" lastchanged="2025-12-08T10:50:44.2191895Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{2f4aada3-6457-471f-acf5-e112e8f45e03}/main/DSC03668-Edit.jpg</filename>
-            </picture>
-            <picture name="Photo 8" lastchanged="2025-12-08T10:46:45.0555024Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{2f4aada3-6457-471f-acf5-e112e8f45e03}/main/DSC03648-Edit.jpg</filename>
-            </picture>
-            <picture name="Photo 9" lastchanged="2025-12-08T10:47:39.4704516Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{2f4aada3-6457-471f-acf5-e112e8f45e03}/main/DSC03664-Edit.jpg</filename>
-            </picture>
-            <picture name="Photo 5" lastchanged="2025-12-08T10:45:57.2628865Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{2f4aada3-6457-471f-acf5-e112e8f45e03}/main/DSC03623.jpg</filename>
-            </picture>
-            <picture name="Photo 11" lastchanged="2025-12-08T10:52:11.8886806Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{2f4aada3-6457-471f-acf5-e112e8f45e03}/main/DSC03587.jpg</filename>
-            </picture>
-            <picture name="Photo 12" lastchanged="2025-12-08T14:23:45.363169Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{2f4aada3-6457-471f-acf5-e112e8f45e03}/main/floorplan_converted.jpg</filename>
-            </picture>
-          </pictures>
-          <floorplans>
-            <floorplan name="">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{2f4aada3-6457-471f-acf5-e112e8f45e03}/Floorplan_1.jpg</filename>
             </floorplan>
           </floorplans>
         </property>
@@ -14297,6 +14150,192 @@ This is an outstanding turnkey investment for any buyer looking to expand their 
             </floorplan>
           </floorplans>
         </property>
+        <property reference="CB003978" hash="81EC374A5188E295F0AACE62F41D5FF7">
+          <availableFrom>06/07/2026 00:00:00</availableFrom>
+          <instructedDate>27/11/2025 14:11:44</instructedDate>
+          <department>Residential Lettings</department>
+          <propertyofweek>NO</propertyofweek>
+          <price_text>Monthly Rental Of £2,475</price_text>
+          <numeric_price>2475.0000</numeric_price>
+          <bedrooms>5</bedrooms>
+          <receptions>1</receptions>
+          <bathrooms>2</bathrooms>
+          <priority>Available to Let</priority>
+          <tenure>Freehold</tenure>
+          <advert_heading>St. Martins Terrace, Canterbury</advert_heading>
+          <main_advert>** AVAILABLE SUMMER  ** HUGE DOUBLE BEDROOMS ** CENTRAL LOCATION **  Perfect for CCU and UCA, City Centre this huge 5 double bedroom house, perfect for students on St Martins Terrace in Canterbury. The property comprises large living room, separate kitchen, 5 huge double bedrooms, a large bathroom and one cloakroom. Fully furnished and well presented.
+Situated very close to the city centre the property is in a great location for access to all the local transport links and all the entertainment including wonderful pubs, boutique shops and high street retail at Whitefriars, and some lovely restaurants.
+
+For more information and to book a viewing call the team today.
+
+Council Tax Band D. EPC Rating 67D Security deposit to be held is &amp;pound;2855.76
+</main_advert>
+          <advert2>** AVAILABLE SUMMER  ** HUGE DOUBLE BEDROOMS ** CENTRAL LOCATION **  Perfect for CCU and UCA, City Centre this huge 5 double bedroom house, perfect for students on St Martins Terrace in Canterbury. The property comprises large living room, separate kitchen, 5 huge double bedrooms, a large bathroom and one cloakroom. Fully furnished and well presented.
+Situated very close to the city centre the property is in a great location for access to all the local transport links and all the entertainment including wonderful pubs, boutique shops and high street retail at Whitefriars, and some lovely restaurants.
+
+For more information and to book a viewing call the team today.
+
+Council Tax Band D. EPC Rating 67D Security deposit to be held is &amp;pound;2855.76</advert2>
+          <advert3 />
+          <advert4 />
+          <advert5>All main services are understood to be connected to the property. </advert5>
+          <advert6 />
+          <house_number>8</house_number>
+          <street>St. Martins Terrace</street>
+          <district />
+          <town>Canterbury</town>
+          <county>Kent</county>
+          <postcode>CT1 1QB</postcode>
+          <country />
+          <area>Canterbury Centre</area>
+          <bullet1>Available Summer </bullet1>
+          <bullet2>5 HUGE DOUBLE Bedrooms</bullet2>
+          <bullet3>Close to Christ Church University and UCA </bullet3>
+          <bullet4>Rear courtyard</bullet4>
+          <bullet5>Parking</bullet5>
+          <bullet6>Walking distance to the City</bullet6>
+          <bullet7 />
+          <bullet8 />
+          <bullet9 />
+          <bullet10 />
+          <bullet11 />
+          <bullet12 />
+          <bullet13 />
+          <bullet14 />
+          <bullet15 />
+          <bullet16 />
+          <bullet17 />
+          <bullet18 />
+          <bullet19 />
+          <bullet20 />
+          <brochure>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{718CE1D7-4FF3-4570-89C7-4E42D6DED66E}/external.pdf</brochure>
+          <agency_region>KENT</agency_region>
+          <agency_district>CANTERBURY</agency_district>
+          <agency_location>Canterbury Centre</agency_location>
+          <web_link>https://www.properties.charlesbainbridge.com/index.php?option=com_eapow&amp;format=html&amp;task=property.getProp&amp;?pid=718CE1D7-4FF3-4570-89C7-4E42D6DED66E&amp;aid=C46B2F24-B9CD-417A-9879-F8C0E2A6C226</web_link>
+          <latitude>51.2787</latitude>
+          <longitude>1.092738</longitude>
+          <qrcode>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{718CE1D7-4FF3-4570-89C7-4E42D6DED66E}/qr.png</qrcode>
+          <epc />
+          <hips>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{718CE1D7-4FF3-4570-89C7-4E42D6DED66E}/HIPS/EPC - 11 St. Martins Terrace.pdf</hips>
+          <filename3 />
+          <filename4 />
+          <filename5 />
+          <filename6 />
+          <virtual_tour_url />
+          <property_type>House</property_type>
+          <commercial_type />
+          <property_style>Terraced</property_style>
+          <property_reference>12793569</property_reference>
+          <newHome>NO</newHome>
+          <noChain>NO</noChain>
+          <furnished>Furnished</furnished>
+          <portalFee />
+          <currency />
+          <featuredProperty>NO</featuredProperty>
+          <number1 name="" value="0" />
+          <number2 name="" value="0" />
+          <number3 name="" value="0" />
+          <number4 name="" value="0" />
+          <number5 name="" value="0" />
+          <number6 name="" value="0" />
+          <number7 name="" value="0" />
+          <number8 name="" value="0" />
+          <number9 name="" value="0" />
+          <number10 name="" value="0" />
+          <rooms>
+            <room name="Sitting Room">
+              <measurement_text>15' 4'' x 9' 10'' (4.67m x 2.99m)</measurement_text>
+              <description />
+            </room>
+            <room name="Reception Room/Bedroom Five">
+              <measurement_text>11' 11'' x 8' 10'' (3.63m x 2.69m)</measurement_text>
+              <description />
+            </room>
+            <room name="Kitchen">
+              <measurement_text>11' 3'' x 11' 0'' (3.43m x 3.35m)</measurement_text>
+              <description />
+            </room>
+            <room name="Landing">
+              <measurement_text />
+              <description />
+            </room>
+            <room name="Bedroom One">
+              <measurement_text>13' 3'' max. x 8' 6'' max. (4.04m max. x 2.59m max.)</measurement_text>
+              <description />
+            </room>
+            <room name="Bedroom Two">
+              <measurement_text>9' 11'' x 9' 9'' (3.02m x 2.97m)</measurement_text>
+              <description />
+            </room>
+            <room name="Bedroom Three">
+              <measurement_text>11' 10'' max. x 7' 9'' (3.60m x 2.36m)</measurement_text>
+              <description />
+            </room>
+            <room name="Bedroom Four">
+              <measurement_text>9' 11'' x 9' 8'' max. (3.02m x 2.94m max.)</measurement_text>
+              <description />
+            </room>
+            <room name="Shower Room">
+              <measurement_text />
+              <description />
+            </room>
+            <room name="WC">
+              <measurement_text />
+              <description />
+            </room>
+            <room name="Courtyard">
+              <measurement_text />
+              <description />
+            </room>
+          </rooms>
+          <pictures>
+            <picture name="Photo 2" lastchanged="2024-12-11T14:40:13.8290967Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{718CE1D7-4FF3-4570-89C7-4E42D6DED66E}/main/IMG_8646.jpg</filename>
+            </picture>
+            <picture name="Photo 5" lastchanged="2024-12-11T14:40:15.2533282Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{718CE1D7-4FF3-4570-89C7-4E42D6DED66E}/main/IMG_8655.jpg</filename>
+            </picture>
+            <picture name="Photo 1" lastchanged="2024-12-11T14:40:13.2821654Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{718CE1D7-4FF3-4570-89C7-4E42D6DED66E}/main/IMG_8642.jpg</filename>
+            </picture>
+            <picture name="Photo 14" lastchanged="2024-12-13T13:57:59.3666996Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{718CE1D7-4FF3-4570-89C7-4E42D6DED66E}/main/IMG_8823-11.jpg</filename>
+            </picture>
+            <picture name="Photo 8" lastchanged="2024-12-11T14:40:16.5889667Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{718CE1D7-4FF3-4570-89C7-4E42D6DED66E}/main/IMG_8662.jpg</filename>
+            </picture>
+            <picture name="Photo 9" lastchanged="2024-12-11T14:40:17.0268604Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{718CE1D7-4FF3-4570-89C7-4E42D6DED66E}/main/IMG_8664.jpg</filename>
+            </picture>
+            <picture name="Photo 11" lastchanged="2024-12-11T14:40:17.9019444Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{718CE1D7-4FF3-4570-89C7-4E42D6DED66E}/main/IMG_8668.jpg</filename>
+            </picture>
+            <picture name="Photo 6" lastchanged="2024-12-11T14:40:15.6765071Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{718CE1D7-4FF3-4570-89C7-4E42D6DED66E}/main/IMG_8658.jpg</filename>
+            </picture>
+            <picture name="Photo 12" lastchanged="2024-12-11T14:40:18.3082074Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{718CE1D7-4FF3-4570-89C7-4E42D6DED66E}/main/IMG_8672.jpg</filename>
+            </picture>
+            <picture name="Photo 7" lastchanged="2024-12-11T14:40:16.1299395Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{718CE1D7-4FF3-4570-89C7-4E42D6DED66E}/main/IMG_8660.jpg</filename>
+            </picture>
+            <picture name="Photo 13" lastchanged="2024-12-11T14:40:18.7613739Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{718CE1D7-4FF3-4570-89C7-4E42D6DED66E}/main/IMG_8675.jpg</filename>
+            </picture>
+            <picture name="Photo 4" lastchanged="2024-12-11T14:40:14.7843478Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{718CE1D7-4FF3-4570-89C7-4E42D6DED66E}/main/IMG_8649.jpg</filename>
+            </picture>
+            <picture name="Photo 15" lastchanged="2024-12-13T13:58:01.5237207Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{718CE1D7-4FF3-4570-89C7-4E42D6DED66E}/main/IMG_8837-11.jpg</filename>
+            </picture>
+          </pictures>
+          <floorplans>
+            <floorplan name="">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{718ce1d7-4ff3-4570-89c7-4e42d6ded66e}/Floorplan_Floorplan1.jpg</filename>
+            </floorplan>
+          </floorplans>
+        </property>
         <property reference="CB003976" hash="D14C812637F32244F7764BCD51E645AD">
           <availableFrom>06/07/2026 00:00:00</availableFrom>
           <instructedDate>27/11/2025 13:33:26</instructedDate>
@@ -14496,52 +14535,59 @@ Council Tax Band D. EPC Rating 67D Security deposit to be held is &amp;pound;342
             </floorplan>
           </floorplans>
         </property>
-        <property reference="CB003978" hash="81EC374A5188E295F0AACE62F41D5FF7">
-          <availableFrom>06/07/2026 00:00:00</availableFrom>
-          <instructedDate>27/11/2025 14:11:44</instructedDate>
-          <department>Residential Lettings</department>
+        <property reference="CB003875" hash="25859D261DC4CB4C7DB958207253CC7B">
+          <availableFrom />
+          <instructedDate>08/12/2025 15:26:53</instructedDate>
+          <department>Residential Sales</department>
           <propertyofweek>NO</propertyofweek>
-          <price_text>Monthly Rental Of £2,475</price_text>
-          <numeric_price>2475.0000</numeric_price>
-          <bedrooms>5</bedrooms>
-          <receptions>1</receptions>
-          <bathrooms>2</bathrooms>
-          <priority>Available to Let</priority>
+          <price_text>£350,000</price_text>
+          <numeric_price>350000.0000</numeric_price>
+          <bedrooms>3</bedrooms>
+          <receptions>2</receptions>
+          <bathrooms>3</bathrooms>
+          <priority>On Market</priority>
           <tenure>Freehold</tenure>
-          <advert_heading>St. Martins Terrace, Canterbury</advert_heading>
-          <main_advert>** AVAILABLE SUMMER  ** HUGE DOUBLE BEDROOMS ** CENTRAL LOCATION **  Perfect for CCU and UCA, City Centre this huge 5 double bedroom house, perfect for students on St Martins Terrace in Canterbury. The property comprises large living room, separate kitchen, 5 huge double bedrooms, a large bathroom and one cloakroom. Fully furnished and well presented.
-Situated very close to the city centre the property is in a great location for access to all the local transport links and all the entertainment including wonderful pubs, boutique shops and high street retail at Whitefriars, and some lovely restaurants.
+          <advert_heading>Smith Way, Canterbury</advert_heading>
+          <main_advert>&lt;br&gt;Located within a popular modern development on the outskirts of Canterbury, Smith Way is an immaculate three-bedroom semi-detached home arranged over three floors and finished to a superb standard throughout.
 
-For more information and to book a viewing call the team today.
-
-Council Tax Band D. EPC Rating 67D Security deposit to be held is &amp;pound;2855.76
+Immaculate townhouse 
+3 Bedrooms, including an impressive master suite
+Beautiful presented living room
+Stylish kitchen/dining room
+Landscaped rear garden
+Garage 
+Parking for 2 cars &amp; EV charger. 
+Desirable location
 </main_advert>
-          <advert2>** AVAILABLE SUMMER  ** HUGE DOUBLE BEDROOMS ** CENTRAL LOCATION **  Perfect for CCU and UCA, City Centre this huge 5 double bedroom house, perfect for students on St Martins Terrace in Canterbury. The property comprises large living room, separate kitchen, 5 huge double bedrooms, a large bathroom and one cloakroom. Fully furnished and well presented.
-Situated very close to the city centre the property is in a great location for access to all the local transport links and all the entertainment including wonderful pubs, boutique shops and high street retail at Whitefriars, and some lovely restaurants.
-
-For more information and to book a viewing call the team today.
-
-Council Tax Band D. EPC Rating 67D Security deposit to be held is &amp;pound;2855.76</advert2>
-          <advert3 />
-          <advert4 />
-          <advert5>All main services are understood to be connected to the property. </advert5>
+          <advert2>Located within a popular modern development on the outskirts of Canterbury, Smith Way is an immaculate three-bedroom semi-detached home arranged over three floors and finished to a superb standard throughout.
+A bright and welcoming entrance hall leads into a beautifully presented living room, positioned at the front of the house and filled with natural light. To the rear, the stylish kitchen and dining room features sleek cabinetry, generous worktop space and integrated appliances, with French doors opening directly onto the garden allowing for indoor and outdoor living. A downstairs W/C also serves the ground floor.
+On the first floor are two well-proportioned bedrooms along with a modern family bathroom finished with quality tiling and fittings. The layout offers great flexibility, with one bedroom equally suited as a guest room, nursery or home office. The entire top floor is dedicated to the impressive master suite, a spacious and tranquil room with built-in storage and a contemporary en-suite shower room, offering an excellent sense of privacy.
+The rear garden has been thoughtfully landscaped to provide an attractive yet low-maintenance outdoor space, featuring raised beds, a gravelled seating area, and a pergola creating a sheltered spot for entertaining or relaxing. The garage sits to the side of the home and has electric, infront of the garage is parking for two cars and EV charger.
+Smith Way is well placed for access to Canterbury&amp;rsquo;s historic city centre, a range of highly regarded schools, local amenities and excellent transport links, including high-speed rail services to London. With its modern layout, generous accommodation and immaculate finish, Smith Way represents a fantastic opportunity for families, professionals or anyone seeking a move-in-ready home in a convenient and desirable location.
+EPC: 85B Council Tax: D Tenure: Freehold</advert2>
+          <advert3>Located within a popular modern development on the outskirts of Canterbury, Smith Way is an immaculate three-bedroom semi-detached home arranged over three floors and finished to a superb standard throughout.
+A bright and welcoming entrance hall leads into a beautifully presented living room, positioned at the front of the house and filled with natural light. To the rear, the stylish kitchen and dining room features sleek cabinetry, generous worktop space and integrated appliances, with French doors opening directly onto the garden allowing for indoor and outdoor living. A downstairs W/C also serves the ground floor.
+On the first floor are two well-proportioned bedrooms along with a modern family bathroom finished with quality tiling and fittings. The layout offers great flexibility, with one bedroom equally suited as a guest room, nursery or home office. The entire top floor is dedicated to the impressive master suite, a spacious and tranquil room with built-in storage and a contemporary en-suite shower room, offering an excellent sense of privacy.
+The rear garden has been thoughtfully landscaped to provide an attractive yet low-maintenance outdoor space, featuring raised beds, a gravelled seating area, and a pergola creating a sheltered spot for entertaining or relaxing. The garage sits to the side of the home, alongside parking for two cars and EV charger.</advert3>
+          <advert4>Smith Way is well placed for access to Canterbury&amp;rsquo;s historic city centre, a range of highly regarded schools, local amenities and excellent transport links, including high-speed rail services to London. With its modern layout, generous accommodation and immaculate finish,  Smith Way represents a fantastic opportunity for families, professionals or anyone seeking a move-in-ready home in a convenient and desirable location.</advert4>
+          <advert5>Mains drainage, electricity, water and gas are connected to the property. </advert5>
           <advert6 />
-          <house_number>8</house_number>
-          <street>St. Martins Terrace</street>
+          <house_number>34</house_number>
+          <street>Smith Way</street>
           <district />
           <town>Canterbury</town>
           <county>Kent</county>
-          <postcode>CT1 1QB</postcode>
-          <country />
+          <postcode>CT1 1WD</postcode>
+          <country>UK</country>
           <area>Canterbury Centre</area>
-          <bullet1>Available Summer </bullet1>
-          <bullet2>5 HUGE DOUBLE Bedrooms</bullet2>
-          <bullet3>Close to Christ Church University and UCA </bullet3>
-          <bullet4>Rear courtyard</bullet4>
-          <bullet5>Parking</bullet5>
-          <bullet6>Walking distance to the City</bullet6>
-          <bullet7 />
-          <bullet8 />
+          <bullet1>Immaculate townhouse</bullet1>
+          <bullet2>3 Bedrooms, including an impressive master suite</bullet2>
+          <bullet3>Beautiful presented living room</bullet3>
+          <bullet4>Stylish kitchen/dining room</bullet4>
+          <bullet5>Landscaped rear garden</bullet5>
+          <bullet6>Garage</bullet6>
+          <bullet7>Parking for 2 cars &amp; EV charger</bullet7>
+          <bullet8>Desirable location</bullet8>
           <bullet9 />
           <bullet10 />
           <bullet11 />
@@ -14554,16 +14600,16 @@ Council Tax Band D. EPC Rating 67D Security deposit to be held is &amp;pound;285
           <bullet18 />
           <bullet19 />
           <bullet20 />
-          <brochure>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{718CE1D7-4FF3-4570-89C7-4E42D6DED66E}/external.pdf</brochure>
+          <brochure>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{2F4AADA3-6457-471F-ACF5-E112E8F45E03}/external.pdf</brochure>
           <agency_region>KENT</agency_region>
           <agency_district>CANTERBURY</agency_district>
           <agency_location>Canterbury Centre</agency_location>
-          <web_link>https://www.properties.charlesbainbridge.com/index.php?option=com_eapow&amp;format=html&amp;task=property.getProp&amp;?pid=718CE1D7-4FF3-4570-89C7-4E42D6DED66E&amp;aid=C46B2F24-B9CD-417A-9879-F8C0E2A6C226</web_link>
-          <latitude>51.2787</latitude>
-          <longitude>1.092738</longitude>
-          <qrcode>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{718CE1D7-4FF3-4570-89C7-4E42D6DED66E}/qr.png</qrcode>
+          <web_link>https://www.properties.charlesbainbridge.com/index.php?option=com_eapow&amp;format=html&amp;task=property.getProp&amp;?pid=2F4AADA3-6457-471F-ACF5-E112E8F45E03&amp;aid=C46B2F24-B9CD-417A-9879-F8C0E2A6C226</web_link>
+          <latitude>0</latitude>
+          <longitude>0</longitude>
+          <qrcode>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{2F4AADA3-6457-471F-ACF5-E112E8F45E03}/qr.png</qrcode>
           <epc />
-          <hips>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{718CE1D7-4FF3-4570-89C7-4E42D6DED66E}/HIPS/EPC - 11 St. Martins Terrace.pdf</hips>
+          <hips>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{2F4AADA3-6457-471F-ACF5-E112E8F45E03}/HIPS/EPC 34 Smith Way.pdf</hips>
           <filename3 />
           <filename4 />
           <filename5 />
@@ -14571,11 +14617,11 @@ Council Tax Band D. EPC Rating 67D Security deposit to be held is &amp;pound;285
           <virtual_tour_url />
           <property_type>House</property_type>
           <commercial_type />
-          <property_style>Terraced</property_style>
-          <property_reference>12793569</property_reference>
+          <property_style>Semi Detached</property_style>
+          <property_reference>12766611</property_reference>
           <newHome>NO</newHome>
           <noChain>NO</noChain>
-          <furnished>Furnished</furnished>
+          <furnished>Unknown</furnished>
           <portalFee />
           <currency />
           <featuredProperty>NO</featuredProperty>
@@ -14589,96 +14635,48 @@ Council Tax Band D. EPC Rating 67D Security deposit to be held is &amp;pound;285
           <number8 name="" value="0" />
           <number9 name="" value="0" />
           <number10 name="" value="0" />
-          <rooms>
-            <room name="Sitting Room">
-              <measurement_text>15' 4'' x 9' 10'' (4.67m x 2.99m)</measurement_text>
-              <description />
-            </room>
-            <room name="Reception Room/Bedroom Five">
-              <measurement_text>11' 11'' x 8' 10'' (3.63m x 2.69m)</measurement_text>
-              <description />
-            </room>
-            <room name="Kitchen">
-              <measurement_text>11' 3'' x 11' 0'' (3.43m x 3.35m)</measurement_text>
-              <description />
-            </room>
-            <room name="Landing">
-              <measurement_text />
-              <description />
-            </room>
-            <room name="Bedroom One">
-              <measurement_text>13' 3'' max. x 8' 6'' max. (4.04m max. x 2.59m max.)</measurement_text>
-              <description />
-            </room>
-            <room name="Bedroom Two">
-              <measurement_text>9' 11'' x 9' 9'' (3.02m x 2.97m)</measurement_text>
-              <description />
-            </room>
-            <room name="Bedroom Three">
-              <measurement_text>11' 10'' max. x 7' 9'' (3.60m x 2.36m)</measurement_text>
-              <description />
-            </room>
-            <room name="Bedroom Four">
-              <measurement_text>9' 11'' x 9' 8'' max. (3.02m x 2.94m max.)</measurement_text>
-              <description />
-            </room>
-            <room name="Shower Room">
-              <measurement_text />
-              <description />
-            </room>
-            <room name="WC">
-              <measurement_text />
-              <description />
-            </room>
-            <room name="Courtyard">
-              <measurement_text />
-              <description />
-            </room>
-          </rooms>
+          <rooms />
           <pictures>
-            <picture name="Photo 2" lastchanged="2024-12-11T14:40:13.8290967Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{718CE1D7-4FF3-4570-89C7-4E42D6DED66E}/main/IMG_8646.jpg</filename>
+            <picture name="Photo 1" lastchanged="2025-12-08T10:42:47.3093811Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{2f4aada3-6457-471f-acf5-e112e8f45e03}/main/DSC03578.jpg</filename>
             </picture>
-            <picture name="Photo 5" lastchanged="2024-12-11T14:40:15.2533282Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{718CE1D7-4FF3-4570-89C7-4E42D6DED66E}/main/IMG_8655.jpg</filename>
+            <picture name="Photo 2" lastchanged="2025-12-08T10:43:38.5125516Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{2f4aada3-6457-471f-acf5-e112e8f45e03}/main/DSC03594-Edit.jpg</filename>
             </picture>
-            <picture name="Photo 1" lastchanged="2024-12-11T14:40:13.2821654Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{718CE1D7-4FF3-4570-89C7-4E42D6DED66E}/main/IMG_8642.jpg</filename>
+            <picture name="Photo 4" lastchanged="2025-12-08T10:44:28.0656808Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{2f4aada3-6457-471f-acf5-e112e8f45e03}/main/DSC03619-Edit.jpg</filename>
             </picture>
-            <picture name="Photo 14" lastchanged="2024-12-13T13:57:59.3666996Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{718CE1D7-4FF3-4570-89C7-4E42D6DED66E}/main/IMG_8823-11.jpg</filename>
+            <picture name="Photo 3" lastchanged="2025-12-08T10:44:25.9848626Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{2f4aada3-6457-471f-acf5-e112e8f45e03}/main/DSC03605-Edit.jpg</filename>
             </picture>
-            <picture name="Photo 8" lastchanged="2024-12-11T14:40:16.5889667Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{718CE1D7-4FF3-4570-89C7-4E42D6DED66E}/main/IMG_8662.jpg</filename>
+            <picture name="Photo 6" lastchanged="2025-12-08T10:46:14.6825262Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{2f4aada3-6457-471f-acf5-e112e8f45e03}/main/DSC03634-Edit.jpg</filename>
             </picture>
-            <picture name="Photo 9" lastchanged="2024-12-11T14:40:17.0268604Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{718CE1D7-4FF3-4570-89C7-4E42D6DED66E}/main/IMG_8664.jpg</filename>
+            <picture name="Photo 7" lastchanged="2025-12-08T10:46:16.69887Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{2f4aada3-6457-471f-acf5-e112e8f45e03}/main/DSC03639-Edit.jpg</filename>
             </picture>
-            <picture name="Photo 11" lastchanged="2024-12-11T14:40:17.9019444Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{718CE1D7-4FF3-4570-89C7-4E42D6DED66E}/main/IMG_8668.jpg</filename>
+            <picture name="Photo 10" lastchanged="2025-12-08T10:50:44.2191895Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{2f4aada3-6457-471f-acf5-e112e8f45e03}/main/DSC03668-Edit.jpg</filename>
             </picture>
-            <picture name="Photo 6" lastchanged="2024-12-11T14:40:15.6765071Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{718CE1D7-4FF3-4570-89C7-4E42D6DED66E}/main/IMG_8658.jpg</filename>
+            <picture name="Photo 8" lastchanged="2025-12-08T10:46:45.0555024Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{2f4aada3-6457-471f-acf5-e112e8f45e03}/main/DSC03648-Edit.jpg</filename>
             </picture>
-            <picture name="Photo 12" lastchanged="2024-12-11T14:40:18.3082074Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{718CE1D7-4FF3-4570-89C7-4E42D6DED66E}/main/IMG_8672.jpg</filename>
+            <picture name="Photo 9" lastchanged="2025-12-08T10:47:39.4704516Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{2f4aada3-6457-471f-acf5-e112e8f45e03}/main/DSC03664-Edit.jpg</filename>
             </picture>
-            <picture name="Photo 7" lastchanged="2024-12-11T14:40:16.1299395Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{718CE1D7-4FF3-4570-89C7-4E42D6DED66E}/main/IMG_8660.jpg</filename>
+            <picture name="Photo 5" lastchanged="2025-12-08T10:45:57.2628865Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{2f4aada3-6457-471f-acf5-e112e8f45e03}/main/DSC03623.jpg</filename>
             </picture>
-            <picture name="Photo 13" lastchanged="2024-12-11T14:40:18.7613739Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{718CE1D7-4FF3-4570-89C7-4E42D6DED66E}/main/IMG_8675.jpg</filename>
+            <picture name="Photo 11" lastchanged="2025-12-08T10:52:11.8886806Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{2f4aada3-6457-471f-acf5-e112e8f45e03}/main/DSC03587.jpg</filename>
             </picture>
-            <picture name="Photo 4" lastchanged="2024-12-11T14:40:14.7843478Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{718CE1D7-4FF3-4570-89C7-4E42D6DED66E}/main/IMG_8649.jpg</filename>
-            </picture>
-            <picture name="Photo 15" lastchanged="2024-12-13T13:58:01.5237207Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{718CE1D7-4FF3-4570-89C7-4E42D6DED66E}/main/IMG_8837-11.jpg</filename>
+            <picture name="Photo 12" lastchanged="2025-12-08T14:23:45.363169Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{2f4aada3-6457-471f-acf5-e112e8f45e03}/main/floorplan_converted.jpg</filename>
             </picture>
           </pictures>
           <floorplans>
             <floorplan name="">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{718ce1d7-4ff3-4570-89c7-4e42d6ded66e}/Floorplan_Floorplan1.jpg</filename>
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{2f4aada3-6457-471f-acf5-e112e8f45e03}/Floorplan_1.jpg</filename>
             </floorplan>
           </floorplans>
         </property>
