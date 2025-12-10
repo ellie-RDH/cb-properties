@@ -1,5 +1,5 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<agency xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:noNamespaceSchemaLocation="http://www.expertagent.co.uk/xmlexport/ExpertAgentXMLSchema.xsd" name="CharlesBainbridge" branchName="Charles Bainbridge">
+<?xml version="1.0" encoding="utf-8"?>
+<agency xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:noNamespaceSchemaLocation="http://www.expertagent.co.uk/xmlexport/ExpertAgentXMLSchema.xsd" name="CharlesBainbridge">
   <branches>
     <branch name="Charles Bainbridge">
       <properties>
@@ -1593,6 +1593,154 @@ The accommodation includes a large open-plan sitting and dining room with a feat
             </floorplan>
           </floorplans>
         </property>
+        <property reference="CB003407" hash="F6196B21376122800978748B0160E233">
+          <availableFrom />
+          <instructedDate>09/12/2025 09:08:52</instructedDate>
+          <department>Residential Sales</department>
+          <propertyofweek>NO</propertyofweek>
+          <price_text>£675,000</price_text>
+          <numeric_price>675000.0000</numeric_price>
+          <bedrooms>4</bedrooms>
+          <receptions>2</receptions>
+          <bathrooms>2</bathrooms>
+          <priority>On Market</priority>
+          <tenure>Freehold</tenure>
+          <advert_heading>Windmill Close, Canterbury</advert_heading>
+          <main_advert>&lt;br&gt;A charming Grade II listed building, Windmill Close offers a beautifully balanced blend of period character and comfortable modern living. </main_advert>
+          <advert2>St. Martins, built in 1817, is a remarkable Grade II listed building, a blend of historic charm and modern living. The mill has recently undergone complete renovation to provide spacious accommodation across four floors &amp;ndash; this property is indeed a rare find.
+Tucked away down a quiet private road, the windmill stands in a generous plot offering panoramic views of Canterbury, including its magnificent Cathedral, less than a mile away.
+The ground floor of the mill has a generously proportioned lounge with charming exposed brickwork and original beams. In contrast, the adjoining kitchen is brand new and beyond this a delightful garden room with vaulted ceiling, a convenient W.C., log burning stove and access to the remarkable garden.
+On the first floor is the largest of the four spacious bedrooms, as well as a bathroom and separate shower room. The second floor houses another double bedroom and a good size single room, ideal for use as a study or home office. At the top of the mill on the third floor, a further double bedroom with panoramic views.
+The outdoor space reflects the spaciousness to be found inside the windmill itself. The grounds have been carefully cultivated for decades and are laid out in a series of lawns, each with its own well-stocked borders. A patio area for outdoor dining and a grape-covered pergola provide a shady retreat during the summer months. Whether you&amp;rsquo;re hosting summer barbecues or enjoying a quiet morning coffee, this garden provides a private and tranquil setting.
+The windmill boasts driveway parking for three cars and a detached garage.</advert2>
+          <advert3>St. Martins, built in 1817, is a remarkable Grade II listed building, a blend of historic charm and modern living. The mill has recently undergone complete renovation to provide spacious accommodation across four floors – this property is indeed a rare find.
+
+Tucked away down a quiet private road, the windmill stands in a generous plot offering panoramic views of Canterbury, including its magnificent Cathedral, less than a mile away.
+
+The ground floor of the mill has a generously proportioned lounge/dining room with charming exposed brickwork and original beams. In contrast, the adjoining kitchen is brand new and beyond this a delightful garden room with vaulted ceiling, plus a convenient W.C., log burning stove and access to the remarkable garden.
+
+On the first floor is the largest of the four spacious bedrooms, as well as a bathroom and separate shower room. The second floor houses another double bedroom and a good size single room, ideal for use as a study or home office. At the top of the mill on the third floor, a further double bedroom with panoramic views.</advert3>
+          <advert4>The outdoor space reflects the spaciousness to be found inside the windmill itself. The grounds have been carefully cultivated for decades and are laid out in a series of lawns, each with its own well-stocked borders. A patio area for outdoor dining and a grape-covered pergola provide a shady retreat during the summer months. Whether you’re hosting summer barbecues or enjoying a quiet morning coffee, this garden provides a private and tranquil setting.
+
+The windmill boasts driveway parking for three cars and a detached garage.</advert4>
+          <advert5 />
+          <advert6 />
+          <house_number>6</house_number>
+          <street>Windmill Close</street>
+          <district />
+          <town>Canterbury</town>
+          <county>Kent</county>
+          <postcode>CT1 1PT</postcode>
+          <country>UK</country>
+          <area>Canterbury Centre</area>
+          <bullet1>Historic Grade II Listed Windmill</bullet1>
+          <bullet2>Four Bedrooms</bullet2>
+          <bullet3>Flexible Living Accomodation</bullet3>
+          <bullet4>Parking for Several Cars</bullet4>
+          <bullet5>Two Bath/Shower Rooms</bullet5>
+          <bullet6>Large Garden</bullet6>
+          <bullet7>Prime Canterbury Location </bullet7>
+          <bullet8 />
+          <bullet9 />
+          <bullet10 />
+          <bullet11 />
+          <bullet12 />
+          <bullet13 />
+          <bullet14 />
+          <bullet15 />
+          <bullet16 />
+          <bullet17 />
+          <bullet18 />
+          <bullet19 />
+          <bullet20 />
+          <brochure />
+          <agency_region>KENT</agency_region>
+          <agency_district>CANTERBURY</agency_district>
+          <agency_location>Canterbury Centre</agency_location>
+          <web_link>https://www.properties.charlesbainbridge.com/index.php?option=com_eapow&amp;format=html&amp;task=property.getProp&amp;?pid=A63B7264-D89E-4CD0-BE91-25F277B1E0EC&amp;aid=C46B2F24-B9CD-417A-9879-F8C0E2A6C226</web_link>
+          <latitude>51.2780838012695</latitude>
+          <longitude>1.0969465970993</longitude>
+          <qrcode>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{A63B7264-D89E-4CD0-BE91-25F277B1E0EC}/qr.png</qrcode>
+          <epc />
+          <hips />
+          <filename3 />
+          <filename4 />
+          <filename5 />
+          <filename6 />
+          <virtual_tour_url />
+          <property_type>House</property_type>
+          <commercial_type />
+          <property_style>Semi Detached</property_style>
+          <property_reference>12314247</property_reference>
+          <newHome>NO</newHome>
+          <noChain>NO</noChain>
+          <furnished>Unknown</furnished>
+          <portalFee />
+          <currency />
+          <featuredProperty>NO</featuredProperty>
+          <date1 name="Title Register" value="05/12/2025 00:00:00" />
+          <date2 name="Title Plan" value="05/12/2025 00:00:00" />
+          <number1 name="" value="0" />
+          <number2 name="" value="0" />
+          <number3 name="" value="0" />
+          <number4 name="" value="0" />
+          <number5 name="" value="0" />
+          <number6 name="" value="0" />
+          <number7 name="" value="0" />
+          <number8 name="" value="0" />
+          <number9 name="" value="0" />
+          <number10 name="" value="0" />
+          <rooms />
+          <pictures>
+            <picture name="Photo 15" lastchanged="2025-11-27T16:28:17.4085545Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{a63b7264-d89e-4cd0-be91-25f277b1e0ec}/main/image15.jpg</filename>
+            </picture>
+            <picture name="Photo 15" lastchanged="2025-11-28T11:47:15.981441Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{a63b7264-d89e-4cd0-be91-25f277b1e0ec}/main/DSC_3686.jpg</filename>
+            </picture>
+            <picture name="Photo 15" lastchanged="2025-12-05T14:47:27.4669281Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{a63b7264-d89e-4cd0-be91-25f277b1e0ec}/main/DSC_3632-(1).jpg</filename>
+            </picture>
+            <picture name="Photo 15" lastchanged="2025-11-28T08:38:21.5159599Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{a63b7264-d89e-4cd0-be91-25f277b1e0ec}/main/DSC_3669-(1).jpg</filename>
+            </picture>
+            <picture name="Photo 16" lastchanged="2025-11-28T08:38:21.9222466Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{a63b7264-d89e-4cd0-be91-25f277b1e0ec}/main/DSC_3596.jpg</filename>
+            </picture>
+            <picture name="Photo 9" lastchanged="2025-11-22T10:55:24.5425171Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{a63b7264-d89e-4cd0-be91-25f277b1e0ec}/main/DSC_3620.jpg</filename>
+            </picture>
+            <picture name="Photo 6" lastchanged="2025-11-22T10:51:47.5166177Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{a63b7264-d89e-4cd0-be91-25f277b1e0ec}/main/DSC_3560.jpg</filename>
+            </picture>
+            <picture name="Photo 12" lastchanged="2025-11-24T09:11:03.252737Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{a63b7264-d89e-4cd0-be91-25f277b1e0ec}/main/DSC_3545.jpg</filename>
+            </picture>
+            <picture name="Photo 15" lastchanged="2025-11-24T15:46:22.648062Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{a63b7264-d89e-4cd0-be91-25f277b1e0ec}/main/ChatGPT-Image-Nov-24,-2025,-03_45_24-PM.jpg</filename>
+            </picture>
+            <picture name="Photo 11" lastchanged="2025-11-22T11:00:14.9227017Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{a63b7264-d89e-4cd0-be91-25f277b1e0ec}/main/clean_bathroom.jpg</filename>
+            </picture>
+            <picture name="Photo 16" lastchanged="2025-11-27T16:28:17.6742321Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{a63b7264-d89e-4cd0-be91-25f277b1e0ec}/main/enhanced_property_image_2.jpg</filename>
+            </picture>
+            <picture name="Photo 11" lastchanged="2025-11-22T11:09:58.5846753Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{a63b7264-d89e-4cd0-be91-25f277b1e0ec}/main/output.jpg</filename>
+            </picture>
+            <picture name="Photo 5" lastchanged="2025-11-22T10:51:26.8477257Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{a63b7264-d89e-4cd0-be91-25f277b1e0ec}/main/DJI_0040.jpg</filename>
+            </picture>
+            <picture name="Photo 11" lastchanged="2025-11-24T09:09:38.5920365Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{a63b7264-d89e-4cd0-be91-25f277b1e0ec}/main/6WindmillCloseCT11PT-High-(4).jpg</filename>
+            </picture>
+          </pictures>
+          <floorplans>
+            <floorplan name="">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{a63b7264-d89e-4cd0-be91-25f277b1e0ec}/Floorplan_Floorplan1.jpg</filename>
+            </floorplan>
+          </floorplans>
+        </property>
         <property reference="CB003413" hash="F68B655E997E7F2855F329689F1A49E0">
           <availableFrom />
           <instructedDate>03/05/2024 19:17:12</instructedDate>
@@ -2217,6 +2365,279 @@ Cash buyers only.&amp;nbsp;</advert3>
           <floorplans>
             <floorplan name="">
               <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{e5433445-ae71-49ac-8280-97d2b1266f21}/Floorplan_Floorplan1.jpg</filename>
+            </floorplan>
+          </floorplans>
+        </property>
+        <property reference="CB003494" hash="17301D552D355E9438205848DFD92846">
+          <availableFrom />
+          <instructedDate>23/04/2025 16:04:47</instructedDate>
+          <department>Residential Sales</department>
+          <propertyofweek>NO</propertyofweek>
+          <price_text>Guide Price £750,000</price_text>
+          <numeric_price>750000.0000</numeric_price>
+          <bedrooms>5</bedrooms>
+          <receptions>3</receptions>
+          <bathrooms>2</bathrooms>
+          <priority>On Market</priority>
+          <tenure>Freehold</tenure>
+          <advert_heading>Whitstable Road, Canterbury</advert_heading>
+          <main_advert>A handsome and characterful double-fronted period house offering generous, well-proportioned and versatile accommodation. &lt;br /&gt;
+&lt;br /&gt;
+5 Bedrooms, 2 bath/shower rooms
+&lt;br /&gt;
+3 Reception rooms plus garden room &amp; cellar
+&lt;br /&gt;
+Good size kitchen plus utility room
+&lt;br /&gt;
+Opportunity for general updating &amp;amp; modernisation
+&lt;br /&gt;
+Impressive, substantial garden
+&lt;br /&gt;
+Detached garage&lt;br /&gt;
+Enviable setting&lt;br /&gt;
+EPC Rating: 26F</main_advert>
+          <advert2>&lt;p style="text-align: justify;"&gt;Elmley is a handsome and characterful double-fronted period house offering generous, well-proportioned and versatile accommodation, set in a highly convenient location within easy reach of Canterbury&amp;rsquo;s historic city centre. This substantial property presents a rare opportunity for general updating and modernisation, while also offering scope for extension and reconfiguration (subject to all necessary planning consents). The accommodation on the ground floor includes a spacious entrance hall, adjoining which is a useful lobby area and a shower room with w.c. There is a large dual-aspect sitting room to the front with sash windows, and a further reception room with patio doors overlooking and opening onto the garden. The separate dining room flows into the kitchen, which is fitted with a range of wall, drawer and floor units and a window overlooking the garden. To the rear is a practical utility room and garden room, along with a further passageway providing access to both the front and rear of the house. On the lower ground floor is a large cellar with two further smaller rooms and a window to the front. On the first floor, the accommodation continues to impress with five well-proportioned bedrooms, one of which benefits from its own w.c, as well as the family bathroom and separate W.C. The property benefits from gas fired central heating and offered for sale with no onward chain.&lt;br /&gt;
+&lt;br /&gt;
+Externally, the property boasts an impressive outdoor space with a substantial garden incorporating paved patio leading onto an expansive lawn. Mature borders contain a variety of flowering plants and shrubs along with a large greenhouse. Vehicular access is gained from Cherry Garden Road leading to a detached garage.&lt;br /&gt;
+&lt;br /&gt;
+Beyond the principal garden lies a further parcel of land, offering exciting potential for redevelopment. Subject to all necessary planning consents, this space could be utilised to enhance the garage, create additional ancillary accommodation, or even develop a self-contained annexe using the existing garage building.&lt;br /&gt;
+&lt;br /&gt;
+The property enjoys an enviable setting with easy access to Canterbury city centre, and Canterbury West station, which provides High-Speed rail links to London St. Pancras with a journey time of approx. 55mins. The local independent schools, including The King&amp;rsquo;s School, St. Edmund&amp;rsquo;s and Kent College , are nearby, as well as a number of well-regarded primary and secondary schools on the South side of the city. The nearby countryside provides lovely walks towards the North Kent coast.&lt;br /&gt;
+&lt;br /&gt;
+Council tax band: G&lt;br /&gt;
+&lt;br /&gt;
+Tenure: Freehold&lt;br /&gt;
+&lt;br /&gt;
+EPC Rating: 26F&lt;br /&gt;
+&lt;br /&gt;
+What3Words: ///palace.habit.once&lt;/p&gt;</advert2>
+          <advert3>&lt;span style="text-align: justify;"&gt;&lt;span style="text-align: justify;"&gt;Elmley is a handsome and characterful double-fronted period house offering generous, well-proportioned and versatile accommodation, set in a highly convenient location within easy reach of Canterbury&amp;rsquo;s historic city centre. This substantial property presents a rare opportunity for general updating and modernisation, while also offering scope for extension and reconfiguration (subject to all necessary planning consents). The accommodation on the ground floor includes a spacious entrance hall, adjoining which is a useful lobby area and a shower room with w.c. There is a large dual-aspect sitting room to the front with sash windows, and a further reception room with patio doors overlooking and opening onto the garden. The separate dining room flows into the kitchen, which is fitted with a range of wall, drawer and floor units and a window overlooking the garden. To the rear is a practical utility room and garden room, along with a further passageway providing access to both the front and rear of the house. On the lower ground floor is a large cellar with two further smaller rooms and a window to the front. On the first floor, the accommodation continues to impress with five well-proportioned bedrooms, one of which benefits from its own w.c, as well as the family bathroom and separate W.C. The property benefits from gas fired central heating and offered for sale with no onward chain.&lt;/span&gt;&lt;br style="text-align: justify;" /&gt;
+&lt;br style="text-align: justify;" /&gt;
+&lt;span style="text-align: justify;"&gt;Externally, the property boasts an impressive outdoor space with a substantial garden incorporating paved patio leading onto an expansive lawn. Mature borders contain a variety of flowering plants and shrubs along with a large greenhouse. Vehicular access is gained from Cherry Garden Road leading to a detached garage.&lt;/span&gt;&lt;br style="text-align: justify;" /&gt;
+&lt;br style="text-align: justify;" /&gt;
+&lt;span style="text-align: justify;"&gt;Beyond the principal garden lies a further parcel of land, offering exciting potential for redevelopment. Subject to all necessary planning consents, this space could be utilised to enhance the garage, create additional ancillary accommodation, or even develop a self-contained annexe using the existing garage building.&lt;/span&gt;&lt;/span&gt;</advert3>
+          <advert4>&lt;p style="text-align: justify;"&gt;&lt;span style="text-align: justify;"&gt;The property enjoys an enviable setting with easy access to Canterbury city centre, and Canterbury West station, which provides High-Speed rail links to London St. Pancras with a journey time of approx. 55mins. The local independent schools, including The King&amp;rsquo;s School, St. Edmund&amp;rsquo;s and Kent College , are nearby, as well as a number of well-regarded primary and secondary schools on the South side of the city. The nearby countryside provides lovely walks towards the North Kent coast.&lt;/span&gt;&lt;/p&gt;</advert4>
+          <advert5>All mains services are understood to be connected to the property. </advert5>
+          <advert6 />
+          <house_number>Elmley</house_number>
+          <street>135 Whitstable Road</street>
+          <district />
+          <town>Canterbury</town>
+          <county>Kent</county>
+          <postcode>CT2 8EQ</postcode>
+          <country>UK</country>
+          <area>Canterbury Centre</area>
+          <bullet1>Substantial Family Home</bullet1>
+          <bullet2>5 Bedrooms</bullet2>
+          <bullet3>Large Kitchen </bullet3>
+          <bullet4>Opportunity for Improving</bullet4>
+          <bullet5>Impressive, substantial garden</bullet5>
+          <bullet6>Detached Carport</bullet6>
+          <bullet7>Enviable setting</bullet7>
+          <bullet8>EPC Rating: 26F</bullet8>
+          <bullet9 />
+          <bullet10 />
+          <bullet11 />
+          <bullet12 />
+          <bullet13 />
+          <bullet14 />
+          <bullet15 />
+          <bullet16 />
+          <bullet17 />
+          <bullet18 />
+          <bullet19 />
+          <bullet20 />
+          <brochure>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{573F6670-6F5C-4927-8F8A-9B7BCA81BD77}/external.pdf</brochure>
+          <agency_region>KENT</agency_region>
+          <agency_district>CANTERBURY</agency_district>
+          <agency_location>Canterbury Centre</agency_location>
+          <web_link>https://www.properties.charlesbainbridge.com/index.php?option=com_eapow&amp;format=html&amp;task=property.getProp&amp;?pid=573F6670-6F5C-4927-8F8A-9B7BCA81BD77&amp;aid=C46B2F24-B9CD-417A-9879-F8C0E2A6C226</web_link>
+          <latitude>51.2878189086914</latitude>
+          <longitude>1.06362068653107</longitude>
+          <qrcode>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{573F6670-6F5C-4927-8F8A-9B7BCA81BD77}/qr.png</qrcode>
+          <epc />
+          <hips>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{573F6670-6F5C-4927-8F8A-9B7BCA81BD77}/HIPS/EPC - 135 Whitstable Road CANTERBURY CT2 8EQ.pdf</hips>
+          <filename3 />
+          <filename4 />
+          <filename5 />
+          <filename6 />
+          <virtual_tour_url />
+          <property_type>House</property_type>
+          <commercial_type />
+          <property_style>Semi Detached</property_style>
+          <property_reference>12421897</property_reference>
+          <newHome>NO</newHome>
+          <noChain>YES</noChain>
+          <furnished>Unknown</furnished>
+          <portalFee />
+          <currency />
+          <featuredProperty>NO</featuredProperty>
+          <text1 name="" value="Provided by seller. Copy on events - Property docs. AD" />
+          <text2 name="" value="Provided by seller. Copy on events - Property docs. AD" />
+          <text3 name="" value="Copy on events - Property docs. AD" />
+          <date1 name="Title Register" value="25/03/2025 00:00:00" />
+          <date2 name="Title Plan" value="25/03/2025 00:00:00" />
+          <date3 name="Data Protection - Seller" value="26/03/2025 00:00:00" />
+          <number1 name="" value="0" />
+          <number2 name="" value="0" />
+          <number3 name="" value="0" />
+          <number4 name="" value="0" />
+          <number5 name="" value="0" />
+          <number6 name="" value="0" />
+          <number7 name="" value="0" />
+          <number8 name="" value="0" />
+          <number9 name="" value="0" />
+          <number10 name="" value="0" />
+          <rooms>
+            <room name="Porch">
+              <measurement_text />
+              <description />
+            </room>
+            <room name="Hallway">
+              <measurement_text />
+              <description />
+            </room>
+            <room name="Lobby">
+              <measurement_text />
+              <description />
+            </room>
+            <room name="Reception Room One">
+              <measurement_text>17' 7'' x 15' 0'' (5.36m x 4.57m)</measurement_text>
+              <description />
+            </room>
+            <room name="Reception Room Two">
+              <measurement_text>16' 4'' x 14' 2'' (4.97m x 4.31m)</measurement_text>
+              <description />
+            </room>
+            <room name="Dining Room">
+              <measurement_text>20' 11'' x 10' 11'' (6.37m x 3.32m)</measurement_text>
+              <description />
+            </room>
+            <room name="Kitchen">
+              <measurement_text>12' 0'' x 10' 11'' (3.65m x 3.32m)</measurement_text>
+              <description />
+            </room>
+            <room name="Utility Room">
+              <measurement_text>5' 7'' x 3' 2'' (1.70m x 0.96m)</measurement_text>
+              <description />
+            </room>
+            <room name="Garden Room">
+              <measurement_text>5' 9'' x 5' 7'' (1.75m x 1.70m)</measurement_text>
+              <description />
+            </room>
+            <room name="Shower Room">
+              <measurement_text>6' 2'' x 4' 6'' (1.88m x 1.37m)</measurement_text>
+              <description />
+            </room>
+            <room name="W.C">
+              <measurement_text>4' 8'' x 4' 3'' (1.42m x 1.29m)</measurement_text>
+              <description />
+            </room>
+            <room name="Lower Ground Floor">
+              <measurement_text />
+              <description />
+            </room>
+            <room name="Cellar One">
+              <measurement_text>13' 0'' x 8' 9'' (3.96m x 2.66m)</measurement_text>
+              <description />
+            </room>
+            <room name="Cellar Two">
+              <measurement_text>8' 9'' x 4' 6'' (2.66m x 1.37m)</measurement_text>
+              <description />
+            </room>
+            <room name="Cellar Three">
+              <measurement_text>11' 1'' x 8' 11'' (3.38m x 2.72m)</measurement_text>
+              <description />
+            </room>
+            <room name="First Floor">
+              <measurement_text />
+              <description />
+            </room>
+            <room name="Bedroom One">
+              <measurement_text>18' 5'' x 15' 0'' (5.61m x 4.57m)</measurement_text>
+              <description />
+            </room>
+            <room name="Bedroom Two">
+              <measurement_text>18' 5'' x 11' 2'' (5.61m x 3.40m)</measurement_text>
+              <description />
+            </room>
+            <room name="Bedroom Three">
+              <measurement_text>15' 1'' x 11' 10'' (4.59m x 3.60m)</measurement_text>
+              <description />
+            </room>
+            <room name="Bedroom Four">
+              <measurement_text>14' 5'' x 12' 2'' (4.39m x 3.71m)</measurement_text>
+              <description />
+            </room>
+            <room name="W.C">
+              <measurement_text>9' 2'' x 3' 5'' (2.79m x 1.04m)</measurement_text>
+              <description />
+            </room>
+            <room name="Bedroom Five">
+              <measurement_text>10' 11'' x 10' 11'' (3.32m x 3.32m)</measurement_text>
+              <description />
+            </room>
+            <room name="Exterior">
+              <measurement_text />
+              <description />
+            </room>
+          </rooms>
+          <pictures>
+            <picture name="Photo 35" lastchanged="2025-04-09T09:59:36.7121259Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{573f6670-6f5c-4927-8f8a-9b7bca81bd77}/main/DSC01945.jpg</filename>
+            </picture>
+            <picture name="Photo 5" lastchanged="2025-04-09T09:58:27.4405233Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{573f6670-6f5c-4927-8f8a-9b7bca81bd77}/main/DSC01815.jpg</filename>
+            </picture>
+            <picture name="Photo 8" lastchanged="2025-04-09T09:58:34.2395144Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{573f6670-6f5c-4927-8f8a-9b7bca81bd77}/main/DSC01840.jpg</filename>
+            </picture>
+            <picture name="Photo 7" lastchanged="2025-04-09T09:58:31.9409806Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{573f6670-6f5c-4927-8f8a-9b7bca81bd77}/main/DSC01833.jpg</filename>
+            </picture>
+            <picture name="Photo 2" lastchanged="2025-04-09T09:58:20.4947075Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{573f6670-6f5c-4927-8f8a-9b7bca81bd77}/main/DSC01783.jpg</filename>
+            </picture>
+            <picture name="Photo 16" lastchanged="2025-04-09T09:58:51.3389247Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{573f6670-6f5c-4927-8f8a-9b7bca81bd77}/main/DSC01869.jpg</filename>
+            </picture>
+            <picture name="Photo 18" lastchanged="2025-04-09T09:58:56.2165939Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{573f6670-6f5c-4927-8f8a-9b7bca81bd77}/main/DSC01876.jpg</filename>
+            </picture>
+            <picture name="Photo 19" lastchanged="2025-04-09T09:58:58.6074497Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{573f6670-6f5c-4927-8f8a-9b7bca81bd77}/main/DSC01881.jpg</filename>
+            </picture>
+            <picture name="Photo 14" lastchanged="2025-04-09T09:58:46.8384532Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{573f6670-6f5c-4927-8f8a-9b7bca81bd77}/main/DSC01861.jpg</filename>
+            </picture>
+            <picture name="Photo 13" lastchanged="2025-04-09T09:58:44.7757575Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{573f6670-6f5c-4927-8f8a-9b7bca81bd77}/main/DSC01858.jpg</filename>
+            </picture>
+            <picture name="Photo 26" lastchanged="2025-04-09T09:59:15.101284Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{573f6670-6f5c-4927-8f8a-9b7bca81bd77}/main/DSC01911.jpg</filename>
+            </picture>
+            <picture name="Photo 34" lastchanged="2025-04-09T09:59:34.2431037Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{573f6670-6f5c-4927-8f8a-9b7bca81bd77}/main/DSC01939.jpg</filename>
+            </picture>
+            <picture name="Photo 32" lastchanged="2025-04-09T09:59:29.0848568Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{573f6670-6f5c-4927-8f8a-9b7bca81bd77}/main/DSC01933.jpg</filename>
+            </picture>
+            <picture name="Photo 39" lastchanged="2025-04-09T09:59:46.507838Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{573f6670-6f5c-4927-8f8a-9b7bca81bd77}/main/DSC01962.jpg</filename>
+            </picture>
+            <picture name="Photo 36" lastchanged="2025-04-09T09:59:39.0584714Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{573f6670-6f5c-4927-8f8a-9b7bca81bd77}/main/DSC01948.jpg</filename>
+            </picture>
+            <picture name="Photo 41" lastchanged="2025-04-09T09:59:51.4631344Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{573f6670-6f5c-4927-8f8a-9b7bca81bd77}/main/DSC01971.jpg</filename>
+            </picture>
+            <picture name="Photo 17" lastchanged="2025-10-14T15:47:51.2223115Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{573f6670-6f5c-4927-8f8a-9b7bca81bd77}/main/135-Whitstable-Road-Floorplan2.jpg</filename>
+            </picture>
+          </pictures>
+          <floorplans>
+            <floorplan name="">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{573f6670-6f5c-4927-8f8a-9b7bca81bd77}/Floorplan_Floorplan1.jpg</filename>
             </floorplan>
           </floorplans>
         </property>
@@ -6111,6 +6532,186 @@ Outside, the property enjoys a good-sized garden, providing plenty of room for o
             </floorplan>
           </floorplans>
         </property>
+        <property reference="CB003776" hash="8E24071D076FC6518E1F5A64F9166278">
+          <availableFrom />
+          <instructedDate>21/06/2025 09:34:05</instructedDate>
+          <department>Residential Sales</department>
+          <propertyofweek>NO</propertyofweek>
+          <price_text>£325,000</price_text>
+          <numeric_price>325000.0000</numeric_price>
+          <bedrooms>2</bedrooms>
+          <receptions>2</receptions>
+          <bathrooms>1</bathrooms>
+          <priority>On Market</priority>
+          <tenure>Freehold</tenure>
+          <advert_heading>Cross Street, Canterbury</advert_heading>
+          <main_advert>A beautifully presented two-bedroom Victorian terraced house is situated on the desirable and peaceful location. &lt;br /&gt;
+&lt;br /&gt;
+2 Bedroom House&lt;br /&gt;
+2 Reception Rooms&lt;br /&gt;
+City Centre&lt;br /&gt;
+Close to Station&lt;br /&gt;
+Courtyard Garden &lt;br /&gt;
+Lots of Character&lt;br /&gt;
+Must to View&lt;br /&gt;</main_advert>
+          <advert2>&lt;p style="text-align: justify;"&gt;This beautifully presented two-bedroom Victorian terraced house is situated on the desirable and peaceful Cross Street, in the ever-popular St. Dunstan&amp;rsquo;s quarter of Canterbury. Just a short stroll from the city centre and Canterbury West station, the property offers the perfect balance of period charm and modern living.
+On the ground floor, the entrance leads into a bright and welcoming living room, complete with a traditional cast-iron fireplace, bespoke shelving, and large sash-style window allowing natural light to fill the space.
+&lt;br /&gt;
+&lt;br /&gt;
+To the rear, a separate dining area with exposed wood flooring flows into a stylishly finished kitchen with cream shaker units, solid wood worktops, and white tiled splash backs. Integrated oven, hob, and space for white goods complete this practical, well-designed space. French doors at the rear lead out to a tidy courtyard garden, ideal for low-maintenance outdoor entertaining or a morning coffee.
+Upstairs, the home boasts two good-sized bedrooms, both neutrally decorated with ample space for storage. The bathroom is well-fitted and continues the tasteful finish seen throughout the home.
+This property is ready to move straight into, ideal for those looking to enjoy the vibrant Canterbury lifestyle without compromise.
+&lt;br /&gt;
+&lt;br /&gt;
+Cross Street is a tranquil road set within walking distance of the historic city centre, Canterbury West Station (with high-speed services to London St Pancras in under an hour), and excellent local schools, shops, restaurants and the University of Kent.
+The location is perfect for professionals, couples, or landlords seeking a characterful and convenient home.
+&lt;br /&gt;
+&lt;br /&gt;
+Council tax band: D&lt;br /&gt;
+&lt;br /&gt;
+Tenure - Freehold &lt;br /&gt;
+&lt;br /&gt;
+EPC Rating: 67D&lt;/p&gt;</advert2>
+          <advert3>&lt;p style="text-align: justify;"&gt;&lt;span style="text-align: justify;"&gt;This beautifully presented two-bedroom Victorian terraced house is situated on the desirable and peaceful Cross Street, in the ever-popular St. Dunstan&amp;rsquo;s quarter of Canterbury. Just a short stroll from the city centre and Canterbury West station, the property offers the perfect balance of period charm and modern living. On the ground floor, the entrance leads into a bright and welcoming living room, complete with a traditional cast-iron fireplace, bespoke shelving, and large sash-style window allowing natural light to fill the space. To the rear, a separate dining area with exposed wood flooring flows into a stylishly finished kitchen with cream shaker units, solid wood worktops, and white tiled splash backs. Integrated oven, hob, and space for white goods complete this practical, well-designed space. French doors at the rear lead out to a tidy courtyard garden, ideal for low-maintenance outdoor entertaining or a morning coffee. Upstairs, the home boasts two good-sized bedrooms, both neutrally decorated with ample space for storage. The bathroom is well-fitted and continues the tasteful finish seen throughout the home. This property is ready to move straight into, ideal for those looking to enjoy the vibrant. &lt;/span&gt;&lt;/p&gt;</advert3>
+          <advert4>&lt;span style="text-align: justify;"&gt;Canterbury lifestyle without compromise. Cross Street is a tranquil road set within walking distance of the historic city centre, Canterbury West Station (with high-speed services to London St Pancras in under an hour), and excellent local schools, shops, restaurants and the University of Kent. The location is perfect for professionals, couples, or landlords seeking a characterful and convenient home. &lt;/span&gt;</advert4>
+          <advert5>All mains services are understood to be connected to the property. </advert5>
+          <advert6 />
+          <house_number>24</house_number>
+          <street>Cross Street</street>
+          <district />
+          <town>Canterbury</town>
+          <county>Kent</county>
+          <postcode>CT2 8AT</postcode>
+          <country>UK</country>
+          <area>Canterbury Centre</area>
+          <bullet1>2 Bedroom House </bullet1>
+          <bullet2>St Dunstan's Area</bullet2>
+          <bullet3>Close to Station </bullet3>
+          <bullet4>Courtyard Garden  </bullet4>
+          <bullet5>Lots of Character </bullet5>
+          <bullet6>No Onward Chain</bullet6>
+          <bullet7>Must to view</bullet7>
+          <bullet8 />
+          <bullet9 />
+          <bullet10 />
+          <bullet11 />
+          <bullet12 />
+          <bullet13 />
+          <bullet14 />
+          <bullet15 />
+          <bullet16 />
+          <bullet17 />
+          <bullet18 />
+          <bullet19 />
+          <bullet20 />
+          <brochure>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{7CD71CB1-C916-415D-B67D-5351A474D736}/external.pdf</brochure>
+          <agency_region>KENT</agency_region>
+          <agency_district>CANTERBURY</agency_district>
+          <agency_location>Canterbury Centre</agency_location>
+          <web_link>https://www.properties.charlesbainbridge.com/index.php?option=com_eapow&amp;format=html&amp;task=property.getProp&amp;?pid=7CD71CB1-C916-415D-B67D-5351A474D736&amp;aid=C46B2F24-B9CD-417A-9879-F8C0E2A6C226</web_link>
+          <latitude>51.2828826904297</latitude>
+          <longitude>1.07075023651123</longitude>
+          <qrcode>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{7CD71CB1-C916-415D-B67D-5351A474D736}/qr.png</qrcode>
+          <epc />
+          <hips>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{7CD71CB1-C916-415D-B67D-5351A474D736}/HIPS/EPC - 24 Cross Street.pdf</hips>
+          <filename3 />
+          <filename4 />
+          <filename5 />
+          <filename6 />
+          <virtual_tour_url />
+          <property_type>House</property_type>
+          <commercial_type />
+          <property_style>Terraced</property_style>
+          <property_reference>12685344</property_reference>
+          <newHome>NO</newHome>
+          <noChain>YES</noChain>
+          <furnished>Unknown</furnished>
+          <portalFee />
+          <currency />
+          <featuredProperty>NO</featuredProperty>
+          <number1 name="" value="0" />
+          <number2 name="" value="0" />
+          <number3 name="" value="0" />
+          <number4 name="" value="0" />
+          <number5 name="" value="0" />
+          <number6 name="" value="0" />
+          <number7 name="" value="0" />
+          <number8 name="" value="0" />
+          <number9 name="" value="0" />
+          <number10 name="" value="0" />
+          <rooms>
+            <room name="Lounge">
+              <measurement_text>10' 10'' x 10' 2'' (3.30m x 3.10m)</measurement_text>
+              <description />
+            </room>
+            <room name="Dining Room">
+              <measurement_text>10' 10'' x 8' 2'' (3.30m x 2.49m)</measurement_text>
+              <description />
+            </room>
+            <room name="Kitchen">
+              <measurement_text>10' 10'' x 9' 9'' (3.30m x 2.97m)</measurement_text>
+              <description />
+            </room>
+            <room name="Bathroom">
+              <measurement_text>8' 4'' x 5' 3'' (2.54m x 1.60m)</measurement_text>
+              <description />
+            </room>
+            <room name="First Floor">
+              <measurement_text />
+              <description />
+            </room>
+            <room name="Landing">
+              <measurement_text />
+              <description />
+            </room>
+            <room name="Bedroom One">
+              <measurement_text>11' 0'' x 10' 1'' (3.35m x 3.07m)</measurement_text>
+              <description />
+            </room>
+            <room name="Bedroom Two">
+              <measurement_text>8' 2'' x 8' 1'' (2.49m x 2.46m)</measurement_text>
+              <description />
+            </room>
+            <room name="Exterior">
+              <measurement_text />
+              <description />
+            </room>
+          </rooms>
+          <pictures>
+            <picture name="Photo 10" lastchanged="2025-06-20T14:42:26.3768452Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{7cd71cb1-c916-415d-b67d-5351a474d736}/main/24-Cross-FRONT.jpg</filename>
+            </picture>
+            <picture name="Photo 9" lastchanged="2025-11-26T09:06:56.5937547Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{7cd71cb1-c916-415d-b67d-5351a474d736}/main/CAM02660G0-PR0104-STILL002.jpg</filename>
+            </picture>
+            <picture name="Photo 10" lastchanged="2025-11-26T09:06:57.0469058Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{7cd71cb1-c916-415d-b67d-5351a474d736}/main/CAM02660G0-PR0104-STILL005.jpg</filename>
+            </picture>
+            <picture name="Photo 11" lastchanged="2025-11-26T09:06:57.5001032Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{7cd71cb1-c916-415d-b67d-5351a474d736}/main/CAM02660G0-PR0104-STILL010.jpg</filename>
+            </picture>
+            <picture name="Photo 12" lastchanged="2025-11-26T09:06:57.8438625Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{7cd71cb1-c916-415d-b67d-5351a474d736}/main/CAM02660G0-PR0104-STILL011.jpg</filename>
+            </picture>
+            <picture name="Photo 14" lastchanged="2025-11-26T09:06:58.1729957Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{7cd71cb1-c916-415d-b67d-5351a474d736}/main/CAM02660G0-PR0104-STILL017.jpg</filename>
+            </picture>
+            <picture name="Photo 13" lastchanged="2025-11-26T09:06:58.0162888Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{7cd71cb1-c916-415d-b67d-5351a474d736}/main/CAM02660G0-PR0104-STILL013-(1).jpg</filename>
+            </picture>
+            <picture name="Photo 11" lastchanged="2025-06-20T14:42:26.6581385Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{7cd71cb1-c916-415d-b67d-5351a474d736}/main/24-Cross-Garden.jpg</filename>
+            </picture>
+            <picture name="Photo 9" lastchanged="2025-09-26T08:30:26.6888257Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{7cd71cb1-c916-415d-b67d-5351a474d736}/main/24-Cross-Street-Floorplan.jpg</filename>
+            </picture>
+          </pictures>
+          <floorplans>
+            <floorplan name="">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{7cd71cb1-c916-415d-b67d-5351a474d736}/Floorplan_Floorplan1.jpg</filename>
+            </floorplan>
+          </floorplans>
+        </property>
         <property reference="CB003796" hash="F08B68D3A83D9DEA2FED7F28A9612768">
           <availableFrom />
           <instructedDate>24/07/2025 16:13:53</instructedDate>
@@ -7223,7 +7824,8 @@ What3Words:///torches.parkland.grinders&lt;/p&gt;</advert2>
             <room name="Outside">
               <measurement_text />
               <description>
-              </description>
+
+</description>
             </room>
             <room name="Front Garden">
               <measurement_text />
@@ -7483,12 +8085,12 @@ Externally to the front of the property there is off street parking for 3-4 cars
             <room name="Bedroom Three">
               <measurement_text>9' 0'' x 11' 0'' (2.74m x 3.35m)</measurement_text>
               <description>
-              </description>
+ </description>
             </room>
             <room name="Bedroom Four">
               <measurement_text>7' 0'' x 7' 0'' (2.13m x 2.13m)</measurement_text>
               <description>
-              </description>
+</description>
             </room>
             <room name="Bathroom">
               <measurement_text>6' 0'' x 6' 0'' (1.83m x 1.83m)</measurement_text>
@@ -7533,7 +8135,8 @@ Externally to the front of the property there is off street parking for 3-4 cars
             <room name="Rear Garden">
               <measurement_text />
               <description>
-              </description>
+
+</description>
             </room>
           </rooms>
           <pictures>
@@ -9562,6 +10165,302 @@ What3Words:///foster.helps.copies&lt;/span&gt;&lt;/p&gt;
           <floorplans>
             <floorplan name="">
               <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{8744d1d7-f54a-4109-90e5-aee51496b0b2}/Floorplan_Floorplan1.jpg</filename>
+            </floorplan>
+          </floorplans>
+        </property>
+        <property reference="CB003875" hash="25859D261DC4CB4C7DB958207253CC7B">
+          <availableFrom />
+          <instructedDate>08/12/2025 15:26:53</instructedDate>
+          <department>Residential Sales</department>
+          <propertyofweek>NO</propertyofweek>
+          <price_text>£350,000</price_text>
+          <numeric_price>350000.0000</numeric_price>
+          <bedrooms>3</bedrooms>
+          <receptions>2</receptions>
+          <bathrooms>3</bathrooms>
+          <priority>On Market</priority>
+          <tenure>Freehold</tenure>
+          <advert_heading>Smith Way, Canterbury</advert_heading>
+          <main_advert>&lt;br&gt;Located within a popular modern development on the outskirts of Canterbury, Smith Way is an immaculate three-bedroom semi-detached home arranged over three floors and finished to a superb standard throughout.
+
+Immaculate townhouse 
+3 Bedrooms, including an impressive master suite
+Beautiful presented living room
+Stylish kitchen/dining room
+Landscaped rear garden
+Garage 
+Parking for 2 cars &amp; EV charger. 
+Desirable location
+</main_advert>
+          <advert2>Located within a popular modern development on the outskirts of Canterbury, Smith Way is an immaculate three-bedroom semi-detached home arranged over three floors and finished to a superb standard throughout.
+A bright and welcoming entrance hall leads into a beautifully presented living room, positioned at the front of the house and filled with natural light. To the rear, the stylish kitchen and dining room features sleek cabinetry, generous worktop space and integrated appliances, with French doors opening directly onto the garden allowing for indoor and outdoor living. A downstairs W/C also serves the ground floor.
+On the first floor are two well-proportioned bedrooms along with a modern family bathroom finished with quality tiling and fittings. The layout offers great flexibility, with one bedroom equally suited as a guest room, nursery or home office. The entire top floor is dedicated to the impressive master suite, a spacious and tranquil room with built-in storage and a contemporary en-suite shower room, offering an excellent sense of privacy.
+The rear garden has been thoughtfully landscaped to provide an attractive yet low-maintenance outdoor space, featuring raised beds, a gravelled seating area, and a pergola creating a sheltered spot for entertaining or relaxing. The garage sits to the side of the home and has electric, infront of the garage is parking for two cars and EV charger.
+Smith Way is well placed for access to Canterbury&amp;rsquo;s historic city centre, a range of highly regarded schools, local amenities and excellent transport links, including high-speed rail services to London. With its modern layout, generous accommodation and immaculate finish, Smith Way represents a fantastic opportunity for families, professionals or anyone seeking a move-in-ready home in a convenient and desirable location.
+EPC: 85B Council Tax: D Tenure: Freehold</advert2>
+          <advert3>Located within a popular modern development on the outskirts of Canterbury, Smith Way is an immaculate three-bedroom semi-detached home arranged over three floors and finished to a superb standard throughout.
+A bright and welcoming entrance hall leads into a beautifully presented living room, positioned at the front of the house and filled with natural light. To the rear, the stylish kitchen and dining room features sleek cabinetry, generous worktop space and integrated appliances, with French doors opening directly onto the garden allowing for indoor and outdoor living. A downstairs W/C also serves the ground floor.
+On the first floor are two well-proportioned bedrooms along with a modern family bathroom finished with quality tiling and fittings. The layout offers great flexibility, with one bedroom equally suited as a guest room, nursery or home office. The entire top floor is dedicated to the impressive master suite, a spacious and tranquil room with built-in storage and a contemporary en-suite shower room, offering an excellent sense of privacy.
+The rear garden has been thoughtfully landscaped to provide an attractive yet low-maintenance outdoor space, featuring raised beds, a gravelled seating area, and a pergola creating a sheltered spot for entertaining or relaxing. The garage sits to the side of the home, alongside parking for two cars and EV charger.</advert3>
+          <advert4>Smith Way is well placed for access to Canterbury&amp;rsquo;s historic city centre, a range of highly regarded schools, local amenities and excellent transport links, including high-speed rail services to London. With its modern layout, generous accommodation and immaculate finish,  Smith Way represents a fantastic opportunity for families, professionals or anyone seeking a move-in-ready home in a convenient and desirable location.</advert4>
+          <advert5>Mains drainage, electricity, water and gas are connected to the property. </advert5>
+          <advert6 />
+          <house_number>34</house_number>
+          <street>Smith Way</street>
+          <district />
+          <town>Canterbury</town>
+          <county>Kent</county>
+          <postcode>CT1 1WD</postcode>
+          <country>UK</country>
+          <area>Canterbury Centre</area>
+          <bullet1>Immaculate townhouse</bullet1>
+          <bullet2>3 Bedrooms, including an impressive master suite</bullet2>
+          <bullet3>Beautiful presented living room</bullet3>
+          <bullet4>Stylish kitchen/dining room</bullet4>
+          <bullet5>Landscaped rear garden</bullet5>
+          <bullet6>Garage</bullet6>
+          <bullet7>Parking for 2 cars &amp; EV charger</bullet7>
+          <bullet8>Desirable location</bullet8>
+          <bullet9 />
+          <bullet10 />
+          <bullet11 />
+          <bullet12 />
+          <bullet13 />
+          <bullet14 />
+          <bullet15 />
+          <bullet16 />
+          <bullet17 />
+          <bullet18 />
+          <bullet19 />
+          <bullet20 />
+          <brochure>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{2F4AADA3-6457-471F-ACF5-E112E8F45E03}/external.pdf</brochure>
+          <agency_region>KENT</agency_region>
+          <agency_district>CANTERBURY</agency_district>
+          <agency_location>Canterbury Centre</agency_location>
+          <web_link>https://www.properties.charlesbainbridge.com/index.php?option=com_eapow&amp;format=html&amp;task=property.getProp&amp;?pid=2F4AADA3-6457-471F-ACF5-E112E8F45E03&amp;aid=C46B2F24-B9CD-417A-9879-F8C0E2A6C226</web_link>
+          <latitude>0</latitude>
+          <longitude>0</longitude>
+          <qrcode>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{2F4AADA3-6457-471F-ACF5-E112E8F45E03}/qr.png</qrcode>
+          <epc />
+          <hips>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{2F4AADA3-6457-471F-ACF5-E112E8F45E03}/HIPS/EPC 34 Smith Way.pdf</hips>
+          <filename3 />
+          <filename4 />
+          <filename5 />
+          <filename6 />
+          <virtual_tour_url />
+          <property_type>House</property_type>
+          <commercial_type />
+          <property_style>Semi Detached</property_style>
+          <property_reference>12766611</property_reference>
+          <newHome>NO</newHome>
+          <noChain>NO</noChain>
+          <furnished>Unknown</furnished>
+          <portalFee />
+          <currency />
+          <featuredProperty>NO</featuredProperty>
+          <number1 name="" value="0" />
+          <number2 name="" value="0" />
+          <number3 name="" value="0" />
+          <number4 name="" value="0" />
+          <number5 name="" value="0" />
+          <number6 name="" value="0" />
+          <number7 name="" value="0" />
+          <number8 name="" value="0" />
+          <number9 name="" value="0" />
+          <number10 name="" value="0" />
+          <rooms />
+          <pictures>
+            <picture name="Photo 1" lastchanged="2025-12-08T10:42:47.3093811Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{2f4aada3-6457-471f-acf5-e112e8f45e03}/main/DSC03578.jpg</filename>
+            </picture>
+            <picture name="Photo 2" lastchanged="2025-12-08T10:43:38.5125516Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{2f4aada3-6457-471f-acf5-e112e8f45e03}/main/DSC03594-Edit.jpg</filename>
+            </picture>
+            <picture name="Photo 4" lastchanged="2025-12-08T10:44:28.0656808Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{2f4aada3-6457-471f-acf5-e112e8f45e03}/main/DSC03619-Edit.jpg</filename>
+            </picture>
+            <picture name="Photo 3" lastchanged="2025-12-08T10:44:25.9848626Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{2f4aada3-6457-471f-acf5-e112e8f45e03}/main/DSC03605-Edit.jpg</filename>
+            </picture>
+            <picture name="Photo 6" lastchanged="2025-12-08T10:46:14.6825262Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{2f4aada3-6457-471f-acf5-e112e8f45e03}/main/DSC03634-Edit.jpg</filename>
+            </picture>
+            <picture name="Photo 7" lastchanged="2025-12-08T10:46:16.69887Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{2f4aada3-6457-471f-acf5-e112e8f45e03}/main/DSC03639-Edit.jpg</filename>
+            </picture>
+            <picture name="Photo 10" lastchanged="2025-12-08T10:50:44.2191895Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{2f4aada3-6457-471f-acf5-e112e8f45e03}/main/DSC03668-Edit.jpg</filename>
+            </picture>
+            <picture name="Photo 8" lastchanged="2025-12-08T10:46:45.0555024Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{2f4aada3-6457-471f-acf5-e112e8f45e03}/main/DSC03648-Edit.jpg</filename>
+            </picture>
+            <picture name="Photo 9" lastchanged="2025-12-08T10:47:39.4704516Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{2f4aada3-6457-471f-acf5-e112e8f45e03}/main/DSC03664-Edit.jpg</filename>
+            </picture>
+            <picture name="Photo 5" lastchanged="2025-12-08T10:45:57.2628865Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{2f4aada3-6457-471f-acf5-e112e8f45e03}/main/DSC03623.jpg</filename>
+            </picture>
+            <picture name="Photo 11" lastchanged="2025-12-08T10:52:11.8886806Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{2f4aada3-6457-471f-acf5-e112e8f45e03}/main/DSC03587.jpg</filename>
+            </picture>
+            <picture name="Photo 12" lastchanged="2025-12-08T14:23:45.363169Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{2f4aada3-6457-471f-acf5-e112e8f45e03}/main/floorplan_converted.jpg</filename>
+            </picture>
+          </pictures>
+          <floorplans>
+            <floorplan name="">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{2f4aada3-6457-471f-acf5-e112e8f45e03}/Floorplan_1.jpg</filename>
+            </floorplan>
+          </floorplans>
+        </property>
+        <property reference="CB003878" hash="E8D5D78D2A4E28D3B8C18456A98FB816">
+          <availableFrom />
+          <instructedDate>30/10/2025 09:32:17</instructedDate>
+          <department>Residential Sales</department>
+          <propertyofweek>NO</propertyofweek>
+          <price_text>£370,000</price_text>
+          <numeric_price>370000.0000</numeric_price>
+          <bedrooms>3</bedrooms>
+          <receptions>2</receptions>
+          <bathrooms>1</bathrooms>
+          <priority>On Market</priority>
+          <tenure>Freehold</tenure>
+          <advert_heading>Ramsey Close, Canterbury</advert_heading>
+          <main_advert>A delightful semi-detached house offering a perfect blend of comfort and convenience, situated in a residential cul-de-sac in a highly regarded area.&lt;br /&gt;
+&lt;br /&gt;
+3 Bedrooms&lt;br /&gt;
+Large Living Room&lt;br /&gt;
+Kitchen/Dining Room&lt;br /&gt;
+Contemporary family bathroom&lt;br /&gt;
+Pretty Rear Garden&lt;br /&gt;
+Long driveway providing parking&lt;br /&gt;
+Enviable location&lt;br /&gt;
+&lt;span style="text-align: justify;"&gt;EPC Rating: 57D&lt;/span&gt;</main_advert>
+          <advert2>&lt;p style="text-align: justify;"&gt;A delightful semi-detached house offering a perfect blend of comfort and convenience, situated in a residential cul-de-sac in a highly regarded area. The accommodation is attractively presented throughout and includes a spacious lounge/dining room providing a bright and airy atmosphere, perfect for both relaxing and entertaining. The well-equipped kitchen offers a range of wall, drawer, and floor units with a large window overlooking and door opening onto the garden. The ground floor also features a contemporary family bathroom.&lt;br /&gt;
+&lt;br /&gt;
+From the hallway, a staircase accesses the first floor where there are three good-sized bedrooms. The main bedroom is a double benefitting from built in storage. The second bedroom is also a good size with the third being smaller, ideal for either a child or a home office. The property benefits from double-glazed windows and doors and is ideal for families and first-time buyers alike.&lt;br /&gt;
+&lt;br /&gt;
+The property is set in an enviable location with a host of nearby facilities in St. Dunstan's including The Goods Shed which incorporates Farmer's Market style shopping with quality butcher, greengrocer and fishmonger amongst many others, plus a highly regarded restaurant. Sainsbury's Local is also nearby together with a wide range of independent retailers. The City center is within easy reach and offers a comprehensive range of shops, restaurants and leisure facilities and excellent transport links including Canterbury West station which is only a short walk away and provides High Speed rail services to London St. Pancras with a journey time of approx. 55 mins. Canterbury is renowned for its rich history, top-rated schools, and vibrant cultural scene, making it an excellent place for families and professionals.
+&lt;br /&gt;
+&lt;br /&gt;
+Council tax band: D&lt;br /&gt;
+&lt;br /&gt;
+Tenure: Freehold &lt;br /&gt;
+&lt;br /&gt;
+EPC Rating: 57D&lt;br /&gt;
+&lt;br /&gt;
+What3Words:///index.basket.icons&lt;/p&gt;</advert2>
+          <advert3>&lt;p style="text-align: justify;"&gt;&lt;span style="text-align: justify;"&gt;A delightful semi-detached house offering a perfect blend of comfort and convenience, situated in a residential cul-de-sac in a highly regarded area. The accommodation is attractively presented throughout and includes a spacious lounge/dining room providing a bright and airy atmosphere, perfect for both relaxing and entertaining. The well-equipped kitchen offers a range of wall, drawer, and floor units with a large window overlooking and door opening onto the garden. The ground floor also features a contemporary family bathroom.&lt;/span&gt;&lt;br style="text-align: justify;" /&gt;
+&lt;br style="text-align: justify;" /&gt;
+&lt;span style="text-align: justify;"&gt;From the hallway, a staircase accesses the first floor where there are three good-sized bedrooms. The main bedroom is a double benefitting from built in storage. The second bedroom is also a good size with the third being smaller, ideal for either a child or a home office. The property benefits from double-glazed windows and doors and is ideal for families and first-time buyers alike.&lt;/span&gt;&lt;/p&gt;</advert3>
+          <advert4>&lt;p style="text-align: justify;"&gt;&lt;span style="text-align: justify;"&gt;The property is set in an enviable location with a host of nearby facilities in St. Dunstan's including The Goods Shed which incorporates Farmer's Market style shopping with quality butcher, greengrocer and fishmonger amongst many others, plus a highly regarded restaurant. Sainsbury's Local is also nearby together with a wide range of independent retailers. The City center is within easy reach and offers a comprehensive range of shops, restaurants and leisure facilities and excellent transport links including Canterbury West station which is only a short walk away and provides High Speed rail services to &lt;/span&gt;&lt;span style="text-align: justify;"&gt;London St. Pancras with a journey time of approx. 55 mins. Canterbury is renowned for its rich history, top-rated schools, and vibrant cultural scene, making it an excellent place for families and professionals.&lt;/span&gt;&lt;br style="text-align: justify;" /&gt;
+&lt;/p&gt;</advert4>
+          <advert5>All mains services are understood to be connected to the property. </advert5>
+          <advert6 />
+          <house_number>20</house_number>
+          <street>Ramsey Close</street>
+          <district />
+          <town>Canterbury</town>
+          <county>Kent</county>
+          <postcode>CT2 8DL</postcode>
+          <country>UK</country>
+          <area>Canterbury Centre</area>
+          <bullet1>3 Bedrooms</bullet1>
+          <bullet2>Large Living Room</bullet2>
+          <bullet3>Kitchen/Dining Room</bullet3>
+          <bullet4>Contemporary family bathroom</bullet4>
+          <bullet5>Pretty Rear Garden</bullet5>
+          <bullet6>Long driveway providing parking</bullet6>
+          <bullet7>Enviable location</bullet7>
+          <bullet8>EPC Rating: 57D</bullet8>
+          <bullet9 />
+          <bullet10 />
+          <bullet11 />
+          <bullet12 />
+          <bullet13 />
+          <bullet14 />
+          <bullet15 />
+          <bullet16 />
+          <bullet17 />
+          <bullet18 />
+          <bullet19 />
+          <bullet20 />
+          <brochure>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{7EB6D145-D8E6-44DF-8E23-CF081DA24668}/external.pdf</brochure>
+          <agency_region>KENT</agency_region>
+          <agency_district>CANTERBURY</agency_district>
+          <agency_location>Canterbury Centre</agency_location>
+          <web_link>https://www.properties.charlesbainbridge.com/index.php?option=com_eapow&amp;format=html&amp;task=property.getProp&amp;?pid=7EB6D145-D8E6-44DF-8E23-CF081DA24668&amp;aid=C46B2F24-B9CD-417A-9879-F8C0E2A6C226</web_link>
+          <latitude>51.2848320007324</latitude>
+          <longitude>1.06778216362</longitude>
+          <qrcode>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{7EB6D145-D8E6-44DF-8E23-CF081DA24668}/qr.png</qrcode>
+          <epc />
+          <hips>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{7EB6D145-D8E6-44DF-8E23-CF081DA24668}/HIPS/Energy performance certificate (EPC) – Find an energy certificate – GOV.UK.pdf</hips>
+          <filename3 />
+          <filename4 />
+          <filename5 />
+          <filename6 />
+          <virtual_tour_url />
+          <property_type>House</property_type>
+          <commercial_type />
+          <property_style>Semi Detached</property_style>
+          <property_reference>12769159</property_reference>
+          <newHome>NO</newHome>
+          <noChain>NO</noChain>
+          <furnished>Unknown</furnished>
+          <portalFee />
+          <currency />
+          <featuredProperty>NO</featuredProperty>
+          <text2 name="" value="Provided by seller. Copy on events - Property docs. AD" />
+          <date2 name="Title Plan" value="30/10/2025 00:00:00" />
+          <number1 name="" value="0" />
+          <number2 name="" value="0" />
+          <number3 name="" value="0" />
+          <number4 name="" value="0" />
+          <number5 name="" value="0" />
+          <number6 name="" value="0" />
+          <number7 name="" value="0" />
+          <number8 name="" value="0" />
+          <number9 name="" value="0" />
+          <number10 name="" value="0" />
+          <rooms />
+          <pictures>
+            <picture name="Photo 11" lastchanged="2025-10-24T14:41:16.5337597Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{7eb6d145-d8e6-44df-8e23-cf081da24668}/main/DSC_4281.jpg</filename>
+            </picture>
+            <picture name="Photo 2" lastchanged="2025-10-24T14:41:13.2611557Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{7eb6d145-d8e6-44df-8e23-cf081da24668}/main/DSC_4105.jpg</filename>
+            </picture>
+            <picture name="Photo 3" lastchanged="2025-10-24T14:41:13.4188218Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{7eb6d145-d8e6-44df-8e23-cf081da24668}/main/DSC_4140.jpg</filename>
+            </picture>
+            <picture name="Photo 13" lastchanged="2025-10-27T17:49:08.651502Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{7eb6d145-d8e6-44df-8e23-cf081da24668}/main/decluttered_kitchen.jpg</filename>
+            </picture>
+            <picture name="Photo 12" lastchanged="2025-10-27T17:48:52.8487693Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{7eb6d145-d8e6-44df-8e23-cf081da24668}/main/decluttered_kitchen-(1).jpg</filename>
+            </picture>
+            <picture name="Photo 8" lastchanged="2025-10-24T14:41:15.1554706Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{7eb6d145-d8e6-44df-8e23-cf081da24668}/main/DSC_4241.jpg</filename>
+            </picture>
+            <picture name="Photo 7" lastchanged="2025-10-24T14:41:14.7335389Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{7eb6d145-d8e6-44df-8e23-cf081da24668}/main/DSC_4219.jpg</filename>
+            </picture>
+            <picture name="Photo 9" lastchanged="2025-10-24T14:41:15.5947096Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{7eb6d145-d8e6-44df-8e23-cf081da24668}/main/DSC_4271.jpg</filename>
+            </picture>
+            <picture name="Photo 6" lastchanged="2025-10-24T14:41:14.3095548Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{7eb6d145-d8e6-44df-8e23-cf081da24668}/main/DSC_4175.jpg</filename>
+            </picture>
+            <picture name="Photo 10" lastchanged="2025-10-24T14:41:16.0644995Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{7eb6d145-d8e6-44df-8e23-cf081da24668}/main/DSC_4274.jpg</filename>
+            </picture>
+            <picture name="Photo 11" lastchanged="2025-10-25T14:02:30.4008945Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{7eb6d145-d8e6-44df-8e23-cf081da24668}/main/20RAMSEYCLOSECT28DL-High-(1).jpg</filename>
+            </picture>
+          </pictures>
+          <floorplans>
+            <floorplan name="">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{7eb6d145-d8e6-44df-8e23-cf081da24668}/Floorplan_Floorplan1.jpg</filename>
             </floorplan>
           </floorplans>
         </property>
@@ -13780,903 +14679,6 @@ Council Tax Band D. EPC Rating 67D Security deposit to be held is &amp;pound;285
           <floorplans>
             <floorplan name="">
               <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{718ce1d7-4ff3-4570-89c7-4e42d6ded66e}/Floorplan_Floorplan1.jpg</filename>
-            </floorplan>
-          </floorplans>
-        </property>
-        <property reference="CB003407" hash="F6196B21376122800978748B0160E233">
-          <availableFrom />
-          <instructedDate>09/12/2025 09:08:52</instructedDate>
-          <department>Residential Sales</department>
-          <propertyofweek>NO</propertyofweek>
-          <price_text>£675,000</price_text>
-          <numeric_price>675000.0000</numeric_price>
-          <bedrooms>4</bedrooms>
-          <receptions>2</receptions>
-          <bathrooms>2</bathrooms>
-          <priority>On Market</priority>
-          <tenure>Freehold</tenure>
-          <advert_heading>Windmill Close, Canterbury</advert_heading>
-          <main_advert>&lt;br&gt;A charming Grade II listed building, Windmill Close offers a beautifully balanced blend of period character and comfortable modern living. </main_advert>
-          <advert2>St. Martins, built in 1817, is a remarkable Grade II listed building, a blend of historic charm and modern living. The mill has recently undergone complete renovation to provide spacious accommodation across four floors &amp;ndash; this property is indeed a rare find.
-Tucked away down a quiet private road, the windmill stands in a generous plot offering panoramic views of Canterbury, including its magnificent Cathedral, less than a mile away.
-The ground floor of the mill has a generously proportioned lounge with charming exposed brickwork and original beams. In contrast, the adjoining kitchen is brand new and beyond this a delightful garden room with vaulted ceiling, a convenient W.C., log burning stove and access to the remarkable garden.
-On the first floor is the largest of the four spacious bedrooms, as well as a bathroom and separate shower room. The second floor houses another double bedroom and a good size single room, ideal for use as a study or home office. At the top of the mill on the third floor, a further double bedroom with panoramic views.
-The outdoor space reflects the spaciousness to be found inside the windmill itself. The grounds have been carefully cultivated for decades and are laid out in a series of lawns, each with its own well-stocked borders. A patio area for outdoor dining and a grape-covered pergola provide a shady retreat during the summer months. Whether you&amp;rsquo;re hosting summer barbecues or enjoying a quiet morning coffee, this garden provides a private and tranquil setting.
-The windmill boasts driveway parking for three cars and a detached garage.</advert2>
-          <advert3>St. Martins, built in 1817, is a remarkable Grade II listed building, a blend of historic charm and modern living. The mill has recently undergone complete renovation to provide spacious accommodation across four floors – this property is indeed a rare find.
-
-Tucked away down a quiet private road, the windmill stands in a generous plot offering panoramic views of Canterbury, including its magnificent Cathedral, less than a mile away.
-
-The ground floor of the mill has a generously proportioned lounge/dining room with charming exposed brickwork and original beams. In contrast, the adjoining kitchen is brand new and beyond this a delightful garden room with vaulted ceiling, plus a convenient W.C., log burning stove and access to the remarkable garden.
-
-On the first floor is the largest of the four spacious bedrooms, as well as a bathroom and separate shower room. The second floor houses another double bedroom and a good size single room, ideal for use as a study or home office. At the top of the mill on the third floor, a further double bedroom with panoramic views.</advert3>
-          <advert4>The outdoor space reflects the spaciousness to be found inside the windmill itself. The grounds have been carefully cultivated for decades and are laid out in a series of lawns, each with its own well-stocked borders. A patio area for outdoor dining and a grape-covered pergola provide a shady retreat during the summer months. Whether you’re hosting summer barbecues or enjoying a quiet morning coffee, this garden provides a private and tranquil setting.
-
-The windmill boasts driveway parking for three cars and a detached garage.</advert4>
-          <advert5 />
-          <advert6 />
-          <house_number>6</house_number>
-          <street>Windmill Close</street>
-          <district />
-          <town>Canterbury</town>
-          <county>Kent</county>
-          <postcode>CT1 1PT</postcode>
-          <country>UK</country>
-          <area>Canterbury Centre</area>
-          <bullet1>Historic Grade II Listed Windmill</bullet1>
-          <bullet2>Four Bedrooms</bullet2>
-          <bullet3>Flexible Living Accomodation</bullet3>
-          <bullet4>Parking for Several Cars</bullet4>
-          <bullet5>Two Bath/Shower Rooms</bullet5>
-          <bullet6>Large Garden</bullet6>
-          <bullet7>Prime Canterbury Location </bullet7>
-          <bullet8 />
-          <bullet9 />
-          <bullet10 />
-          <bullet11 />
-          <bullet12 />
-          <bullet13 />
-          <bullet14 />
-          <bullet15 />
-          <bullet16 />
-          <bullet17 />
-          <bullet18 />
-          <bullet19 />
-          <bullet20 />
-          <brochure />
-          <agency_region>KENT</agency_region>
-          <agency_district>CANTERBURY</agency_district>
-          <agency_location>Canterbury Centre</agency_location>
-          <web_link>https://www.properties.charlesbainbridge.com/index.php?option=com_eapow&amp;format=html&amp;task=property.getProp&amp;?pid=A63B7264-D89E-4CD0-BE91-25F277B1E0EC&amp;aid=C46B2F24-B9CD-417A-9879-F8C0E2A6C226</web_link>
-          <latitude>51.2780838012695</latitude>
-          <longitude>1.0969465970993</longitude>
-          <qrcode>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{A63B7264-D89E-4CD0-BE91-25F277B1E0EC}/qr.png</qrcode>
-          <epc />
-          <hips />
-          <filename3 />
-          <filename4 />
-          <filename5 />
-          <filename6 />
-          <virtual_tour_url />
-          <property_type>House</property_type>
-          <commercial_type />
-          <property_style>Semi Detached</property_style>
-          <property_reference>12314247</property_reference>
-          <newHome>NO</newHome>
-          <noChain>NO</noChain>
-          <furnished>Unknown</furnished>
-          <portalFee />
-          <currency />
-          <featuredProperty>NO</featuredProperty>
-          <date1 name="Title Register" value="05/12/2025 00:00:00" />
-          <date2 name="Title Plan" value="05/12/2025 00:00:00" />
-          <number1 name="" value="0" />
-          <number2 name="" value="0" />
-          <number3 name="" value="0" />
-          <number4 name="" value="0" />
-          <number5 name="" value="0" />
-          <number6 name="" value="0" />
-          <number7 name="" value="0" />
-          <number8 name="" value="0" />
-          <number9 name="" value="0" />
-          <number10 name="" value="0" />
-          <rooms />
-          <pictures>
-            <picture name="Photo 15" lastchanged="2025-11-27T16:28:17.4085545Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{a63b7264-d89e-4cd0-be91-25f277b1e0ec}/main/image15.jpg</filename>
-            </picture>
-            <picture name="Photo 15" lastchanged="2025-11-28T11:47:15.981441Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{a63b7264-d89e-4cd0-be91-25f277b1e0ec}/main/DSC_3686.jpg</filename>
-            </picture>
-            <picture name="Photo 15" lastchanged="2025-12-05T14:47:27.4669281Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{a63b7264-d89e-4cd0-be91-25f277b1e0ec}/main/DSC_3632-(1).jpg</filename>
-            </picture>
-            <picture name="Photo 15" lastchanged="2025-11-28T08:38:21.5159599Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{a63b7264-d89e-4cd0-be91-25f277b1e0ec}/main/DSC_3669-(1).jpg</filename>
-            </picture>
-            <picture name="Photo 16" lastchanged="2025-11-28T08:38:21.9222466Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{a63b7264-d89e-4cd0-be91-25f277b1e0ec}/main/DSC_3596.jpg</filename>
-            </picture>
-            <picture name="Photo 9" lastchanged="2025-11-22T10:55:24.5425171Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{a63b7264-d89e-4cd0-be91-25f277b1e0ec}/main/DSC_3620.jpg</filename>
-            </picture>
-            <picture name="Photo 6" lastchanged="2025-11-22T10:51:47.5166177Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{a63b7264-d89e-4cd0-be91-25f277b1e0ec}/main/DSC_3560.jpg</filename>
-            </picture>
-            <picture name="Photo 12" lastchanged="2025-11-24T09:11:03.252737Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{a63b7264-d89e-4cd0-be91-25f277b1e0ec}/main/DSC_3545.jpg</filename>
-            </picture>
-            <picture name="Photo 15" lastchanged="2025-11-24T15:46:22.648062Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{a63b7264-d89e-4cd0-be91-25f277b1e0ec}/main/ChatGPT-Image-Nov-24,-2025,-03_45_24-PM.jpg</filename>
-            </picture>
-            <picture name="Photo 11" lastchanged="2025-11-22T11:00:14.9227017Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{a63b7264-d89e-4cd0-be91-25f277b1e0ec}/main/clean_bathroom.jpg</filename>
-            </picture>
-            <picture name="Photo 16" lastchanged="2025-11-27T16:28:17.6742321Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{a63b7264-d89e-4cd0-be91-25f277b1e0ec}/main/enhanced_property_image_2.jpg</filename>
-            </picture>
-            <picture name="Photo 11" lastchanged="2025-11-22T11:09:58.5846753Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{a63b7264-d89e-4cd0-be91-25f277b1e0ec}/main/output.jpg</filename>
-            </picture>
-            <picture name="Photo 5" lastchanged="2025-11-22T10:51:26.8477257Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{a63b7264-d89e-4cd0-be91-25f277b1e0ec}/main/DJI_0040.jpg</filename>
-            </picture>
-            <picture name="Photo 11" lastchanged="2025-11-24T09:09:38.5920365Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{a63b7264-d89e-4cd0-be91-25f277b1e0ec}/main/6WindmillCloseCT11PT-High-(4).jpg</filename>
-            </picture>
-          </pictures>
-          <floorplans>
-            <floorplan name="">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{a63b7264-d89e-4cd0-be91-25f277b1e0ec}/Floorplan_Floorplan1.jpg</filename>
-            </floorplan>
-          </floorplans>
-        </property>
-        <property reference="CB003875" hash="25859D261DC4CB4C7DB958207253CC7B">
-          <availableFrom />
-          <instructedDate>08/12/2025 15:26:53</instructedDate>
-          <department>Residential Sales</department>
-          <propertyofweek>NO</propertyofweek>
-          <price_text>£350,000</price_text>
-          <numeric_price>350000.0000</numeric_price>
-          <bedrooms>3</bedrooms>
-          <receptions>2</receptions>
-          <bathrooms>3</bathrooms>
-          <priority>On Market</priority>
-          <tenure>Freehold</tenure>
-          <advert_heading>Smith Way, Canterbury</advert_heading>
-          <main_advert>&lt;br&gt;Located within a popular modern development on the outskirts of Canterbury, Smith Way is an immaculate three-bedroom semi-detached home arranged over three floors and finished to a superb standard throughout.
-
-Immaculate townhouse 
-3 Bedrooms, including an impressive master suite
-Beautiful presented living room
-Stylish kitchen/dining room
-Landscaped rear garden
-Garage 
-Parking for 2 cars &amp; EV charger. 
-Desirable location
-</main_advert>
-          <advert2>Located within a popular modern development on the outskirts of Canterbury, Smith Way is an immaculate three-bedroom semi-detached home arranged over three floors and finished to a superb standard throughout.
-A bright and welcoming entrance hall leads into a beautifully presented living room, positioned at the front of the house and filled with natural light. To the rear, the stylish kitchen and dining room features sleek cabinetry, generous worktop space and integrated appliances, with French doors opening directly onto the garden allowing for indoor and outdoor living. A downstairs W/C also serves the ground floor.
-On the first floor are two well-proportioned bedrooms along with a modern family bathroom finished with quality tiling and fittings. The layout offers great flexibility, with one bedroom equally suited as a guest room, nursery or home office. The entire top floor is dedicated to the impressive master suite, a spacious and tranquil room with built-in storage and a contemporary en-suite shower room, offering an excellent sense of privacy.
-The rear garden has been thoughtfully landscaped to provide an attractive yet low-maintenance outdoor space, featuring raised beds, a gravelled seating area, and a pergola creating a sheltered spot for entertaining or relaxing. The garage sits to the side of the home and has electric, infront of the garage is parking for two cars and EV charger.
-Smith Way is well placed for access to Canterbury&amp;rsquo;s historic city centre, a range of highly regarded schools, local amenities and excellent transport links, including high-speed rail services to London. With its modern layout, generous accommodation and immaculate finish, Smith Way represents a fantastic opportunity for families, professionals or anyone seeking a move-in-ready home in a convenient and desirable location.
-EPC: 85B Council Tax: D Tenure: Freehold</advert2>
-          <advert3>Located within a popular modern development on the outskirts of Canterbury, Smith Way is an immaculate three-bedroom semi-detached home arranged over three floors and finished to a superb standard throughout.
-A bright and welcoming entrance hall leads into a beautifully presented living room, positioned at the front of the house and filled with natural light. To the rear, the stylish kitchen and dining room features sleek cabinetry, generous worktop space and integrated appliances, with French doors opening directly onto the garden allowing for indoor and outdoor living. A downstairs W/C also serves the ground floor.
-On the first floor are two well-proportioned bedrooms along with a modern family bathroom finished with quality tiling and fittings. The layout offers great flexibility, with one bedroom equally suited as a guest room, nursery or home office. The entire top floor is dedicated to the impressive master suite, a spacious and tranquil room with built-in storage and a contemporary en-suite shower room, offering an excellent sense of privacy.
-The rear garden has been thoughtfully landscaped to provide an attractive yet low-maintenance outdoor space, featuring raised beds, a gravelled seating area, and a pergola creating a sheltered spot for entertaining or relaxing. The garage sits to the side of the home, alongside parking for two cars and EV charger.</advert3>
-          <advert4>Smith Way is well placed for access to Canterbury&amp;rsquo;s historic city centre, a range of highly regarded schools, local amenities and excellent transport links, including high-speed rail services to London. With its modern layout, generous accommodation and immaculate finish,  Smith Way represents a fantastic opportunity for families, professionals or anyone seeking a move-in-ready home in a convenient and desirable location.</advert4>
-          <advert5>Mains drainage, electricity, water and gas are connected to the property. </advert5>
-          <advert6 />
-          <house_number>34</house_number>
-          <street>Smith Way</street>
-          <district />
-          <town>Canterbury</town>
-          <county>Kent</county>
-          <postcode>CT1 1WD</postcode>
-          <country>UK</country>
-          <area>Canterbury Centre</area>
-          <bullet1>Immaculate townhouse</bullet1>
-          <bullet2>3 Bedrooms, including an impressive master suite</bullet2>
-          <bullet3>Beautiful presented living room</bullet3>
-          <bullet4>Stylish kitchen/dining room</bullet4>
-          <bullet5>Landscaped rear garden</bullet5>
-          <bullet6>Garage</bullet6>
-          <bullet7>Parking for 2 cars &amp; EV charger</bullet7>
-          <bullet8>Desirable location</bullet8>
-          <bullet9 />
-          <bullet10 />
-          <bullet11 />
-          <bullet12 />
-          <bullet13 />
-          <bullet14 />
-          <bullet15 />
-          <bullet16 />
-          <bullet17 />
-          <bullet18 />
-          <bullet19 />
-          <bullet20 />
-          <brochure>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{2F4AADA3-6457-471F-ACF5-E112E8F45E03}/external.pdf</brochure>
-          <agency_region>KENT</agency_region>
-          <agency_district>CANTERBURY</agency_district>
-          <agency_location>Canterbury Centre</agency_location>
-          <web_link>https://www.properties.charlesbainbridge.com/index.php?option=com_eapow&amp;format=html&amp;task=property.getProp&amp;?pid=2F4AADA3-6457-471F-ACF5-E112E8F45E03&amp;aid=C46B2F24-B9CD-417A-9879-F8C0E2A6C226</web_link>
-          <latitude>0</latitude>
-          <longitude>0</longitude>
-          <qrcode>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{2F4AADA3-6457-471F-ACF5-E112E8F45E03}/qr.png</qrcode>
-          <epc />
-          <hips>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{2F4AADA3-6457-471F-ACF5-E112E8F45E03}/HIPS/EPC 34 Smith Way.pdf</hips>
-          <filename3 />
-          <filename4 />
-          <filename5 />
-          <filename6 />
-          <virtual_tour_url />
-          <property_type>House</property_type>
-          <commercial_type />
-          <property_style>Semi Detached</property_style>
-          <property_reference>12766611</property_reference>
-          <newHome>NO</newHome>
-          <noChain>NO</noChain>
-          <furnished>Unknown</furnished>
-          <portalFee />
-          <currency />
-          <featuredProperty>NO</featuredProperty>
-          <number1 name="" value="0" />
-          <number2 name="" value="0" />
-          <number3 name="" value="0" />
-          <number4 name="" value="0" />
-          <number5 name="" value="0" />
-          <number6 name="" value="0" />
-          <number7 name="" value="0" />
-          <number8 name="" value="0" />
-          <number9 name="" value="0" />
-          <number10 name="" value="0" />
-          <rooms />
-          <pictures>
-            <picture name="Photo 1" lastchanged="2025-12-08T10:42:47.3093811Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{2f4aada3-6457-471f-acf5-e112e8f45e03}/main/DSC03578.jpg</filename>
-            </picture>
-            <picture name="Photo 2" lastchanged="2025-12-08T10:43:38.5125516Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{2f4aada3-6457-471f-acf5-e112e8f45e03}/main/DSC03594-Edit.jpg</filename>
-            </picture>
-            <picture name="Photo 4" lastchanged="2025-12-08T10:44:28.0656808Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{2f4aada3-6457-471f-acf5-e112e8f45e03}/main/DSC03619-Edit.jpg</filename>
-            </picture>
-            <picture name="Photo 3" lastchanged="2025-12-08T10:44:25.9848626Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{2f4aada3-6457-471f-acf5-e112e8f45e03}/main/DSC03605-Edit.jpg</filename>
-            </picture>
-            <picture name="Photo 6" lastchanged="2025-12-08T10:46:14.6825262Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{2f4aada3-6457-471f-acf5-e112e8f45e03}/main/DSC03634-Edit.jpg</filename>
-            </picture>
-            <picture name="Photo 7" lastchanged="2025-12-08T10:46:16.69887Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{2f4aada3-6457-471f-acf5-e112e8f45e03}/main/DSC03639-Edit.jpg</filename>
-            </picture>
-            <picture name="Photo 10" lastchanged="2025-12-08T10:50:44.2191895Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{2f4aada3-6457-471f-acf5-e112e8f45e03}/main/DSC03668-Edit.jpg</filename>
-            </picture>
-            <picture name="Photo 8" lastchanged="2025-12-08T10:46:45.0555024Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{2f4aada3-6457-471f-acf5-e112e8f45e03}/main/DSC03648-Edit.jpg</filename>
-            </picture>
-            <picture name="Photo 9" lastchanged="2025-12-08T10:47:39.4704516Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{2f4aada3-6457-471f-acf5-e112e8f45e03}/main/DSC03664-Edit.jpg</filename>
-            </picture>
-            <picture name="Photo 5" lastchanged="2025-12-08T10:45:57.2628865Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{2f4aada3-6457-471f-acf5-e112e8f45e03}/main/DSC03623.jpg</filename>
-            </picture>
-            <picture name="Photo 11" lastchanged="2025-12-08T10:52:11.8886806Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{2f4aada3-6457-471f-acf5-e112e8f45e03}/main/DSC03587.jpg</filename>
-            </picture>
-            <picture name="Photo 12" lastchanged="2025-12-08T14:23:45.363169Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{2f4aada3-6457-471f-acf5-e112e8f45e03}/main/floorplan_converted.jpg</filename>
-            </picture>
-          </pictures>
-          <floorplans>
-            <floorplan name="">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{2f4aada3-6457-471f-acf5-e112e8f45e03}/Floorplan_1.jpg</filename>
-            </floorplan>
-          </floorplans>
-        </property>
-        <property reference="CB003494" hash="17301D552D355E9438205848DFD92846">
-          <availableFrom />
-          <instructedDate>23/04/2025 16:04:47</instructedDate>
-          <department>Residential Sales</department>
-          <propertyofweek>NO</propertyofweek>
-          <price_text>Guide Price £750,000</price_text>
-          <numeric_price>750000.0000</numeric_price>
-          <bedrooms>5</bedrooms>
-          <receptions>3</receptions>
-          <bathrooms>2</bathrooms>
-          <priority>On Market</priority>
-          <tenure>Freehold</tenure>
-          <advert_heading>Whitstable Road, Canterbury</advert_heading>
-          <main_advert>A handsome and characterful double-fronted period house offering generous, well-proportioned and versatile accommodation. &lt;br /&gt;
-&lt;br /&gt;
-5 Bedrooms, 2 bath/shower rooms
-&lt;br /&gt;
-3 Reception rooms plus garden room &amp; cellar
-&lt;br /&gt;
-Good size kitchen plus utility room
-&lt;br /&gt;
-Opportunity for general updating &amp;amp; modernisation
-&lt;br /&gt;
-Impressive, substantial garden
-&lt;br /&gt;
-Detached garage&lt;br /&gt;
-Enviable setting&lt;br /&gt;
-EPC Rating: 26F</main_advert>
-          <advert2>&lt;p style="text-align: justify;"&gt;Elmley is a handsome and characterful double-fronted period house offering generous, well-proportioned and versatile accommodation, set in a highly convenient location within easy reach of Canterbury&amp;rsquo;s historic city centre. This substantial property presents a rare opportunity for general updating and modernisation, while also offering scope for extension and reconfiguration (subject to all necessary planning consents). The accommodation on the ground floor includes a spacious entrance hall, adjoining which is a useful lobby area and a shower room with w.c. There is a large dual-aspect sitting room to the front with sash windows, and a further reception room with patio doors overlooking and opening onto the garden. The separate dining room flows into the kitchen, which is fitted with a range of wall, drawer and floor units and a window overlooking the garden. To the rear is a practical utility room and garden room, along with a further passageway providing access to both the front and rear of the house. On the lower ground floor is a large cellar with two further smaller rooms and a window to the front. On the first floor, the accommodation continues to impress with five well-proportioned bedrooms, one of which benefits from its own w.c, as well as the family bathroom and separate W.C. The property benefits from gas fired central heating and offered for sale with no onward chain.&lt;br /&gt;
-&lt;br /&gt;
-Externally, the property boasts an impressive outdoor space with a substantial garden incorporating paved patio leading onto an expansive lawn. Mature borders contain a variety of flowering plants and shrubs along with a large greenhouse. Vehicular access is gained from Cherry Garden Road leading to a detached garage.&lt;br /&gt;
-&lt;br /&gt;
-Beyond the principal garden lies a further parcel of land, offering exciting potential for redevelopment. Subject to all necessary planning consents, this space could be utilised to enhance the garage, create additional ancillary accommodation, or even develop a self-contained annexe using the existing garage building.&lt;br /&gt;
-&lt;br /&gt;
-The property enjoys an enviable setting with easy access to Canterbury city centre, and Canterbury West station, which provides High-Speed rail links to London St. Pancras with a journey time of approx. 55mins. The local independent schools, including The King&amp;rsquo;s School, St. Edmund&amp;rsquo;s and Kent College , are nearby, as well as a number of well-regarded primary and secondary schools on the South side of the city. The nearby countryside provides lovely walks towards the North Kent coast.&lt;br /&gt;
-&lt;br /&gt;
-Council tax band: G&lt;br /&gt;
-&lt;br /&gt;
-Tenure: Freehold&lt;br /&gt;
-&lt;br /&gt;
-EPC Rating: 26F&lt;br /&gt;
-&lt;br /&gt;
-What3Words: ///palace.habit.once&lt;/p&gt;</advert2>
-          <advert3>&lt;span style="text-align: justify;"&gt;&lt;span style="text-align: justify;"&gt;Elmley is a handsome and characterful double-fronted period house offering generous, well-proportioned and versatile accommodation, set in a highly convenient location within easy reach of Canterbury&amp;rsquo;s historic city centre. This substantial property presents a rare opportunity for general updating and modernisation, while also offering scope for extension and reconfiguration (subject to all necessary planning consents). The accommodation on the ground floor includes a spacious entrance hall, adjoining which is a useful lobby area and a shower room with w.c. There is a large dual-aspect sitting room to the front with sash windows, and a further reception room with patio doors overlooking and opening onto the garden. The separate dining room flows into the kitchen, which is fitted with a range of wall, drawer and floor units and a window overlooking the garden. To the rear is a practical utility room and garden room, along with a further passageway providing access to both the front and rear of the house. On the lower ground floor is a large cellar with two further smaller rooms and a window to the front. On the first floor, the accommodation continues to impress with five well-proportioned bedrooms, one of which benefits from its own w.c, as well as the family bathroom and separate W.C. The property benefits from gas fired central heating and offered for sale with no onward chain.&lt;/span&gt;&lt;br style="text-align: justify;" /&gt;
-&lt;br style="text-align: justify;" /&gt;
-&lt;span style="text-align: justify;"&gt;Externally, the property boasts an impressive outdoor space with a substantial garden incorporating paved patio leading onto an expansive lawn. Mature borders contain a variety of flowering plants and shrubs along with a large greenhouse. Vehicular access is gained from Cherry Garden Road leading to a detached garage.&lt;/span&gt;&lt;br style="text-align: justify;" /&gt;
-&lt;br style="text-align: justify;" /&gt;
-&lt;span style="text-align: justify;"&gt;Beyond the principal garden lies a further parcel of land, offering exciting potential for redevelopment. Subject to all necessary planning consents, this space could be utilised to enhance the garage, create additional ancillary accommodation, or even develop a self-contained annexe using the existing garage building.&lt;/span&gt;&lt;/span&gt;</advert3>
-          <advert4>&lt;p style="text-align: justify;"&gt;&lt;span style="text-align: justify;"&gt;The property enjoys an enviable setting with easy access to Canterbury city centre, and Canterbury West station, which provides High-Speed rail links to London St. Pancras with a journey time of approx. 55mins. The local independent schools, including The King&amp;rsquo;s School, St. Edmund&amp;rsquo;s and Kent College , are nearby, as well as a number of well-regarded primary and secondary schools on the South side of the city. The nearby countryside provides lovely walks towards the North Kent coast.&lt;/span&gt;&lt;/p&gt;</advert4>
-          <advert5>All mains services are understood to be connected to the property. </advert5>
-          <advert6 />
-          <house_number>Elmley</house_number>
-          <street>135 Whitstable Road</street>
-          <district />
-          <town>Canterbury</town>
-          <county>Kent</county>
-          <postcode>CT2 8EQ</postcode>
-          <country>UK</country>
-          <area>Canterbury Centre</area>
-          <bullet1>Substantial Family Home</bullet1>
-          <bullet2>5 Bedrooms</bullet2>
-          <bullet3>Large Kitchen </bullet3>
-          <bullet4>Opportunity for Improving</bullet4>
-          <bullet5>Impressive, substantial garden</bullet5>
-          <bullet6>Detached Carport</bullet6>
-          <bullet7>Enviable setting</bullet7>
-          <bullet8>EPC Rating: 26F</bullet8>
-          <bullet9 />
-          <bullet10 />
-          <bullet11 />
-          <bullet12 />
-          <bullet13 />
-          <bullet14 />
-          <bullet15 />
-          <bullet16 />
-          <bullet17 />
-          <bullet18 />
-          <bullet19 />
-          <bullet20 />
-          <brochure>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{573F6670-6F5C-4927-8F8A-9B7BCA81BD77}/external.pdf</brochure>
-          <agency_region>KENT</agency_region>
-          <agency_district>CANTERBURY</agency_district>
-          <agency_location>Canterbury Centre</agency_location>
-          <web_link>https://www.properties.charlesbainbridge.com/index.php?option=com_eapow&amp;format=html&amp;task=property.getProp&amp;?pid=573F6670-6F5C-4927-8F8A-9B7BCA81BD77&amp;aid=C46B2F24-B9CD-417A-9879-F8C0E2A6C226</web_link>
-          <latitude>51.2878189086914</latitude>
-          <longitude>1.06362068653107</longitude>
-          <qrcode>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{573F6670-6F5C-4927-8F8A-9B7BCA81BD77}/qr.png</qrcode>
-          <epc />
-          <hips>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{573F6670-6F5C-4927-8F8A-9B7BCA81BD77}/HIPS/EPC - 135 Whitstable Road CANTERBURY CT2 8EQ.pdf</hips>
-          <filename3 />
-          <filename4 />
-          <filename5 />
-          <filename6 />
-          <virtual_tour_url />
-          <property_type>House</property_type>
-          <commercial_type />
-          <property_style>Semi Detached</property_style>
-          <property_reference>12421897</property_reference>
-          <newHome>NO</newHome>
-          <noChain>YES</noChain>
-          <furnished>Unknown</furnished>
-          <portalFee />
-          <currency />
-          <featuredProperty>NO</featuredProperty>
-          <text1 name="" value="Provided by seller. Copy on events - Property docs. AD" />
-          <text2 name="" value="Provided by seller. Copy on events - Property docs. AD" />
-          <text3 name="" value="Copy on events - Property docs. AD" />
-          <date1 name="Title Register" value="25/03/2025 00:00:00" />
-          <date2 name="Title Plan" value="25/03/2025 00:00:00" />
-          <date3 name="Data Protection - Seller" value="26/03/2025 00:00:00" />
-          <number1 name="" value="0" />
-          <number2 name="" value="0" />
-          <number3 name="" value="0" />
-          <number4 name="" value="0" />
-          <number5 name="" value="0" />
-          <number6 name="" value="0" />
-          <number7 name="" value="0" />
-          <number8 name="" value="0" />
-          <number9 name="" value="0" />
-          <number10 name="" value="0" />
-          <rooms>
-            <room name="Porch">
-              <measurement_text />
-              <description />
-            </room>
-            <room name="Hallway">
-              <measurement_text />
-              <description />
-            </room>
-            <room name="Lobby">
-              <measurement_text />
-              <description />
-            </room>
-            <room name="Reception Room One">
-              <measurement_text>17' 7'' x 15' 0'' (5.36m x 4.57m)</measurement_text>
-              <description />
-            </room>
-            <room name="Reception Room Two">
-              <measurement_text>16' 4'' x 14' 2'' (4.97m x 4.31m)</measurement_text>
-              <description />
-            </room>
-            <room name="Dining Room">
-              <measurement_text>20' 11'' x 10' 11'' (6.37m x 3.32m)</measurement_text>
-              <description />
-            </room>
-            <room name="Kitchen">
-              <measurement_text>12' 0'' x 10' 11'' (3.65m x 3.32m)</measurement_text>
-              <description />
-            </room>
-            <room name="Utility Room">
-              <measurement_text>5' 7'' x 3' 2'' (1.70m x 0.96m)</measurement_text>
-              <description />
-            </room>
-            <room name="Garden Room">
-              <measurement_text>5' 9'' x 5' 7'' (1.75m x 1.70m)</measurement_text>
-              <description />
-            </room>
-            <room name="Shower Room">
-              <measurement_text>6' 2'' x 4' 6'' (1.88m x 1.37m)</measurement_text>
-              <description />
-            </room>
-            <room name="W.C">
-              <measurement_text>4' 8'' x 4' 3'' (1.42m x 1.29m)</measurement_text>
-              <description />
-            </room>
-            <room name="Lower Ground Floor">
-              <measurement_text />
-              <description />
-            </room>
-            <room name="Cellar One">
-              <measurement_text>13' 0'' x 8' 9'' (3.96m x 2.66m)</measurement_text>
-              <description />
-            </room>
-            <room name="Cellar Two">
-              <measurement_text>8' 9'' x 4' 6'' (2.66m x 1.37m)</measurement_text>
-              <description />
-            </room>
-            <room name="Cellar Three">
-              <measurement_text>11' 1'' x 8' 11'' (3.38m x 2.72m)</measurement_text>
-              <description />
-            </room>
-            <room name="First Floor">
-              <measurement_text />
-              <description />
-            </room>
-            <room name="Bedroom One">
-              <measurement_text>18' 5'' x 15' 0'' (5.61m x 4.57m)</measurement_text>
-              <description />
-            </room>
-            <room name="Bedroom Two">
-              <measurement_text>18' 5'' x 11' 2'' (5.61m x 3.40m)</measurement_text>
-              <description />
-            </room>
-            <room name="Bedroom Three">
-              <measurement_text>15' 1'' x 11' 10'' (4.59m x 3.60m)</measurement_text>
-              <description />
-            </room>
-            <room name="Bedroom Four">
-              <measurement_text>14' 5'' x 12' 2'' (4.39m x 3.71m)</measurement_text>
-              <description />
-            </room>
-            <room name="W.C">
-              <measurement_text>9' 2'' x 3' 5'' (2.79m x 1.04m)</measurement_text>
-              <description />
-            </room>
-            <room name="Bedroom Five">
-              <measurement_text>10' 11'' x 10' 11'' (3.32m x 3.32m)</measurement_text>
-              <description />
-            </room>
-            <room name="Exterior">
-              <measurement_text />
-              <description />
-            </room>
-          </rooms>
-          <pictures>
-            <picture name="Photo 35" lastchanged="2025-04-09T09:59:36.7121259Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{573f6670-6f5c-4927-8f8a-9b7bca81bd77}/main/DSC01945.jpg</filename>
-            </picture>
-            <picture name="Photo 5" lastchanged="2025-04-09T09:58:27.4405233Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{573f6670-6f5c-4927-8f8a-9b7bca81bd77}/main/DSC01815.jpg</filename>
-            </picture>
-            <picture name="Photo 8" lastchanged="2025-04-09T09:58:34.2395144Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{573f6670-6f5c-4927-8f8a-9b7bca81bd77}/main/DSC01840.jpg</filename>
-            </picture>
-            <picture name="Photo 7" lastchanged="2025-04-09T09:58:31.9409806Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{573f6670-6f5c-4927-8f8a-9b7bca81bd77}/main/DSC01833.jpg</filename>
-            </picture>
-            <picture name="Photo 2" lastchanged="2025-04-09T09:58:20.4947075Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{573f6670-6f5c-4927-8f8a-9b7bca81bd77}/main/DSC01783.jpg</filename>
-            </picture>
-            <picture name="Photo 16" lastchanged="2025-04-09T09:58:51.3389247Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{573f6670-6f5c-4927-8f8a-9b7bca81bd77}/main/DSC01869.jpg</filename>
-            </picture>
-            <picture name="Photo 18" lastchanged="2025-04-09T09:58:56.2165939Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{573f6670-6f5c-4927-8f8a-9b7bca81bd77}/main/DSC01876.jpg</filename>
-            </picture>
-            <picture name="Photo 19" lastchanged="2025-04-09T09:58:58.6074497Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{573f6670-6f5c-4927-8f8a-9b7bca81bd77}/main/DSC01881.jpg</filename>
-            </picture>
-            <picture name="Photo 14" lastchanged="2025-04-09T09:58:46.8384532Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{573f6670-6f5c-4927-8f8a-9b7bca81bd77}/main/DSC01861.jpg</filename>
-            </picture>
-            <picture name="Photo 13" lastchanged="2025-04-09T09:58:44.7757575Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{573f6670-6f5c-4927-8f8a-9b7bca81bd77}/main/DSC01858.jpg</filename>
-            </picture>
-            <picture name="Photo 26" lastchanged="2025-04-09T09:59:15.101284Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{573f6670-6f5c-4927-8f8a-9b7bca81bd77}/main/DSC01911.jpg</filename>
-            </picture>
-            <picture name="Photo 34" lastchanged="2025-04-09T09:59:34.2431037Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{573f6670-6f5c-4927-8f8a-9b7bca81bd77}/main/DSC01939.jpg</filename>
-            </picture>
-            <picture name="Photo 32" lastchanged="2025-04-09T09:59:29.0848568Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{573f6670-6f5c-4927-8f8a-9b7bca81bd77}/main/DSC01933.jpg</filename>
-            </picture>
-            <picture name="Photo 39" lastchanged="2025-04-09T09:59:46.507838Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{573f6670-6f5c-4927-8f8a-9b7bca81bd77}/main/DSC01962.jpg</filename>
-            </picture>
-            <picture name="Photo 36" lastchanged="2025-04-09T09:59:39.0584714Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{573f6670-6f5c-4927-8f8a-9b7bca81bd77}/main/DSC01948.jpg</filename>
-            </picture>
-            <picture name="Photo 41" lastchanged="2025-04-09T09:59:51.4631344Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{573f6670-6f5c-4927-8f8a-9b7bca81bd77}/main/DSC01971.jpg</filename>
-            </picture>
-            <picture name="Photo 17" lastchanged="2025-10-14T15:47:51.2223115Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{573f6670-6f5c-4927-8f8a-9b7bca81bd77}/main/135-Whitstable-Road-Floorplan2.jpg</filename>
-            </picture>
-          </pictures>
-          <floorplans>
-            <floorplan name="">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{573f6670-6f5c-4927-8f8a-9b7bca81bd77}/Floorplan_Floorplan1.jpg</filename>
-            </floorplan>
-          </floorplans>
-        </property>
-        <property reference="CB003776" hash="8E24071D076FC6518E1F5A64F9166278">
-          <availableFrom />
-          <instructedDate>21/06/2025 09:34:05</instructedDate>
-          <department>Residential Sales</department>
-          <propertyofweek>NO</propertyofweek>
-          <price_text>£325,000</price_text>
-          <numeric_price>325000.0000</numeric_price>
-          <bedrooms>2</bedrooms>
-          <receptions>2</receptions>
-          <bathrooms>1</bathrooms>
-          <priority>On Market</priority>
-          <tenure>Freehold</tenure>
-          <advert_heading>Cross Street, Canterbury</advert_heading>
-          <main_advert>A beautifully presented two-bedroom Victorian terraced house is situated on the desirable and peaceful location. &lt;br /&gt;
-&lt;br /&gt;
-2 Bedroom House&lt;br /&gt;
-2 Reception Rooms&lt;br /&gt;
-City Centre&lt;br /&gt;
-Close to Station&lt;br /&gt;
-Courtyard Garden &lt;br /&gt;
-Lots of Character&lt;br /&gt;
-Must to View&lt;br /&gt;</main_advert>
-          <advert2>&lt;p style="text-align: justify;"&gt;This beautifully presented two-bedroom Victorian terraced house is situated on the desirable and peaceful Cross Street, in the ever-popular St. Dunstan&amp;rsquo;s quarter of Canterbury. Just a short stroll from the city centre and Canterbury West station, the property offers the perfect balance of period charm and modern living.
-On the ground floor, the entrance leads into a bright and welcoming living room, complete with a traditional cast-iron fireplace, bespoke shelving, and large sash-style window allowing natural light to fill the space.
-&lt;br /&gt;
-&lt;br /&gt;
-To the rear, a separate dining area with exposed wood flooring flows into a stylishly finished kitchen with cream shaker units, solid wood worktops, and white tiled splash backs. Integrated oven, hob, and space for white goods complete this practical, well-designed space. French doors at the rear lead out to a tidy courtyard garden, ideal for low-maintenance outdoor entertaining or a morning coffee.
-Upstairs, the home boasts two good-sized bedrooms, both neutrally decorated with ample space for storage. The bathroom is well-fitted and continues the tasteful finish seen throughout the home.
-This property is ready to move straight into, ideal for those looking to enjoy the vibrant Canterbury lifestyle without compromise.
-&lt;br /&gt;
-&lt;br /&gt;
-Cross Street is a tranquil road set within walking distance of the historic city centre, Canterbury West Station (with high-speed services to London St Pancras in under an hour), and excellent local schools, shops, restaurants and the University of Kent.
-The location is perfect for professionals, couples, or landlords seeking a characterful and convenient home.
-&lt;br /&gt;
-&lt;br /&gt;
-Council tax band: D&lt;br /&gt;
-&lt;br /&gt;
-Tenure - Freehold &lt;br /&gt;
-&lt;br /&gt;
-EPC Rating: 67D&lt;/p&gt;</advert2>
-          <advert3>&lt;p style="text-align: justify;"&gt;&lt;span style="text-align: justify;"&gt;This beautifully presented two-bedroom Victorian terraced house is situated on the desirable and peaceful Cross Street, in the ever-popular St. Dunstan&amp;rsquo;s quarter of Canterbury. Just a short stroll from the city centre and Canterbury West station, the property offers the perfect balance of period charm and modern living. On the ground floor, the entrance leads into a bright and welcoming living room, complete with a traditional cast-iron fireplace, bespoke shelving, and large sash-style window allowing natural light to fill the space. To the rear, a separate dining area with exposed wood flooring flows into a stylishly finished kitchen with cream shaker units, solid wood worktops, and white tiled splash backs. Integrated oven, hob, and space for white goods complete this practical, well-designed space. French doors at the rear lead out to a tidy courtyard garden, ideal for low-maintenance outdoor entertaining or a morning coffee. Upstairs, the home boasts two good-sized bedrooms, both neutrally decorated with ample space for storage. The bathroom is well-fitted and continues the tasteful finish seen throughout the home. This property is ready to move straight into, ideal for those looking to enjoy the vibrant. &lt;/span&gt;&lt;/p&gt;</advert3>
-          <advert4>&lt;span style="text-align: justify;"&gt;Canterbury lifestyle without compromise. Cross Street is a tranquil road set within walking distance of the historic city centre, Canterbury West Station (with high-speed services to London St Pancras in under an hour), and excellent local schools, shops, restaurants and the University of Kent. The location is perfect for professionals, couples, or landlords seeking a characterful and convenient home. &lt;/span&gt;</advert4>
-          <advert5>All mains services are understood to be connected to the property. </advert5>
-          <advert6 />
-          <house_number>24</house_number>
-          <street>Cross Street</street>
-          <district />
-          <town>Canterbury</town>
-          <county>Kent</county>
-          <postcode>CT2 8AT</postcode>
-          <country>UK</country>
-          <area>Canterbury Centre</area>
-          <bullet1>2 Bedroom House </bullet1>
-          <bullet2>St Dunstan's Area</bullet2>
-          <bullet3>Close to Station </bullet3>
-          <bullet4>Courtyard Garden  </bullet4>
-          <bullet5>Lots of Character </bullet5>
-          <bullet6>No Onward Chain</bullet6>
-          <bullet7>Must to view</bullet7>
-          <bullet8 />
-          <bullet9 />
-          <bullet10 />
-          <bullet11 />
-          <bullet12 />
-          <bullet13 />
-          <bullet14 />
-          <bullet15 />
-          <bullet16 />
-          <bullet17 />
-          <bullet18 />
-          <bullet19 />
-          <bullet20 />
-          <brochure>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{7CD71CB1-C916-415D-B67D-5351A474D736}/external.pdf</brochure>
-          <agency_region>KENT</agency_region>
-          <agency_district>CANTERBURY</agency_district>
-          <agency_location>Canterbury Centre</agency_location>
-          <web_link>https://www.properties.charlesbainbridge.com/index.php?option=com_eapow&amp;format=html&amp;task=property.getProp&amp;?pid=7CD71CB1-C916-415D-B67D-5351A474D736&amp;aid=C46B2F24-B9CD-417A-9879-F8C0E2A6C226</web_link>
-          <latitude>51.2828826904297</latitude>
-          <longitude>1.07075023651123</longitude>
-          <qrcode>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{7CD71CB1-C916-415D-B67D-5351A474D736}/qr.png</qrcode>
-          <epc />
-          <hips>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{7CD71CB1-C916-415D-B67D-5351A474D736}/HIPS/EPC - 24 Cross Street.pdf</hips>
-          <filename3 />
-          <filename4 />
-          <filename5 />
-          <filename6 />
-          <virtual_tour_url />
-          <property_type>House</property_type>
-          <commercial_type />
-          <property_style>Terraced</property_style>
-          <property_reference>12685344</property_reference>
-          <newHome>NO</newHome>
-          <noChain>YES</noChain>
-          <furnished>Unknown</furnished>
-          <portalFee />
-          <currency />
-          <featuredProperty>NO</featuredProperty>
-          <number1 name="" value="0" />
-          <number2 name="" value="0" />
-          <number3 name="" value="0" />
-          <number4 name="" value="0" />
-          <number5 name="" value="0" />
-          <number6 name="" value="0" />
-          <number7 name="" value="0" />
-          <number8 name="" value="0" />
-          <number9 name="" value="0" />
-          <number10 name="" value="0" />
-          <rooms>
-            <room name="Lounge">
-              <measurement_text>10' 10'' x 10' 2'' (3.30m x 3.10m)</measurement_text>
-              <description />
-            </room>
-            <room name="Dining Room">
-              <measurement_text>10' 10'' x 8' 2'' (3.30m x 2.49m)</measurement_text>
-              <description />
-            </room>
-            <room name="Kitchen">
-              <measurement_text>10' 10'' x 9' 9'' (3.30m x 2.97m)</measurement_text>
-              <description />
-            </room>
-            <room name="Bathroom">
-              <measurement_text>8' 4'' x 5' 3'' (2.54m x 1.60m)</measurement_text>
-              <description />
-            </room>
-            <room name="First Floor">
-              <measurement_text />
-              <description />
-            </room>
-            <room name="Landing">
-              <measurement_text />
-              <description />
-            </room>
-            <room name="Bedroom One">
-              <measurement_text>11' 0'' x 10' 1'' (3.35m x 3.07m)</measurement_text>
-              <description />
-            </room>
-            <room name="Bedroom Two">
-              <measurement_text>8' 2'' x 8' 1'' (2.49m x 2.46m)</measurement_text>
-              <description />
-            </room>
-            <room name="Exterior">
-              <measurement_text />
-              <description />
-            </room>
-          </rooms>
-          <pictures>
-            <picture name="Photo 10" lastchanged="2025-06-20T14:42:26.3768452Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{7cd71cb1-c916-415d-b67d-5351a474d736}/main/24-Cross-FRONT.jpg</filename>
-            </picture>
-            <picture name="Photo 9" lastchanged="2025-11-26T09:06:56.5937547Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{7cd71cb1-c916-415d-b67d-5351a474d736}/main/CAM02660G0-PR0104-STILL002.jpg</filename>
-            </picture>
-            <picture name="Photo 10" lastchanged="2025-11-26T09:06:57.0469058Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{7cd71cb1-c916-415d-b67d-5351a474d736}/main/CAM02660G0-PR0104-STILL005.jpg</filename>
-            </picture>
-            <picture name="Photo 11" lastchanged="2025-11-26T09:06:57.5001032Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{7cd71cb1-c916-415d-b67d-5351a474d736}/main/CAM02660G0-PR0104-STILL010.jpg</filename>
-            </picture>
-            <picture name="Photo 12" lastchanged="2025-11-26T09:06:57.8438625Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{7cd71cb1-c916-415d-b67d-5351a474d736}/main/CAM02660G0-PR0104-STILL011.jpg</filename>
-            </picture>
-            <picture name="Photo 14" lastchanged="2025-11-26T09:06:58.1729957Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{7cd71cb1-c916-415d-b67d-5351a474d736}/main/CAM02660G0-PR0104-STILL017.jpg</filename>
-            </picture>
-            <picture name="Photo 13" lastchanged="2025-11-26T09:06:58.0162888Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{7cd71cb1-c916-415d-b67d-5351a474d736}/main/CAM02660G0-PR0104-STILL013-(1).jpg</filename>
-            </picture>
-            <picture name="Photo 11" lastchanged="2025-06-20T14:42:26.6581385Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{7cd71cb1-c916-415d-b67d-5351a474d736}/main/24-Cross-Garden.jpg</filename>
-            </picture>
-            <picture name="Photo 9" lastchanged="2025-09-26T08:30:26.6888257Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{7cd71cb1-c916-415d-b67d-5351a474d736}/main/24-Cross-Street-Floorplan.jpg</filename>
-            </picture>
-          </pictures>
-          <floorplans>
-            <floorplan name="">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{7cd71cb1-c916-415d-b67d-5351a474d736}/Floorplan_Floorplan1.jpg</filename>
-            </floorplan>
-          </floorplans>
-        </property>
-        <property reference="CB003878" hash="E8D5D78D2A4E28D3B8C18456A98FB816">
-          <availableFrom />
-          <instructedDate>30/10/2025 09:32:17</instructedDate>
-          <department>Residential Sales</department>
-          <propertyofweek>NO</propertyofweek>
-          <price_text>£370,000</price_text>
-          <numeric_price>370000.0000</numeric_price>
-          <bedrooms>3</bedrooms>
-          <receptions>2</receptions>
-          <bathrooms>1</bathrooms>
-          <priority>On Market</priority>
-          <tenure>Freehold</tenure>
-          <advert_heading>Ramsey Close, Canterbury</advert_heading>
-          <main_advert>A delightful semi-detached house offering a perfect blend of comfort and convenience, situated in a residential cul-de-sac in a highly regarded area.&lt;br /&gt;
-&lt;br /&gt;
-3 Bedrooms&lt;br /&gt;
-Large Living Room&lt;br /&gt;
-Kitchen/Dining Room&lt;br /&gt;
-Contemporary family bathroom&lt;br /&gt;
-Pretty Rear Garden&lt;br /&gt;
-Long driveway providing parking&lt;br /&gt;
-Enviable location&lt;br /&gt;
-&lt;span style="text-align: justify;"&gt;EPC Rating: 57D&lt;/span&gt;</main_advert>
-          <advert2>&lt;p style="text-align: justify;"&gt;A delightful semi-detached house offering a perfect blend of comfort and convenience, situated in a residential cul-de-sac in a highly regarded area. The accommodation is attractively presented throughout and includes a spacious lounge/dining room providing a bright and airy atmosphere, perfect for both relaxing and entertaining. The well-equipped kitchen offers a range of wall, drawer, and floor units with a large window overlooking and door opening onto the garden. The ground floor also features a contemporary family bathroom.&lt;br /&gt;
-&lt;br /&gt;
-From the hallway, a staircase accesses the first floor where there are three good-sized bedrooms. The main bedroom is a double benefitting from built in storage. The second bedroom is also a good size with the third being smaller, ideal for either a child or a home office. The property benefits from double-glazed windows and doors and is ideal for families and first-time buyers alike.&lt;br /&gt;
-&lt;br /&gt;
-The property is set in an enviable location with a host of nearby facilities in St. Dunstan's including The Goods Shed which incorporates Farmer's Market style shopping with quality butcher, greengrocer and fishmonger amongst many others, plus a highly regarded restaurant. Sainsbury's Local is also nearby together with a wide range of independent retailers. The City center is within easy reach and offers a comprehensive range of shops, restaurants and leisure facilities and excellent transport links including Canterbury West station which is only a short walk away and provides High Speed rail services to London St. Pancras with a journey time of approx. 55 mins. Canterbury is renowned for its rich history, top-rated schools, and vibrant cultural scene, making it an excellent place for families and professionals.
-&lt;br /&gt;
-&lt;br /&gt;
-Council tax band: D&lt;br /&gt;
-&lt;br /&gt;
-Tenure: Freehold &lt;br /&gt;
-&lt;br /&gt;
-EPC Rating: 57D&lt;br /&gt;
-&lt;br /&gt;
-What3Words:///index.basket.icons&lt;/p&gt;</advert2>
-          <advert3>&lt;p style="text-align: justify;"&gt;&lt;span style="text-align: justify;"&gt;A delightful semi-detached house offering a perfect blend of comfort and convenience, situated in a residential cul-de-sac in a highly regarded area. The accommodation is attractively presented throughout and includes a spacious lounge/dining room providing a bright and airy atmosphere, perfect for both relaxing and entertaining. The well-equipped kitchen offers a range of wall, drawer, and floor units with a large window overlooking and door opening onto the garden. The ground floor also features a contemporary family bathroom.&lt;/span&gt;&lt;br style="text-align: justify;" /&gt;
-&lt;br style="text-align: justify;" /&gt;
-&lt;span style="text-align: justify;"&gt;From the hallway, a staircase accesses the first floor where there are three good-sized bedrooms. The main bedroom is a double benefitting from built in storage. The second bedroom is also a good size with the third being smaller, ideal for either a child or a home office. The property benefits from double-glazed windows and doors and is ideal for families and first-time buyers alike.&lt;/span&gt;&lt;/p&gt;</advert3>
-          <advert4>&lt;p style="text-align: justify;"&gt;&lt;span style="text-align: justify;"&gt;The property is set in an enviable location with a host of nearby facilities in St. Dunstan's including The Goods Shed which incorporates Farmer's Market style shopping with quality butcher, greengrocer and fishmonger amongst many others, plus a highly regarded restaurant. Sainsbury's Local is also nearby together with a wide range of independent retailers. The City center is within easy reach and offers a comprehensive range of shops, restaurants and leisure facilities and excellent transport links including Canterbury West station which is only a short walk away and provides High Speed rail services to &lt;/span&gt;&lt;span style="text-align: justify;"&gt;London St. Pancras with a journey time of approx. 55 mins. Canterbury is renowned for its rich history, top-rated schools, and vibrant cultural scene, making it an excellent place for families and professionals.&lt;/span&gt;&lt;br style="text-align: justify;" /&gt;
-&lt;/p&gt;</advert4>
-          <advert5>All mains services are understood to be connected to the property. </advert5>
-          <advert6 />
-          <house_number>20</house_number>
-          <street>Ramsey Close</street>
-          <district />
-          <town>Canterbury</town>
-          <county>Kent</county>
-          <postcode>CT2 8DL</postcode>
-          <country>UK</country>
-          <area>Canterbury Centre</area>
-          <bullet1>3 Bedrooms</bullet1>
-          <bullet2>Large Living Room</bullet2>
-          <bullet3>Kitchen/Dining Room</bullet3>
-          <bullet4>Contemporary family bathroom</bullet4>
-          <bullet5>Pretty Rear Garden</bullet5>
-          <bullet6>Long driveway providing parking</bullet6>
-          <bullet7>Enviable location</bullet7>
-          <bullet8>EPC Rating: 57D</bullet8>
-          <bullet9 />
-          <bullet10 />
-          <bullet11 />
-          <bullet12 />
-          <bullet13 />
-          <bullet14 />
-          <bullet15 />
-          <bullet16 />
-          <bullet17 />
-          <bullet18 />
-          <bullet19 />
-          <bullet20 />
-          <brochure>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{7EB6D145-D8E6-44DF-8E23-CF081DA24668}/external.pdf</brochure>
-          <agency_region>KENT</agency_region>
-          <agency_district>CANTERBURY</agency_district>
-          <agency_location>Canterbury Centre</agency_location>
-          <web_link>https://www.properties.charlesbainbridge.com/index.php?option=com_eapow&amp;format=html&amp;task=property.getProp&amp;?pid=7EB6D145-D8E6-44DF-8E23-CF081DA24668&amp;aid=C46B2F24-B9CD-417A-9879-F8C0E2A6C226</web_link>
-          <latitude>51.2848320007324</latitude>
-          <longitude>1.06778216362</longitude>
-          <qrcode>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{7EB6D145-D8E6-44DF-8E23-CF081DA24668}/qr.png</qrcode>
-          <epc />
-          <hips>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{7EB6D145-D8E6-44DF-8E23-CF081DA24668}/HIPS/Energy performance certificate (EPC) – Find an energy certificate – GOV.UK.pdf</hips>
-          <filename3 />
-          <filename4 />
-          <filename5 />
-          <filename6 />
-          <virtual_tour_url />
-          <property_type>House</property_type>
-          <commercial_type />
-          <property_style>Semi Detached</property_style>
-          <property_reference>12769159</property_reference>
-          <newHome>NO</newHome>
-          <noChain>NO</noChain>
-          <furnished>Unknown</furnished>
-          <portalFee />
-          <currency />
-          <featuredProperty>NO</featuredProperty>
-          <text2 name="" value="Provided by seller. Copy on events - Property docs. AD" />
-          <date2 name="Title Plan" value="30/10/2025 00:00:00" />
-          <number1 name="" value="0" />
-          <number2 name="" value="0" />
-          <number3 name="" value="0" />
-          <number4 name="" value="0" />
-          <number5 name="" value="0" />
-          <number6 name="" value="0" />
-          <number7 name="" value="0" />
-          <number8 name="" value="0" />
-          <number9 name="" value="0" />
-          <number10 name="" value="0" />
-          <rooms />
-          <pictures>
-            <picture name="Photo 11" lastchanged="2025-10-24T14:41:16.5337597Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{7eb6d145-d8e6-44df-8e23-cf081da24668}/main/DSC_4281.jpg</filename>
-            </picture>
-            <picture name="Photo 2" lastchanged="2025-10-24T14:41:13.2611557Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{7eb6d145-d8e6-44df-8e23-cf081da24668}/main/DSC_4105.jpg</filename>
-            </picture>
-            <picture name="Photo 3" lastchanged="2025-10-24T14:41:13.4188218Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{7eb6d145-d8e6-44df-8e23-cf081da24668}/main/DSC_4140.jpg</filename>
-            </picture>
-            <picture name="Photo 13" lastchanged="2025-10-27T17:49:08.651502Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{7eb6d145-d8e6-44df-8e23-cf081da24668}/main/decluttered_kitchen.jpg</filename>
-            </picture>
-            <picture name="Photo 12" lastchanged="2025-10-27T17:48:52.8487693Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{7eb6d145-d8e6-44df-8e23-cf081da24668}/main/decluttered_kitchen-(1).jpg</filename>
-            </picture>
-            <picture name="Photo 8" lastchanged="2025-10-24T14:41:15.1554706Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{7eb6d145-d8e6-44df-8e23-cf081da24668}/main/DSC_4241.jpg</filename>
-            </picture>
-            <picture name="Photo 7" lastchanged="2025-10-24T14:41:14.7335389Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{7eb6d145-d8e6-44df-8e23-cf081da24668}/main/DSC_4219.jpg</filename>
-            </picture>
-            <picture name="Photo 9" lastchanged="2025-10-24T14:41:15.5947096Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{7eb6d145-d8e6-44df-8e23-cf081da24668}/main/DSC_4271.jpg</filename>
-            </picture>
-            <picture name="Photo 6" lastchanged="2025-10-24T14:41:14.3095548Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{7eb6d145-d8e6-44df-8e23-cf081da24668}/main/DSC_4175.jpg</filename>
-            </picture>
-            <picture name="Photo 10" lastchanged="2025-10-24T14:41:16.0644995Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{7eb6d145-d8e6-44df-8e23-cf081da24668}/main/DSC_4274.jpg</filename>
-            </picture>
-            <picture name="Photo 11" lastchanged="2025-10-25T14:02:30.4008945Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{7eb6d145-d8e6-44df-8e23-cf081da24668}/main/20RAMSEYCLOSECT28DL-High-(1).jpg</filename>
-            </picture>
-          </pictures>
-          <floorplans>
-            <floorplan name="">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{7eb6d145-d8e6-44df-8e23-cf081da24668}/Floorplan_Floorplan1.jpg</filename>
             </floorplan>
           </floorplans>
         </property>
