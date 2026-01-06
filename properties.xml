@@ -14353,7 +14353,7 @@ The rear garden is a standout feature, a large, versatile outdoor space with ext
             </floorplan>
           </floorplans>
         </property>
-        <property reference="CB003700" hash="D8705924402E3F7502AAF217FA566576">
+        <property reference="CB003700" hash="0E62FE3A5953D1C06BCC8050167106FC">
           <availableFrom />
           <instructedDate>11/03/2025 10:23:36</instructedDate>
           <department>Residential Sales</department>
@@ -14458,7 +14458,9 @@ To the front, a further paved courtyard provides additional outdoor space, with 
           <currency />
           <featuredProperty>YES</featuredProperty>
           <text1 name="" value="Copy of title register provided by the sellers.  Copy on events - property docs. AD" />
+          <text5 name="" value="Thompson &amp; Gravener - Passports &amp; council tax bill. Copies on events - sales docs. AD" />
           <date1 name="Title Register" value="04/03/2025 00:00:00" />
+          <date5 name="Purchasers ID" value="06/01/2026 00:00:00" />
           <number1 name="" value="0" />
           <number2 name="" value="0" />
           <number3 name="" value="0" />
