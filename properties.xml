@@ -14484,7 +14484,7 @@ What3Words: ///palace.habit.once&lt;/p&gt;</advert2>
             </floorplan>
           </floorplans>
         </property>
-        <property reference="CB003575" hash="F22184F2A748F2AA73246093B7F0DCE3">
+        <property reference="CB003575" hash="317576154055C086622B41DC6DD324A0">
           <availableFrom />
           <instructedDate>11/10/2024 09:51:12</instructedDate>
           <department>Residential Sales</department>
@@ -14494,7 +14494,7 @@ What3Words: ///palace.habit.once&lt;/p&gt;</advert2>
           <bedrooms>7</bedrooms>
           <receptions>3</receptions>
           <bathrooms>4</bathrooms>
-          <priority>Sold STC</priority>
+          <priority>On Market</priority>
           <tenure>Freehold</tenure>
           <advert_heading>St. Alphege Lane, Canterbury</advert_heading>
           <main_advert>&lt;p style="text-align: justify;"&gt;A handsome Grade II listed substantial double fronted period building currently divided into four residential flats, all let on Assured Shorthold Tenancy Agreements, situated in the heart of Canterbury City centre.&lt;br /&gt;
