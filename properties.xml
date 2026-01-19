@@ -1823,185 +1823,6 @@ To the front, a further paved courtyard provides additional outdoor space, with 
             </floorplan>
           </floorplans>
         </property>
-        <property reference="CB003705" hash="44E585D9DFBC7B2CDACBBF488ABC420C">
-          <availableFrom />
-          <instructedDate>22/10/2025 00:00:00</instructedDate>
-          <department>Residential Sales</department>
-          <propertyofweek>NO</propertyofweek>
-          <price_text>£585,000</price_text>
-          <numeric_price>585000.0000</numeric_price>
-          <bedrooms>3</bedrooms>
-          <receptions>3</receptions>
-          <bathrooms>1</bathrooms>
-          <priority>On Market</priority>
-          <tenure>Freehold</tenure>
-          <advert_heading>Richdore Road, Waltham, Canterbury</advert_heading>
-          <main_advert>A beautifully presented detached home nestled in the heart of the picturesque village of Waltham.
-&lt;br /&gt;
-&lt;br /&gt;
-3 Comfortable bedrooms
-&lt;br /&gt;
-3 Reception rooms
-&lt;br /&gt;
-Well-appointed kitchen
-&lt;br /&gt;
-Large Rear Garden
-&lt;br /&gt;
-Separate home office with electricity&lt;br /&gt;
-Off Road parking &amp; garage&lt;br /&gt;
-Charming village location&lt;br /&gt;
-EPC Rating: 46E&lt;br /&gt;</main_advert>
-          <advert2>&lt;p style="text-align: justify;"&gt;Christmas Cottage comprises a beautifully presented three-bedroom detached home nestled in the heart of the picturesque village of Waltham. Inside, the property offers a thoughtfully laid-out interior ideal for both family life and working from home. The cosy living room invites you to unwind, while a separate office provides a quiet space for productivity or home working. A spacious dining room is perfect for entertaining, flowing naturally into a well-appointed kitchen with views over the rear garden. Upstairs, you&amp;rsquo;ll find three comfortable bedrooms and a bright, family bathroom.
-&lt;br /&gt;
-&lt;br /&gt;
-Outside, the property enjoys a private and peaceful setting with a generous rear garden. There is also a home-office in the rear garden fully equipped with electricity. The front of the property offers off-road parking, garage with electricity and charming curb appeal.
-&lt;br /&gt;
-&lt;br /&gt;
-Located in the desirable village of Waltham, Christmas Cottage offers the perfect blend of rural tranquility and accessibility. Surrounded by scenic walks and local charm, the village provides a welcoming community atmosphere.  The village benefits from a regular bus service into Canterbury, with a stop conveniently situated opposite the property. The service also provides direct access to the Simon Langton Grammar Schools. The historic city of Canterbury is under 15 minutes drive away in good traffic, offering an array of shops, restaurants, cultural attractions, and excellent schools.&lt;br /&gt;
-&lt;br /&gt;
-Council tax band: E &lt;br /&gt;
-&lt;br /&gt;
-Tenure: Freehold&lt;br /&gt;
-&lt;br /&gt;
-EPC Rating: 46E &lt;br /&gt;
-&lt;br /&gt;
-What3words:///gladiators.influence.sweetener&lt;/p&gt;</advert2>
-          <advert3>&lt;p style="text-align: justify;"&gt;&lt;span style="text-align: justify;"&gt;&lt;span style="text-align: justify;"&gt;Christmas Cottage comprises a beautifully presented three-bedroom detached home nestled in the heart of the picturesque village of Waltham. Inside, the property offers a thoughtfully laid-out interior ideal for both family life and working from home. The cosy living room invites you to unwind, while a separate office provides a quiet space for productivity or home working. A spacious dining room is perfect for entertaining, flowing naturally into a well-appointed kitchen with views over the rear garden. Upstairs, you&amp;rsquo;ll find three comfortable bedrooms and a bright, family bathroom.&lt;/span&gt;&lt;br style="text-align: justify;" /&gt;
-&lt;br style="text-align: justify;" /&gt;
-&lt;span style="text-align: justify;"&gt;Outside, the property enjoys a private and peaceful setting with a generous rear garden. There is also a home-office in the rear garden fully equipped with electricity. The front of the property offers off-road parking, garage with electricity and charming curb appeal.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</advert3>
-          <advert4>&lt;p style="text-align: justify;"&gt;&lt;span style="text-align: justify;"&gt;Located in the desirable village of Waltham, Christmas Cottage offers the perfect blend of rural tranquility and accessibility. Surrounded by scenic walks and local charm, the village provides a welcoming community atmosphere. The village benefits from a regular bus service into Canterbury, with a stop conveniently situated opposite the property. The service also provides direct access to the Simon Langton Grammar Schools.&lt;/span&gt;&lt;span style="text-align: justify;"&gt; The historic city of Canterbury is under 15 minutes drive away in good traffic, offering an array of shops, restaurants, cultural attractions, and excellent schools.&lt;/span&gt;&lt;/p&gt;</advert4>
-          <advert5>Mains electricity, water and drainage are understood to be connected to the property. </advert5>
-          <advert6 />
-          <house_number>Christmas Cottage</house_number>
-          <street>Richdore Road</street>
-          <district>Waltham</district>
-          <town>Canterbury</town>
-          <county>Kent</county>
-          <postcode>CT4 5SH</postcode>
-          <country>UK</country>
-          <area>Canterbury Villages South &amp; West</area>
-          <bullet1>3 Comfortable bedrooms</bullet1>
-          <bullet2>3 Reception rooms</bullet2>
-          <bullet3>Well-appointed kitchen</bullet3>
-          <bullet4>Large Rear Garden</bullet4>
-          <bullet5>Separate home office with electricity </bullet5>
-          <bullet6>Off Road parking &amp; garage</bullet6>
-          <bullet7>Charming village location</bullet7>
-          <bullet8>EPC Rating: 46E</bullet8>
-          <bullet9 />
-          <bullet10 />
-          <bullet11 />
-          <bullet12 />
-          <bullet13 />
-          <bullet14 />
-          <bullet15 />
-          <bullet16 />
-          <bullet17 />
-          <bullet18 />
-          <bullet19 />
-          <bullet20 />
-          <brochure>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{CAB7EA5E-763D-4C99-8540-CBE1943BE080}/external.pdf</brochure>
-          <agency_region>KENT</agency_region>
-          <agency_district>CANTERBURY</agency_district>
-          <agency_location>Canterbury Villages South &amp; West</agency_location>
-          <web_link>https://www.properties.charlesbainbridge.com/index.php?option=com_eapow&amp;format=html&amp;task=property.getProp&amp;?pid=CAB7EA5E-763D-4C99-8540-CBE1943BE080&amp;aid=C46B2F24-B9CD-417A-9879-F8C0E2A6C226</web_link>
-          <latitude>51.1980400085449</latitude>
-          <longitude>1.01586997509003</longitude>
-          <qrcode>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{CAB7EA5E-763D-4C99-8540-CBE1943BE080}/qr.png</qrcode>
-          <epc />
-          <hips>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{CAB7EA5E-763D-4C99-8540-CBE1943BE080}/HIPS/Christmas Cottage EPC.png</hips>
-          <filename3 />
-          <filename4 />
-          <filename5 />
-          <filename6 />
-          <virtual_tour_url />
-          <property_type>House</property_type>
-          <commercial_type />
-          <property_style>Detached</property_style>
-          <property_reference>12616131</property_reference>
-          <newHome>NO</newHome>
-          <noChain>NO</noChain>
-          <furnished>Unknown</furnished>
-          <portalFee />
-          <currency />
-          <featuredProperty>NO</featuredProperty>
-          <text1 name="" value="Copy on property docs - IBP" />
-          <text2 name="" value="Copy on property docs - IBP" />
-          <date1 name="Title Register" value="29/09/2025 00:00:00" />
-          <date2 name="Title Plan" value="29/09/2025 00:00:00" />
-          <number1 name="" value="0" />
-          <number2 name="" value="0" />
-          <number3 name="" value="0" />
-          <number4 name="" value="0" />
-          <number5 name="" value="0" />
-          <number6 name="" value="0" />
-          <number7 name="" value="0" />
-          <number8 name="" value="0" />
-          <number9 name="" value="0" />
-          <number10 name="" value="0" />
-          <rooms />
-          <pictures>
-            <picture name="Photo 19" lastchanged="2025-10-20T16:58:10.5812189Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{cab7ea5e-763d-4c99-8540-cbe1943be080}/main/Untitled-design-(3).jpg</filename>
-            </picture>
-            <picture name="Photo 16" lastchanged="2025-09-29T07:59:00.1397885Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{cab7ea5e-763d-4c99-8540-cbe1943be080}/main/DSC_8859.jpg</filename>
-            </picture>
-            <picture name="Photo 12" lastchanged="2025-09-29T07:58:58.277242Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{cab7ea5e-763d-4c99-8540-cbe1943be080}/main/DSC_8839.jpg</filename>
-            </picture>
-            <picture name="Photo 11" lastchanged="2025-09-29T07:58:57.902179Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{cab7ea5e-763d-4c99-8540-cbe1943be080}/main/DSC_8819.jpg</filename>
-            </picture>
-            <picture name="Photo 19" lastchanged="2025-09-29T07:59:01.5317944Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{cab7ea5e-763d-4c99-8540-cbe1943be080}/main/DSC_8901.jpg</filename>
-            </picture>
-            <picture name="Photo 18" lastchanged="2025-09-29T07:59:01.062387Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{cab7ea5e-763d-4c99-8540-cbe1943be080}/main/DSC_8879.jpg</filename>
-            </picture>
-            <picture name="Photo 17" lastchanged="2025-09-29T07:59:00.5935959Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{cab7ea5e-763d-4c99-8540-cbe1943be080}/main/DSC_8864.jpg</filename>
-            </picture>
-            <picture name="Photo 1" lastchanged="2025-09-29T07:58:53.6290074Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{cab7ea5e-763d-4c99-8540-cbe1943be080}/main/DSC_8749.jpg</filename>
-            </picture>
-            <picture name="Photo 6" lastchanged="2025-09-29T07:58:55.7768938Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{cab7ea5e-763d-4c99-8540-cbe1943be080}/main/DSC_8774.jpg</filename>
-            </picture>
-            <picture name="Photo 7" lastchanged="2025-09-29T07:58:56.198853Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{cab7ea5e-763d-4c99-8540-cbe1943be080}/main/DSC_8792.jpg</filename>
-            </picture>
-            <picture name="Photo 8" lastchanged="2025-09-29T07:58:56.6676376Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{cab7ea5e-763d-4c99-8540-cbe1943be080}/main/DSC_8799.jpg</filename>
-            </picture>
-            <picture name="Photo 19" lastchanged="2025-10-21T08:20:34.8281405Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{cab7ea5e-763d-4c99-8540-cbe1943be080}/main/DSC_1923.jpg</filename>
-            </picture>
-            <picture name="Photo 25" lastchanged="2025-09-29T07:59:04.3877932Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{cab7ea5e-763d-4c99-8540-cbe1943be080}/main/DSC_8940.jpg</filename>
-            </picture>
-            <picture name="Photo 22" lastchanged="2025-09-29T07:59:02.9151941Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{cab7ea5e-763d-4c99-8540-cbe1943be080}/main/DSC_8924.jpg</filename>
-            </picture>
-            <picture name="Photo 20" lastchanged="2025-10-21T09:05:11.4172595Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{cab7ea5e-763d-4c99-8540-cbe1943be080}/main/DSC_8941.jpg</filename>
-            </picture>
-            <picture name="Photo 18" lastchanged="2025-10-20T16:50:42.1373048Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{cab7ea5e-763d-4c99-8540-cbe1943be080}/main/DSC_6056-(1).jpg</filename>
-            </picture>
-            <picture name="Photo 19" lastchanged="2025-10-21T09:05:10.8702981Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{cab7ea5e-763d-4c99-8540-cbe1943be080}/main/DSC_8934.jpg</filename>
-            </picture>
-            <picture name="Photo 19" lastchanged="2025-09-29T11:48:03.339793Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{cab7ea5e-763d-4c99-8540-cbe1943be080}/main/ChristmasCottageRichdoreRoadWalthamCT45SH-High.jpg</filename>
-            </picture>
-          </pictures>
-          <floorplans>
-            <floorplan name="">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{cab7ea5e-763d-4c99-8540-cbe1943be080}/Floorplan_Floorplan1.jpg</filename>
-            </floorplan>
-          </floorplans>
-        </property>
         <property reference="CB003706" hash="B4E74C2B8011119EFA6954D8F12708BE">
           <availableFrom />
           <instructedDate>23/09/2025 17:10:46</instructedDate>
@@ -2948,186 +2769,6 @@ Outside, the property enjoys a good-sized garden, providing plenty of room for o
           <floorplans>
             <floorplan name="">
               <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{c1a0b65a-6cae-45b6-b1d6-ff537e8ed145}/Floorplan_Floorplan1.jpg</filename>
-            </floorplan>
-          </floorplans>
-        </property>
-        <property reference="CB003776" hash="8E24071D076FC6518E1F5A64F9166278">
-          <availableFrom />
-          <instructedDate>21/06/2025 09:34:05</instructedDate>
-          <department>Residential Sales</department>
-          <propertyofweek>NO</propertyofweek>
-          <price_text>£325,000</price_text>
-          <numeric_price>325000.0000</numeric_price>
-          <bedrooms>2</bedrooms>
-          <receptions>2</receptions>
-          <bathrooms>1</bathrooms>
-          <priority>On Market</priority>
-          <tenure>Freehold</tenure>
-          <advert_heading>Cross Street, Canterbury</advert_heading>
-          <main_advert>A beautifully presented two-bedroom Victorian terraced house is situated on the desirable and peaceful location. &lt;br /&gt;
-&lt;br /&gt;
-2 Bedroom House&lt;br /&gt;
-2 Reception Rooms&lt;br /&gt;
-City Centre&lt;br /&gt;
-Close to Station&lt;br /&gt;
-Courtyard Garden &lt;br /&gt;
-Lots of Character&lt;br /&gt;
-Must to View&lt;br /&gt;</main_advert>
-          <advert2>&lt;p style="text-align: justify;"&gt;This beautifully presented two-bedroom Victorian terraced house is situated on the desirable and peaceful Cross Street, in the ever-popular St. Dunstan&amp;rsquo;s quarter of Canterbury. Just a short stroll from the city centre and Canterbury West station, the property offers the perfect balance of period charm and modern living.
-On the ground floor, the entrance leads into a bright and welcoming living room, complete with a traditional cast-iron fireplace, bespoke shelving, and large sash-style window allowing natural light to fill the space.
-&lt;br /&gt;
-&lt;br /&gt;
-To the rear, a separate dining area with exposed wood flooring flows into a stylishly finished kitchen with cream shaker units, solid wood worktops, and white tiled splash backs. Integrated oven, hob, and space for white goods complete this practical, well-designed space. French doors at the rear lead out to a tidy courtyard garden, ideal for low-maintenance outdoor entertaining or a morning coffee.
-Upstairs, the home boasts two good-sized bedrooms, both neutrally decorated with ample space for storage. The bathroom is well-fitted and continues the tasteful finish seen throughout the home.
-This property is ready to move straight into, ideal for those looking to enjoy the vibrant Canterbury lifestyle without compromise.
-&lt;br /&gt;
-&lt;br /&gt;
-Cross Street is a tranquil road set within walking distance of the historic city centre, Canterbury West Station (with high-speed services to London St Pancras in under an hour), and excellent local schools, shops, restaurants and the University of Kent.
-The location is perfect for professionals, couples, or landlords seeking a characterful and convenient home.
-&lt;br /&gt;
-&lt;br /&gt;
-Council tax band: D&lt;br /&gt;
-&lt;br /&gt;
-Tenure - Freehold &lt;br /&gt;
-&lt;br /&gt;
-EPC Rating: 67D&lt;/p&gt;</advert2>
-          <advert3>&lt;p style="text-align: justify;"&gt;&lt;span style="text-align: justify;"&gt;This beautifully presented two-bedroom Victorian terraced house is situated on the desirable and peaceful Cross Street, in the ever-popular St. Dunstan&amp;rsquo;s quarter of Canterbury. Just a short stroll from the city centre and Canterbury West station, the property offers the perfect balance of period charm and modern living. On the ground floor, the entrance leads into a bright and welcoming living room, complete with a traditional cast-iron fireplace, bespoke shelving, and large sash-style window allowing natural light to fill the space. To the rear, a separate dining area with exposed wood flooring flows into a stylishly finished kitchen with cream shaker units, solid wood worktops, and white tiled splash backs. Integrated oven, hob, and space for white goods complete this practical, well-designed space. French doors at the rear lead out to a tidy courtyard garden, ideal for low-maintenance outdoor entertaining or a morning coffee. Upstairs, the home boasts two good-sized bedrooms, both neutrally decorated with ample space for storage. The bathroom is well-fitted and continues the tasteful finish seen throughout the home. This property is ready to move straight into, ideal for those looking to enjoy the vibrant. &lt;/span&gt;&lt;/p&gt;</advert3>
-          <advert4>&lt;span style="text-align: justify;"&gt;Canterbury lifestyle without compromise. Cross Street is a tranquil road set within walking distance of the historic city centre, Canterbury West Station (with high-speed services to London St Pancras in under an hour), and excellent local schools, shops, restaurants and the University of Kent. The location is perfect for professionals, couples, or landlords seeking a characterful and convenient home. &lt;/span&gt;</advert4>
-          <advert5>All mains services are understood to be connected to the property. </advert5>
-          <advert6 />
-          <house_number>24</house_number>
-          <street>Cross Street</street>
-          <district />
-          <town>Canterbury</town>
-          <county>Kent</county>
-          <postcode>CT2 8AT</postcode>
-          <country>UK</country>
-          <area>Canterbury Centre</area>
-          <bullet1>2 Bedroom House </bullet1>
-          <bullet2>St Dunstan's Area</bullet2>
-          <bullet3>Close to Station </bullet3>
-          <bullet4>Courtyard Garden  </bullet4>
-          <bullet5>Lots of Character </bullet5>
-          <bullet6>No Onward Chain</bullet6>
-          <bullet7>Must to view</bullet7>
-          <bullet8 />
-          <bullet9 />
-          <bullet10 />
-          <bullet11 />
-          <bullet12 />
-          <bullet13 />
-          <bullet14 />
-          <bullet15 />
-          <bullet16 />
-          <bullet17 />
-          <bullet18 />
-          <bullet19 />
-          <bullet20 />
-          <brochure>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{7CD71CB1-C916-415D-B67D-5351A474D736}/external.pdf</brochure>
-          <agency_region>KENT</agency_region>
-          <agency_district>CANTERBURY</agency_district>
-          <agency_location>Canterbury Centre</agency_location>
-          <web_link>https://www.properties.charlesbainbridge.com/index.php?option=com_eapow&amp;format=html&amp;task=property.getProp&amp;?pid=7CD71CB1-C916-415D-B67D-5351A474D736&amp;aid=C46B2F24-B9CD-417A-9879-F8C0E2A6C226</web_link>
-          <latitude>51.2828826904297</latitude>
-          <longitude>1.07075023651123</longitude>
-          <qrcode>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{7CD71CB1-C916-415D-B67D-5351A474D736}/qr.png</qrcode>
-          <epc />
-          <hips>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{7CD71CB1-C916-415D-B67D-5351A474D736}/HIPS/EPC - 24 Cross Street.pdf</hips>
-          <filename3 />
-          <filename4 />
-          <filename5 />
-          <filename6 />
-          <virtual_tour_url />
-          <property_type>House</property_type>
-          <commercial_type />
-          <property_style>Terraced</property_style>
-          <property_reference>12685344</property_reference>
-          <newHome>NO</newHome>
-          <noChain>YES</noChain>
-          <furnished>Unknown</furnished>
-          <portalFee />
-          <currency />
-          <featuredProperty>NO</featuredProperty>
-          <number1 name="" value="0" />
-          <number2 name="" value="0" />
-          <number3 name="" value="0" />
-          <number4 name="" value="0" />
-          <number5 name="" value="0" />
-          <number6 name="" value="0" />
-          <number7 name="" value="0" />
-          <number8 name="" value="0" />
-          <number9 name="" value="0" />
-          <number10 name="" value="0" />
-          <rooms>
-            <room name="Lounge">
-              <measurement_text>10' 10'' x 10' 2'' (3.30m x 3.10m)</measurement_text>
-              <description />
-            </room>
-            <room name="Dining Room">
-              <measurement_text>10' 10'' x 8' 2'' (3.30m x 2.49m)</measurement_text>
-              <description />
-            </room>
-            <room name="Kitchen">
-              <measurement_text>10' 10'' x 9' 9'' (3.30m x 2.97m)</measurement_text>
-              <description />
-            </room>
-            <room name="Bathroom">
-              <measurement_text>8' 4'' x 5' 3'' (2.54m x 1.60m)</measurement_text>
-              <description />
-            </room>
-            <room name="First Floor">
-              <measurement_text />
-              <description />
-            </room>
-            <room name="Landing">
-              <measurement_text />
-              <description />
-            </room>
-            <room name="Bedroom One">
-              <measurement_text>11' 0'' x 10' 1'' (3.35m x 3.07m)</measurement_text>
-              <description />
-            </room>
-            <room name="Bedroom Two">
-              <measurement_text>8' 2'' x 8' 1'' (2.49m x 2.46m)</measurement_text>
-              <description />
-            </room>
-            <room name="Exterior">
-              <measurement_text />
-              <description />
-            </room>
-          </rooms>
-          <pictures>
-            <picture name="Photo 10" lastchanged="2025-06-20T14:42:26.3768452Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{7cd71cb1-c916-415d-b67d-5351a474d736}/main/24-Cross-FRONT.jpg</filename>
-            </picture>
-            <picture name="Photo 9" lastchanged="2025-11-26T09:06:56.5937547Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{7cd71cb1-c916-415d-b67d-5351a474d736}/main/CAM02660G0-PR0104-STILL002.jpg</filename>
-            </picture>
-            <picture name="Photo 10" lastchanged="2025-11-26T09:06:57.0469058Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{7cd71cb1-c916-415d-b67d-5351a474d736}/main/CAM02660G0-PR0104-STILL005.jpg</filename>
-            </picture>
-            <picture name="Photo 11" lastchanged="2025-11-26T09:06:57.5001032Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{7cd71cb1-c916-415d-b67d-5351a474d736}/main/CAM02660G0-PR0104-STILL010.jpg</filename>
-            </picture>
-            <picture name="Photo 12" lastchanged="2025-11-26T09:06:57.8438625Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{7cd71cb1-c916-415d-b67d-5351a474d736}/main/CAM02660G0-PR0104-STILL011.jpg</filename>
-            </picture>
-            <picture name="Photo 14" lastchanged="2025-11-26T09:06:58.1729957Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{7cd71cb1-c916-415d-b67d-5351a474d736}/main/CAM02660G0-PR0104-STILL017.jpg</filename>
-            </picture>
-            <picture name="Photo 13" lastchanged="2025-11-26T09:06:58.0162888Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{7cd71cb1-c916-415d-b67d-5351a474d736}/main/CAM02660G0-PR0104-STILL013-(1).jpg</filename>
-            </picture>
-            <picture name="Photo 11" lastchanged="2025-06-20T14:42:26.6581385Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{7cd71cb1-c916-415d-b67d-5351a474d736}/main/24-Cross-Garden.jpg</filename>
-            </picture>
-            <picture name="Photo 9" lastchanged="2025-09-26T08:30:26.6888257Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{7cd71cb1-c916-415d-b67d-5351a474d736}/main/24-Cross-Street-Floorplan.jpg</filename>
-            </picture>
-          </pictures>
-          <floorplans>
-            <floorplan name="">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{7cd71cb1-c916-415d-b67d-5351a474d736}/Floorplan_Floorplan1.jpg</filename>
             </floorplan>
           </floorplans>
         </property>
@@ -14766,6 +14407,185 @@ What3Words:///calm.public.sailor</advert2>
           <floorplans>
             <floorplan name="">
               <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{5baf908e-8fe4-4cb2-8ce9-c2a6c169cf6d}/Floorplan_Floorplan1.jpg</filename>
+            </floorplan>
+          </floorplans>
+        </property>
+        <property reference="CB003705" hash="44E585D9DFBC7B2CDACBBF488ABC420C">
+          <availableFrom />
+          <instructedDate>22/10/2025 00:00:00</instructedDate>
+          <department>Residential Sales</department>
+          <propertyofweek>NO</propertyofweek>
+          <price_text>£585,000</price_text>
+          <numeric_price>585000.0000</numeric_price>
+          <bedrooms>3</bedrooms>
+          <receptions>3</receptions>
+          <bathrooms>1</bathrooms>
+          <priority>On Market</priority>
+          <tenure>Freehold</tenure>
+          <advert_heading>Richdore Road, Waltham, Canterbury</advert_heading>
+          <main_advert>A beautifully presented detached home nestled in the heart of the picturesque village of Waltham.
+&lt;br /&gt;
+&lt;br /&gt;
+3 Comfortable bedrooms
+&lt;br /&gt;
+3 Reception rooms
+&lt;br /&gt;
+Well-appointed kitchen
+&lt;br /&gt;
+Large Rear Garden
+&lt;br /&gt;
+Separate home office with electricity&lt;br /&gt;
+Off Road parking &amp; garage&lt;br /&gt;
+Charming village location&lt;br /&gt;
+EPC Rating: 46E&lt;br /&gt;</main_advert>
+          <advert2>&lt;p style="text-align: justify;"&gt;Christmas Cottage comprises a beautifully presented three-bedroom detached home nestled in the heart of the picturesque village of Waltham. Inside, the property offers a thoughtfully laid-out interior ideal for both family life and working from home. The cosy living room invites you to unwind, while a separate office provides a quiet space for productivity or home working. A spacious dining room is perfect for entertaining, flowing naturally into a well-appointed kitchen with views over the rear garden. Upstairs, you&amp;rsquo;ll find three comfortable bedrooms and a bright, family bathroom.
+&lt;br /&gt;
+&lt;br /&gt;
+Outside, the property enjoys a private and peaceful setting with a generous rear garden. There is also a home-office in the rear garden fully equipped with electricity. The front of the property offers off-road parking, garage with electricity and charming curb appeal.
+&lt;br /&gt;
+&lt;br /&gt;
+Located in the desirable village of Waltham, Christmas Cottage offers the perfect blend of rural tranquility and accessibility. Surrounded by scenic walks and local charm, the village provides a welcoming community atmosphere.  The village benefits from a regular bus service into Canterbury, with a stop conveniently situated opposite the property. The service also provides direct access to the Simon Langton Grammar Schools. The historic city of Canterbury is under 15 minutes drive away in good traffic, offering an array of shops, restaurants, cultural attractions, and excellent schools.&lt;br /&gt;
+&lt;br /&gt;
+Council tax band: E &lt;br /&gt;
+&lt;br /&gt;
+Tenure: Freehold&lt;br /&gt;
+&lt;br /&gt;
+EPC Rating: 46E &lt;br /&gt;
+&lt;br /&gt;
+What3words:///gladiators.influence.sweetener&lt;/p&gt;</advert2>
+          <advert3>&lt;p style="text-align: justify;"&gt;&lt;span style="text-align: justify;"&gt;&lt;span style="text-align: justify;"&gt;Christmas Cottage comprises a beautifully presented three-bedroom detached home nestled in the heart of the picturesque village of Waltham. Inside, the property offers a thoughtfully laid-out interior ideal for both family life and working from home. The cosy living room invites you to unwind, while a separate office provides a quiet space for productivity or home working. A spacious dining room is perfect for entertaining, flowing naturally into a well-appointed kitchen with views over the rear garden. Upstairs, you&amp;rsquo;ll find three comfortable bedrooms and a bright, family bathroom.&lt;/span&gt;&lt;br style="text-align: justify;" /&gt;
+&lt;br style="text-align: justify;" /&gt;
+&lt;span style="text-align: justify;"&gt;Outside, the property enjoys a private and peaceful setting with a generous rear garden. There is also a home-office in the rear garden fully equipped with electricity. The front of the property offers off-road parking, garage with electricity and charming curb appeal.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</advert3>
+          <advert4>&lt;p style="text-align: justify;"&gt;&lt;span style="text-align: justify;"&gt;Located in the desirable village of Waltham, Christmas Cottage offers the perfect blend of rural tranquility and accessibility. Surrounded by scenic walks and local charm, the village provides a welcoming community atmosphere. The village benefits from a regular bus service into Canterbury, with a stop conveniently situated opposite the property. The service also provides direct access to the Simon Langton Grammar Schools.&lt;/span&gt;&lt;span style="text-align: justify;"&gt; The historic city of Canterbury is under 15 minutes drive away in good traffic, offering an array of shops, restaurants, cultural attractions, and excellent schools.&lt;/span&gt;&lt;/p&gt;</advert4>
+          <advert5>Mains electricity, water and drainage are understood to be connected to the property. </advert5>
+          <advert6 />
+          <house_number>Christmas Cottage</house_number>
+          <street>Richdore Road</street>
+          <district>Waltham</district>
+          <town>Canterbury</town>
+          <county>Kent</county>
+          <postcode>CT4 5SH</postcode>
+          <country>UK</country>
+          <area>Canterbury Villages South &amp; West</area>
+          <bullet1>3 Comfortable bedrooms</bullet1>
+          <bullet2>3 Reception rooms</bullet2>
+          <bullet3>Well-appointed kitchen</bullet3>
+          <bullet4>Large Rear Garden</bullet4>
+          <bullet5>Separate home office with electricity </bullet5>
+          <bullet6>Off Road parking &amp; garage</bullet6>
+          <bullet7>Charming village location</bullet7>
+          <bullet8>EPC Rating: 46E</bullet8>
+          <bullet9 />
+          <bullet10 />
+          <bullet11 />
+          <bullet12 />
+          <bullet13 />
+          <bullet14 />
+          <bullet15 />
+          <bullet16 />
+          <bullet17 />
+          <bullet18 />
+          <bullet19 />
+          <bullet20 />
+          <brochure>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{CAB7EA5E-763D-4C99-8540-CBE1943BE080}/external.pdf</brochure>
+          <agency_region>KENT</agency_region>
+          <agency_district>CANTERBURY</agency_district>
+          <agency_location>Canterbury Villages South &amp; West</agency_location>
+          <web_link>https://www.properties.charlesbainbridge.com/index.php?option=com_eapow&amp;format=html&amp;task=property.getProp&amp;?pid=CAB7EA5E-763D-4C99-8540-CBE1943BE080&amp;aid=C46B2F24-B9CD-417A-9879-F8C0E2A6C226</web_link>
+          <latitude>51.1980400085449</latitude>
+          <longitude>1.01586997509003</longitude>
+          <qrcode>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{CAB7EA5E-763D-4C99-8540-CBE1943BE080}/qr.png</qrcode>
+          <epc />
+          <hips>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{CAB7EA5E-763D-4C99-8540-CBE1943BE080}/HIPS/Christmas Cottage EPC.png</hips>
+          <filename3 />
+          <filename4 />
+          <filename5 />
+          <filename6 />
+          <virtual_tour_url />
+          <property_type>House</property_type>
+          <commercial_type />
+          <property_style>Detached</property_style>
+          <property_reference>12616131</property_reference>
+          <newHome>NO</newHome>
+          <noChain>NO</noChain>
+          <furnished>Unknown</furnished>
+          <portalFee />
+          <currency />
+          <featuredProperty>NO</featuredProperty>
+          <text1 name="" value="Copy on property docs - IBP" />
+          <text2 name="" value="Copy on property docs - IBP" />
+          <date1 name="Title Register" value="29/09/2025 00:00:00" />
+          <date2 name="Title Plan" value="29/09/2025 00:00:00" />
+          <number1 name="" value="0" />
+          <number2 name="" value="0" />
+          <number3 name="" value="0" />
+          <number4 name="" value="0" />
+          <number5 name="" value="0" />
+          <number6 name="" value="0" />
+          <number7 name="" value="0" />
+          <number8 name="" value="0" />
+          <number9 name="" value="0" />
+          <number10 name="" value="0" />
+          <rooms />
+          <pictures>
+            <picture name="Photo 19" lastchanged="2025-10-20T16:58:10.5812189Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{cab7ea5e-763d-4c99-8540-cbe1943be080}/main/Untitled-design-(3).jpg</filename>
+            </picture>
+            <picture name="Photo 16" lastchanged="2025-09-29T07:59:00.1397885Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{cab7ea5e-763d-4c99-8540-cbe1943be080}/main/DSC_8859.jpg</filename>
+            </picture>
+            <picture name="Photo 12" lastchanged="2025-09-29T07:58:58.277242Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{cab7ea5e-763d-4c99-8540-cbe1943be080}/main/DSC_8839.jpg</filename>
+            </picture>
+            <picture name="Photo 11" lastchanged="2025-09-29T07:58:57.902179Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{cab7ea5e-763d-4c99-8540-cbe1943be080}/main/DSC_8819.jpg</filename>
+            </picture>
+            <picture name="Photo 19" lastchanged="2025-09-29T07:59:01.5317944Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{cab7ea5e-763d-4c99-8540-cbe1943be080}/main/DSC_8901.jpg</filename>
+            </picture>
+            <picture name="Photo 18" lastchanged="2025-09-29T07:59:01.062387Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{cab7ea5e-763d-4c99-8540-cbe1943be080}/main/DSC_8879.jpg</filename>
+            </picture>
+            <picture name="Photo 17" lastchanged="2025-09-29T07:59:00.5935959Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{cab7ea5e-763d-4c99-8540-cbe1943be080}/main/DSC_8864.jpg</filename>
+            </picture>
+            <picture name="Photo 1" lastchanged="2025-09-29T07:58:53.6290074Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{cab7ea5e-763d-4c99-8540-cbe1943be080}/main/DSC_8749.jpg</filename>
+            </picture>
+            <picture name="Photo 6" lastchanged="2025-09-29T07:58:55.7768938Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{cab7ea5e-763d-4c99-8540-cbe1943be080}/main/DSC_8774.jpg</filename>
+            </picture>
+            <picture name="Photo 7" lastchanged="2025-09-29T07:58:56.198853Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{cab7ea5e-763d-4c99-8540-cbe1943be080}/main/DSC_8792.jpg</filename>
+            </picture>
+            <picture name="Photo 8" lastchanged="2025-09-29T07:58:56.6676376Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{cab7ea5e-763d-4c99-8540-cbe1943be080}/main/DSC_8799.jpg</filename>
+            </picture>
+            <picture name="Photo 19" lastchanged="2025-10-21T08:20:34.8281405Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{cab7ea5e-763d-4c99-8540-cbe1943be080}/main/DSC_1923.jpg</filename>
+            </picture>
+            <picture name="Photo 25" lastchanged="2025-09-29T07:59:04.3877932Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{cab7ea5e-763d-4c99-8540-cbe1943be080}/main/DSC_8940.jpg</filename>
+            </picture>
+            <picture name="Photo 22" lastchanged="2025-09-29T07:59:02.9151941Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{cab7ea5e-763d-4c99-8540-cbe1943be080}/main/DSC_8924.jpg</filename>
+            </picture>
+            <picture name="Photo 20" lastchanged="2025-10-21T09:05:11.4172595Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{cab7ea5e-763d-4c99-8540-cbe1943be080}/main/DSC_8941.jpg</filename>
+            </picture>
+            <picture name="Photo 18" lastchanged="2025-10-20T16:50:42.1373048Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{cab7ea5e-763d-4c99-8540-cbe1943be080}/main/DSC_6056-(1).jpg</filename>
+            </picture>
+            <picture name="Photo 19" lastchanged="2025-10-21T09:05:10.8702981Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{cab7ea5e-763d-4c99-8540-cbe1943be080}/main/DSC_8934.jpg</filename>
+            </picture>
+            <picture name="Photo 19" lastchanged="2025-09-29T11:48:03.339793Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{cab7ea5e-763d-4c99-8540-cbe1943be080}/main/ChristmasCottageRichdoreRoadWalthamCT45SH-High.jpg</filename>
+            </picture>
+          </pictures>
+          <floorplans>
+            <floorplan name="">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{cab7ea5e-763d-4c99-8540-cbe1943be080}/Floorplan_Floorplan1.jpg</filename>
             </floorplan>
           </floorplans>
         </property>
