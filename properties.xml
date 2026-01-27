@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<agency xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:noNamespaceSchemaLocation="http://www.expertagent.co.uk/xmlexport/ExpertAgentXMLSchema.xsd" name="CharlesBainbridge">
+﻿<?xml version="1.0" encoding="utf-8"?>
+<agency xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:noNamespaceSchemaLocation="http://www.expertagent.co.uk/xmlexport/ExpertAgentXMLSchema.xsd" name="CharlesBainbridge" branchName="Charles Bainbridge">
   <branches>
     <branch name="Charles Bainbridge">
       <properties>
@@ -5981,154 +5981,6 @@ What3Words:///punks.walks.radio&lt;/p&gt;</advert2>
             </floorplan>
           </floorplans>
         </property>
-        <property reference="CB003801" hash="FD0564D2A9D53989BD73072FFFD3988E">
-          <availableFrom />
-          <instructedDate>26/01/2026 16:16:27</instructedDate>
-          <department>Residential Sales</department>
-          <propertyofweek>NO</propertyofweek>
-          <price_text>£515,000</price_text>
-          <numeric_price>515000.0000</numeric_price>
-          <bedrooms>3</bedrooms>
-          <receptions>1</receptions>
-          <bathrooms>1</bathrooms>
-          <priority>On Market</priority>
-          <tenure>Freehold</tenure>
-          <advert_heading>Birch Court, Canterbury</advert_heading>
-          <main_advert>A well-presented three bedroom detached bungalow offering spacious and versatile accommodation in the sought-after village of Barham. 
-
-</main_advert>
-          <advert2>&lt;p style="text-align: justify;"&gt;Occupying a generous standalone plot, Birch Court is a well-presented three bedroom detached bungalow offering spacious and versatile accommodation in the sought-after village of Barham. Internally, the accommodation is arranged on one level and comprises three well-proportioned bedrooms, a comfortable living space filled with natural light, and a functional kitchen with scope for modernisation or personalisation, depending on requirements. There is also separate conservatory as well as bathroom and separate W/C. &lt;br /&gt;
-&lt;br /&gt;
-The property enjoys a wrap-around garden, providing a high degree of privacy and plenty of outdoor space for relaxation, entertaining, or gardening.The bungalow is set well back within its plot, creating an attractive approach and a peaceful, private setting. The property could be extended (STPP). A particular highlight is the large double garage, offering excellent storage or workshop potential, alongside additional off-road parking for several vehicles.
-&lt;br /&gt;
-&lt;br /&gt;
-The property is set in the centre of the Village of Barham with easy access to both the local shop and the popular Primary School.  Further amenities are available in the neighbouring village of Bridge whilst the Cathedral City of Canterbury is easily accessible and provides comprehensive shopping and leisure facilities plus and impressive range of schools, colleges and universities.  The High-Speed rail link from Canterbury West Station provides services to London St. Pancras with a journey time of approx. 55 mins. The outlying countryside provides lovely walking and cycling.&lt;/p&gt;</advert2>
-          <advert3>&lt;span style="text-align: justify;"&gt;Occupying a generous standalone plot, Birch Court is a well-presented three bedroom detached bungalow offering spacious and versatile accommodation in the sought-after village of Barham. I&lt;/span&gt;&lt;span style="text-align: justify;"&gt;nternally, the accommodation is arranged on one level and comprises three well-proportioned bedrooms, a comfortable living space filled with natural light, and a functional kitchen with scope for modernisation or personalisation, depending on requirements. There is also separate conservatory as well as bathroom and separate W/C. &lt;/span&gt;&lt;br style="text-align: justify;" /&gt;
-&lt;br style="text-align: justify;" /&gt;
-&lt;span style="text-align: justify;"&gt;The property enjoys a wrap-around garden, providing a high degree of privacy and plenty of outdoor space for relaxation, entertaining, or gardening.&lt;/span&gt;&lt;span style="text-align: justify;"&gt;The bungalow is set well back within its plot, creating an attractive approach and a peaceful, private setting. The property could be extended (STPP). A particular highlight is the large double garage, offering excellent storage or workshop potential, alongside additional off-road parking for several vehicles.&lt;/span&gt;</advert3>
-          <advert4>&lt;p style="text-align: justify;"&gt;&lt;span style="text-align: justify;"&gt;The property is set in the centre of the Village of Barham with easy access to both the local shop and the popular Primary School. Further amenities are available in the neighbouring village of Bridge whilst the Cathedral City of Canterbury is easily accessible and provides comprehensive shopping and leisure facilities plus and impressive range of schools, colleges and universities. The High-Speed rail link from Canterbury West Station provides services to London St. Pancras with a journey time of approx. 55 mins. The outlying countryside provides lovely walking and cycling.&lt;/span&gt;&lt;/p&gt;</advert4>
-          <advert5>All mains services are understood to be connected to the property. </advert5>
-          <advert6 />
-          <house_number>1</house_number>
-          <street>Birch Court</street>
-          <district>Barham</district>
-          <town>Canterbury</town>
-          <county>Kent</county>
-          <postcode>CT4 6QW</postcode>
-          <country>UK</country>
-          <area>Canterbury Villages South &amp; West</area>
-          <bullet1 />
-          <bullet2 />
-          <bullet3 />
-          <bullet4 />
-          <bullet5 />
-          <bullet6 />
-          <bullet7 />
-          <bullet8 />
-          <bullet9 />
-          <bullet10 />
-          <bullet11 />
-          <bullet12 />
-          <bullet13 />
-          <bullet14 />
-          <bullet15 />
-          <bullet16 />
-          <bullet17 />
-          <bullet18 />
-          <bullet19 />
-          <bullet20 />
-          <brochure>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{74CC75F9-3C81-4574-8AF1-8F34D44AB51D}/external.pdf</brochure>
-          <agency_region>KENT</agency_region>
-          <agency_district>CANTERBURY</agency_district>
-          <agency_location>Canterbury Villages South &amp; West</agency_location>
-          <web_link>https://www.properties.charlesbainbridge.com/index.php?option=com_eapow&amp;format=html&amp;task=property.getProp&amp;?pid=74CC75F9-3C81-4574-8AF1-8F34D44AB51D&amp;aid=C46B2F24-B9CD-417A-9879-F8C0E2A6C226</web_link>
-          <latitude>51.2025566101074</latitude>
-          <longitude>1.15606141090393</longitude>
-          <qrcode>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{74CC75F9-3C81-4574-8AF1-8F34D44AB51D}/qr.png</qrcode>
-          <epc />
-          <hips />
-          <filename3 />
-          <filename4 />
-          <filename5 />
-          <filename6 />
-          <virtual_tour_url />
-          <property_type>Bungalow</property_type>
-          <commercial_type />
-          <property_style>Detached</property_style>
-          <property_reference>12711325</property_reference>
-          <newHome>NO</newHome>
-          <noChain>NO</noChain>
-          <furnished>Unknown</furnished>
-          <portalFee />
-          <currency />
-          <featuredProperty>NO</featuredProperty>
-          <number1 name="" value="0" />
-          <number2 name="" value="0" />
-          <number3 name="" value="0" />
-          <number4 name="" value="0" />
-          <number5 name="" value="0" />
-          <number6 name="" value="0" />
-          <number7 name="" value="0" />
-          <number8 name="" value="0" />
-          <number9 name="" value="0" />
-          <number10 name="" value="0" />
-          <rooms />
-          <pictures>
-            <picture name="Photo 25" lastchanged="2026-01-19T18:39:31.3034243Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{74cc75f9-3c81-4574-8af1-8f34d44ab51d}/main/DSC_8493.jpg</filename>
-            </picture>
-            <picture name="Photo 17" lastchanged="2026-01-19T18:39:29.6159148Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{74cc75f9-3c81-4574-8af1-8f34d44ab51d}/main/DSC_8457.jpg</filename>
-            </picture>
-            <picture name="Photo 14" lastchanged="2026-01-19T18:39:29.0377989Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{74cc75f9-3c81-4574-8af1-8f34d44ab51d}/main/DSC_8436.jpg</filename>
-            </picture>
-            <picture name="Photo 12" lastchanged="2026-01-19T18:39:28.6315319Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{74cc75f9-3c81-4574-8af1-8f34d44ab51d}/main/DSC_8415.jpg</filename>
-            </picture>
-            <picture name="Photo 13" lastchanged="2026-01-19T18:39:28.83466Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{74cc75f9-3c81-4574-8af1-8f34d44ab51d}/main/DSC_8427.jpg</filename>
-            </picture>
-            <picture name="Photo 19" lastchanged="2026-01-19T18:39:30.0221699Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{74cc75f9-3c81-4574-8af1-8f34d44ab51d}/main/DSC_8464.jpg</filename>
-            </picture>
-            <picture name="Photo 5" lastchanged="2026-01-19T18:39:27.2252659Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{74cc75f9-3c81-4574-8af1-8f34d44ab51d}/main/DSC_8363.jpg</filename>
-            </picture>
-            <picture name="Photo 7" lastchanged="2026-01-19T18:39:27.6315326Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{74cc75f9-3c81-4574-8af1-8f34d44ab51d}/main/DSC_8384.jpg</filename>
-            </picture>
-            <picture name="Photo 3" lastchanged="2026-01-19T18:39:26.8033977Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{74cc75f9-3c81-4574-8af1-8f34d44ab51d}/main/DSC_8351.jpg</filename>
-            </picture>
-            <picture name="Photo 8" lastchanged="2026-01-19T18:39:27.8346512Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{74cc75f9-3c81-4574-8af1-8f34d44ab51d}/main/DSC_8388.jpg</filename>
-            </picture>
-            <picture name="Photo 10" lastchanged="2026-01-19T18:39:28.2252814Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{74cc75f9-3c81-4574-8af1-8f34d44ab51d}/main/DSC_8400.jpg</filename>
-            </picture>
-            <picture name="Photo 21" lastchanged="2026-01-19T18:39:30.4440603Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{74cc75f9-3c81-4574-8af1-8f34d44ab51d}/main/DSC_8483.jpg</filename>
-            </picture>
-            <picture name="Photo 22" lastchanged="2026-01-19T18:39:30.6471692Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{74cc75f9-3c81-4574-8af1-8f34d44ab51d}/main/DSC_8485.jpg</filename>
-            </picture>
-            <picture name="Photo 26" lastchanged="2026-01-19T18:39:31.5065557Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{74cc75f9-3c81-4574-8af1-8f34d44ab51d}/main/DSC_8501.jpg</filename>
-            </picture>
-            <picture name="Photo 1" lastchanged="2026-01-19T18:39:26.3024425Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{74cc75f9-3c81-4574-8af1-8f34d44ab51d}/main/DJI_0427.jpg</filename>
-            </picture>
-            <picture name="Photo 27" lastchanged="2026-01-19T18:40:28.7174946Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{74cc75f9-3c81-4574-8af1-8f34d44ab51d}/main/1-Birch-Close-Floorplan.jpg</filename>
-            </picture>
-          </pictures>
-          <floorplans>
-            <floorplan name="">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{74cc75f9-3c81-4574-8af1-8f34d44ab51d}/Floorplan_Floorplan1.jpg</filename>
-            </floorplan>
-          </floorplans>
-        </property>
         <property reference="CB003814" hash="D11DD44539AF4D967C379E1B8F8CC74D">
           <availableFrom />
           <instructedDate>23/09/2025 16:29:23</instructedDate>
@@ -6785,8 +6637,7 @@ What3Words:///torches.parkland.grinders&lt;/p&gt;</advert2>
             <room name="Outside">
               <measurement_text />
               <description>
-
-</description>
+              </description>
             </room>
             <room name="Front Garden">
               <measurement_text />
@@ -7046,12 +6897,12 @@ Externally to the front of the property there is off street parking for 3-4 cars
             <room name="Bedroom Three">
               <measurement_text>9' 0'' x 11' 0'' (2.74m x 3.35m)</measurement_text>
               <description>
- </description>
+              </description>
             </room>
             <room name="Bedroom Four">
               <measurement_text>7' 0'' x 7' 0'' (2.13m x 2.13m)</measurement_text>
               <description>
-</description>
+              </description>
             </room>
             <room name="Bathroom">
               <measurement_text>6' 0'' x 6' 0'' (1.83m x 1.83m)</measurement_text>
@@ -7096,8 +6947,7 @@ Externally to the front of the property there is off street parking for 3-4 cars
             <room name="Rear Garden">
               <measurement_text />
               <description>
-
-</description>
+              </description>
             </room>
           </rooms>
           <pictures>
@@ -14926,6 +14776,154 @@ The accommodation is spread over two floors and comprises five bright bedrooms, 
           <floorplans>
             <floorplan name="">
               <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{eb7ec25e-1723-4440-b78f-c06dff41684d}/Floorplan_Floorplan1.jpg</filename>
+            </floorplan>
+          </floorplans>
+        </property>
+        <property reference="CB003801" hash="FD0564D2A9D53989BD73072FFFD3988E">
+          <availableFrom />
+          <instructedDate>26/01/2026 16:16:27</instructedDate>
+          <department>Residential Sales</department>
+          <propertyofweek>NO</propertyofweek>
+          <price_text>£515,000</price_text>
+          <numeric_price>515000.0000</numeric_price>
+          <bedrooms>3</bedrooms>
+          <receptions>1</receptions>
+          <bathrooms>1</bathrooms>
+          <priority>On Market</priority>
+          <tenure>Freehold</tenure>
+          <advert_heading>Birch Court, Canterbury</advert_heading>
+          <main_advert>A well-presented three bedroom detached bungalow offering spacious and versatile accommodation in the sought-after village of Barham. 
+
+</main_advert>
+          <advert2>&lt;p style="text-align: justify;"&gt;Occupying a generous standalone plot, Birch Court is a well-presented three bedroom detached bungalow offering spacious and versatile accommodation in the sought-after village of Barham. Internally, the accommodation is arranged on one level and comprises three well-proportioned bedrooms, a comfortable living space filled with natural light, and a functional kitchen with scope for modernisation or personalisation, depending on requirements. There is also separate conservatory as well as bathroom and separate W/C. &lt;br /&gt;
+&lt;br /&gt;
+The property enjoys a wrap-around garden, providing a high degree of privacy and plenty of outdoor space for relaxation, entertaining, or gardening.The bungalow is set well back within its plot, creating an attractive approach and a peaceful, private setting. The property could be extended (STPP). A particular highlight is the large double garage, offering excellent storage or workshop potential, alongside additional off-road parking for several vehicles.
+&lt;br /&gt;
+&lt;br /&gt;
+The property is set in the centre of the Village of Barham with easy access to both the local shop and the popular Primary School.  Further amenities are available in the neighbouring village of Bridge whilst the Cathedral City of Canterbury is easily accessible and provides comprehensive shopping and leisure facilities plus and impressive range of schools, colleges and universities.  The High-Speed rail link from Canterbury West Station provides services to London St. Pancras with a journey time of approx. 55 mins. The outlying countryside provides lovely walking and cycling.&lt;/p&gt;</advert2>
+          <advert3>&lt;span style="text-align: justify;"&gt;Occupying a generous standalone plot, Birch Court is a well-presented three bedroom detached bungalow offering spacious and versatile accommodation in the sought-after village of Barham. I&lt;/span&gt;&lt;span style="text-align: justify;"&gt;nternally, the accommodation is arranged on one level and comprises three well-proportioned bedrooms, a comfortable living space filled with natural light, and a functional kitchen with scope for modernisation or personalisation, depending on requirements. There is also separate conservatory as well as bathroom and separate W/C. &lt;/span&gt;&lt;br style="text-align: justify;" /&gt;
+&lt;br style="text-align: justify;" /&gt;
+&lt;span style="text-align: justify;"&gt;The property enjoys a wrap-around garden, providing a high degree of privacy and plenty of outdoor space for relaxation, entertaining, or gardening.&lt;/span&gt;&lt;span style="text-align: justify;"&gt;The bungalow is set well back within its plot, creating an attractive approach and a peaceful, private setting. The property could be extended (STPP). A particular highlight is the large double garage, offering excellent storage or workshop potential, alongside additional off-road parking for several vehicles.&lt;/span&gt;</advert3>
+          <advert4>&lt;p style="text-align: justify;"&gt;&lt;span style="text-align: justify;"&gt;The property is set in the centre of the Village of Barham with easy access to both the local shop and the popular Primary School. Further amenities are available in the neighbouring village of Bridge whilst the Cathedral City of Canterbury is easily accessible and provides comprehensive shopping and leisure facilities plus and impressive range of schools, colleges and universities. The High-Speed rail link from Canterbury West Station provides services to London St. Pancras with a journey time of approx. 55 mins. The outlying countryside provides lovely walking and cycling.&lt;/span&gt;&lt;/p&gt;</advert4>
+          <advert5>All mains services are understood to be connected to the property. </advert5>
+          <advert6 />
+          <house_number>1</house_number>
+          <street>Birch Court</street>
+          <district>Barham</district>
+          <town>Canterbury</town>
+          <county>Kent</county>
+          <postcode>CT4 6QW</postcode>
+          <country>UK</country>
+          <area>Canterbury Villages South &amp; West</area>
+          <bullet1 />
+          <bullet2 />
+          <bullet3 />
+          <bullet4 />
+          <bullet5 />
+          <bullet6 />
+          <bullet7 />
+          <bullet8 />
+          <bullet9 />
+          <bullet10 />
+          <bullet11 />
+          <bullet12 />
+          <bullet13 />
+          <bullet14 />
+          <bullet15 />
+          <bullet16 />
+          <bullet17 />
+          <bullet18 />
+          <bullet19 />
+          <bullet20 />
+          <brochure>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{74CC75F9-3C81-4574-8AF1-8F34D44AB51D}/external.pdf</brochure>
+          <agency_region>KENT</agency_region>
+          <agency_district>CANTERBURY</agency_district>
+          <agency_location>Canterbury Villages South &amp; West</agency_location>
+          <web_link>https://www.properties.charlesbainbridge.com/index.php?option=com_eapow&amp;format=html&amp;task=property.getProp&amp;?pid=74CC75F9-3C81-4574-8AF1-8F34D44AB51D&amp;aid=C46B2F24-B9CD-417A-9879-F8C0E2A6C226</web_link>
+          <latitude>51.2025566101074</latitude>
+          <longitude>1.15606141090393</longitude>
+          <qrcode>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{74CC75F9-3C81-4574-8AF1-8F34D44AB51D}/qr.png</qrcode>
+          <epc />
+          <hips />
+          <filename3 />
+          <filename4 />
+          <filename5 />
+          <filename6 />
+          <virtual_tour_url />
+          <property_type>Bungalow</property_type>
+          <commercial_type />
+          <property_style>Detached</property_style>
+          <property_reference>12711325</property_reference>
+          <newHome>NO</newHome>
+          <noChain>NO</noChain>
+          <furnished>Unknown</furnished>
+          <portalFee />
+          <currency />
+          <featuredProperty>NO</featuredProperty>
+          <number1 name="" value="0" />
+          <number2 name="" value="0" />
+          <number3 name="" value="0" />
+          <number4 name="" value="0" />
+          <number5 name="" value="0" />
+          <number6 name="" value="0" />
+          <number7 name="" value="0" />
+          <number8 name="" value="0" />
+          <number9 name="" value="0" />
+          <number10 name="" value="0" />
+          <rooms />
+          <pictures>
+            <picture name="Photo 25" lastchanged="2026-01-19T18:39:31.3034243Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{74cc75f9-3c81-4574-8af1-8f34d44ab51d}/main/DSC_8493.jpg</filename>
+            </picture>
+            <picture name="Photo 17" lastchanged="2026-01-19T18:39:29.6159148Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{74cc75f9-3c81-4574-8af1-8f34d44ab51d}/main/DSC_8457.jpg</filename>
+            </picture>
+            <picture name="Photo 14" lastchanged="2026-01-19T18:39:29.0377989Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{74cc75f9-3c81-4574-8af1-8f34d44ab51d}/main/DSC_8436.jpg</filename>
+            </picture>
+            <picture name="Photo 12" lastchanged="2026-01-19T18:39:28.6315319Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{74cc75f9-3c81-4574-8af1-8f34d44ab51d}/main/DSC_8415.jpg</filename>
+            </picture>
+            <picture name="Photo 13" lastchanged="2026-01-19T18:39:28.83466Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{74cc75f9-3c81-4574-8af1-8f34d44ab51d}/main/DSC_8427.jpg</filename>
+            </picture>
+            <picture name="Photo 19" lastchanged="2026-01-19T18:39:30.0221699Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{74cc75f9-3c81-4574-8af1-8f34d44ab51d}/main/DSC_8464.jpg</filename>
+            </picture>
+            <picture name="Photo 5" lastchanged="2026-01-19T18:39:27.2252659Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{74cc75f9-3c81-4574-8af1-8f34d44ab51d}/main/DSC_8363.jpg</filename>
+            </picture>
+            <picture name="Photo 7" lastchanged="2026-01-19T18:39:27.6315326Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{74cc75f9-3c81-4574-8af1-8f34d44ab51d}/main/DSC_8384.jpg</filename>
+            </picture>
+            <picture name="Photo 3" lastchanged="2026-01-19T18:39:26.8033977Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{74cc75f9-3c81-4574-8af1-8f34d44ab51d}/main/DSC_8351.jpg</filename>
+            </picture>
+            <picture name="Photo 8" lastchanged="2026-01-19T18:39:27.8346512Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{74cc75f9-3c81-4574-8af1-8f34d44ab51d}/main/DSC_8388.jpg</filename>
+            </picture>
+            <picture name="Photo 10" lastchanged="2026-01-19T18:39:28.2252814Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{74cc75f9-3c81-4574-8af1-8f34d44ab51d}/main/DSC_8400.jpg</filename>
+            </picture>
+            <picture name="Photo 21" lastchanged="2026-01-19T18:39:30.4440603Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{74cc75f9-3c81-4574-8af1-8f34d44ab51d}/main/DSC_8483.jpg</filename>
+            </picture>
+            <picture name="Photo 22" lastchanged="2026-01-19T18:39:30.6471692Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{74cc75f9-3c81-4574-8af1-8f34d44ab51d}/main/DSC_8485.jpg</filename>
+            </picture>
+            <picture name="Photo 26" lastchanged="2026-01-19T18:39:31.5065557Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{74cc75f9-3c81-4574-8af1-8f34d44ab51d}/main/DSC_8501.jpg</filename>
+            </picture>
+            <picture name="Photo 1" lastchanged="2026-01-19T18:39:26.3024425Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{74cc75f9-3c81-4574-8af1-8f34d44ab51d}/main/DJI_0427.jpg</filename>
+            </picture>
+            <picture name="Photo 27" lastchanged="2026-01-19T18:40:28.7174946Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{74cc75f9-3c81-4574-8af1-8f34d44ab51d}/main/1-Birch-Close-Floorplan.jpg</filename>
+            </picture>
+          </pictures>
+          <floorplans>
+            <floorplan name="">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{74cc75f9-3c81-4574-8af1-8f34d44ab51d}/Floorplan_Floorplan1.jpg</filename>
             </floorplan>
           </floorplans>
         </property>
