@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<agency xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:noNamespaceSchemaLocation="http://www.expertagent.co.uk/xmlexport/ExpertAgentXMLSchema.xsd" name="CharlesBainbridge">
+﻿<?xml version="1.0" encoding="utf-8"?>
+<agency xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:noNamespaceSchemaLocation="http://www.expertagent.co.uk/xmlexport/ExpertAgentXMLSchema.xsd" name="CharlesBainbridge" branchName="Charles Bainbridge">
   <branches>
     <branch name="Charles Bainbridge">
       <properties>
@@ -6481,8 +6481,7 @@ What3Words:///torches.parkland.grinders&lt;/p&gt;</advert2>
             <room name="Outside">
               <measurement_text />
               <description>
-
-</description>
+              </description>
             </room>
             <room name="Front Garden">
               <measurement_text />
@@ -6742,12 +6741,12 @@ Externally to the front of the property there is off street parking for 3-4 cars
             <room name="Bedroom Three">
               <measurement_text>9' 0'' x 11' 0'' (2.74m x 3.35m)</measurement_text>
               <description>
- </description>
+              </description>
             </room>
             <room name="Bedroom Four">
               <measurement_text>7' 0'' x 7' 0'' (2.13m x 2.13m)</measurement_text>
               <description>
-</description>
+              </description>
             </room>
             <room name="Bathroom">
               <measurement_text>6' 0'' x 6' 0'' (1.83m x 1.83m)</measurement_text>
@@ -6792,8 +6791,7 @@ Externally to the front of the property there is off street parking for 3-4 cars
             <room name="Rear Garden">
               <measurement_text />
               <description>
-
-</description>
+              </description>
             </room>
           </rooms>
           <pictures>
@@ -10611,131 +10609,6 @@ Council tax band A. EPC Rating 80C. Security deposit to be held is &amp;pound;11
             </floorplan>
           </floorplans>
         </property>
-        <property reference="CB003920" hash="A51DDB37FF706DE5451F922A3C33FBD3">
-          <availableFrom />
-          <instructedDate>02/11/2025 10:57:34</instructedDate>
-          <department>Student Lettings</department>
-          <propertyofweek>NO</propertyofweek>
-          <price_text>Monthly Rental Of £1,400</price_text>
-          <numeric_price>1400.0000</numeric_price>
-          <bedrooms>2</bedrooms>
-          <receptions>1</receptions>
-          <bathrooms>2</bathrooms>
-          <priority>Available to Let</priority>
-          <tenure>Unknown</tenure>
-          <advert_heading>Station Road West, Canterbury</advert_heading>
-          <main_advert>** 2 DOUBLE BEDROOMS AND 2 BATHROOMS ** ** CENTRAL LOCATION ** AVAILABLE JULY 2026 ** Located in sought after Westgate &amp; St Dunstans area of the city and close to Main bus route, Canterbury West train station, local shops, and pubs and restaurants, and a short walk from the city, we have this lovely flat with 2 double bedrooms, both fully furnished to a high standard, and with separate en-suite shower rooms. Upstairs is a large open-plan living area with a kitchen that includes integrated appliances and views over the city. 
-
-Council tax band C. EPC Ratting 77C Security deposit to be held is &amp;pound;1615.38</main_advert>
-          <advert2>** 2 DOUBLE BEDROOMS AND 2 BATHROOMS ** ** CENTRAL LOCATION ** AVAILABLE JULY 2025 ** Located in sought after Westgate &amp; St Dunstans area of the city and close to Main bus route, Canterbury West train station, local shops, and pubs and restaurants, and a short walk from the city, we have this lovely flat with 2 double bedrooms, both fully furnished to a high standard, and with separate en-suite shower rooms. Upstairs is a large open-plan living area with a kitchen that includes integrated appliances, and views over the city. 
-The property comes styled with Beech doors, chrome fittings, video entry system, laminate flooring, and window blinds.
-Council tax band C. EPC Ratting 77C Security deposit to be held is &amp;pound; 1615.38</advert2>
-          <advert3 />
-          <advert4 />
-          <advert5 />
-          <advert6 />
-          <house_number>6 Matthew Court</house_number>
-          <street>Station Road West</street>
-          <district />
-          <town>Canterbury</town>
-          <county>Kent</county>
-          <postcode>CT2 8AN</postcode>
-          <country>UK</country>
-          <area>Canterbury Centre</area>
-          <bullet1>Available Summer 2026</bullet1>
-          <bullet2>Fantastic Central Location </bullet2>
-          <bullet3>Close To Canterbury West Train Station</bullet3>
-          <bullet4>2 Ensuites And 2 Double Bedrooms Top Floor Flat</bullet4>
-          <bullet5>Top Floor Flat</bullet5>
-          <bullet6>Open Plan Living Area</bullet6>
-          <bullet7 />
-          <bullet8 />
-          <bullet9 />
-          <bullet10 />
-          <bullet11 />
-          <bullet12 />
-          <bullet13 />
-          <bullet14 />
-          <bullet15 />
-          <bullet16 />
-          <bullet17 />
-          <bullet18 />
-          <bullet19 />
-          <bullet20 />
-          <brochure />
-          <agency_region>KENT</agency_region>
-          <agency_district>CANTERBURY</agency_district>
-          <agency_location>Canterbury Centre</agency_location>
-          <web_link>https://www.properties.charlesbainbridge.com/index.php?option=com_eapow&amp;format=html&amp;task=property.getProp&amp;?pid=16A6DF95-1AF5-4BB8-BFDE-A0E077713BEA&amp;aid=C46B2F24-B9CD-417A-9879-F8C0E2A6C226</web_link>
-          <latitude>51.2836952209473</latitude>
-          <longitude>1.07576704025269</longitude>
-          <qrcode>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{16A6DF95-1AF5-4BB8-BFDE-A0E077713BEA}/qr.png</qrcode>
-          <epc />
-          <hips />
-          <filename3 />
-          <filename4 />
-          <filename5 />
-          <filename6 />
-          <virtual_tour_url />
-          <property_type>Flat</property_type>
-          <commercial_type />
-          <property_style>Upper Floor Flat</property_style>
-          <property_reference>12781668</property_reference>
-          <newHome>NO</newHome>
-          <noChain>NO</noChain>
-          <furnished>Furnished</furnished>
-          <portalFee />
-          <currency />
-          <featuredProperty>NO</featuredProperty>
-          <number1 value="0" />
-          <number2 value="0" />
-          <number3 value="0" />
-          <number4 value="0" />
-          <number5 value="0" />
-          <number6 value="0" />
-          <number7 value="0" />
-          <number8 value="0" />
-          <number9 value="0" />
-          <number10 value="0" />
-          <rooms />
-          <pictures>
-            <picture name="Photo 1" lastchanged="2025-10-30T16:25:53.2949708Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{16a6df95-1af5-4bb8-bfde-a0e077713bea}/main/Front-External-(6).jpg</filename>
-            </picture>
-            <picture name="Photo 2" lastchanged="2025-10-30T16:25:54.4201558Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{16a6df95-1af5-4bb8-bfde-a0e077713bea}/main/Living-Room-1-(6).jpg</filename>
-            </picture>
-            <picture name="Photo 4" lastchanged="2025-10-30T16:25:56.045603Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{16a6df95-1af5-4bb8-bfde-a0e077713bea}/main/Kitchen-(6).jpg</filename>
-            </picture>
-            <picture name="Photo 3" lastchanged="2025-10-30T16:25:55.5611742Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{16a6df95-1af5-4bb8-bfde-a0e077713bea}/main/Living-Room-2-(3).jpg</filename>
-            </picture>
-            <picture name="Photo 9" lastchanged="2025-10-30T16:25:59.2965624Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{16a6df95-1af5-4bb8-bfde-a0e077713bea}/main/Ensuite-2-(1).jpg</filename>
-            </picture>
-            <picture name="Photo 5" lastchanged="2025-10-30T16:25:56.4992394Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{16a6df95-1af5-4bb8-bfde-a0e077713bea}/main/Bedroom-1-(7).jpg</filename>
-            </picture>
-            <picture name="Photo 6" lastchanged="2025-10-30T16:25:56.9368129Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{16a6df95-1af5-4bb8-bfde-a0e077713bea}/main/Bedroom-2a.jpg</filename>
-            </picture>
-            <picture name="Photo 7" lastchanged="2025-10-30T16:25:57.8431944Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{16a6df95-1af5-4bb8-bfde-a0e077713bea}/main/Bedroom-2b.jpg</filename>
-            </picture>
-            <picture name="Photo 8" lastchanged="2025-10-30T16:25:58.7808465Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{16a6df95-1af5-4bb8-bfde-a0e077713bea}/main/Ensuite-1-(1).jpg</filename>
-            </picture>
-            <picture name="Photo 10" lastchanged="2025-10-30T16:26:00.2036958Z">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{16a6df95-1af5-4bb8-bfde-a0e077713bea}/main/6MatthewCourt-High.jpg</filename>
-            </picture>
-          </pictures>
-          <floorplans>
-            <floorplan name="">
-              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{16a6df95-1af5-4bb8-bfde-a0e077713bea}/Floorplan_Floorplan1.jpg</filename>
-            </floorplan>
-          </floorplans>
-        </property>
         <property reference="CB003922" hash="3ED1D8086B15C343A860F1A7F09791AF">
           <availableFrom />
           <instructedDate>02/11/2025 11:26:15</instructedDate>
@@ -14469,6 +14342,131 @@ The accommodation is spread over two floors and comprises five bright bedrooms, 
           <floorplans>
             <floorplan name="">
               <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{eb7ec25e-1723-4440-b78f-c06dff41684d}/Floorplan_Floorplan1.jpg</filename>
+            </floorplan>
+          </floorplans>
+        </property>
+        <property reference="CB003920" hash="9ADDC0166A8B86B0AFC7C9E66F1D69E7">
+          <availableFrom />
+          <instructedDate>02/11/2025 10:57:34</instructedDate>
+          <department>Student Lettings</department>
+          <propertyofweek>NO</propertyofweek>
+          <price_text>Monthly Rental Of £1,375</price_text>
+          <numeric_price>1375.0000</numeric_price>
+          <bedrooms>2</bedrooms>
+          <receptions>1</receptions>
+          <bathrooms>2</bathrooms>
+          <priority>Available to Let</priority>
+          <tenure>Unknown</tenure>
+          <advert_heading>Station Road West, Canterbury</advert_heading>
+          <main_advert>** 2 DOUBLE BEDROOMS AND 2 BATHROOMS ** ** CENTRAL LOCATION ** AVAILABLE JULY 2026 ** Located in sought after Westgate &amp; St Dunstans area of the city and close to Main bus route, Canterbury West train station, local shops, and pubs and restaurants, and a short walk from the city, we have this lovely flat with 2 double bedrooms, both fully furnished to a high standard, and with separate en-suite shower rooms. Upstairs is a large open-plan living area with a kitchen that includes integrated appliances and views over the city. 
+
+Council tax band C. EPC Ratting 77C Security deposit to be held is &amp;pound;1586.53</main_advert>
+          <advert2>** 2 DOUBLE BEDROOMS AND 2 BATHROOMS ** ** CENTRAL LOCATION ** AVAILABLE JULY 2026 ** Located in sought after Westgate &amp; St Dunstans area of the city and close to Main bus route, Canterbury West train station, local shops, and pubs and restaurants, and a short walk from the city, we have this lovely flat with 2 double bedrooms, both fully furnished to a high standard, and with separate en-suite shower rooms. Upstairs is a large open-plan living area with a kitchen that includes integrated appliances and views over the city. 
+
+Council tax band C. EPC Ratting 77C Security deposit to be held is &amp;pound;1586.53</advert2>
+          <advert3 />
+          <advert4 />
+          <advert5 />
+          <advert6 />
+          <house_number>6 Matthew Court</house_number>
+          <street>Station Road West</street>
+          <district />
+          <town>Canterbury</town>
+          <county>Kent</county>
+          <postcode>CT2 8AN</postcode>
+          <country>UK</country>
+          <area>Canterbury Centre</area>
+          <bullet1>Available Summer 2026</bullet1>
+          <bullet2>Fantastic Central Location </bullet2>
+          <bullet3>Close To Canterbury West Train Station</bullet3>
+          <bullet4>2 Ensuites And 2 Double Bedrooms Top Floor Flat</bullet4>
+          <bullet5>Top Floor Flat</bullet5>
+          <bullet6>Open Plan Living Area</bullet6>
+          <bullet7 />
+          <bullet8 />
+          <bullet9 />
+          <bullet10 />
+          <bullet11 />
+          <bullet12 />
+          <bullet13 />
+          <bullet14 />
+          <bullet15 />
+          <bullet16 />
+          <bullet17 />
+          <bullet18 />
+          <bullet19 />
+          <bullet20 />
+          <brochure />
+          <agency_region>KENT</agency_region>
+          <agency_district>CANTERBURY</agency_district>
+          <agency_location>Canterbury Centre</agency_location>
+          <web_link>https://www.properties.charlesbainbridge.com/index.php?option=com_eapow&amp;format=html&amp;task=property.getProp&amp;?pid=16A6DF95-1AF5-4BB8-BFDE-A0E077713BEA&amp;aid=C46B2F24-B9CD-417A-9879-F8C0E2A6C226</web_link>
+          <latitude>51.2836952209473</latitude>
+          <longitude>1.07576704025269</longitude>
+          <qrcode>http://med01.expertagent.co.uk/in4glestates/{C46B2F24-B9CD-417A-9879-F8C0E2A6C226}/{16A6DF95-1AF5-4BB8-BFDE-A0E077713BEA}/qr.png</qrcode>
+          <epc />
+          <hips />
+          <filename3 />
+          <filename4 />
+          <filename5 />
+          <filename6 />
+          <virtual_tour_url />
+          <property_type>Flat</property_type>
+          <commercial_type />
+          <property_style>Upper Floor Flat</property_style>
+          <property_reference>12781668</property_reference>
+          <newHome>NO</newHome>
+          <noChain>NO</noChain>
+          <furnished>Furnished</furnished>
+          <portalFee />
+          <currency />
+          <featuredProperty>NO</featuredProperty>
+          <number1 value="0" />
+          <number2 value="0" />
+          <number3 value="0" />
+          <number4 value="0" />
+          <number5 value="0" />
+          <number6 value="0" />
+          <number7 value="0" />
+          <number8 value="0" />
+          <number9 value="0" />
+          <number10 value="0" />
+          <rooms />
+          <pictures>
+            <picture name="Photo 1" lastchanged="2025-10-30T16:25:53.2949708Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{16a6df95-1af5-4bb8-bfde-a0e077713bea}/main/Front-External-(6).jpg</filename>
+            </picture>
+            <picture name="Photo 2" lastchanged="2025-10-30T16:25:54.4201558Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{16a6df95-1af5-4bb8-bfde-a0e077713bea}/main/Living-Room-1-(6).jpg</filename>
+            </picture>
+            <picture name="Photo 4" lastchanged="2025-10-30T16:25:56.045603Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{16a6df95-1af5-4bb8-bfde-a0e077713bea}/main/Kitchen-(6).jpg</filename>
+            </picture>
+            <picture name="Photo 3" lastchanged="2025-10-30T16:25:55.5611742Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{16a6df95-1af5-4bb8-bfde-a0e077713bea}/main/Living-Room-2-(3).jpg</filename>
+            </picture>
+            <picture name="Photo 9" lastchanged="2025-10-30T16:25:59.2965624Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{16a6df95-1af5-4bb8-bfde-a0e077713bea}/main/Ensuite-2-(1).jpg</filename>
+            </picture>
+            <picture name="Photo 5" lastchanged="2025-10-30T16:25:56.4992394Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{16a6df95-1af5-4bb8-bfde-a0e077713bea}/main/Bedroom-1-(7).jpg</filename>
+            </picture>
+            <picture name="Photo 6" lastchanged="2025-10-30T16:25:56.9368129Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{16a6df95-1af5-4bb8-bfde-a0e077713bea}/main/Bedroom-2a.jpg</filename>
+            </picture>
+            <picture name="Photo 7" lastchanged="2025-10-30T16:25:57.8431944Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{16a6df95-1af5-4bb8-bfde-a0e077713bea}/main/Bedroom-2b.jpg</filename>
+            </picture>
+            <picture name="Photo 8" lastchanged="2025-10-30T16:25:58.7808465Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{16a6df95-1af5-4bb8-bfde-a0e077713bea}/main/Ensuite-1-(1).jpg</filename>
+            </picture>
+            <picture name="Photo 10" lastchanged="2025-10-30T16:26:00.2036958Z">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{16a6df95-1af5-4bb8-bfde-a0e077713bea}/main/6MatthewCourt-High.jpg</filename>
+            </picture>
+          </pictures>
+          <floorplans>
+            <floorplan name="">
+              <filename>http://med05.expertagent.co.uk/in4glestates/{c46b2f24-b9cd-417a-9879-f8c0e2a6c226}/{16a6df95-1af5-4bb8-bfde-a0e077713bea}/Floorplan_Floorplan1.jpg</filename>
             </floorplan>
           </floorplans>
         </property>
